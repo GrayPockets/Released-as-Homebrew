@@ -2,7 +2,8 @@
   {
     "id": "_meta",
     "author": "GrayPockets",
-    "name": "Released"
+    "name": "Released",
+    "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
   },
   "steward",
   "knight",

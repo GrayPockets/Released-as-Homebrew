@@ -378,6 +378,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.1.1
+* Almanac link
 ### 0.1.0
 * Documentation
 * Script templates
