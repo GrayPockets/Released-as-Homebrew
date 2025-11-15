@@ -33,7 +33,7 @@
       ],
       "team": "townsfolk",
       "firstNight": 64,
-      "firstNightReminder": "Point to the non-Demon players marked *KNOW*.",
+      "firstNightReminder": "Point to the two non-Demon players marked *KNOW*.",
       "reminders": [
           "Know",
           "Know"

@@ -376,6 +376,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.3.1
+* Knight Correction
 ### 0.3.0
 * Knight
 ### 0.2.0
