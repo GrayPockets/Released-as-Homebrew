@@ -248,7 +248,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Washerwoman
 * Librarian
 * Investigator
-* **<span style="#3297F4;">[Chef](https://wiki.bloodontheclocktower.com/Chef)</span>**
+* 54 - **<span style="#3297F4;">[Chef](https://wiki.bloodontheclocktower.com/Chef)</span>**
 * Empath
 * Fortune Teller
 * Butler
@@ -256,8 +256,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Clockmaker
 * Dreamer
 * Seamstress
-* **<span style="#3297F4;">[Steward](https://wiki.bloodontheclocktower.com/Steward)</span>**
-* **<span style="#3297F4;">[Knight](https://wiki.bloodontheclocktower.com/Knight)</span>**
+* 62 - **<span style="#3297F4;">[Steward](https://wiki.bloodontheclocktower.com/Steward)</span>**
+* 63 - **<span style="#3297F4;">[Knight](https://wiki.bloodontheclocktower.com/Knight)</span>**
 * Noble
 * Balloonist
 * Shugenja
@@ -375,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.5.1
+* Night order correction
 ### 0.5.0
 * Chef
 ### 0.4.0

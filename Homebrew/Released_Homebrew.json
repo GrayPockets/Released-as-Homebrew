@@ -14,7 +14,7 @@
           "https://botc.app/assets/steward_e-BJUqXXmp.webp"
       ],
       "team": "townsfolk",
-      "firstNight": 63,
+      "firstNight": 62,
       "firstNightReminder": "Point to the good player marked *KNOW*.",
       "reminders": [
           "Know"
@@ -32,7 +32,7 @@
           "https://botc.app/assets/knight_e-DErJZl0C.webp"
       ],
       "team": "townsfolk",
-      "firstNight": 64,
+      "firstNight": 63,
       "firstNightReminder": "Point to the two non-Demon players marked *KNOW*.",
       "reminders": [
           "Know",
@@ -51,7 +51,7 @@
           "https://botc.app/assets/chef_e-B3RO5GXN.webp"
       ],
       "team": "townsfolk",
-      "firstNight": 55,
+      "firstNight": 54,
       "firstNightReminder": "Give a finger signal.",
       "setup": false,
       "ability": "You start knowing how many pairs of evil players there are.",
