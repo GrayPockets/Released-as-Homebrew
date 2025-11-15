@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","barista","minioninfo","demoninfo","philosopher","snakecharmer","eviltwin","witch","cerenovus","clockmaker","dreamer","seamstress","mathematician","dawn"],
-        "otherNight": ["dusk","barista","bonecollector","harlot","philosopher","snakecharmer","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer","eviltwin","witch","cerenovus","clockmaker","dreamer","seamstress","mathematician","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician","dawn"]
     },
     "clockmaker",
     "dreamer",

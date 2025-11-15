@@ -374,7 +374,13 @@ The following is a full list of night order. This is so night order numbers can 
 * Dawn
 * Leviathan
 
+# Open Online app bugs that interact with these examples
+* Off-Script Travellers don't appear in the night order: https://discord.com/channels/1011236067560669234/1439394043674234944
+* Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
+
 ## Changelog
+### 0.6.2
+* Traveller night order in base 3
 ### 0.6.1
 * Chef in Trouble Brewing
 ### 0.6.0
