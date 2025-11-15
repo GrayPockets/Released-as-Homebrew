@@ -192,7 +192,7 @@ This will attempt to fully match the released versions of characters without any
 * Revolutionary
 
 ## Originals
-A copy of the full character list and released scripts is included for reference.
+A copy of the full character list and released scripts is included for reference; files downloaded directly from the online app are included as well.
 
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
@@ -376,6 +376,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.4.0
+* Downloaded online app files
 ### 0.3.1
 * Knight Correction
 ### 0.3.0
