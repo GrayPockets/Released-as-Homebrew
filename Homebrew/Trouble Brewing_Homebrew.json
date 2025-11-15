@@ -6,13 +6,27 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator","chef","empath","fortuneteller","butler","dawn"],
+        "firstNight": ["dusk","bureaucrat","thief","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator","chef_tb","empath","fortuneteller","butler","dawn"],
         "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath","fortuneteller","butler","dawn"]
     },
     "washerwoman",
     "librarian",    
     "investigator",
-    "chef",    
+  {
+      "id": "chef_tb",
+      "name": "Chef",
+      "edition": "tb",
+      "image": [
+          "https://botc.app/assets/chef_g-C3a3cGeP.webp",
+          "https://botc.app/assets/chef_e-B3RO5GXN.webp"
+      ],
+      "team": "townsfolk",
+      "firstNight": 54,
+      "firstNightReminder": "Give a finger signal.",
+      "setup": false,
+      "ability": "You start knowing how many pairs of evil players there are.",
+      "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+  },
     "empath",
     "fortuneteller",
     "undertaker",

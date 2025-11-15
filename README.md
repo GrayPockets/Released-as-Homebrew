@@ -375,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.6.1
+* Chef in Trouble Brewing
 ### 0.6.0
 * Additional online app files
 ### 0.5.1
