@@ -375,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.6.0
+* Additional online app files
 ### 0.5.1
 * Night order correction
 ### 0.5.0
