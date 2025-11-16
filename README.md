@@ -375,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.23.1
+* Move Grognard folder
 ### 0.23.0
 * Gardener
 ### 0.22.1
