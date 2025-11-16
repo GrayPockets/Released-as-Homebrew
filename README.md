@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Preacher
 * Chambermaid
 * Village Idiot
 * Snake Charmer
@@ -210,7 +209,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 25 - $${\color{deepskyblue}Sailor}$$
 * Marionette
 * Engineer
-* Preacher
+* 28 - $${\color{deepskyblue}Preacher}$$
 * Lil' Monsta
 * Lleech
 * Xaan
@@ -278,7 +277,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Poppy Grower
 * 12 - $${\color{deepskyblue}Sailor}$$
 * Engineer
-* Preacher
+* 14 - $${\color{deepskyblue}Preacher}$$
 * Xaan
 * Poisoner
 * Courtier
@@ -373,6 +372,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.26.0
+* Preacher
 ### 0.25.0
 * General
 ### 0.24.1

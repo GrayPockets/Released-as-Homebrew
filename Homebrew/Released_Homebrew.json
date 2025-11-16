@@ -325,7 +325,28 @@
         "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
         "flavor": "I don’t have time for quotes."
     },
-    "preacher",
+    {
+        "id": "preacher_rah",
+        "name": "Preacher",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/preacher_g-CpPb8fQI.webp",
+            "https://botc.app/assets/preacher_e-CjXiLHle.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 28,
+        "firstNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token.",
+        "otherNight": 14,
+        "otherNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token.",
+        "reminders": [
+            "No Ability",
+            "No Ability",
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.",
+        "flavor": "It is better to be rich and healthy than poor and sick."
+    },
     "chambermaid",
     "villageidiot",
     "snakecharmer",
