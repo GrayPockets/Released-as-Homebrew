@@ -89,7 +89,6 @@ This will attempt to fully match the released versions of characters without any
 * Goon
 * Ogre
 * Lunatic
-* Drunk
 * Tinker
 * Recluse
 * Golem
@@ -378,8 +377,11 @@ The following is a full list of night order. This is so night order numbers can 
 * Off-Script Travellers don't appear in the night order: https://discord.com/channels/1011236067560669234/1439394043674234944
 * Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
 * Cacklejack is not implemented.
+* JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.9.0
+* Drunk
 ### 0.8.3
 * Cacklejack id
 ### 0.8.2

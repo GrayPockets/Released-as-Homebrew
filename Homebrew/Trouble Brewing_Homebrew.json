@@ -37,7 +37,32 @@
     "soldier",    
     "mayor",
     "butler",
-    "drunk",
+  {
+      "id": "drunk_tb",
+      "name": "Drunk",
+      "edition": "tb",
+      "image": [
+          "https://botc.app/assets/drunk_g--QNmv0ZY.webp",
+          "https://botc.app/assets/drunk_e-bRjLB9FX.webp"
+      ],
+      "team": "outsider",
+      "remindersGlobal": [
+          "Is The Drunk"
+      ],
+      "setup": true,
+      "ability": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.",
+      "flavor": "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer.",
+      "special": [
+          {
+              "type": "selection",
+              "name": "bag-disabled"
+          },
+          {
+              "type": "reveal",
+              "name": "replace-character"
+          }
+      ]
+  },
     "recluse",
     "saint",
     "poisoner",
