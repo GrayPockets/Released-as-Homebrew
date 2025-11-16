@@ -270,7 +270,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Toymaker
 * Wraith
 * Barista
-* 5 - $${\color{fuchsia}Cacklejack}$$
+* 5.5 - $${\color{fuchsia}Cacklejack}$$
 * Bureaucrat
 * Thief
 * Harlot
@@ -373,6 +373,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.19.1
+* Cacklejack night order correction
 ### 0.19.0
 * Empath
 ### 0.18.0

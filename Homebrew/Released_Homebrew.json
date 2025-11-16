@@ -416,7 +416,7 @@
             "https://raw.githubusercontent.com/tomozbot/botc-icons/refs/heads/main/PNG/Alternate/cacklejack_e.png"
         ],
         "team": "traveller",
-        "otherNight": 5,
+        "otherNight": 5.5,
         "otherNightReminder": "Wake any player without *NOT ME*. Show the *YOU ARE* token & their new character token.",
         "reminders": [
             "Not Me"
