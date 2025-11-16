@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper","courtier","gambler","devilsadvocate","lunatic","exorcist","zombuul","pukka","shabaloth","po","assassin","godfather","professor","gossip","tinker","moonchild","grandmother_bmr","chambermaid","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper","courtier","gambler","devilsadvocate","lunatic","exorcist","zombuul","pukka","shabaloth","po","assassin","godfather","professor","gossip","tinker","moonchild","grandmother_bmr","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -49,7 +49,23 @@
         "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die.",
         "flavor": "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
     },
-    "chambermaid",
+    {
+        "id": "chambermaid_bmr",
+        "name": "Chambermaid",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/chambermaid_g-DAtPnmSz.webp",
+            "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 75,
+        "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+        "otherNight": 94,
+        "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+        "setup": false,
+        "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
+        "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+    },
     "exorcist",
     "innkeeper",
     "gambler",

@@ -347,7 +347,23 @@
         "ability": "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.",
         "flavor": "It is better to be rich and healthy than poor and sick."
     },
-    "chambermaid",
+    {
+        "id": "chambermaid_rah",
+        "name": "Chambermaid",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/chambermaid_g-DAtPnmSz.webp",
+            "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 75,
+        "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+        "otherNight": 94,
+        "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
+        "setup": false,
+        "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
+        "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
+    },
     "villageidiot",
     "snakecharmer",
     "mathematician",
