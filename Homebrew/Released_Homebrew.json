@@ -234,7 +234,23 @@
             }
         ]
     },
-    "empath",
+    {
+        "id": "empath_rah",
+        "name": "Empath",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/empath_g-vVEkU0cf.webp",
+            "https://botc.app/assets/empath_e-CWeYvCJ9.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 55,
+        "firstNightReminder": "Give a finger signal.",
+        "otherNight": 75,
+        "otherNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "Each night, you learn how many of your 2 alive neighbors are evil.",
+        "flavor": "My skin prickles. Something is not right here. I can feel it."
+    },
     "highpriestess",
     "sailor",
     "balloonist",

@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Empath
 * High Priestess
 * Sailor
 * Balloonist
@@ -239,7 +238,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 52 - $${\color{deepskyblue}Librarian}$$
 * 53 - $${\color{deepskyblue}Investigator}$$
 * 54 - $${\color{deepskyblue}Chef}$$
-* Empath
+* 55 - $${\color{deepskyblue}Empath}$$
 * Fortune Teller
 * Butler
 * 58 - $${\color{deepskyblue}Grandmother}$$
@@ -341,7 +340,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 72 - $${\color{deepskyblue}Grandmother}$$
 * Tor
 * Ravenkeeper
-* Empath
+* 75 - $${\color{deepskyblue}Empath}$$
 * Fortune Teller
 * Undertaker
 * Dreamer
@@ -374,6 +373,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.19.0
+* Empath
 ### 0.18.0
 * Buddhist
 ### 0.17.0
