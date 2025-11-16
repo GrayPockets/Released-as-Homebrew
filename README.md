@@ -162,7 +162,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * Voudon
 * Gardener
 * Tor
-* Bootlegger
 * Storm Catcher
 * Big Wig
 * Duchess
@@ -180,6 +179,9 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 
 ## Originals
 A copy of the full character list and released scripts is included for reference; files downloaded directly from the online app are included as well.
+
+## Old Versions
+A copy of older versions of characters are included for Grognards.
 
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
@@ -371,8 +373,11 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+    * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.22.0
+* Bootlegger
 ### 0.21.0
 * Sailor
 ### 0.20.1

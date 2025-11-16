@@ -1,0 +1,24 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Grognard as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    "villageidiot",
+    "mutant",
+    "goblin",
+    "leviathan",
+    {
+        "id": "bootlegger_gah",
+        "name": "Bootlegger",
+        "edition": "fabled",
+        "image": [
+            "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "This script has homebrew characters or rules.",
+        "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+    }
+]

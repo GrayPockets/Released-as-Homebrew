@@ -474,7 +474,18 @@
     "voudon",
     "gardener",
     "tor",
-    "bootlegger",
+    {
+        "id": "bootlegger_rah",
+        "name": "Bootlegger",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/bootlegger-C4a2M4Iu.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "This script has homebrew characters or rules.",
+        "flavor": "When I was born, I was named ‘Homebrewy McHomebrewface’, like my father before me. A respectable name, for a dignified age."
+    },
     "stormcatcher",
     "bigwig",
     "duchess",
