@@ -380,6 +380,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 
 ## Changelog
+### 0.8.3
+* Cacklejack id
 ### 0.8.2
 * Github supported Markdown color
 ### 0.8.1
