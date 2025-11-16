@@ -251,7 +251,23 @@
         "ability": "Each night, you learn how many of your 2 alive neighbors are evil.",
         "flavor": "My skin prickles. Something is not right here. I can feel it."
     },
-    "highpriestess",
+    {
+        "id": "highpriestess_rah",
+        "name": "High Priestess",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/highpriestess_g-D0i0Myk4.webp",
+            "https://botc.app/assets/highpriestess_e-Cl1icXV6.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 73,
+        "firstNightReminder": "Point to a player.",
+        "otherNight": 92,
+        "otherNightReminder": "Point to a player.",
+        "setup": false,
+        "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+        "flavor": "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
+    },
     "sailor",
     "balloonist",
     "general",

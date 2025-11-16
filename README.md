@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* High Priestess
 * Sailor
 * Balloonist
 * General
@@ -256,7 +255,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Cult Leader
 * Spy
 * Ogre
-* High Priestess
+* 73 - $${\color{deepskyblue}High Priestess}$$
 * General
 * Chambermaid
 * Mathematician
@@ -357,7 +356,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Cult Leader
 * Butler
 * Spy
-* High Priestess
+* 92 - $${\color{deepskyblue}High Priestess}$$
 * General
 * Chambermaid
 * Mathematician
@@ -373,6 +372,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.20.0
+* High Priestess
 ### 0.19.1
 * Cacklejack night order correction
 ### 0.19.0
