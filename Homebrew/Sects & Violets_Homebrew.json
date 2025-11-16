@@ -6,10 +6,24 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer","eviltwin","witch","cerenovus","clockmaker","dreamer","seamstress","mathematician","dawn"],
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer","eviltwin","witch","cerenovus","clockmaker_snv","dreamer","seamstress","mathematician","dawn"],
         "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician","dawn"]
     },
-    "clockmaker",
+    {
+        "id": "clockmaker_snv",
+        "name": "Clockmaker",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/clockmaker_g-z-gzmkzc.webp",
+            "https://botc.app/assets/clockmaker_e-De0CuxuO.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 59,
+        "firstNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
+        "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+    },
     "dreamer",
     "snakecharmer",
     "mathematician",

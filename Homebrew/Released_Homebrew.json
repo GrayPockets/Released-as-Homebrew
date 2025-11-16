@@ -115,7 +115,21 @@
         "ability": "You start knowing that 1 of 2 players is a particular Townsfolk.",
         "flavor": "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
     },
-    "clockmaker",
+    {
+        "id": "clockmaker_rah",
+        "name": "Clockmaker",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/clockmaker_g-z-gzmkzc.webp",
+            "https://botc.app/assets/clockmaker_e-De0CuxuO.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 59,
+        "firstNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
+        "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+    },
     "grandmother",
     "librarian",
     "shugenja",
