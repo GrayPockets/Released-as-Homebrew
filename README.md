@@ -178,7 +178,7 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * Revolutionary
 
 ## Originals
-A copy of the full character list and released scripts is included for reference; files downloaded directly from the online app are included as well.
+A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
 ## Old Versions
 A copy of older versions of characters are included for Grognards.
@@ -376,6 +376,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.22.1
+* Documentation grammer correction
 ### 0.22.0
 * Bootlegger
 ### 0.21.0
