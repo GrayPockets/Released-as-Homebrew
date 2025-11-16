@@ -5,6 +5,8 @@ Recreating every released Blood on the Clocktower character in homebrew format. 
 
 This will attempt to fully match the released versions of characters without any modifications. Note that a homebrew character cannot use the exact id of a released character without being overridden within the app, so "_rah" is appended to each character id.
 
+Jinxes also use the "_rah" id. It is assumed these recreations will be used individually on a script. If a recreated homebrew character has a jinx with another recreated homebrew chararacter, the "_rah" will need to be appended within the jinx.
+
 ## BOTC Online App Compatibility
 **3.47.4 - No more hidden votes**
 
@@ -372,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.20.1
+* Jinx documentation
 ### 0.20.0
 * High Priestess
 ### 0.19.1
