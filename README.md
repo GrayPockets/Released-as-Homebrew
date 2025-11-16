@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Bounty Hunter
 * Empath
 * High Priestess
 * Sailor
@@ -253,7 +252,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Balloonist
 * 66 - $${\color{deepskyblue}Shugenja}$$
 * Village Idiot
-* Bounty Hunter
+* 68 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
 * Cult Leader
 * Spy
@@ -354,7 +353,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Balloonist
 * Village Idiot
 * King
-* Bounty Hunter
+* 87 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
 * Cult Leader
 * Butler
@@ -375,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.17.0
+* Bounty Hunter
 ### 0.16.0
 * Pixie
 ### 0.15.0
