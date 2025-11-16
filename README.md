@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Washerwoman
 * Clockmaker
 * Grandmother
 * Librarian
@@ -242,7 +241,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Huntsman
 * Damsel
 * Amnesiac
-* Washerwoman
+* 51 - $${\color{deepskyblue}Washerwoman}$$
 * Librarian
 * 53 - $${\color{deepskyblue}Investigator}$$
 * 54 - $${\color{deepskyblue}Chef}$$
@@ -379,6 +378,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.11.0
+* Washerwoman
 ### 0.10.1
 * Chef night order documentation
 ### 0.10.0

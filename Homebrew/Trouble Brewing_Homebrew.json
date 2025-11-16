@@ -6,10 +6,28 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator_tb","chef_tb","empath","fortuneteller","butler","dawn"],
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian","investigator_tb","chef_tb","empath","fortuneteller","butler","dawn"],
         "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath","fortuneteller","butler","dawn"]
     },
-    "washerwoman",
+    {
+        "id": "washerwoman_tb",
+        "name": "Washerwoman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/washerwoman_g-CVnYjPdR.webp",
+            "https://botc.app/assets/washerwoman_e-TC3PgT2N.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 51,
+        "firstNightReminder": "Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.",
+        "reminders": [
+            "Townsfolk",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Townsfolk.",
+        "flavor": "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+    },
     "librarian",
     {
         "id": "investigator_tb",
