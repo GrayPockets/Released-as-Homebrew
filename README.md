@@ -374,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.24.1
+* Grognard character names
 ### 0.24.0
 * Balloonist
 ### 0.23.3

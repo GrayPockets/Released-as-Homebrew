@@ -8,7 +8,7 @@
     "villageidiot",
     {
         "id": "bountyhunter_gah",
-        "name": "Bounty Hunter",
+        "name": "Bounty Hunter (Old Kazali Jinx)",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/bountyhunter_g-BCEfwrWL.webp",
@@ -62,7 +62,7 @@
     },
     {
         "id": "gardener_gah",
-        "name": "Gardener",
+        "name": "Gardener (Fabled)",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/5/5c/20251103095407%21Icon_gardener.png"
@@ -81,7 +81,7 @@
     },
     {
         "id": "bootlegger_gah",
-        "name": "Bootlegger",
+        "name": "Bootlegger (Fabled)",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
