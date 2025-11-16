@@ -281,6 +281,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Wraith
 * Barista
 * Cacklejack
+* 5 - **<span style="#cc04ff;">[Cacklejack](https://wiki.bloodontheclocktower.com/Cacklejack)</span>**
 * Bureaucrat
 * Thief
 * Harlot
@@ -380,6 +381,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 
 ## Changelog
+### 0.8.1
+* Cacklejack night order documentation
 ### 0.8.0
 * Cacklejack
 ### 0.7.0
