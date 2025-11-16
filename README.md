@@ -247,7 +247,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Washerwoman
 * Librarian
 * Investigator
-* 54 - **<span style="#3297F4;">[Chef](https://wiki.bloodontheclocktower.com/Chef)</span>**
+* 44 - $${\color{deepskyblue}Chef}$$
 * Empath
 * Fortune Teller
 * Butler
@@ -255,9 +255,9 @@ The following is a full list of night order. This is so night order numbers can 
 * Clockmaker
 * Dreamer
 * Seamstress
-* 62 - **<span style="#3297F4;">[Steward](https://wiki.bloodontheclocktower.com/Steward)</span>**
-* 63 - **<span style="#3297F4;">[Knight](https://wiki.bloodontheclocktower.com/Knight)</span>**
-* 64 - **<span style="#3297F4;">[Noble](https://wiki.bloodontheclocktower.com/Noble)</span>**
+* 62 - $${\color{deepskyblue}Steward}$$
+* 63 - $${\color{deepskyblue}Knight}$$
+* 64 - $${\color{deepskyblue}Noble}$$
 * Balloonist
 * Shugenja
 * Village Idiot
@@ -280,8 +280,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Toymaker
 * Wraith
 * Barista
-* Cacklejack
-* 5 - **<span style="#cc04ff;">[Cacklejack](https://wiki.bloodontheclocktower.com/Cacklejack)</span>**
+* 5 - $${\color{fuchsia}Cacklejack}$$
 * Bureaucrat
 * Thief
 * Harlot
@@ -381,6 +380,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 
 ## Changelog
+### 0.8.2
+* Github supported Markdown color
 ### 0.8.1
 * Cacklejack night order documentation
 ### 0.8.0
