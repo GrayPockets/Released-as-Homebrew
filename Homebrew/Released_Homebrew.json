@@ -308,7 +308,23 @@
         "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
         "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
     },
-    "general",
+    {
+        "id": "general_rah",
+        "name": "General",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/general_g-BqvScIJc.webp",
+            "https://botc.app/assets/general_e-C4rC0GAq.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 74,
+        "firstNightReminder": "Give a thumb signal.",
+        "otherNight": 93,
+        "otherNightReminder": "Give a thumb signal.",
+        "setup": false,
+        "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
+        "flavor": "I don’t have time for quotes."
+    },
     "preacher",
     "chambermaid",
     "villageidiot",

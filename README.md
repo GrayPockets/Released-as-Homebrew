@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* General
 * Preacher
 * Chambermaid
 * Village Idiot
@@ -257,7 +256,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Spy
 * Ogre
 * 73 - $${\color{deepskyblue}High Priestess}$$
-* General
+* 74 - $${\color{deepskyblue}General}$$
 * Chambermaid
 * Mathematician
 * Dawn
@@ -358,7 +357,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Butler
 * Spy
 * 92 - $${\color{deepskyblue}High Priestess}$$
-* General
+* 93 - $${\color{deepskyblue}General}$$
 * Chambermaid
 * Mathematician
 * Dawn
@@ -374,6 +373,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.25.0
+* General
 ### 0.24.1
 * Grognard character names
 ### 0.24.0
