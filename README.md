@@ -247,7 +247,6 @@ The following is a full list of night order. This is so night order numbers can 
 * Fortune Teller
 * Butler
 * 58 - $${\color{deepskyblue}Grandmother}$$
-* Clockmaker
 * 59 - $${\color{deepskyblue}Clockmaker}$$
 * Dreamer
 * Seamstress
@@ -377,6 +376,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.13.1
+* Clockmaker night order documentation
 ### 0.13.0
 * Grandmother
 ### 0.12.0
