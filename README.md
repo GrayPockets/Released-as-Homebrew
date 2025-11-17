@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Cult Leader
 * Flowergirl
 * Town Crier
 * Oracle
@@ -244,7 +243,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 67 - $${\color{deepskyblue}Village Idiot}$$
 * 68 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
-* Cult Leader
+* 70 - $${\color{deepskyblue}Cult Leader}$$
 * Spy
 * Ogre
 * 73 - $${\color{deepskyblue}High Priestess}$$
@@ -345,7 +344,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 86 - $${\color{deepskyblue}King}$$
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
-* Cult Leader
+* 89 - $${\color{deepskyblue}Cult Leader}$$
 * Butler
 * Spy
 * 92 - $${\color{deepskyblue}High Priestess}$$
@@ -366,6 +365,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.34.0
+* Cult Leader
 ### 0.33.1
 * Online app bug documentation
 ### 0.33.0

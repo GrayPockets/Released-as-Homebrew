@@ -506,7 +506,23 @@
         "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
         "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
     },
-    "cultleader",
+    {
+        "id": "cultleader_rah",
+        "name": "Cult Leader",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/cultleader_g-BYq1_U3R.webp",
+            "https://botc.app/assets/cultleader_e-CXgWMt1A.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 70,
+        "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+        "otherNight": 89,
+        "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+        "setup": false,
+        "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
+        "flavor": "Thinking themselves wise, they became fools."
+    },
     "flowergirl",
     "towncrier",
     "oracle",
