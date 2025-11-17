@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer","seamstress","mathematician_snv","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician_snv","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress","mathematician_snv","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl","towncrier","oracle","seamstress","juggler","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -24,7 +24,23 @@
         "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
         "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
     },
-    "dreamer",
+    {
+        "id": "dreamer_snv",
+        "name": "Dreamer",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/dreamer_g-CjKsf0eE.webp",
+            "https://botc.app/assets/dreamer_e-9zGefVKW.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 60,
+        "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "otherNight": 78,
+        "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
+        "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+    },
     {
         "id": "snakecharmer_snv",
         "name": "Snake Charmer",

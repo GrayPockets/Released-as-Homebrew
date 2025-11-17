@@ -469,7 +469,23 @@
         "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.",
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
     },
-    "dreamer",
+    {
+        "id": "dreamer_rah",
+        "name": "Dreamer",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/dreamer_g-CjKsf0eE.webp",
+            "https://botc.app/assets/dreamer_e-9zGefVKW.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 60,
+        "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "otherNight": 78,
+        "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
+        "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+    },
     "fortuneteller",
     "cultleader",
     "flowergirl",
