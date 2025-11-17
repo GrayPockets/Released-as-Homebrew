@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Village Idiot
 * Snake Charmer
 * Mathematician
 * King
@@ -247,7 +246,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 64 - $${\color{deepskyblue}Noble}$$
 * 65 - $${\color{deepskyblue}Balloonist}$$
 * 66 - $${\color{deepskyblue}Shugenja}$$
-* Village Idiot
+* 67 - $${\color{deepskyblue}Village Idiot}$$
 * 68 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
 * Cult Leader
@@ -347,7 +346,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Seamstress
 * Juggler
 * 84 - $${\color{deepskyblue}Balloonist}$$
-* Village Idiot
+* 85 - $${\color{deepskyblue}Village Idiot}$$
 * King
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
@@ -371,6 +370,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.28.0
+* Village Idiot
 ### 0.27.0
 * Chambermaid
 ### 0.26.0
