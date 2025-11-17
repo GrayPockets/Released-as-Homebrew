@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Snake Charmer
 * Mathematician
 * King
 * Dreamer
@@ -215,7 +214,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Widow
 * Courtier
 * Wizard
-* Snake Charmer
+* 36 - $${\color{deepskyblue}Snake Charmer}$$
 * Godfather
 * Organ Griner
 * Devil's Advocate
@@ -283,7 +282,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Wizard
 * Gambler
 * Acrobat
-* Snake Charmer
+* 22 - $${\color{deepskyblue}Snake Charmer}$$
 * Monk
 * Organ Grinder
 * Devil's Advocate
@@ -370,6 +369,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.29.0
+* Snake Charmer
 ### 0.28.0
 * Village Idiot
 ### 0.27.0

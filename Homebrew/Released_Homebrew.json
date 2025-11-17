@@ -390,7 +390,26 @@
             }
         ]
     },
-    "snakecharmer",
+    {
+        "id": "snakecharmer_rah",
+        "name": "Snake Charmer",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/snakecharmer_g-DYwjThVr.webp",
+            "https://botc.app/assets/snakecharmer_e-D6CrPRGR.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 36,
+        "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
+        "otherNight": 22,
+        "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
+        "reminders": [
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
+        "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+    },
     "mathematician",
     "king",
     "dreamer",
