@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller","butler","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath_tb","fortuneteller","butler","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath_tb","fortuneteller_tb","butler","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -98,7 +98,26 @@
         "ability": "Each night, you learn how many of your 2 alive neighbors are evil.",
         "flavor": "My skin prickles. Something is not right here. I can feel it."
     },
-    "fortuneteller",
+    {
+        "id": "fortuneteller_tb",
+        "name": "Fortune Teller",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/fortuneteller_g-lQQzYvkg.webp",
+            "https://botc.app/assets/fortuneteller_e-BWljoXp7.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 56,
+        "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "otherNight": 76,
+        "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "reminders": [
+            "Red Herring"
+        ],
+        "setup": false,
+        "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
+        "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+    },
     "undertaker",
     "monk",
     "ravenkeeper",

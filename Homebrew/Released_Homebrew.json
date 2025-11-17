@@ -486,7 +486,26 @@
         "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
         "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
     },
-    "fortuneteller",
+    {
+        "id": "fortuneteller_rah",
+        "name": "Fortune Teller",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/fortuneteller_g-lQQzYvkg.webp",
+            "https://botc.app/assets/fortuneteller_e-BWljoXp7.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 56,
+        "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "otherNight": 76,
+        "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "reminders": [
+            "Red Herring"
+        ],
+        "setup": false,
+        "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
+        "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+    },
     "cultleader",
     "flowergirl",
     "towncrier",

@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Fortune Teller
 * Cult Leader
 * Flowergirl
 * Town Crier
@@ -231,7 +230,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 53 - $${\color{deepskyblue}Investigator}$$
 * 54 - $${\color{deepskyblue}Chef}$$
 * 55 - $${\color{deepskyblue}Empath}$$
-* Fortune Teller
+* 56 - $${\color{deepskyblue}Fortune Teller}$$
 * Butler
 * 58 - $${\color{deepskyblue}Grandmother}$$
 * 59 - $${\color{deepskyblue}Clockmaker}$$
@@ -333,7 +332,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Tor
 * Ravenkeeper
 * 75 - $${\color{deepskyblue}Empath}$$
-* Fortune Teller
+* 76 - $${\color{deepskyblue}Fortune Teller}$$
 * Undertaker
 * 78 - $${\color{deepskyblue}Dreamer}$$
 * Flowergirl
@@ -366,6 +365,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.33.0
+* Fortune Teller
 ### 0.32.0
 * Dreamer
 ### 0.31.0
