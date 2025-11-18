@@ -94,6 +94,24 @@
         ]
     },
     {
+        "id": "acrobat_gah",
+        "name": "Acrobat (Classic)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/acrobat_g-ClaB0uN4.webp",
+            "https://botc.app/assets/acrobat_e-BtZarrxs.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 72.5,
+        "otherNightReminder": "If either good living neighbor is drunk or poisoned, the Acrobat dies. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, if either good living neighbour is drunk or poisoned, you die.",
+        "flavor": "Welcome, one and all, to the greatest show on earth."
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Fabled)",
         "edition": "fabled",

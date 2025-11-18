@@ -650,7 +650,25 @@
         "ability": "Each night*, choose a player & guess their character: if you guess wrong, you die.",
         "flavor": "Heads, I win. Tails, you lose."
     },
-    "acrobat",
+    {
+        "id": "acrobat_rah",
+        "name": "Acrobat",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/acrobat_g-ClaB0uN4.webp",
+            "https://botc.app/assets/acrobat_e-BtZarrxs.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 21,
+        "otherNightReminder": "The Acrobat chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Chosen"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die.",
+        "flavor": "Welcome, one and all, to the greatest show on earth."
+    },
     "exorcist",
     "lycanthrope",
     "gossip",
