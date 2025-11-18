@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress","mathematician_snv","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle","seamstress","juggler","mathematician_snv","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress","juggler","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -141,7 +141,21 @@
         "ability": "Each night*, you learn if a Minion nominated today.",
         "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
     },
-    "oracle",
+    {
+        "id": "oracle_snv",
+        "name": "Oracle",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/oracle_g-HZdhcJUJ.webp",
+            "https://botc.app/assets/oracle_e-BgNZAuGG.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 81,
+        "otherNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "Each night*, you learn how many dead players are evil.",
+        "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+    },
     "savant",
     "seamstress",
     "philosopher",

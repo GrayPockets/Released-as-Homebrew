@@ -561,7 +561,21 @@
         "ability": "Each night*, you learn if a Minion nominated today.",
         "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
     },
-    "oracle",
+    {
+        "id": "oracle_rah",
+        "name": "Oracle",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/oracle_g-HZdhcJUJ.webp",
+            "https://botc.app/assets/oracle_e-BgNZAuGG.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 81,
+        "otherNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "Each night*, you learn how many dead players are evil.",
+        "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+    },
     "undertaker",
     "innkeeper",
     "monk",
