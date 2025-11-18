@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
         "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker_tb","empath_tb","fortuneteller_tb","butler","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper","undertaker_tb","empath_tb","fortuneteller_tb","butler","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -136,7 +136,24 @@
         "ability": "Each night*, you learn which character died by execution today.",
         "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
     },
-    "monk",
+    {
+        "id": "monk_tb",
+        "name": "Monk",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/monk_g-D4wNFA-b.webp",
+            "https://botc.app/assets/monk_e-OTOQUKVm.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 23,
+        "otherNightReminder": "The Monk chooses a player. :reminder:",
+        "reminders": [
+            "Safe"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+        "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+    },
     "ravenkeeper",
     "virgin",
     "slayer",

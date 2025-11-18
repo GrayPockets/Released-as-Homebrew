@@ -614,7 +614,24 @@
         "ability": "Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk.",
         "flavor": "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
     },
-    "monk",
+    {
+        "id": "monk_rah",
+        "name": "Monk",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/monk_g-D4wNFA-b.webp",
+            "https://botc.app/assets/monk_e-OTOQUKVm.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 23,
+        "otherNightReminder": "The Monk chooses a player. :reminder:",
+        "reminders": [
+            "Safe"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+        "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+    },
     "gambler",
     "acrobat",
     "exorcist",
