@@ -724,7 +724,19 @@
         "ability": "Each day, you may make a public statement. Tonight, if it was true, a player dies.",
         "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
     },
-    "savant",
+    {
+        "id": "savant_rah",
+        "name": "Savant",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/savant_g-n6x1YgAZ.webp",
+            "https://botc.app/assets/savant_e-5neUO4oK.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
+        "flavor": "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+    },
     "alsaahir",
     "engineer",
     "nightwatchman",
