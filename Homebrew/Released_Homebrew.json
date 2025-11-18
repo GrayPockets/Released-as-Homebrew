@@ -576,7 +576,24 @@
         "ability": "Each night*, you learn how many dead players are evil.",
         "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
     },
-    "undertaker",
+    {
+        "id": "undertaker_rah",
+        "name": "Undertaker",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/dreamer_g-CjKsf0eE.webp",
+            "https://botc.app/assets/dreamer_e-9zGefVKW.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 77,
+        "otherNightReminder": "If a player was executed today, show their character token.",
+        "reminders": [
+            "Died Today"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn which character died by execution today.",
+        "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+    },
     "innkeeper",
     "monk",
     "gambler",

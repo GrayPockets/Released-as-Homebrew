@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Undertaker
 * Innkeeper
 * Monk
 * Gambler
@@ -329,7 +328,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Ravenkeeper
 * 75 - $${\color{deepskyblue}Empath}$$
 * 76 - $${\color{deepskyblue}Fortune Teller}$$
-* Undertaker
+* 77 - $${\color{deepskyblue}Undertaker}$$
 * 78 - $${\color{deepskyblue}Dreamer}$$
 * 79 - $${\color{deepskyblue}Flowergirl}$$
 * 80 - $${\color{deepskyblue}Town Crier}$$
@@ -362,6 +361,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.38.0
+* Undertaker
 ### 0.37.0
 * Oracle
 ### 0.36.0
