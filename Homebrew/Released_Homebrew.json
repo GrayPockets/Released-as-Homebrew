@@ -790,7 +790,29 @@
         "ability": "Once per game, at night, choose a player: they learn you are the Nightwatchman.",
         "flavor": "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
     },
-    "courtier",
+    {
+        "id": "courtier_rah",
+        "name": "Courtier",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/courtier_g-8Fhu5KML.webp",
+            "https://botc.app/assets/courtier_e-DxjU0rGy.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 34,
+        "firstNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
+        "otherNight": 17,
+        "otherNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
+        "reminders": [
+            "Drunk 3",
+            "Drunk 2",
+            "Drunk 1",
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days.",
+        "flavor": "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
+    },
     "seamstress",
     "philosopher",
     "huntsman",
