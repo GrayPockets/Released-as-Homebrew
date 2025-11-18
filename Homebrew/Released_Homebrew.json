@@ -706,7 +706,24 @@
         "ability": "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil.",
         "flavor": "Beneath the thin veneer of civilisation lies a howling madness."
     },
-    "gossip",
+    {
+        "id": "gossip_rah",
+        "name": "Gossip",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/gossip_g-0mo_0qnq.webp",
+            "https://botc.app/assets/gossip_e-DKOgldGS.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 57,
+        "otherNightReminder": "If the Gossip is due to kill a player, they die. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each day, you may make a public statement. Tonight, if it was true, a player dies.",
+        "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
+    },
     "savant",
     "alsaahir",
     "engineer",

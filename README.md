@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Gossip
 * Savant
 * Alsaahir
 * Engineer
@@ -303,7 +302,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Kazali
 * Assassin
 * Godfather
-* Gossip
+* 57 - $${\color{deepskyblue}Gossip}$$
 * Hatter
 * Barber
 * Sweetheart
@@ -356,6 +355,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.45.0
+* Gossip
 ### 0.44.1
 * Script template Djinn documentation
 ### 0.44.0
