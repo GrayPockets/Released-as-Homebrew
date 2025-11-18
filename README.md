@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Alsaahir
 * Engineer
 * Nightwatchman
 * Courtier
@@ -354,6 +353,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.47.0
+* Alsaahir
 ### 0.46.0
 * Savant
 ### 0.45.0
