@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress","mathematician_snv","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress","juggler","mathematician_snv","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -169,7 +169,26 @@
         "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
         "flavor": "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
     },
-    "seamstress",
+    {
+        "id": "seamstress_snv",
+        "name": "Seamstress",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/seamstress_g-B4RHsroR.webp",
+            "https://botc.app/assets/seamstress_e-BfBRBNhv.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 61,
+        "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "otherNight": 82,
+        "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
+        "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+    },
     "philosopher",
     "artist",
     "juggler",

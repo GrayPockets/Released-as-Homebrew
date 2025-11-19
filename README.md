@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Seamstress
 * Philosopher
 * Huntsman
 * Professor
@@ -219,7 +218,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 58 - $${\color{deepskyblue}Grandmother}$$
 * 59 - $${\color{deepskyblue}Clockmaker}$$
 * 60 - $${\color{deepskyblue}Dreamer}$$
-* Seamstress
+* 61 - $${\color{deepskyblue}Seamstress}$$
 * 62 - $${\color{deepskyblue}Steward}$$
 * 63 - $${\color{deepskyblue}Knight}$$
 * 64 - $${\color{deepskyblue}Noble}$$
@@ -322,7 +321,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 79 - $${\color{deepskyblue}Flowergirl}$$
 * 80 - $${\color{deepskyblue}Town Crier}$$
 * 81 - $${\color{deepskyblue}Town Crier}$$
-* Seamstress
+* 82 - $${\color{deepskyblue}Seamstress}$$
 * Juggler
 * 84 - $${\color{deepskyblue}Balloonist}$$
 * 85 - $${\color{deepskyblue}Village Idiot}$$
@@ -350,6 +349,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.51.0
+* Seamstress
 ### 0.50.0
 * Courtier
 ### 0.49.0

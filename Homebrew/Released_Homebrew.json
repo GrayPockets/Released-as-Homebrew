@@ -813,7 +813,26 @@
         "ability": "Once per game, at night, choose a character: they are drunk for 3 nights & 3 days.",
         "flavor": "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
     },
-    "seamstress",
+    {
+        "id": "seamstress_rah",
+        "name": "Seamstress",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/seamstress_g-B4RHsroR.webp",
+            "https://botc.app/assets/seamstress_e-BfBRBNhv.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 61,
+        "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "otherNight": 82,
+        "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
+        "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+    },
     "philosopher",
     "huntsman",
     "professor",
