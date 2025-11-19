@@ -176,9 +176,11 @@ The following is a full list of night order. This is so night order numbers can 
 * Poppy Grower
 * Yaggababble
 * Magician
+* Minion Info
 * Snitch
 * Lunatic
 * Summoner
+* Demon Info
 * 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
 * Marionette
@@ -347,6 +349,9 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.52.2
+* Demon Info night order documentation
+* Minion Info night order documentation
 ### 0.52.1
 * Buddhist night order documentation
 ### 0.52.0
