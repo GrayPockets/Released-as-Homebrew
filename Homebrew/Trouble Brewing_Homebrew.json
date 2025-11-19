@@ -156,7 +156,22 @@
     },
     "ravenkeeper",
     "virgin",
-    "slayer",
+    {
+        "id": "slayer_tb",
+        "name": "Slayer",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/slayer_g-BO_75tK_.webp",
+            "https://botc.app/assets/slayer_e-4pQk5kJR.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, during the day, publicly choose a player: if they are the Demon, they die.",
+        "flavor": "Die."
+    },
     "soldier",
     "mayor",
     "butler",
