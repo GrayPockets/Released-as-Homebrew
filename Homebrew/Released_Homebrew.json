@@ -882,7 +882,25 @@
         "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]",
         "flavor": "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
     },
-    "professor",
+    {
+        "id": "professor_rah",
+        "name": "Professor",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/professor_g-h2X7rvhv.webp",
+            "https://botc.app/assets/professor_e-BpuIeGol.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 64,
+        "otherNightReminder": "The Professor might choose a dead player. :reminder: :reminder:",
+        "reminders": [
+            "Alive",
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
+        "flavor": "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
+    },
     "artist",
     "slayer",
     "fisherman",
