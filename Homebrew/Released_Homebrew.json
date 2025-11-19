@@ -833,7 +833,35 @@
         "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
         "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
     },
-    "philosopher",
+    {
+        "id": "philosopher_rah",
+        "name": "Philosopher",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/philosopher_g-DOk3eWqe.webp",
+            "https://botc.app/assets/philosopher_e-sc5zSJy2.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 14,
+        "firstNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
+        "otherNight": 10,
+        "otherNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "remindersGlobal": [
+            "Is The Philosopher"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.",
+        "flavor": "If anything is real, beer is real. Drink, for tomorrow we may die.",
+        "special": [
+            {
+                "type": "reveal",
+                "name": "replace-character"
+            }
+        ]
+    },
     "huntsman",
     "professor",
     "artist",

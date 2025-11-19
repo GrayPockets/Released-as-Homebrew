@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Philosopher
 * Huntsman
 * Professor
 * Artist
@@ -173,7 +172,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Bureaucrat
 * Thief
 * Boffin
-* Philosopher
+* 14 - $${\color{deepskyblue}Philosopher}$$
 * Alchemist
 * Poppy Grower
 * Yaggababble
@@ -249,7 +248,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Thief
 * Harlot
 * Bone Collector
-* Philosopher
+* 10 - $${\color{deepskyblue}Philosopher}$$
 * Poppy Grower
 * 12 - $${\color{deepskyblue}Sailor}$$
 * 13 - $${\color{deepskyblue}Engineer}$$
@@ -345,10 +344,12 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 * JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
-    * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+    * "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.52.0
+* Philosopher
 ### 0.51.0
 * Seamstress
 ### 0.50.0
