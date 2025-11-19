@@ -342,6 +342,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.63.0
+* Grognard homebrew
 ### 0.62.0
 * Cannibal
 ### 0.61.0
