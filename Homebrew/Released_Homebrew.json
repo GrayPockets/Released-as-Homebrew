@@ -949,7 +949,24 @@
         "ability": "Once per game, during the day, visit the Storyteller for some advice to help your team win.",
         "flavor": "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
     },
-    "princess",
+    {
+        "id": "princess_rah",
+        "name": "Princess",
+        "team": "townsfolk",
+        "image": [
+            "https://botc.app/assets/princess_g-BGsIJ79g.webp",
+            "https://botc.app/assets/princess_e-DDQtxFNX.webp"
+        ],
+        "edition": "carousel",
+        "otherNight": 37,
+        "otherNightReminder": "If the Princess nominated the player who was executed today, the Demon wakes as normal, but no one dies to the Demon's ability.",
+        "reminders": [
+            "Doesn't Kill"
+        ],
+        "setup": false,
+        "ability": "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.",
+        "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
+    },
     "juggler",
     "soldier",
     "alchemist",

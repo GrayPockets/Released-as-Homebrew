@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Princess
 * Juggler
 * Soldier
 * Alchemist
@@ -271,7 +270,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Lunatic
 * 35 - $${\color{deepskyblue}Exorcist}$$
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
-* Princess
+* 37 - $${\color{deepskyblue}Princess}$$
 * Legion
 * Imp
 * Zombuul
@@ -344,6 +343,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.58.0
+* Princess
 ### 0.57.0
 * Fisherman
 ### 0.56.0
