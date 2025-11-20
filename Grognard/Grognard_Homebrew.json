@@ -322,7 +322,7 @@
     },
     {
         "id": "gardener_gah",
-        "name": "Gardener (Fabled)",
+        "name": "Gardener (Classic)",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/5/5c/20251103095407%21Icon_gardener.png"
@@ -341,7 +341,7 @@
     },
     {
         "id": "bootlegger_gah",
-        "name": "Bootlegger (Fabled)",
+        "name": "Bootlegger (Classic)",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
