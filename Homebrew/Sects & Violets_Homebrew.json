@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -256,7 +256,21 @@
         "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
         "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
     },
-    "sage",
+    {
+        "id": "sage_snv",
+        "name": "Sage ",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/sage_g-BQUVfu9h.webp",
+            "https://botc.app/assets/sage_e-BS8e_Ree.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 62,
+        "otherNightReminder": "If the Demon killed the Sage, wake the Sage and point to 2 players, 1 of which is the Demon.",
+        "setup": false,
+        "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
+        "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+    },
     "mutant",
     "sweetheart",
     "barber",

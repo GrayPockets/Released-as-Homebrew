@@ -1163,7 +1163,21 @@
         "ability": "If you die at night, you are woken to choose a player: you learn their character.",
         "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
     },
-    "sage",
+    {
+        "id": "sage_rah",
+        "name": "Sage ",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/sage_g-BQUVfu9h.webp",
+            "https://botc.app/assets/sage_e-BS8e_Ree.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 62,
+        "otherNightReminder": "If the Demon killed the Sage, wake the Sage and point to 2 players, 1 of which is the Demon.",
+        "setup": false,
+        "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
+        "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+    },
     "choirboy",
     "banshee",
     "tealady",
