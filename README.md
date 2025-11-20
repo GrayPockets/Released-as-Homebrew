@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Choirboy
 * Banshee
 * Tea Lady
 * Mayor
@@ -289,7 +288,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 62 - $${\color{deepskyblue}Sage}$$
 * Banshee
 * 64 - $${\color{deepskyblue}Professor}$$
-* Choirboy
+* 65 - $${\color{deepskyblue}Choirboy}$$
 * 66 - $${\color{deepskyblue}Huntsman}$$
 * Damsel
 * 68 - $${\color{deepskyblue}Amnesiac}$$
@@ -337,6 +336,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.69.0
+* Choirboy
 ### 0.68.0
 * Sage
 ### 0.67.0

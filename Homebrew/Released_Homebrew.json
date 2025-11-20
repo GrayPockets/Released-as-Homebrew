@@ -1178,7 +1178,21 @@
         "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
         "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
     },
-    "choirboy",
+    {
+        "id": "choirboy_rah",
+        "name": "Choirboy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/choirboy_g-Dk5L9Lx_.webp",
+            "https://botc.app/assets/choirboy_e-CpElv2uq.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 65,
+        "otherNightReminder": "If the Demon killed the King, point to the Demon player.",
+        "setup": true,
+        "ability": "If the Demon kills the King, you learn which player is the Demon. [+the King]",
+        "flavor": "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
+    },
     "banshee",
     "tealady",
     "mayor",
