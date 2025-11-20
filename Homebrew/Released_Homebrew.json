@@ -1117,7 +1117,21 @@
         "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.",
         "flavor": "Wait. What. Who? Oh, ok. Wait. What?"
     },
-    "farmer",
+    {
+        "id": "farmer_rah",
+        "name": "Farmer",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/farmer_g-aC9H7ek9.webp",
+            "https://botc.app/assets/farmer_e-BKzmeJOt.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 69,
+        "otherNightReminder": "If the Farmer died tonight, wake an alive good player. Show them the *YOU ARE* info token and a Farmer character token. Replace their previous token with the Farmer token.",
+        "setup": false,
+        "ability": "When you die at night, an alive good player becomes a Farmer.",
+        "flavor": "Even the high and mighty need food on the table. Without us, the city starves."
+    },
     "minstrel",
     "ravenkeeper",
     "sage",
