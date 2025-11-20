@@ -182,7 +182,22 @@
         "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
         "flavor": "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
     },
-    "minstrel",
+    {
+        "id": "minstrel_bmr",
+        "name": "Minstrel",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/minstrel_g-M5EHa7zy.webp",
+            "https://botc.app/assets/minstrel_e-Cv94nSeJ.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "Everyone Is Drunk"
+        ],
+        "setup": false,
+        "ability": "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.",
+        "flavor": "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
+    },
     "tealady",
     "pacifist",
     "fool",
