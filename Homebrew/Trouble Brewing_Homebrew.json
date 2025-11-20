@@ -199,7 +199,19 @@
         "ability": "You are safe from the Demon.",
         "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
     },
-    "mayor",
+    {
+        "id": "mayor_tb",
+        "name": "Mayor",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/mayor_g-BQeJ8Z2E.webp",
+            "https://botc.app/assets/mayor_e-Bc2mKeJ3.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+        "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+    },
     "butler",
     {
         "id": "drunk_tb",

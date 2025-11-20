@@ -1235,7 +1235,19 @@
         "ability": "If both your alive neighbors are good, they can't die.",
         "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
     },
-    "mayor",
+    {
+        "id": "mayor_rah",
+        "name": "Mayor",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/mayor_g-BQeJ8Z2E.webp",
+            "https://botc.app/assets/mayor_e-Bc2mKeJ3.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+        "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+    },
     "fool",
     "virgin",
     "magician",
