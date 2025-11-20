@@ -1248,7 +1248,22 @@
         "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
         "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
     },
-    "fool",
+    {
+        "id": "fool_rah",
+        "name": "Fool",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/fool_g-C-vzA630.webp",
+            "https://botc.app/assets/fool_e-CdlNFIsk.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "The 1st time you die, you don't.",
+        "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
+    },
     "virgin",
     "magician",
     "poppygrower",
