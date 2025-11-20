@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Banshee
 * Tea Lady
 * Mayor
 * Fool
@@ -286,7 +285,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Sweetheart
 * Plague Doctor
 * 62 - $${\color{deepskyblue}Sage}$$
-* Banshee
+* 62 - $${\color{deepskyblue}Banshee}$$
 * 64 - $${\color{deepskyblue}Professor}$$
 * 65 - $${\color{deepskyblue}Choirboy}$$
 * 66 - $${\color{deepskyblue}Huntsman}$$
@@ -332,10 +331,13 @@ The following is a full list of night order. This is so night order numbers can 
     * "alchemist": Token replacement reminders do not change character alignment.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
+    * "banshee": Raising more than one hand is not available.
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.70.0
+* Banshee
 ### 0.69.0
 * Choirboy
 ### 0.68.0

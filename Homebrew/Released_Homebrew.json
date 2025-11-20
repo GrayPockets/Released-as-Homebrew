@@ -1193,7 +1193,31 @@
         "ability": "If the Demon kills the King, you learn which player is the Demon. [+the King]",
         "flavor": "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
     },
-    "banshee",
+    {
+        "id": "banshee_rah",
+        "name": "Banshee",
+        "team": "townsfolk",
+        "image": [
+            "https://botc.app/assets/banshee_g-DJc6lJye.webp",
+            "https://botc.app/assets/banshee_e-8hOn5kSm.webp"
+        ],
+        "edition": "carousel",
+        "otherNight": 63.5,
+        "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died. :reminder:",
+        "reminders": [
+            "Has Ability"
+        ],
+        "setup": false,
+        "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+        "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
+        "special": [
+            {
+                "name": "multiplier",
+                "type": "vote",
+                "value": 2
+            }
+        ]
+    },
     "tealady",
     "mayor",
     "fool",
