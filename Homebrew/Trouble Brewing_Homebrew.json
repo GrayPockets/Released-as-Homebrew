@@ -169,7 +169,22 @@
         "ability": "If you die at night, you are woken to choose a player: you learn their character.",
         "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
     },
-    "virgin",
+    {
+        "id": "virgin_tb",
+        "name": "Virgin",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/virgin_g-DfRSMLSj.webp",
+            "https://botc.app/assets/virgin_e-BB20SAPv.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
+        "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+    },
     {
         "id": "slayer_tb",
         "name": "Slayer",

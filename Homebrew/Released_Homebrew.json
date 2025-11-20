@@ -1264,7 +1264,22 @@
         "ability": "The 1st time you die, you don't.",
         "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
     },
-    "virgin",
+    {
+        "id": "virgin_rah",
+        "name": "Virgin",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/virgin_g-DfRSMLSj.webp",
+            "https://botc.app/assets/virgin_e-BB20SAPv.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
+        "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+    },
     "magician",
     "poppygrower",
     "pacifist",
