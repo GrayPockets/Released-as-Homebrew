@@ -1095,7 +1095,28 @@
             }
         ]
     },
-    "amnesiac",
+    {
+        "id": "amnesiac_rah",
+        "name": "Amnesiac RAH",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/amnesiac_g-1rV8CyUl.webp",
+            "https://botc.app/assets/amnesiac_e-CEaf8TX1.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 50,
+        "firstNightReminder": "Run the Amnesiac's ability, if applicable.",
+        "otherNight": 68,
+        "otherNightReminder": "Run the Amnesiac's ability, if applicable.",
+        "reminders": [
+            "?",
+            "?",
+            "?"
+        ],
+        "setup": false,
+        "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.",
+        "flavor": "Wait. What. Who? Oh, ok. Wait. What?"
+    },
     "farmer",
     "minstrel",
     "ravenkeeper",
