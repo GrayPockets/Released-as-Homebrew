@@ -8,7 +8,7 @@ This will attempt to fully match the released versions of characters without any
 Jinxes also use the "_rah" id. It is assumed these recreations will be used individually on a script. If a recreated homebrew character has a jinx with another recreated homebrew chararacter, the "_rah" will need to be appended within the jinx.
 
 ## BOTC Online App Compatibility
-**3.47.4 - No more hidden votes**
+**3.48.0 - The app update from outer space**
 
 ## Git Expectations
 * Tags are SemVer with no message. Release descriptions match the changelog.
@@ -104,6 +104,7 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * Gnome
 * Bishop
 * Voudon
+* Zenomancer
 * Tor
 * Storm Catcher
 * Big Wig
@@ -329,6 +330,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.81.0
+* Online app compatibility 3.48.0
 ### 0.80.0
 * Butler
 ### 0.79.0

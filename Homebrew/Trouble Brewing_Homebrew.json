@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",

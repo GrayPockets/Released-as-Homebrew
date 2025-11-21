@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker","moonchild","grandmother_bmr","chambermaid_bmr","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker","moonchild","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",

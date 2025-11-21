@@ -2,7 +2,7 @@
     try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {};
         e.SENTRY_RELEASE = {
-            id: "botc-app@3.47.4"
+            id: "botc-app@3.48.0"
         }
     } catch {}
 }
@@ -644,4 +644,4 @@ Check back later!`
     version: h
 };
 export {o as common, m as default, r as grimoire, a as modals, i as overlays, n as pages, s as player, l as session, c as storyteller, u as tabs, d as user, h as version};
-//# sourceMappingURL=en-CrcxcQXb.js.map
+//# sourceMappingURL=en-lGcwUUbp.js.map
