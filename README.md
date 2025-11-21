@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Butler
 * Goon
 * Ogre
 * Lunatic
@@ -188,7 +187,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 54 - $${\color{deepskyblue}Chef}$$
 * 55 - $${\color{deepskyblue}Empath}$$
 * 56 - $${\color{deepskyblue}Fortune Teller}$$
-* Butler
+* 57 - $${\color{deepskyblue}Butler}$$
 * 58 - $${\color{deepskyblue}Grandmother}$$
 * 59 - $${\color{deepskyblue}Clockmaker}$$
 * 60 - $${\color{deepskyblue}Dreamer}$$
@@ -303,7 +302,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
 * 88 - $${\color{deepskyblue}Nightwatchman}$$
 * 89 - $${\color{deepskyblue}Cult Leader}$$
-* Butler
+* 90 - $${\color{deepskyblue}Butler}$$
 * Spy
 * 92 - $${\color{deepskyblue}High Priestess}$$
 * 93 - $${\color{deepskyblue}General}$$
@@ -330,6 +329,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.80.0
+* Butler
 ### 0.79.0
 * Hermit
 ### 0.78.0

@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -227,7 +227,32 @@
         "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
         "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
     },
-    "butler",
+    {
+        "id": "butler_tb",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 57,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 90,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir.",
+        "jinxes": [
+            {
+                "id": "organgrinder",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            }
+        ]
+    },
     {
         "id": "drunk_tb",
         "name": "Drunk",

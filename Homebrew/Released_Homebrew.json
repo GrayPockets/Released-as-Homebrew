@@ -1391,7 +1391,32 @@
         "ability": "You have all Outsider abilities. [-0 or -1 Outsider]",
         "flavor": "In the lost and forgotten places of the earth, the soul’s light beckons."
     },
-    "butler",
+    {
+        "id": "butler_rah",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 57,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 90,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir.",
+        "jinxes": [
+            {
+                "id": "organgrinder",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            }
+        ]
+    },
     "goon",
     "ogre",
     "lunatic",
