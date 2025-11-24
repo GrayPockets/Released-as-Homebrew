@@ -514,6 +514,42 @@
         ]
     },
     {
+        "id": "widow_gah",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33.5,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower has their ability, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
