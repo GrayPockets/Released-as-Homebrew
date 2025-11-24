@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker_bmr","moonchild","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -262,7 +262,24 @@
         "ability": "You might die at any time.",
         "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
     },
-    "moonchild",
+    {
+        "id": "moonchild_bmr",
+        "name": "Moonchild",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/moonchild_g-DKURQEzF.webp",
+            "https://botc.app/assets/moonchild_e-D-P3dKVK.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 71,
+        "otherNightReminder": "If the Moonchild is due to kill a good player, they die. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.",
+        "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
+    },
     {
         "id": "goon_bmr",
         "name": "Goon",
