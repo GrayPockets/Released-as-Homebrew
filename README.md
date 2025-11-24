@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Pit-Hag
 * Psychopath
 * Assassin
 * Wizard
@@ -214,7 +213,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 25 - $${\color{darkred}Devil's Advocate}$$
 * 26 - $${\color{darkred}Witch}$$
 * 27 - $${\color{darkred}Cerenovus}$$
-* Pit-Hag
+* 28 - $${\color{darkred}Pit-Hag}$$
 * 29 - $${\color{darkred}Fearmonger}$$
 * 30 - $${\color{darkred}Harpy}$$
 * 31 - $${\color{darkred}Mezepheles}$$
@@ -303,6 +302,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.111.0
+* Pit-Hag
 ### 0.110.0
 * Fearmonger
 ### 0.109.0

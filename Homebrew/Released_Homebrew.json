@@ -2047,7 +2047,47 @@
         "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
         "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
     },
-    "pithag",
+    {
+        "id": "pithag_rah",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+            },
+            {
+                "id": "politician",
+                "reason": "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
     "psychopath",
     "assassin",
     "wizard",
