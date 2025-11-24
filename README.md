@@ -320,6 +320,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.91.1
+* Bad Moon Rising night order correction
 ### 0.91.0
 * Moonchild
 ### 0.90.0
