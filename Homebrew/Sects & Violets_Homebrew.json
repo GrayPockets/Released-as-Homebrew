@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch_snv","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -334,7 +334,26 @@
         "flavor": "Oops."
     },
     "eviltwin",
-    "witch",
+    {
+        "id": "witch_snv",
+        "name": "Witch",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/witch_e-D4AS1R1Q.webp",
+            "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
+        ],
+        "team": "minion",
+        "firstNight": 41.5,
+        "firstNightReminder": "The Witch chooses a player. :reminder:",
+        "otherNight": 26.5,
+        "otherNightReminder": "The Witch chooses a player. :reminder:",
+        "reminders": [
+            "Cursed"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.",
+        "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+    },
     "cerenovus",
     "pithag",
     "fanggu",

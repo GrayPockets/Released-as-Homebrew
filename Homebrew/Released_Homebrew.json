@@ -1981,7 +1981,26 @@
         "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
         "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me."
     },
-    "witch",
+    {
+        "id": "witch_rah",
+        "name": "Witch",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/witch_e-D4AS1R1Q.webp",
+            "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
+        ],
+        "team": "minion",
+        "firstNight": 41.5,
+        "firstNightReminder": "The Witch chooses a player. :reminder:",
+        "otherNight": 26.5,
+        "otherNightReminder": "The Witch chooses a player. :reminder:",
+        "reminders": [
+            "Cursed"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.",
+        "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+    },
     "cerenovus",
     "fearmonger",
     "pithag",
