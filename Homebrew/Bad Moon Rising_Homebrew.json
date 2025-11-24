@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather", "devilsadvocate", "pukka", "grandmother_bmr", "chambermaid_bmr", "dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate", "pukka", "grandmother_bmr", "chambermaid_bmr", "dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -319,7 +319,27 @@
         "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
         "flavor": "I am the night... I think."
     },
-    "godfather",
+    {
+        "id": "godfather_bmr",
+        "name": "Godfather",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/godfather_e-CszxqtFl.webp",
+            "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
+        ],
+        "team": "minion",
+        "firstNight": 37.5,
+        "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
+        "otherNight": 56.5,
+        "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
+        "reminders": [
+            "Died Today",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
+        "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+    },
     "devilsadvocate",
     "assassin",
     "mastermind",

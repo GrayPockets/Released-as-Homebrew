@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Godfather
 * Poisoner
 * Devil's Advocate
 * Spy
@@ -149,7 +148,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 34 - $${\color{deepskyblue}Courtier}$$
 * Wizard
 * 36 - $${\color{deepskyblue}Snake Charmer}$$
-* Godfather
+* 37 - $${\color{darkred}Godfather}$$
 * Organ Griner
 * Devil's Advocate
 * Evil Twin
@@ -250,7 +249,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Yaggababble
 * Kazali
 * Assassin
-* Godfather
+* 56 - $${\color{darkred}Godfather}$$
 * 57 - $${\color{deepskyblue}Gossip}$$
 * 58 - $${\color{deepskyblue}Hatter}$$
 * 59 - $${\color{deepskyblue}Barber}$$
@@ -311,6 +310,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.103.0
+* Godfather
 ### 0.102.0
 * Mezepheles
 ### 0.101.0
