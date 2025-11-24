@@ -278,7 +278,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 66 - $${\color{deepskyblue}Huntsman}$$
 * Damsel
 * 68 - $${\color{deepskyblue}Amnesiac}$$
-* 69 - $${\color{deepskyblue}Amnesiac}$$
+* 69 - $${\color{deepskyblue}Farmer}$$
 * 70 - $${\color{deepskyblue}Tinker}$$
 * Moonchild
 * 72 - $${\color{deepskyblue}Grandmother}$$
@@ -326,6 +326,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.85.1
+* Farmer night order documentation
 ### 0.85.0
 * Tinker
 ### 0.84.0
