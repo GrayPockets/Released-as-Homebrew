@@ -1710,7 +1710,19 @@
         "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
         "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
     },
-    "mutant",
+    {
+        "id": "mutant_rah",
+        "name": "Mutant",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/mutant_g-CUe36x-i.webp",
+            "https://botc.app/assets/mutant_e-COP-pfTP.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you are “mad” about being an Outsider, you might be executed.",
+        "flavor": "I am not a freak! I am a human being! Have mercy!"
+    },
     "politician",
     "zealot",
     "damsel",

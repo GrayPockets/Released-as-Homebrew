@@ -271,7 +271,19 @@
         "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
         "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
     },
-    "mutant",
+    {
+        "id": "mutant_snv",
+        "name": "Mutant",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/mutant_g-CUe36x-i.webp",
+            "https://botc.app/assets/mutant_e-COP-pfTP.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you are “mad” about being an Outsider, you might be executed.",
+        "flavor": "I am not a freak! I am a human being! Have mercy!"
+    },
     {
         "id": "sweetheart_snv",
         "name": "Sweetheart",
