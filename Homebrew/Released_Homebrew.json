@@ -1540,7 +1540,22 @@
             }
         ]
     },
-    "golem",
+    {
+        "id": "golem_rah",
+        "name": "Golem",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/golem_g-HC-xAVh8.webp",
+            "https://botc.app/assets/golem_e-BMGfUhmK.webp"
+        ],
+        "team": "outsider",
+        "reminders": [
+            "May Not Nominate"
+        ],
+        "setup": false,
+        "ability": "You may only nominate once per game. When you do, if the nominee is not the Demon, they die.",
+        "flavor": "Golem help? Golem smash! Golem help."
+    },
     "sweetheart",
     "plaguedoctor",
     "klutz",
