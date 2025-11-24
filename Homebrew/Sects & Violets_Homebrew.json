@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch_snv","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -354,7 +354,32 @@
         "ability": "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.",
         "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
     },
-    "cerenovus",
+    {
+        "id": "cerenovus_snv",
+        "name": "Cerenovus",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/cerenovus_e-ARmVZpWA.webp",
+            "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
+        ],
+        "team": "minion",
+        "firstNight": 42.5,
+        "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "otherNight": 27.5,
+        "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "reminders": [
+            "Mad"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed.",
+        "flavor": "Reality is merely an opinion. Specifically, my opinion.",
+        "jinxes": [
+            {
+                "id": "goblin",
+                "reason": "The Cerenovus may choose to make a player mad that they are the Goblin."
+            }
+        ]
+    },
     "pithag",
     "fanggu",
     "vigormortis",
