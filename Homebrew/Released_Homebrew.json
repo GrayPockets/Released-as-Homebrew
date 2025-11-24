@@ -1574,7 +1574,62 @@
         "ability": "When you die, 1 player is drunk from now on.",
         "flavor": "I will never forget her. Never."
     },
-    "plaguedoctor",
+    {
+        "id": "plaguedoctor_rah",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "When you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller would gain the Baron ability, up to two players become Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Storyteller would gain the Boomdandy ability, a player becomes the Boomdandy."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "If the Storyteller would gain the Evil Twin ability, a player becomes the Evil Twin."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Storyteller would gain the Fearmonger ability, a Minion gains it, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Storyteller would gain the Goblin ability, a Minion gains it, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Storyteller would gain the Marionette ability, one of the Demon's good neighbors becomes the Marionette."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Storyteller would gain the Scarlet Woman ability, a Minion gains it, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Storyteller would gain the Spy ability, a Minion gains it, and learns this."
+            },
+            {
+                "id": "wraith",
+                "reason": "If the Storyteller would gain the Wraith ability, a Minion gains it, and learns this."
+            }
+        ]
+    },
     "klutz",
     "moonchild",
     "saint",

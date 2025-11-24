@@ -377,6 +377,62 @@
         ]
     },
     {
+        "id": "plaguedoctor_gah",
+        "name": "Plague Doctor (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "When you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller would gain the Baron ability, up to two players become Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "wraith",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
