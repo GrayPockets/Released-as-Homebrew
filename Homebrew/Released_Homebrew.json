@@ -1417,7 +1417,22 @@
             }
         ]
     },
-    "goon",
+    {
+        "id": "goon_rah",
+        "name": "Goon",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/goon_g-qCN1CxKh.webp",
+            "https://botc.app/assets/goon_e-DmCcVOv-.webp"
+        ],
+        "team": "outsider",
+        "reminders": [
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.",
+        "flavor": "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
+    },
     "ogre",
     "lunatic",
     {
