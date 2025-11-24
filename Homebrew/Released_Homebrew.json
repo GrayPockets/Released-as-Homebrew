@@ -2027,7 +2027,26 @@
             }
         ]
     },
-    "fearmonger",
+    {
+        "id": "fearmonger_rah",
+        "name": "Fearmonger",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/fearmonger_e-RqyAUnj6.webp",
+            "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 43.5,
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "otherNight": 29.5,
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "reminders": [
+            "Fear"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
+        "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+    },
     "pithag",
     "psychopath",
     "assassin",
