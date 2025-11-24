@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Ogre
 * Lunatic
 * Tinker
 * Recluse
@@ -202,7 +201,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 69 - $${\color{deepskyblue}Nightwatchman}$$
 * 70 - $${\color{deepskyblue}Cult Leader}$$
 * Spy
-* Ogre
+* 72 - $${\color{deepskyblue}Ogre}$$
 * 73 - $${\color{deepskyblue}High Priestess}$$
 * 74 - $${\color{deepskyblue}General}$$
 * 75 - $${\color{deepskyblue}Chambermaid}$$
@@ -329,6 +328,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.83.0
+* Ogre
 ### 0.82.0
 * Goon
 ### 0.81.0

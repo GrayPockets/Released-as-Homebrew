@@ -1433,7 +1433,24 @@
         "ability": "Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.",
         "flavor": "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
     },
-    "ogre",
+    {
+        "id": "ogre_rah",
+        "name": "Ogre",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/ogre_g-B3Q_ybOi.webp",
+            "https://botc.app/assets/ogre_e-k2lur_NF.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 72,
+        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "reminders": [
+            "Friend"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+        "flavor": "<grunt><grin></grunt>"
+    },
     "lunatic",
     {
         "id": "drunk_rah",
