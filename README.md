@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Lunatic
 * Tinker
 * Recluse
 * Golem
@@ -150,7 +149,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 18 - $${\color{deepskyblue}Magician}$$
 * Minion Info
 * Snitch
-* Lunatic
+* 21 - $${\color{deepskyblue}Lunatic}$$
 * Summoner
 * Demon Info
 * 24 - $${\color{deepskyblue}King}$$
@@ -245,7 +244,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Mezepheles
 * Scarlet Woman
 * Summoner
-* Lunatic
+* 34 - $${\color{deepskyblue}Lunatic}$$
 * 35 - $${\color{deepskyblue}Exorcist}$$
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
 * 37 - $${\color{deepskyblue}Princess}$$
@@ -328,6 +327,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.84.0
+* Lunatic
 ### 0.83.0
 * Ogre
 ### 0.82.0

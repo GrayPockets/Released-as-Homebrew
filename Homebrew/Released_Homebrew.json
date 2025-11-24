@@ -1451,7 +1451,28 @@
         "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
         "flavor": "<grunt><grin></grunt>"
     },
-    "lunatic",
+    {
+        "id": "lunatic_rah",
+        "name": "Lunatic",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/lunatic_g-Bz2ai2Da.webp",
+            "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 21,
+        "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
+        "otherNight": 34,
+        "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
+        "reminders": [
+            "Chosen",
+            "Chosen",
+            "Chosen"
+        ],
+        "setup": false,
+        "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
+        "flavor": "I am the night... I think."
+    },
     {
         "id": "drunk_rah",
         "name": "Drunk",
