@@ -1784,7 +1784,45 @@
         "ability": "Each Minion gets 3 bluffs.",
         "flavor": "It was John."
     },
-    "heretic",
+    {
+        "id": "heretic_rah",
+        "name": "Heretic",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/heretic_g-DKZZAGQ8.webp",
+            "https://botc.app/assets/heretic_e-EZ4S5b8y.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+        "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "godfather",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "lleech",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "pithag",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "spy",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "widow",
+                "reason": "Only 1 jinxed character can be in play."
+            }
+        ]
+    },
     "puzzlemaster",
     "mezepheles",
     "godfather",

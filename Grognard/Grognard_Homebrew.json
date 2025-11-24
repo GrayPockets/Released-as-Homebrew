@@ -433,6 +433,49 @@
         ]
     },
     {
+        "id": "heretic_gah",
+        "name": "Heretic (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/heretic_g-DKZZAGQ8.webp",
+            "https://botc.app/assets/heretic_e-EZ4S5b8y.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+        "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "The Baron might only add 1 Outsider, not 2."
+            },
+            {
+                "id": "boffin",
+                "reason": "The Demon cannot have the Heretic ability."
+            },
+            {
+                "id": "godfather",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "lleech",
+                "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+            },
+            {
+                "id": "pithag",
+                "reason": "A Pit-Hag can not create a Heretic."
+            },
+            {
+                "id": "spy",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "widow",
+                "reason": "Only 1 jinxed character can be in play."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
