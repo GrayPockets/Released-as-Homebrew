@@ -1736,7 +1736,19 @@
         "ability": "If you were the player most responsible for your team losing, you change alignment & win, even if dead.",
         "flavor": "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
     },
-    "zealot",
+    {
+        "id": "zealot_rah",
+        "name": "Zealot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/zealot_g-D94u8jin.webp",
+            "https://botc.app/assets/zealot_e-DoDEvVGE.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+        "flavor": "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
+    },
     "damsel",
     "snitch",
     "heretic",
