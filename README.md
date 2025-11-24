@@ -269,7 +269,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 60 - $${\color{deepskyblue}Sweetheart}$$
 * Plague Doctor
 * 62 - $${\color{deepskyblue}Sage}$$
-* 62 - $${\color{deepskyblue}Banshee}$$
+* 63 - $${\color{deepskyblue}Banshee}$$
 * 64 - $${\color{deepskyblue}Professor}$$
 * 65 - $${\color{deepskyblue}Choirboy}$$
 * 66 - $${\color{deepskyblue}Huntsman}$$
@@ -323,6 +323,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.88.1
+* Banshee night order documentation
 ### 0.88.0
 * Sweetheart
 ### 0.87.0
