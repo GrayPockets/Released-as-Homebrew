@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Puzzlemaster
 * Mezepheles
 * Godfather
 * Poisoner
@@ -313,6 +312,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.101.0
+* Puzzlemaster
 ### 0.100.0
 * Heretic
 ### 0.99.1

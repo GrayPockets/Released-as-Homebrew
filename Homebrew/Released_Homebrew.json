@@ -1823,7 +1823,23 @@
             }
         ]
     },
-    "puzzlemaster",
+    {
+        "id": "puzzlemaster_rah",
+        "name": "Puzzlemaster",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/puzzlemaster_g-C7roEIMq.webp",
+            "https://botc.app/assets/puzzlemaster_e-BeIjkcep.webp"
+        ],
+        "team": "outsider",
+        "reminders": [
+            "Drunk",
+            "Guess Used"
+        ],
+        "setup": false,
+        "ability": "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.",
+        "flavor": "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
+    },
     "mezepheles",
     "godfather",
     "poisoner",
