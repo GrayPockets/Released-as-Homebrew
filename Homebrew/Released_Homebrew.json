@@ -2818,7 +2818,30 @@
         "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
         "flavor": "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
     },
-    "vigormortis",
+    {
+        "id": "vigormortis_rah",
+        "name": "Vigormortis",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/vigormortis_e-0VJIslwJ.webp",
+            "https://botc.app/assets/vigormortis_g-DP1UY2Jk.webp"
+        ],
+        "team": "demon",
+        "otherNight": 48,
+        "otherNightReminder": "The Vigormortis chooses a player. :reminder: If that player is a Minion, poison a neighboring Townsfolk. :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Has Ability",
+            "Has Ability",
+            "Has Ability",
+            "Poisoned",
+            "Poisoned",
+            "Poisoned"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]",
+        "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+    },
     "vortox",
     "legion",
     "fanggu",

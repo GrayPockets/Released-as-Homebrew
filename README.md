@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Vigormortis
 * Vortox
 * Legion
 * Fang Gu
@@ -206,7 +205,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 45 - $${\color{darkred}No Dashii}$$
 * Vortox
 * Lord of Typhon
-* Vigormortis
+* 48 - $${\color{darkred}Vigormortis}$$
 * 49 - $${\color{darkred}Ojo}$$
 * Al-Hadikhia
 * Lleech
@@ -275,6 +274,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.139.0
+* Vigormortis
 ### 0.138.0
 * Zombuul
 ### 0.137.0
