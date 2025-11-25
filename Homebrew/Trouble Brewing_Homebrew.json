@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp_tb","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief_tb","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief_tb","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp_tb","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -433,7 +433,34 @@
         "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
     },
     "bureaucrat",
-    "thief",
+    {
+        "id": "thief_tb",
+        "name": "Thief",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/thief-DWMyBS_x.webp",
+            "https://botc.app/assets/thief_g-CPsEnUSQ.webp",
+            "https://botc.app/assets/thief_e-yPbPTo5i.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 12,
+        "firstNightReminder": "The Thief chooses a player. :reminder:",
+        "otherNight": 7,
+        "otherNightReminder": "The Thief chooses a player. :reminder:",
+        "reminders": [
+            "Negative Vote"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): their vote counts negatively tomorrow.",
+        "flavor": "I ain't done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far.",
+        "special": [
+            {
+                "name": "multiplier",
+                "type": "vote",
+                "value": -1
+            }
+        ]
+    },
     "gunslinger",
     "scapegoat",
     "beggar"
