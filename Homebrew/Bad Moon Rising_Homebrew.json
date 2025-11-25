@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
         "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka_bmr", "grandmother_bmr", "chambermaid_bmr", "dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul","pukka_bmr","shabaloth_bmr","po","assassin_bmr","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul","pukka_bmr","shabaloth_bmr","po_bmr","assassin_bmr","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -441,7 +441,27 @@
         "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
         "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
-    "po",
+    {
+        "id": "po_bmr",
+        "name": "Po",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/po_e-BkxsM_xT.webp",
+            "https://botc.app/assets/po_g-blqsHHpB.webp"
+        ],
+        "team": "demon",
+        "otherNight": 43,
+        "otherNightReminder": "The Po may choose a player OR chooses 3 players if they chose no-one last night. :reminder: or :reminder: :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Dead",
+            "Dead",
+            "3 Attacks"
+        ],
+        "setup": false,
+        "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
+        "flavor": "Would you like a flower? I'm so lonely."
+    },
     "apprentice",
     "matron",
     "judge",    

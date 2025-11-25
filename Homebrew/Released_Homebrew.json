@@ -2778,7 +2778,27 @@
         "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
         "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
     },
-    "po",
+    {
+        "id": "po_rah",
+        "name": "Po",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/po_e-BkxsM_xT.webp",
+            "https://botc.app/assets/po_g-blqsHHpB.webp"
+        ],
+        "team": "demon",
+        "otherNight": 43,
+        "otherNightReminder": "The Po may choose a player OR chooses 3 players if they chose no-one last night. :reminder: or :reminder: :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Dead",
+            "Dead",
+            "3 Attacks"
+        ],
+        "setup": false,
+        "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
+        "flavor": "Would you like a flower? I'm so lonely."
+    },
     "zombuul",
     "vigormortis",
     "vortox",
