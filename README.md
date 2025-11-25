@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Lil' Monsta
 * No Dashii
 * Imp
 * Shabaloth
@@ -113,7 +112,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 26 - $${\color{darkred}Marionette}$$
 * 27 - $${\color{deepskyblue}Engineer}$$
 * 28 - $${\color{deepskyblue}Preacher}$$
-* Lil' Monsta
+* 29 - $${\color{darkred}Lil' Monsta}$$
 * Lleech
 * 31 - $${\color{darkred}Xaan}$$
 * 32 - $${\color{darkred}Poisoner}$$
@@ -218,7 +217,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Ojo
 * Al-Hadikhia
 * Lleech
-* Lil' Monsta
+* 52 - $${\color{darkred}Lil' Monsta}$$
 * 53 - $${\color{darkred}Yaggababble}$$
 * Kazali
 * 55 - $${\color{darkred}Assassin}$$
@@ -283,6 +282,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.131.0
+* Lil' Monsta
 ### 0.130.0
 * Pukka
 ### 0.129.0

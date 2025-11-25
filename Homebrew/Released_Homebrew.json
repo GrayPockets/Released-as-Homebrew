@@ -2623,7 +2623,65 @@
         "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
         "flavor": "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
     },
-    "lilmonsta",
+    {
+        "id": "lilmonsta_rah",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies & the Demon chooses Lil' Monsta, they also choose a Minion to become."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Magician is alive, the Storyteller chooses which Minion babysits Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If Lil' Monsta & the Poppy Grower are alive, Minions wake one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "psychopath",
+                "reason": "If the Psychopath is babysitting Lil' Monsta, they die when executed."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If Lil' Monsta dies with 5 or more players alive, the Scarlet Woman babysits Lil' Monsta for the rest of the game."
+            },
+            {
+                "id": "vizier",
+                "reason": "If the Vizier is babysitting Lil' Monsta, they die when executed."
+            }
+        ]
+    },
     "nodashii",
     "imp",
     "shabaloth",

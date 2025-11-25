@@ -894,6 +894,128 @@
         ]
     },
     {
+        "id": "lilmonsta_gah1",
+        "name": "Lil' Monsta (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "psychopath",
+                "reason": "If the Psychopath is babysitting Lil' Monsta, they die when executed."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah2",
+        "name": "Lil' Monsta (Older Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "psychopath",
+                "reason": "If the Psychopath is babysitting Lil' Monsta, they die when executed."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
