@@ -2758,7 +2758,26 @@
         "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
         "flavor": "Like a bonfire on a moonless night… I see you, mortal."
     },
-    "kazali",
+    {
+        "id": "kazali_rah",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+    },
     "po",
     "zombuul",
     "vigormortis",
