@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Organ Grinder
 * Boffin
 * Baron
 * Yaggababble
@@ -127,7 +126,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 35 - $${\color{darkred}Wizard}$$
 * 36 - $${\color{deepskyblue}Snake Charmer}$$
 * 37 - $${\color{darkred}Godfather}$$
-* Organ Griner
+* 38 - $${\color{darkred}Organ Grinder}$$
 * 39 - $${\color{darkred}Devil's Advocate}$$
 * 40 - $${\color{darkred}Evil Twin}$$
 * 41 - $${\color{darkred}Witch}$$
@@ -195,7 +194,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 21 - $${\color{deepskyblue}Acrobat}$$
 * 22 - $${\color{deepskyblue}Snake Charmer}$$
 * 23 - $${\color{deepskyblue}Monk}$$
-* Organ Grinder
+* 24 - $${\color{darkred}Organ Grinder}$$
 * 25 - $${\color{darkred}Devil's Advocate}$$
 * 26 - $${\color{darkred}Witch}$$
 * 27 - $${\color{darkred}Cerenovus}$$
@@ -288,6 +287,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.126.0
+* Organ Grinder
 ### 0.125.0
 * Vizier
 ### 0.124.0

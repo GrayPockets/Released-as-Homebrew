@@ -2488,7 +2488,33 @@
             }
         ]
     },
-    "organgrinder",
+    {
+        "id": "organgrinder_rah",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die",
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ]
+    },
     "boffin",
     "baron",
     "yaggababble",
