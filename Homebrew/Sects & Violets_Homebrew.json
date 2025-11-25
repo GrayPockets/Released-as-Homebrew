@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
@@ -333,7 +333,24 @@
         "ability": "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",
         "flavor": "Oops."
     },
-    "eviltwin",
+    {
+        "id": "eviltwin_snv",
+        "name": "Evil Twin",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
+        ],
+        "team": "minion",
+        "firstNight": 40,
+        "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
+        "reminders": [
+            "Twin"
+        ],
+        "setup": false,
+        "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+        "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+    },
     {
         "id": "witch_snv",
         "name": "Witch",

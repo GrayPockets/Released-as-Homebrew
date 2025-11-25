@@ -2342,7 +2342,24 @@
             }
         ]
     },
-    "eviltwin",
+    {
+        "id": "eviltwin_rah",
+        "name": "Evil Twin",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
+        ],
+        "team": "minion",
+        "firstNight": 40,
+        "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
+        "reminders": [
+            "Twin"
+        ],
+        "setup": false,
+        "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+        "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+    },
     "goblin",
     "boomdandy",
     "mastermind",
