@@ -481,7 +481,20 @@
         "flavor": "Would you like a flower? I'm so lonely."
     },
     "apprentice",
-    "matron",
+    {
+        "id": "matron_bmr",
+        "name": "Matron",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/matron-D4Vegu5w.webp",
+            "https://botc.app/assets/matron_g-faTHHRCk.webp",
+            "https://botc.app/assets/matron_e-i60IfjWL.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.",
+        "flavor": "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
+    },
     "judge",    
     "bishop",
     "voudon"
