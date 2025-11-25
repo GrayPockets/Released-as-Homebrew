@@ -626,6 +626,27 @@
         ]
     },
     {
+        "id": "harpy_gah",
+        "name": "Harpy (Classic)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/harpy_e-ChKTPCeL.webp",
+            "https://botc.app/assets/harpy_g-Bp6VIdav.webp"
+        ],
+        "team": "minion",
+        "firstNight": 44,
+        "firstNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "otherNight": 30,
+        "otherNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "reminders": [
+            "Mad",
+            "2nd"
+        ],
+        "setup": false,
+        "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.",
+        "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me."
+    },
+    {
         "id": "widow_gah",
         "name": "Widow",
         "edition": "carousel",
