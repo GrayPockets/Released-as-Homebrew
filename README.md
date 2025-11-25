@@ -255,13 +255,10 @@ The following is a full list of night order. This is so night order numbers can 
 * Dawn
 * Leviathan
 
-# Open Online app bugs that interact with these examples
-* Off-Script Travellers don't appear in the night order: https://discord.com/channels/1011236067560669234/1439394043674234944
-* Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
-* Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
+# Open Online app missing features
 * Cacklejack is not implemented.
-* JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
+    * Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
     * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
@@ -271,9 +268,11 @@ The following is a full list of night order. This is so night order numbers can 
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
     * "atheist": Global duplicate characters is not available.
-    * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
+    * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.140.1
+* Online app bug documentation
 ### 0.140.0
 * Vortox
 ### 0.139.0
