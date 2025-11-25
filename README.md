@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Yaggababble
 * Pukka
 * Lil' Monsta
 * No Dashii
@@ -103,7 +102,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 14 - $${\color{deepskyblue}Philosopher}$$
 * 15 - $${\color{deepskyblue}Alchemist}$$
 * 16 - $${\color{deepskyblue}Poppy Grower}$$
-* Yaggababble
+* 17 - $${\color{darkred}Yaggababble}$$
 * 18 - $${\color{deepskyblue}Magician}$$
 * Minion Info
 * 20 - $${\color{deepskyblue}Snitch}$$
@@ -221,7 +220,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Al-Hadikhia
 * Lleech
 * Lil' Monsta
-* Yaggababble
+* 53 - $${\color{darkred}Yaggababble}$$
 * Kazali
 * 55 - $${\color{darkred}Assassin}$$
 * 56 - $${\color{darkred}Godfather}$$
@@ -285,6 +284,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.129.0
+* Yaggababble
 ### 0.128.0
 * Baron
 ### 0.127.0
