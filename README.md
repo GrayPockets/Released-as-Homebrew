@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Boffin
 * Baron
 * Yaggababble
 * Pukka
@@ -101,7 +100,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Barista
 * Bureaucrat
 * Thief
-* Boffin
+* 13 - $${\color{darkred}Boffin}$$
 * 14 - $${\color{deepskyblue}Philosopher}$$
 * 15 - $${\color{deepskyblue}Alchemist}$$
 * 16 - $${\color{deepskyblue}Poppy Grower}$$
@@ -287,6 +286,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.127.0
+* Boffin
 ### 0.126.0
 * Organ Grinder
 ### 0.125.0
