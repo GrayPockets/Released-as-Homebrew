@@ -2360,7 +2360,22 @@
         "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
         "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
     },
-    "goblin",
+    {
+        "id": "goblin_rah",
+        "name": "Goblin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/goblin_e-5zp-L7ts.webp",
+            "https://botc.app/assets/goblin_g-Dm3DHjuy.webp"
+        ],
+        "team": "minion",
+        "reminders": [
+            "Claimed"
+        ],
+        "setup": false,
+        "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.",
+        "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+    },
     "boomdandy",
     "mastermind",
     "scarletwoman",
