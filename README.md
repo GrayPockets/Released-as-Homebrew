@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Scarlet Woman
 * vizier
 * Organ Grinder
 * Boffin
@@ -205,7 +204,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 29 - $${\color{darkred}Fearmonger}$$
 * 30 - $${\color{darkred}Harpy}$$
 * 31 - $${\color{darkred}Mezepheles}$$
-* Scarlet Woman
+* 32 - $${\color{darkred}Scarlet Woman}$$
 * 33 - $${\color{deepskyblue}Summoner}$$
 * 34 - $${\color{deepskyblue}Lunatic}$$
 * 35 - $${\color{deepskyblue}Exorcist}$$
@@ -290,6 +289,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.124.0
+* Scarlet Woman
 ### 0.123.0
 * Mastermind
 ### 0.122.0

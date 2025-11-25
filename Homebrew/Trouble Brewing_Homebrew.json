@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -373,7 +373,34 @@
             }
         ]
     },
-    "scarletwoman",
+    {
+        "id": "scarletwoman_tb",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again."
+            },
+            {
+                "id": "fanggu",
+                "reason": "If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman remains the Scarlet Woman."
+            }
+        ]
+    },
     "baron",
     "imp",
     "bureaucrat",
