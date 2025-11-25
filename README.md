@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Harlot
 * Butcher
 * Gunslinger
 * Matron
@@ -154,7 +153,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 5.5 - $${\color{fuchsia}Cacklejack}$$
 * 6 - $${\color{fuschia}Bureaucrat}$$
 * 7 - $${\color{fuschia}Thief}$$
-* Harlot
+* 8 - $${\color{fuschia}Harlot}$$
 * Bone Collector
 * 10 - $${\color{deepskyblue}Philosopher}$$
 * 11 - $${\color{deepskyblue}Poppy Grower}$$
@@ -261,6 +260,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.151.0
+* Harlot
 ### 0.150.1
 * Traveller Markdown color
 ### 0.150.0

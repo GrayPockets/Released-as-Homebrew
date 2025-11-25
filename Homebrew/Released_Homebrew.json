@@ -3248,7 +3248,26 @@
         "ability": "Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.",
         "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
     },
-    "harlot",
+    {
+        "id": "harlot_rah",
+        "name": "Harlot",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/harlot-aJaTZULk.webp",
+            "https://botc.app/assets/harlot_g-DfGUnLek.webp",
+            "https://botc.app/assets/harlot_e-CDyE0Kdh.webp"
+        ],
+        "team": "traveller",
+        "otherNight": 8,
+        "otherNightReminder": "The Harlot points at any living player. Then, put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die.",
+        "reminders": [
+            "Dead",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a living player: if they agree, you learn their character, but you both might die.",
+        "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+    },
     "butcher",
     {
         "id": "cacklejack_rah",
