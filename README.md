@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Pukka
 * Lil' Monsta
 * No Dashii
 * Imp
@@ -131,7 +130,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 43 - $${\color{darkred}Fearmonger}$$
 * 44 - $${\color{darkred}Harpy}$$
 * 45 - $${\color{darkred}Mezepheles}$$
-* Pukka
+* 46 - $${\color{darkred}Pukka}$$
 * 47 - $${\color{deepskyblue}Pixie}$$
 * 48 - $${\color{deepskyblue}Huntsman}$$
 * 49 - $${\color{deepskyblue}Damsel}$$
@@ -208,7 +207,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Legion
 * Imp
 * Zombuul
-* Pukka
+* 41 - $${\color{darkred}Pukka}$$
 * Shabaloth
 * Po
 * Fang Gu
@@ -284,6 +283,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.130.0
+* Pukka
 ### 0.129.0
 * Yaggababble
 ### 0.128.0

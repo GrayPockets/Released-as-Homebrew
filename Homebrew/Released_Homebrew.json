@@ -2601,7 +2601,28 @@
             }
         ]
     },
-    "pukka",
+    {
+        "id": "pukka_rah",
+        "name": "Pukka",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/pukka_e-CmZzVHPM.webp",
+            "https://botc.app/assets/pukka_g-D7il5SFF.webp"
+        ],
+        "team": "demon",
+        "firstNight": 46,
+        "firstNightReminder": "The Pukka chooses a player. :reminder:",
+        "otherNight": 41,
+        "otherNightReminder": "The Pukka chooses a player. :reminder: The previously poisoned player dies then becomes healthy. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Poisoned",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
+        "flavor": "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
+    },
     "lilmonsta",
     "nodashii",
     "imp",
