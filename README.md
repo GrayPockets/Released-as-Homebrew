@@ -74,9 +74,9 @@ The following is a full list of night order. This is so night order numbers can 
 * 7 - $${\color{darkred}Lord of Typhon}$$
 * 8 - $${\color{darkred}Kazali}$$
 * Apprentice
-* 10 - $${\color{mediumvioletred}Barista}$$
-* 11 - $${\color{mediumvioletred}Bureaucrat}$$
-* 12 - $${\color{mediumvioletred}Thief}$$
+* 10 - $${\color{fuschia}Barista}$$
+* 11 - $${\color{fuschia}Bureaucrat}$$
+* 12 - $${\color{fuschia}Thief}$$
 * 13 - $${\color{darkred}Boffin}$$
 * 14 - $${\color{deepskyblue}Philosopher}$$
 * 15 - $${\color{deepskyblue}Alchemist}$$
@@ -150,10 +150,10 @@ The following is a full list of night order. This is so night order numbers can 
 * Duchess
 * Toymaker
 * 4 - $${\color{darkred}Wraith}$$
-* 5 - $${\color{mediumvioletred}Barista}$$
+* 5 - $${\color{fuschia}Barista}$$
 * 5.5 - $${\color{fuchsia}Cacklejack}$$
-* 6 - $${\color{mediumvioletred}Bureaucrat}$$
-* 7 - $${\color{mediumvioletred}Thief}$$
+* 6 - $${\color{fuschia}Bureaucrat}$$
+* 7 - $${\color{fuschia}Thief}$$
 * Harlot
 * Bone Collector
 * 10 - $${\color{deepskyblue}Philosopher}$$
@@ -261,6 +261,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.150.1
+* Traveller Markdown color
 ### 0.150.0
 * Barista
 ### 0.149.0
