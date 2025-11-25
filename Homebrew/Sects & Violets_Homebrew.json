@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis_snv","nodashii_snv","vortox_snv","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu_snv","vigormortis_snv","nodashii_snv","vortox_snv","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -438,7 +438,25 @@
             }
         ]
     },
-    "fanggu",
+    {
+        "id": "fanggu_rah",
+        "name": "Fang Gu",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/fanggu_e-6DavSWxL.webp",
+            "https://botc.app/assets/fanggu_g-Dwai_VtD.webp"
+        ],
+        "team": "demon",
+        "otherNight": 44,
+        "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:",
+        "reminders": [
+            "Dead",
+            "Once"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+        "flavor": "Your walls and your weapons are but smoke in dreams."
+    },
     {
         "id": "vigormortis_snv",
         "name": "Vigormortis",

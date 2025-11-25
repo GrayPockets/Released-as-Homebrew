@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Fang Gu
 * Lord of Typhon
 * Lleech
 * Al-Hadikhia
@@ -199,7 +198,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 41 - $${\color{darkred}Pukka}$$
 * 42 - $${\color{darkred}Shabaloth}$$
 * 43 - $${\color{darkred}Po}$$
-* Fang Gu
+* 44 - $${\color{darkred}Fang Gu}$$
 * 45 - $${\color{darkred}No Dashii}$$
 * 46 - $${\color{darkred}Vortox}$$
 * Lord of Typhon
@@ -270,6 +269,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.142.0
+* Fang Gu
 ### 0.141.3
 * Vestigial character name correction
 ### 0.141.2
