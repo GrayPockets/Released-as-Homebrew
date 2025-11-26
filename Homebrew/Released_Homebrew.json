@@ -3498,6 +3498,23 @@
         "flavor": "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
     },
     {
+        "id": "zenomancer_rah",
+        "name": "Zenomancer",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/zenomancer-C6zEtMpb.webp"
+        ],
+        "reminders": [
+            "Goal",
+            "Goal",
+            "Goal"
+        ],
+        "setup": false,
+        "team": "loric",
+        "ability": "One or more players each have a goal. When achieved, that player learns a piece of true info.",
+        "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
+    },
+    {
         "id": "gardener_rah",
         "name": "Gardener",
         "edition": "loric",
