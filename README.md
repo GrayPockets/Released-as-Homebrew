@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Toymaker
 * Djinn
 * Hell's Librarian
 * Angel
@@ -43,7 +42,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Dusk
 * Angel
 * 3 - $${\color{goldenrod}Buddhist}$$
-* Toymaker
+* 4 - $${\color{goldenrod}Toymaker}$$
 * 5 - $${\color{olivedrab}Storm Catcher}$$
 * 6 - $${\color{darkred}Wraith}$$
 * 7 - $${\color{darkred}Lord of Typhon}$$
@@ -123,7 +122,7 @@ The following is a full list of night order. This is so night order numbers can 
 ### Other Nights Order
 * Dusk
 * 2 - $${\color{goldenrod}Duchess}$$
-* Toymaker
+* 3 - $${\color{goldenrod}Toymaker}$$
 * 4 - $${\color{darkred}Wraith}$$
 * 5 - $${\color{fuschia}Barista}$$
 * 5.5 - $${\color{fuchsia}Cacklejack}$$
@@ -239,6 +238,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.176.0
+* Toymaker
 ### 0.175.0
 * Sentinel
 ### 0.174.0
