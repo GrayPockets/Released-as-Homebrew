@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Sentinel
 * Toymaker
 * Djinn
 * Hell's Librarian
@@ -240,6 +239,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.175.0
+* Sentinel
 ### 0.174.0
 * Spirit of Ivory
 ### 0.173.0

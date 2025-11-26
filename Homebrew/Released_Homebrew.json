@@ -3686,7 +3686,18 @@
         "ability": "There can't be more than 1 extra evil player.",
         "flavor": "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
     },
-    "sentinel",
+    {
+        "id": "sentinel_rah",
+        "name": "Sentinel",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/sentinel-BaOVo1PE.webp"
+        ],
+        "team": "fabled",
+        "setup": true,
+        "ability": "There might be 1 extra or 1 fewer Outsider in play.",
+        "flavor": "Name, please. Papers, please. Weapons, please."
+    },
     "toymaker",
     "djinn",
     {
