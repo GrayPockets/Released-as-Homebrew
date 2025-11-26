@@ -233,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.184.1
+* Dusk night order correction
 ### 0.184.0
 * Dawn
 ### 0.183.1

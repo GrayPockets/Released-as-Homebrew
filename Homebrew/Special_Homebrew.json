@@ -15,6 +15,8 @@
         "team": "fabled",
         "firstNight": 1,
         "firstNightReminder": "Start the Night Phase.",
+        "otherNight": 1,
+        "otherNightReminder": "Start the Night Phase.",
         "setup": false,
         "ability": "Starts the Night Phase."
     },
