@@ -3717,7 +3717,18 @@
         "ability": "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info.",
         "flavor": "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
     },
-    "djinn",
+    {
+        "id": "djinn_rah",
+        "name": "Djinn",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/djinn-SYNTW9dK.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "Use the Djinn's special rule. All players know what it is.",
+        "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
+    },
     {
         "id": "buddhist_rah",
         "name": "Buddhist",
