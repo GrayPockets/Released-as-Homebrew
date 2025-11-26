@@ -233,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.183.1
+* Secret as homebrew name update
 ### 0.183.0
 * Dusk
 ### 0.182.7
