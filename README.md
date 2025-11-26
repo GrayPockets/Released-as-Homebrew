@@ -231,6 +231,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.183.2
+* The Big Barnacle flavor correction
 ### 0.182.1
 * Grognard documentation update
 ### 0.182.0
