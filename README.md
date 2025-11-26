@@ -42,10 +42,10 @@ The following is a full list of night order. This is so night order numbers can 
 * 6 - $${\color{darkred}Wraith}$$
 * 7 - $${\color{darkred}Lord of Typhon}$$
 * 8 - $${\color{darkred}Kazali}$$
-* 9 - $${\color{fuschia}Apprentice}$$
-* 10 - $${\color{fuschia}Barista}$$
-* 11 - $${\color{fuschia}Bureaucrat}$$
-* 12 - $${\color{fuschia}Thief}$$
+* 9 - $${\color{fuchsia}Apprentice}$$
+* 10 - $${\color{fuchsia}Barista}$$
+* 11 - $${\color{fuchsia}Bureaucrat}$$
+* 12 - $${\color{fuchsia}Thief}$$
 * 13 - $${\color{darkred}Boffin}$$
 * 14 - $${\color{deepskyblue}Philosopher}$$
 * 15 - $${\color{deepskyblue}Alchemist}$$
@@ -119,12 +119,12 @@ The following is a full list of night order. This is so night order numbers can 
 * 2 - $${\color{goldenrod}Duchess}$$
 * 3 - $${\color{goldenrod}Toymaker}$$
 * 4 - $${\color{darkred}Wraith}$$
-* 5 - $${\color{fuschia}Barista}$$
+* 5 - $${\color{fuchsia}Barista}$$
 * 5.5 - $${\color{fuchsia}Cacklejack}$$
-* 6 - $${\color{fuschia}Bureaucrat}$$
-* 7 - $${\color{fuschia}Thief}$$
-* 8 - $${\color{fuschia}Harlot}$$
-* 9 - $${\color{fuschia}Bone Collector}$$
+* 6 - $${\color{fuchsia}Bureaucrat}$$
+* 7 - $${\color{fuchsia}Thief}$$
+* 8 - $${\color{fuchsia}Harlot}$$
+* 9 - $${\color{fuchsia}Bone Collector}$$
 * 10 - $${\color{deepskyblue}Philosopher}$$
 * 11 - $${\color{deepskyblue}Poppy Grower}$$
 * 12 - $${\color{deepskyblue}Sailor}$$
@@ -236,6 +236,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.186.2
+* Traveller markdown color correction
 ### 0.186.1
 * Online app bug documentation correction
 ### 0.186.0
