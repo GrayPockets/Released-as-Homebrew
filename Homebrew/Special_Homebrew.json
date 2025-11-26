@@ -21,6 +21,19 @@
         "ability": "Starts the Night Phase."
     },
     {
+        "id": "minioninfo_sah",
+        "name": "Minion Info",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/minion-info-5qfuy8Qq.webp"
+        ],
+        "team": "fabled",
+        "firstNight": 19,
+        "firstNightReminder": "If there are 7 or more players, wake all Minions: Show the *THIS IS THE DEMON* token. Point to the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the other Minions.",
+        "setup": false,
+        "ability": "Display Minion information."
+    },
+    {
         "id": "dawn_sah",
         "name": "Dawn",
         "edition": "special",

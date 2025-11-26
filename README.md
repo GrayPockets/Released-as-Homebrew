@@ -52,7 +52,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 16 - $${\color{deepskyblue}Poppy Grower}$$
 * 17 - $${\color{darkred}Yaggababble}$$
 * 18 - $${\color{deepskyblue}Magician}$$
-* Minion Info
+* 19 - $${\color{black}Minion Info}$$
 * 20 - $${\color{deepskyblue}Snitch}$$
 * 21 - $${\color{deepskyblue}Lunatic}$$
 * 22 - $${\color{darkred}Summoner}$$
@@ -233,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.185.0
+* Minion Info
 ### 0.184.1
 * Dusk night order correction
 ### 0.184.0
