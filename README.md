@@ -110,7 +110,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 74 - $${\color{deepskyblue}General}$$
 * 75 - $${\color{deepskyblue}Chambermaid}$$
 * 76 - $${\color{deepskyblue}Mathematician}$$
-* Dawn
+* 77 - $${\color{black}Dawn}$$
 * 78 - $${\color{darkred}Leviathan}$$
 * 79 - $${\color{darkred}Vizier}$$
 
@@ -211,7 +211,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 93 - $${\color{deepskyblue}General}$$
 * 94 - $${\color{deepskyblue}Chambermaid}$$
 * 95 - $${\color{deepskyblue}Mathematician}$$
-* Dawn
+* 96 - $${\color{black}Dawn}$$
 * 97 - $${\color{darkred}Leviathan}$$
 
 # Open Online app missing features
@@ -233,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.184.0
+* Dawn
 ### 0.183.1
 * Secret as homebrew name update
 ### 0.183.0
