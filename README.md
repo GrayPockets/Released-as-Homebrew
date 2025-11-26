@@ -218,21 +218,26 @@ The following is a full list of night order. This is so night order numbers can 
 Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
 * Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
-* "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
-* "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
-* "magician": Character token does not appear in Minion Info.
-* "magician": Character token does not appear in Demon Info.
-* "banshee": Raising more than one hand is not available.
-* "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+* Demon Info, Minion Info, and other character type special effects are unable to be called upon: https://discord.com/channels/1011236067560669234/1383723585386057788
+   * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
+    * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
+    * "magician": Character token does not appear in Minion Info.
+    * "magician": Character token does not appear in Demon Info.
+* "banshee": Raising more than one hand is not available: https://discord.com/channels/1011236067560669234/1295364988952641578
+* "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order: https://discord.com/channels/1011236067560669234/1243146222907428895
 * "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
 * "voudon": Voudon style voting is not available.
 * "atheist": Global duplicate characters is not available.
 * "tor": Blind start is not available.
 * "bigwig": Defense attorney is not available.
 * "revolutionary": Aligned character protection is not available.
-* "bootlegger": Making your own lists for Fabled to display is not avaialable.
+* "bootlegger": Making your own lists for Fabled to display is not available.
+* "dawn", "minioninfo", "demoninfo", "dusk": Cannot modify the instruction text: https://discord.com/channels/1011236067560669234/1410705219364585614
+* Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.186.1
+* Online app bug documentation correction
 ### 0.186.0
 * Demon Info
 ### 0.185.0
