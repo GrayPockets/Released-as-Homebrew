@@ -6,6 +6,96 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
+        "id": "townsfolk_sah",
+        "name": "Townsfolk",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/townsfolk_g-CKaS3yKc.webp",
+            "https://botc.app/assets/townsfolk_e-CHxn-dgu.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "You are a Townsfolk.",
+        "flavor": "I am a good Townfolk."
+    },
+    {
+        "id": "outsider_sah",
+        "name": "Outsider",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/outsider_g-BzhBt4on.webp",
+            "https://botc.app/assets/outsider_e-CgWWsKPC.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "You are an Outsider.",
+        "flavor": "I confirmed by Outsider count."
+    },
+    {
+        "id": "minion_sah",
+        "name": "Minion",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/minion_e-lDFo-tEX.webp",
+            "https://botc.app/assets/minion_g-Cgm5WnSR.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "You are an Minion.",
+        "flavor": "I confirmed by Outsider count."
+    },
+    {
+        "id": "demon_sah",
+        "name": "Demon",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/demon_e-BE73nmRM.webp",
+            "https://botc.app/assets/demon_g-CSs6ZD66.webp"
+        ],
+        "team": "demon",
+        "setup": false,
+        "ability": "You are the Demon.",
+        "flavor": "I am a good Townfolk."
+    },
+    {
+        "id": "traveller_sah",
+        "name": "Traveller",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/traveller-CmR1gFU-.webp",
+            "https://botc.app/assets/traveller_e-ezMTv16C.webp",
+            "https://botc.app/assets/traveller_g-BNxDoGo0.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "You are a Traveller.",
+        "flavor": "I am not staying long."
+    },
+    {
+        "id": "loric_sah",
+        "name": "Loric",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/loric-DAp9AMZR.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "The game is changed in a creative way.",
+        "flavor": "Let's shake things up."
+    },
+    {
+        "id": "fabled_sah",
+        "name": "Fabled",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/fabled-WyWuPk8w.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "The Storyteller has a tool to make the game smooth.",
+        "flavor": "A Fabled is in play."
+    },
+    {
         "id": "dusk_sah",
         "name": "Dusk",
         "edition": "special",
