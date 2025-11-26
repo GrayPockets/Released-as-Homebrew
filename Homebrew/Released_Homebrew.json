@@ -3483,7 +3483,20 @@
         "ability": "Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.",
         "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
     },
-    "voudon",
+    {
+        "id": "voudon_rah",
+        "name": "Voudon",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/voudon-CNiyV0sS.webp",
+            "https://botc.app/assets/voudon_g-D-tbnf_D.webp",
+            "https://botc.app/assets/voudon_e-D9qWXIyp.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Only you & the dead can vote. They don't need a vote token to do so. A 50% majority isn't required.",
+        "flavor": "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
+    },
     {
         "id": "gardener_rah",
         "name": "Gardener",

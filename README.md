@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Voudon
 * Zenomancer
 * Tor
 * Storm Catcher
@@ -244,10 +243,13 @@ The following is a full list of night order. This is so night order numbers can 
     * "banshee": Raising more than one hand is not available.
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
+    * "voudon": Voudon style voting is not available.
     * "atheist": Global duplicate characters is not available.
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.164.0
+* Voudon
 ### 0.163.0
 * Bishop
 ### 0.162.0
