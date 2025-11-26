@@ -3575,7 +3575,18 @@
         "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
         "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
     },
-    "bigwig",
+    {
+        "id": "bigwig_rah",
+        "name": "Big Wig",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/bigwig-BSza_a7D.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
+        "flavor": "Vanity asks ‘Is it popular?’ Cowardice asks ‘Is it safe?’ Conscience asks ‘Is it right?’ Who among us will ask: ‘Is it true?’"
+    },
     "duchess",
     "fibbin",
     "fiddler",

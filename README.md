@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Big Wig
 * Duchess
 * Fibbin
 * Fiddler
@@ -243,9 +242,12 @@ The following is a full list of night order. This is so night order numbers can 
     * "voudon": Voudon style voting is not available.
     * "atheist": Global duplicate characters is not available.
     * "tor": Blind start is not available.
+    * "bigwig": Defense attorny is not available.
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.168.0
+* Big Wig
 ### 0.167.0
 * Storm Catcher
 ### 0.166.0
