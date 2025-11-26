@@ -3283,25 +3283,6 @@
         "flavor": "It tastes like chicken. More please."
     },
     {
-        "id": "cacklejack_rah",
-        "name": "Cacklejack",
-        "edition": "experimental",
-        "image": [
-            "https://raw.githubusercontent.com/tomozbot/botc-icons/refs/heads/main/PNG/cacklejack.png",
-            "https://raw.githubusercontent.com/tomozbot/botc-icons/refs/heads/main/PNG/Alternate/cacklejack_g.png",
-            "https://raw.githubusercontent.com/tomozbot/botc-icons/refs/heads/main/PNG/Alternate/cacklejack_e.png"
-        ],
-        "team": "traveller",
-        "otherNight": 5.5,
-        "otherNightReminder": "Wake any player without *NOT ME*. Show the *YOU ARE* token & their new character token.",
-        "reminders": [
-            "Not Me"
-        ],
-        "setup": false,
-        "ability": "Each day, choose a player: a different player changes character tonight.",
-        "flavor": "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
-    },
-    {
         "id": "gunslinger_rah",
         "name": "Gunslinger",
         "edition": "tb",
