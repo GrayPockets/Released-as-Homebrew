@@ -21,7 +21,7 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 ## Originals
 A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
-## Old Versions
+## Grognard Versions
 A copy of older versions of characters are included for grognards.
 
 ## Special Characters
@@ -231,6 +231,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.182.1
+* Grognard documentation update
 ### 0.182.0
 * The Big Barnacle
 ### 0.181.1
