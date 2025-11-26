@@ -3758,7 +3758,25 @@
         "ability": "Something bad might happen to whoever talks when the Storyteller has asked for silence.",
         "flavor": "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
     },
-    "angel",
+    {
+        "id": "angel_rah",
+        "name": "Angel",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/angel-Ayuhu7Hq.webp"
+        ],
+        "team": "fabled",
+        "firstNight": 2,
+        "firstNightReminder": "Announce which players are protected by the Angel. Add the *PROTECTED* token to the relevant players.",
+        "reminders": [
+            "Protected",
+            "Protected",
+            "Something Bad"
+        ],
+        "setup": false,
+        "ability": "Something bad might happen to whoever is most responsible for the death of a new player.",
+        "flavor": "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
+    },
     "deusexfiasco",
     "revolutionary"
 ]
