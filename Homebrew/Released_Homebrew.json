@@ -3659,7 +3659,18 @@
             }
         ]
     },
-    "doomsayer",
+    {
+        "id": "doomsayer_rah",
+        "name": "Doomsayer",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/doomsayer-tGT5Bk_R.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies.",
+        "flavor": "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
+    },
     "spiritofivory",
     "sentinel",
     "toymaker",
