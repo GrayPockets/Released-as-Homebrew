@@ -34,6 +34,19 @@
         "ability": "Display Minion information."
     },
     {
+        "id": "demoninfo_sah",
+        "name": "Demon Info",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/demon-info-B8oHUaMT.webp"
+        ],
+        "team": "fabled",
+        "firstNight": 23,
+        "firstNightReminder": "If there are 7 or more players, wake the Demon: Show the *THESE ARE YOUR MINIONS* token. Point to all Minions. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "setup": false,
+        "ability": "Display Demon information."
+    },
+    {
         "id": "dawn_sah",
         "name": "Dawn",
         "edition": "special",

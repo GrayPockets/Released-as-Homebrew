@@ -56,7 +56,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 20 - $${\color{deepskyblue}Snitch}$$
 * 21 - $${\color{deepskyblue}Lunatic}$$
 * 22 - $${\color{darkred}Summoner}$$
-* Demon Info
+* 23 - $${\color{black}Demon Info}$$
 * 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
 * 26 - $${\color{darkred}Marionette}$$
@@ -233,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.186.0
+* Demon Info
 ### 0.185.0
 * Minion Info
 ### 0.184.1
