@@ -223,11 +223,13 @@ The following is a full list of night order. This is so night order numbers can 
     * "voudon": Voudon style voting is not available.
     * "atheist": Global duplicate characters is not available.
     * "tor": Blind start is not available.
-    * "bigwig": Defense attorny is not available.
+    * "bigwig": Defense attorney is not available.
     * "revolutionary": Aligned character protection is not available.
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.181.1
+* Online app bug documentation correction
 ### 0.181.0
 * Revolutionary
 * Documentation update
