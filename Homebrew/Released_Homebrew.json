@@ -3533,7 +3533,19 @@
             }
         ]
     },
-    "tor",
+    {
+        "id": "tor_rah",
+        "name": "Tor",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/tor-DkO8A08D.webp"
+        ],
+        "team": "loric",
+        "otherNightReminder": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+        "setup": true,
+        "ability": "Players don't know their character or alignment. They learn them when they die.",
+        "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth."
+    },
     {
         "id": "bootlegger_rah",
         "name": "Bootlegger",

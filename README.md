@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Tor
 * Storm Catcher
 * Big Wig
 * Duchess
@@ -204,7 +203,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 70 - $${\color{deepskyblue}Tinker}$$
 * 71 - $${\color{deepskyblue}Moonchild}$$
 * 72 - $${\color{deepskyblue}Grandmother}$$
-* Tor
+* 73 - $${\color{olivedrab}Tor}$$
 * 74 - $${\color{deepskyblue}Ravenkeeper}$$
 * 75 - $${\color{deepskyblue}Empath}$$
 * 76 - $${\color{deepskyblue}Fortune Teller}$$
@@ -244,9 +243,12 @@ The following is a full list of night order. This is so night order numbers can 
     * "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
     * "voudon": Voudon style voting is not available.
     * "atheist": Global duplicate characters is not available.
+    * "tor": Blind start is not available.
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.166.0
+* Tor
 ### 0.165.0
 * Zenomancer
 ### 0.164.0
