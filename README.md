@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Hell's Librarian
 * Angel
 * Deus Ex Fiasco
 * Revolutionary
@@ -237,6 +236,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.178.0
+* Hell's Librarian
 ### 0.177.0
 * Djinn
 ### 0.176.1

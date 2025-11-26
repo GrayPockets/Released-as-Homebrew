@@ -3743,7 +3743,21 @@
         "ability": "For the first 2 minutes of each day, veteran players may not talk.",
         "flavor": "You throw thorns. Falling in my silence, they become flowers."
     },
-    "hellslibrarian",
+    {
+        "id": "hellslibrarian_rah",
+        "name": "Hell's Librarian",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/hellslibrarian-DfbmTvS9.webp"
+        ],
+        "team": "fabled",
+        "reminders": [
+            "Something Bad"
+        ],
+        "setup": false,
+        "ability": "Something bad might happen to whoever talks when the Storyteller has asked for silence.",
+        "flavor": "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
+    },
     "angel",
     "deusexfiasco",
     "revolutionary"
