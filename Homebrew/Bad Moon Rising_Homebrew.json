@@ -537,6 +537,23 @@
         "ability": "Once per game, if another player nominated, you may choose to force the current execution to pass or fail.",
         "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
     },
-    "bishop",
+    {
+        "id": "bishop_bmr",
+        "name": "Bishop",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/bishop-LYgE69Ju.webp",
+            "https://botc.app/assets/bishop_g-DdZW0SpA.webp",
+            "https://botc.app/assets/bishop_e-CvwvjoUI.webp"
+        ],
+        "team": "traveller",
+        "reminders": [
+            "Nominate Good",
+            "Nominate Evil"
+        ],
+        "setup": false,
+        "ability": "Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.",
+        "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+    },
     "voudon"
 ]

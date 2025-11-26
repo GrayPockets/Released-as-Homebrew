@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Bishop
 * Voudon
 * Zenomancer
 * Tor
@@ -249,6 +248,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.163.0
+* Bishop
 ### 0.162.0
 * Gnome
 ### 0.161.0

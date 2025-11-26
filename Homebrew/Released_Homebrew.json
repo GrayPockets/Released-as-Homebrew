@@ -3465,7 +3465,24 @@
         "ability": "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them.",
         "flavor": "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o’ the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyse, no greater than is scene, not inherdt. Ha-urrumph."
     },
-    "bishop",
+    {
+        "id": "bishop_rah",
+        "name": "Bishop",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/bishop-LYgE69Ju.webp",
+            "https://botc.app/assets/bishop_g-DdZW0SpA.webp",
+            "https://botc.app/assets/bishop_e-CvwvjoUI.webp"
+        ],
+        "team": "traveller",
+        "reminders": [
+            "Nominate Good",
+            "Nominate Evil"
+        ],
+        "setup": false,
+        "ability": "Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.",
+        "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
+    },
     "voudon",
     {
         "id": "gardener_rah",
