@@ -237,9 +237,11 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Tags are [SemVer](https://semver.org/) with no message.
 * Github release descriptions match the changelog.
 * Commits are required to be squashed and submitted via pull-request.
-* Try to keep pull-requests to one concept at a time, such as a fix for a single character, even if the fix that effect multiple files.
+* Pull-requests fulfill the single-responsibility principal: one concept at a time.
 
 ## Changelog
+### 0.188.1
+* Git expectations documentation correction
 ### 0.188.0
 * Grognard character by date
 ### 0.187.7
