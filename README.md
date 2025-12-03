@@ -240,6 +240,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Pull-requests fulfill the single-responsibility principal: one concept at a time.
 
 ## Changelog
+### 0.188.2
+* Hermit id correction
 ### 0.188.1
 * Git expectations documentation correction
 ### 0.188.0
