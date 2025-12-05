@@ -1,0 +1,572 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Grognard Outsiders as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "butler_gah_20241206",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 57,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 90,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir."
+    },
+    {
+        "id": "butler_gah_20240725",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 57,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 90,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir.",
+        "jinxes": [
+            {
+                "id": "cannibal",
+                "reason": "If the Cannibal gains the Butler ability, the Cannibal learns this."
+            }
+        ]
+    },
+    {
+        "id": "butler_gah_20240515",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 57,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 90,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir."
+    },
+    {
+        "id": "ogre_gah_20251118",
+        "name": "Ogre",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/ogre_g-B3Q_ybOi.webp",
+            "https://botc.app/assets/ogre_e-k2lur_NF.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 72,
+        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "reminders": [
+            "Friend"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+        "flavor": "<grunt><grin></grunt>",
+        "jinxes": [
+            {
+                "id": "recluse",
+                "reason": "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+            }
+        ]
+    },
+    {
+        "id": "ogre_gah_20240523",
+        "name": "Ogre",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/ogre_g-B3Q_ybOi.webp",
+            "https://botc.app/assets/ogre_e-k2lur_NF.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 72,
+        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "reminders": [
+            "Friend"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+        "flavor": "<grunt><grin></grunt>"
+    },
+    {
+        "id": "lunatic_gah_20241206",
+        "name": "Lunatic",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/lunatic_g-Bz2ai2Da.webp",
+            "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 21,
+        "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
+        "otherNight": 34,
+        "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
+        "reminders": [
+            "Chosen",
+            "Chosen",
+            "Chosen"
+        ],
+        "setup": false,
+        "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
+        "flavor": "I am the night... I think.",
+        "jinxes": [
+            {
+                "id": "mathematician",
+                "reason": "The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacks."
+            }
+        ]
+    },
+    {
+        "id": "lunatic_gah_20240428",
+        "name": "Lunatic",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/lunatic_g-Bz2ai2Da.webp",
+            "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 21,
+        "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
+        "otherNight": 34,
+        "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
+        "reminders": [
+            "Chosen",
+            "Chosen",
+            "Chosen"
+        ],
+        "setup": false,
+        "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
+        "flavor": "I am the night... I think."
+    },
+    {
+        "id": "recluse_gah_20251118",
+        "name": "Recluse",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/recluse_g-DxMFqO0r.webp",
+            "https://botc.app/assets/recluse_e-BUtHsTp3.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "You might register as evil & as a Minion or Demon, even if dead.",
+        "flavor": "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
+    },
+    {
+        "id": "plaguedoctor_gah_20251118",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "When you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "wraith",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Wraith ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "plaguedoctor_gah_20250709",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "When you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "plaguedoctor_gah_20241206",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "When you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+    },
+    {
+        "id": "plaguedoctor_gah_20241110",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "If you die, the Storyteller gains a Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+    },
+    {
+        "id": "plaguedoctor_gah_20240627",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+    },
+    {
+        "id": "plaguedoctor_gah_20240515",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller gains the Baron ability, up to two players become out-of-play Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "plaguedoctor_gah_20240125",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "If the Storyteller gains the Baron ability, up to two players become out-of-play Outsiders."
+            },
+            {
+                "id": "boomdandy",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            },
+            {
+                "id": "eviltwin",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "goblin",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Demon has a neighbour who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "spy",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "plaguedoctor_gah_20230829",
+        "name": "Plague Doctor",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+        "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
+    },
+    {
+        "id": "acrobat_gah_20241018",
+        "name": "Acrobat",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/acrobat_g-ClaB0uN4.webp",
+            "https://botc.app/assets/acrobat_e-BtZarrxs.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 72.5,
+        "otherNightReminder": "If either good living neighbor is drunk or poisoned, the Acrobat dies. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, if either good living neighbour is drunk or poisoned, you die.",
+        "flavor": "Welcome, one and all, to the greatest show on earth."
+    },
+    {
+        "id": "damsel_gah_20241110",
+        "name": "Damsel",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/damsel_g-NwMWC09c.webp",
+            "https://botc.app/assets/damsel_e-fpsIFV1Z.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 49,
+        "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "otherNight": 67,
+        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "reminders": [
+            "Guess Used"
+        ],
+        "setup": false,
+        "ability": "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses.",
+        "flavor": "Don't touch the hair, honey."
+    },
+    {
+        "id": "snitch_gah_20241110",
+        "name": "Snitch",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/snitch_g-D_RNpbcY.webp",
+            "https://botc.app/assets/snitch_e-yBlnGiGd.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 20,
+        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token and three not-in-play character tokens. Put each Minion to sleep.",
+        "setup": false,
+        "ability": "Minions start knowing 3 not-in-play characters.",
+        "flavor": "It was John."
+    },
+    {
+        "id": "heretic_gah_20251103",
+        "name": "Heretic",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/heretic_g-DKZZAGQ8.webp",
+            "https://botc.app/assets/heretic_e-EZ4S5b8y.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+        "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman.",
+        "jinxes": [
+            {
+                "id": "baron",
+                "reason": "The Baron might only add 1 Outsider, not 2."
+            },
+            {
+                "id": "boffin",
+                "reason": "The Demon cannot have the Heretic ability."
+            },
+            {
+                "id": "godfather",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "lleech",
+                "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+            },
+            {
+                "id": "pithag",
+                "reason": "A Pit-Hag can not create a Heretic."
+            },
+            {
+                "id": "spy",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "widow",
+                "reason": "Only 1 jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "heretic_gah_20241206",
+        "name": "Heretic",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/heretic_g-DKZZAGQ8.webp",
+            "https://botc.app/assets/heretic_e-EZ4S5b8y.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "Whoever wins, loses & whoever loses, wins, even if you are dead.",
+        "flavor": "After the hail has smashed the roof and splintered the glass of the Cathedral windows, it melts again into the earth, like a dying lamb in the desert sun. Such is the parable of the madman."
+    }
+]

@@ -1,0 +1,3211 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Grognard Minions as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "godfather_gah_20241206",
+        "name": "Godfather",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/godfather_e-CszxqtFl.webp",
+            "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
+        ],
+        "team": "minion",
+        "firstNight": 37,
+        "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
+        "otherNight": 56,
+        "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
+        "reminders": [
+            "Died Today",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
+        "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "Only 1 jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "godfather_gah_20240515",
+        "name": "Godfather",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/godfather_e-CszxqtFl.webp",
+            "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
+        ],
+        "team": "minion",
+        "firstNight": 37,
+        "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
+        "otherNight": 56,
+        "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
+        "reminders": [
+            "Died Today",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
+        "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "godfather_gah_20230428",
+        "name": "Godfather",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/godfather_e-CszxqtFl.webp",
+            "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
+        ],
+        "team": "minion",
+        "firstNight": 37,
+        "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
+        "otherNight": 56,
+        "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
+        "reminders": [
+            "Died Today",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
+        "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
+    },
+    {
+        "id": "spy_gah_20251118",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20250720",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20250718",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Spy ability, they do not see the Grimoire, and the real Spy cannot register falsely."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20241206",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "The Alchemist can not have the Spy ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20240515",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "The Alchemist can not have the Spy ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Spy ability in addition to their own ability, and learns this."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20240515",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20230428",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "magician",
+                "reason": "When the Spy sees the grimoire, the Demon and the Magician's character tokens are removed."
+            }
+        ]
+    },
+    {
+        "id": "spy_gah_20230305",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ]
+    },
+    {
+        "id": "harpy_gah_20240627",
+        "name": "Harpy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/harpy_e-ChKTPCeL.webp",
+            "https://botc.app/assets/harpy_g-Bp6VIdav.webp"
+        ],
+        "team": "minion",
+        "firstNight": 44,
+        "firstNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "otherNight": 30,
+        "otherNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "reminders": [
+            "Mad",
+            "2nd"
+        ],
+        "setup": false,
+        "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.",
+        "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me."
+    },
+    {
+        "id": "cerenovus_gah_20230428",
+        "name": "Cerenovus",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/cerenovus_e-ARmVZpWA.webp",
+            "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
+        ],
+        "team": "minion",
+        "firstNight": 42,
+        "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "otherNight": 27,
+        "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "reminders": [
+            "Mad"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed.",
+        "flavor": "Reality is merely an opinion. Specifically, my opinion."
+    },
+    {
+        "id": "fearmonger_gah_20241206",
+        "name": "Fearmonger",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/fearmonger_e-RqyAUnj6.webp",
+            "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 43,
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "otherNight": 29,
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "reminders": [
+            "Fear"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
+        "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you.",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Fearmonger ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "fearmonger_gah_20240515",
+        "name": "Fearmonger",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/fearmonger_e-RqyAUnj6.webp",
+            "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 43,
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "otherNight": 29,
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "reminders": [
+            "Fear"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
+        "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
+    },
+    {
+        "id": "pithag_gah_20241206",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+            },
+            {
+                "id": "heretic",
+                "reason": "A Pit-Hag can not create a Heretic."
+            },
+            {
+                "id": "ogre",
+                "reason": "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+            },
+            {
+                "id": "politician",
+                "reason": "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
+    {
+        "id": "pithag_gah_20240523",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+            },
+            {
+                "id": "heretic",
+                "reason": "A Pit-Hag can not create a Heretic."
+            },
+            {
+                "id": "politician",
+                "reason": "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
+    {
+        "id": "pithag_gah_20240515",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "heretic",
+                "reason": "A Pit-Hag cannot create a Heretic."
+            },
+            {
+                "id": "politician",
+                "reason": "A Pit-Hag cannot create an evil Politician."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
+    {
+        "id": "pithag_gah_20240126",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "heretic",
+                "reason": "A Pit-Hag cannot create a Heretic."
+            },
+            {
+                "id": "politician",
+                "reason": "A Pit-Hag cannot create an evil Politician."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            }
+        ]
+    },
+    {
+        "id": "pithag_gah_20230428",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "A Pit-Hag cannot create a Heretic."
+            }
+        ]
+    },
+    {
+        "id": "pithag_gah_20230305",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 28,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
+    },
+    {
+        "id": "widow_gah_20251120",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Poppy Grower has their ability, the Widow does not see the Grimoire."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20251118",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20250725",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20250718",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Widow ability, they do not see the Grimoire."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20250303",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "The Alchemist can not have the Widow ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20241206",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "The Alchemist can not have the Widow ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Widow is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "magician",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20240515",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "heretic",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "widow_gah_20230428",
+        "name": "Widow",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/widow_e-DGFTy37y.webp",
+            "https://botc.app/assets/widow_g-BMAAZQVw.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned",
+            "Know"
+        ],
+        "setup": false,
+        "ability": "On your first night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
+        "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20251120",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, an Outsider might have been added during setup."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added during setup."
+            },
+            {
+                "id": "kazali",
+                "reason": "If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor."
+            },
+            {
+                "id": "summoner",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20251118",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, an Outsider might have been added during setup."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added during setup."
+            },
+            {
+                "id": "kazali",
+                "reason": "If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20251103",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+            },
+            {
+                "id": "wraith",
+                "reason": "The Wraith does not wake with the Marionette."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20250704",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20241206",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            },
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20240829",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider was added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            },
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Demon has a neighbor who is alive and a Townsfolk or Outsider when the Plague Doctor dies, that player becomes an evil Marionette. If there is already an extra evil player, this does not happen."
+            },
+
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20240515",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider was added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn three not-in-play characters. The Demon learns an extra three instead."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20240125",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider was added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn three not-in-play characters. The Demon learns an extra three instead."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbours a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            }
+        ]
+    },
+    {
+        "id": "marionette_gah_20230428",
+        "name": "Marionette",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20251118",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "lordoftyphon",
+                "reason": "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20250718",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "lordoftyphon",
+                "reason": "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20241206",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "lordoftyphon",
+                "reason": "If the Summoner creates a Lord Of Typhon, the Lord Of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Summoner creates Riot, all Minions also become Riot."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20240829",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Summoner creates Riot, all Minions also become Riot."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20240627",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Summoner creates Riot, all Minions also become Riot."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20240515",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbours the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah_20240322",
+        "name": "Summoner",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
+    },
+    {
+        "id": "eviltwin_gah_20241206",
+        "name": "Evil Twin",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
+        ],
+        "team": "minion",
+        "firstNight": 40,
+        "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
+        "reminders": [
+            "Twin"
+        ],
+        "setup": false,
+        "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+        "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "The Storyteller cannot gain the Evil Twin ability if the Plague Doctor dies."
+            }
+        ]
+    },
+    {
+        "id": "eviltwin_gah_20240515",
+        "name": "Evil Twin",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
+        ],
+        "team": "minion",
+        "firstNight": 40,
+        "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
+        "reminders": [
+            "Twin"
+        ],
+        "setup": false,
+        "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+        "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+    },
+    {
+        "id": "goblin_gah_20241206",
+        "name": "Goblin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/goblin_e-5zp-L7ts.webp",
+            "https://botc.app/assets/goblin_g-Dm3DHjuy.webp"
+        ],
+        "team": "minion",
+        "reminders": [
+            "Claimed"
+        ],
+        "setup": false,
+        "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.",
+        "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Goblin ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "goblin_gah_20240515",
+        "name": "Goblin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/goblin_e-5zp-L7ts.webp",
+            "https://botc.app/assets/goblin_g-Dm3DHjuy.webp"
+        ],
+        "team": "minion",
+        "reminders": [
+            "Claimed"
+        ],
+        "setup": false,
+        "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.",
+        "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
+    },
+    {
+        "id": "boomdandy_gah_20241206",
+        "name": "Boomdandy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boomdandy_e-S13eahkU.webp",
+            "https://botc.app/assets/boomdandy_g-DOTwgB8d.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "day"
+            }
+        ],
+        "flavor": "Tick... Tick... Tick... TOCK.",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            }
+        ]
+    },
+    {
+        "id": "boomdandy_gah_20241102",
+        "name": "Boomdandy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boomdandy_e-S13eahkU.webp",
+            "https://botc.app/assets/boomdandy_g-DOTwgB8d.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them, dies.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "day"
+            }
+        ],
+        "flavor": "Tick... Tick... Tick... TOCK.",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor is executed and the Storyteller would gain the Boomdandy ability, the Boomdandy ability triggers immediately."
+            }
+        ]
+    },
+    {
+        "id": "boomdandy_gah_20240515",
+        "name": "Boomdandy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boomdandy_e-S13eahkU.webp",
+            "https://botc.app/assets/boomdandy_g-DOTwgB8d.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them, dies.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "day"
+            }
+        ],
+        "flavor": "Tick... Tick... Tick... TOCK."
+    },
+    {
+        "id": "mastermind_gah_20251103",
+        "name": "Mastermind",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/mastermind_e-lwTDvV6G.webp",
+            "https://botc.app/assets/mastermind_g-BzBbXNuB.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
+        "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+            }
+        ]
+    },
+    {
+        "id": "mastermind_gah_20240927",
+        "name": "Mastermind",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/mastermind_e-lwTDvV6G.webp",
+            "https://botc.app/assets/mastermind_g-BzBbXNuB.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
+        "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+    },
+    {
+        "id": "mastermind_gah_20240515",
+        "name": "Mastermind",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/mastermind_e-lwTDvV6G.webp",
+            "https://botc.app/assets/mastermind_g-BzBbXNuB.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
+        "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned.",
+        "jinxes": [
+            {
+                "id": "lleech",
+                "reason": "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+            }
+        ]
+    },
+    {
+        "id": "mastermind_gah_20230428",
+        "name": "Mastermind",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/mastermind_e-lwTDvV6G.webp",
+            "https://botc.app/assets/mastermind_g-BzBbXNuB.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
+        "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
+    },
+    {
+        "id": "scarletwoman_gah_20251118",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            },
+            {
+                "id": "fanggu",
+                "reason": "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+            }
+        ]
+    },
+    {
+        "id": "scarletwoman_gah_20241206",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Plague Doctor dies, a living Minion gains the Scarlet Woman ability in addition to their own ability, and learns this."
+            }
+        ]
+    },
+    {
+        "id": "scarletwoman_gah_20240515",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            }
+        ]
+    },
+    {
+        "id": "scarletwoman_gah_20231201",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "If there are five or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            }
+        ]
+    },
+    {
+        "id": "scarletwoman_gah_20231201",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "If there are five or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            }
+        ]
+    },
+    {
+        "id": "scarletwoman_gah_20230329",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 32,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
+    },
+    {
+        "id": "vizier_gah_20251118",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to the Vizier. "
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20250725",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to the Vizier. "
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20241206",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to the Vizier. "
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20241110",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20240725",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20240627",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20240524",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20240515",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted, regardless of those players' alignment."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20240203",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20230510",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Vizier ability, they may only choose to execute immediately if three or more players voted."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "magician",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this and if the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "vizier_gah_20230428",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
+    },
+    {
+        "id": "organgrinder_gah_20250124",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die",
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Each night, choose if you are drunk or not.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20241206",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die",
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Each night, choose if you are drunk or not.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20241018",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If the Minstrel makes everyone drunk, the Organ Grinder keeps their ability but the Minstrel keeps their eyes open when voting."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher removes the Organ Grinder ability, the Organ Grinder keeps their ability but the Preacher keeps their eyes open when voting."
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20240627",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "flowergirl",
+                "reason": "If the Organ Grinder is causing eyes-closed voting, the Flowergirl wakes tonight to choose a player: they learn if that player voted today. (instead of their normal ability)"
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20240606",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "flowergirl",
+                "reason": "If players' eyes were closed during the nominations, the Flowergirl learns how many times the Demon voted."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20240515",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "If players' eyes were closed during the nominations, the Flowergirl learns how many times the Demon voted."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            }
+        ]
+    },
+    {
+        "id": "organgrinder_gah_20240329",
+        "name": "Organ Grinder",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
+        ],
+        "team": "minion",
+        "firstNight": 38,
+        "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "otherNight": 24,
+        "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
+        "reminders": [
+            "About To Die"
+        ],
+        "setup": false,
+        "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+        "flavor": "Round and round the handles go. The more you dance the less you know.",
+        "special": [
+            {
+                "name": "hidden",
+                "type": "vote"
+            }
+        ]
+    },
+    {
+        "id": "boffin_gah_20251103",
+        "name": "Boffin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boffin_e-Bks9yuea.webp",
+            "https://botc.app/assets/boffin_g-lws0h7cM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 13,
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "setup": false,
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+        "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+            },
+            {
+                "id": "drunk",
+                "reason": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Demon has the Goon ability, they can’t turn good due to this ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Demon cannot have the Ogre ability."
+            },
+            {
+                "id": "politician",
+                "reason": "The Demon cannot have the Politician ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+            }
+        ]
+    },
+    {
+        "id": "boffin_gah_20250718",
+        "name": "Boffin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boffin_e-Bks9yuea.webp",
+            "https://botc.app/assets/boffin_g-lws0h7cM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 13,
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "setup": false,
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+        "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+            },
+            {
+                "id": "cultleader",
+                "reason": "If the Demon has the Cult Leader ability, they can’t turn good due to this ability."
+            },
+            {
+                "id": "drunk",
+                "reason": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Demon has the Goon ability, they can’t turn good due to this ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Demon cannot have the Ogre ability."
+            },
+            {
+                "id": "politician",
+                "reason": "The Demon cannot have the Politician ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+            }
+        ]
+    },
+    {
+        "id": "boffin_gah_20241206",
+        "name": "Boffin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boffin_e-Bks9yuea.webp",
+            "https://botc.app/assets/boffin_g-lws0h7cM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 13,
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "setup": false,
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+        "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has."
+            },
+            {
+                "id": "cultleader",
+                "reason": "If the Demon has the Cult Leader ability, they can't turn good due to this ability."
+            },
+            {
+                "id": "drunk",
+                "reason": "If the Demon would have the Drunk ability, the Boffin chooses a Townsfolk player to have this ability instead."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Demon has the Goon ability, they can't turn good due to this ability."
+            },
+            {
+                "id": "heretic",
+                "reason": "The Demon cannot have the Heretic ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Demon cannot have the Ogre ability."
+            },
+            {
+                "id": "politician",
+                "reason": "The Demon cannot have the Politician ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Boffin can give the Demon the Village Idiot ability."
+            }
+        ]
+    },
+    {
+        "id": "boffin_gah_20240926",
+        "name": "Boffin",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boffin_e-Bks9yuea.webp",
+            "https://botc.app/assets/boffin_g-lws0h7cM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 13,
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "setup": false,
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+        "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
+    },
+    {
+        "id": "baron_gah_20241206",
+        "name": "Baron",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
+            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+        ],
+        "team": "minion",
+        "setup": true,
+        "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+        "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "The Baron might only add 1 Outsider, not 2."
+            },
+            {
+                "id": "plaguedoctor",
+                "reason": "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
+            }
+        ]
+    },
+    {
+        "id": "baron_gah_20240515",
+        "name": "Baron",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
+            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+        ],
+        "team": "minion",
+        "setup": true,
+        "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+        "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "The Baron might only add one outsider, not two."
+            }
+        ]
+    },
+    {
+        "id": "baron_gah_20230428",
+        "name": "Baron",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
+            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+        ],
+        "team": "minion",
+        "setup": true,
+        "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+        "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+    }
+]

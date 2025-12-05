@@ -17,7 +17,7 @@ This is a reference for homebrew script builders to learn from examples in order
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
-### [Grognard Character JSON](Homebrew/Grognard_Homebrew.json)
+### [Grognard Character JSON](Grognard)
 These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Fabled along with them.
 
 ### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
@@ -241,6 +241,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Pull-requests fulfill the single-responsibility principal: one concept at a time.
 
 ## Changelog
+### 0.189.1
+* Grognard split by character type
 ### 0.189.0
 * Grognard jinx by date
 ### 0.188.2

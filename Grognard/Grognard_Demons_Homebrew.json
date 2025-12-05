@@ -1,0 +1,3019 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Grognard Demons as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "yaggababble_gah_20240302",
+        "name": "Yaggababble",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/yaggababble_e-rNTFzBKi.webp",
+            "https://botc.app/assets/yaggababble_g-CPSh-7bE.webp"
+        ],
+        "team": "demon",
+        "firstNight": 17,
+        "firstNightReminder": "Choose a secret phrase. Wake the Yaggababble and let them know their secret phrase.",
+        "otherNight": 53,
+        "otherNightReminder": "For each time the Yaggababble said the phrase today, you may choose a player. They die. :reminder:",
+        "reminders": [
+            "Dead",
+            "Dead",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+        "flavor": "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
+    },
+    {
+        "id": "lilmonsta_gah_20251103",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20250725",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20250303",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & 'is the Demon'. Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20241102",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta & 'is the Demon'. Each night*, a player might die. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20240627",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". A player dies each night*. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20231212",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the demon\". A player dies each night*. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "hatter",
+                "reason": "If a Demon chooses Lil' Monsta, they also choose a Minion to become and babysit Lil' Monsta tonight."
+            },
+            {
+                "id": "magician",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are five or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20231201",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the demon\". A player dies each night*. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "magician",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            },
+            {
+                "id": "vizier",
+                "reason": "The Vizier can die by execution if they are babysitting Lil' Monsta."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20230510",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the demon\". A player dies each night*. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "magician",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "organgrinder",
+                "reason": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token."
+            }
+        ]
+    },
+    {
+        "id": "lilmonsta_gah_20230428",
+        "name": "Lil' Monsta",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+        ],
+        "team": "demon",
+        "firstNight": 29,
+        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "otherNight": 52,
+        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "remindersGlobal": [
+            "Is The Demon",
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the demon\". A player dies each night*. [+1 Minion]",
+        "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "night",
+                "global": "minion"
+            },
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20251103",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "goon",
+                "reason": "The Kazali can choose that the Goon player is one of their evil Minions."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            },
+            {
+                "id": "soldier",
+                "reason": "The Kazali can choose that the Soldier player is one of their evil Minions."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20241206",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "goon",
+                "reason": "The Kazali can choose that the Goon player is one of their evil Minions."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            },
+            {
+                "id": "soldier",
+                "reason": "The Kazali can choose that the Soldier player is one of their evil Minions."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20241018",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Kazali chooses the Goon to become a Minion, remaining Minions choices are decided by the Storyteller."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            },
+            {
+                "id": "soldier",
+                "reason": "If the Kazali turns the Soldier into a Minion, the Soldier chooses which not-in-play Minion to become."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20240627",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Kazali chooses the Goon to become a Minion, remaining Minions choices are decided by the Storyteller."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20240515",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Kazali chooses the Goon to become a Minion, remaining Minions choices are decided by the Storyteller."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            },
+            {
+                "id": "summoner",
+                "reason": "The Kazali can not choose to create a Summoner."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20240322",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Kazali chooses the Goon to become a Minion, remaining Minions choices are decided by the Storyteller."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20240125",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
+        "jinxes": [
+            {
+                "id": "bountyhunter",
+                "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+            },
+            {
+                "id": "choirboy",
+                "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+            },
+            {
+                "id": "damsel",
+                "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Kazali chooses the Goon to become a Minion, remaining Minions choices are decided by the Storyteller."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbours."
+            }
+        ]
+    },
+    {
+        "id": "kazali_gah_20240102",
+        "name": "Kazali",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/kazali_e-Bhxi3sLd.webp",
+            "https://botc.app/assets/kazali_g-BZsxV8YM.webp"
+        ],
+        "team": "demon",
+        "firstNight": 8,
+        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "otherNight": 54,
+        "otherNightReminder": "The Kazali chooses a player. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+        "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
+    },
+    {
+        "id": "vortox_gah_20251118",
+        "name": "Vortox",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/vortox_e-CI-Cd8aG.webp",
+            "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
+        ],
+        "team": "demon",
+        "otherNight": 46,
+        "otherNightReminder": "The Vortox chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+        "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If the Vortox is in play and the Demon kills the Banshee, the players still learn that the Banshee has died."
+            }
+        ]
+    },
+    {
+        "id": "vortox_gah_20240425",
+        "name": "Vortox",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/vortox_e-CI-Cd8aG.webp",
+            "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
+        ],
+        "team": "demon",
+        "otherNight": 46,
+        "otherNightReminder": "The Vortox chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+        "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
+    },
+    {
+        "id": "legion_gah_20251118",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "If Legion is created, all evil players become Legion. If Legion is in play, the Engineer starts knowing this but has no ability."
+            },
+            {
+                "id": "hatter",
+                "reason": "If Legion is created, all evil players become Legion. If Legion is in play, the Hatter has no ability."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to Legion."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20251103",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to Legion's ability."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20241207",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to Legion’s ability."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20240725",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20240627",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only 1 jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20240515",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only one jinxed character can be in play."
+            },
+            {
+                "id": "summoner",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20240322",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer cannot both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20231201",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "preacher",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "legion_gah_20230428",
+        "name": "Legion",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ]
+    },
+    {
+        "id": "fanggu_gah_20241206",
+        "name": "Fang Gu",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/fanggu_e-6DavSWxL.webp",
+            "https://botc.app/assets/fanggu_g-Dwai_VtD.webp"
+        ],
+        "team": "demon",
+        "otherNight": 44,
+        "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:",
+        "reminders": [
+            "Dead",
+            "Once"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+        "flavor": "Your walls and your weapons are but smoke in dreams.",
+        "jinxes": [
+            {
+                "id": "scarletwoman",
+                "reason": "If the Fang Gu chooses an outsider and dies, the Scarlet Woman does not become the Fang Gu."
+            }
+        ]
+    },
+    {
+        "id": "fanggu_gah_20230428",
+        "name": "Fang Gu",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/fanggu_e-6DavSWxL.webp",
+            "https://botc.app/assets/fanggu_g-Dwai_VtD.webp"
+        ],
+        "team": "demon",
+        "otherNight": 44,
+        "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:",
+        "reminders": [
+            "Dead",
+            "Once"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+        "flavor": "Your walls and your weapons are but smoke in dreams."
+    },
+    {
+        "id": "lleech_gah_20251103",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+        "jinxes": [
+            {
+                "id": "mastermind",
+                "reason": "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+            },
+            {
+                "id": "slayer",
+                "reason": "If the Slayer slays the Lleech's host, the host dies."
+            }
+        ]
+    },
+    {
+        "id": "lleech_gah_20241206",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+            },
+            {
+                "id": "mastermind",
+                "reason": "If the Mastermind is alive and the Lleech's host dies by execution, the Lleech lives but loses their ability."
+            },
+            {
+                "id": "slayer",
+                "reason": "If the Slayer slays the Lleech's host, the host dies."
+            }
+        ]
+    },    {
+        "id": "lleech_gah_20240726",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if (& only if) they die",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+            },
+            {
+                "id": "slayer",
+                "reason": "If the Slayer shoots the Lleech's host, the host dies."
+            }
+        ]
+    },
+    {
+        "id": "lleech_gah_20240515",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if (& only if) they die",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+        "jinxes": [
+            {
+                "id": "heretic",
+                "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
+            },
+            {
+                "id": "slayer",
+                "reason": "If the Slayer shoots the Lleech's host, the host dies."
+            }
+        ]
+    },
+    {
+        "id": "lleech_gah_20230428",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if (& only if) they die",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
+    },
+    {
+        "id": "alhadikhia_gah_20251103",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab.",
+        "jinxes": [
+            {
+                "id": "princess",
+                "reason": "If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia ability tonight."
+            }
+        ]
+    },
+    {
+        "id": "alhadikhia_gah_20250623",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab."
+    },
+    {
+        "id": "alhadikhia_gah_20241206",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab.",
+        "jinxes": [
+            {
+                "id": "scarletwoman",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            }
+        ]
+    },
+    {
+        "id": "alhadikhia_gah_20240927",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab.",
+        "jinxes": [
+            {
+                "id": "mastermind",
+                "reason": "If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            }
+        ]
+    },
+    {
+        "id": "alhadikhia_gah_20240627",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab.",
+        "jinxes": [
+            {
+                "id": "mastermind",
+                "reason": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
+            },
+            {
+                "id": "scarletwoman",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            }
+        ]
+    },
+    {
+        "id": "alhadikhia_gah_20240515",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab.",
+        "jinxes": [
+            {
+                "id": "mastermind",
+                "reason": "Only one jinxed character can be in play."
+            }
+        ]
+    },
+    {
+        "id": "alhadikhia_gah_20230428",
+        "name": "Al-Hadikhia",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://botc.app/assets/alhadikhia_g-BggSDiOq.webp"
+        ],
+        "team": "demon",
+        "otherNight": 50,
+        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+        "flavor": "Alsukut min dhahab."
+    },
+    {
+        "id": "riot_gah_20251118",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen.",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+            },
+            {
+                "id": "exorcist",
+                "reason": "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+            },
+            {
+                "id": "farmer",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+            },
+            {
+                "id": "king",
+                "reason": "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+            },
+            {
+                "id": "mayor",
+                "reason": "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+            },
+            {
+                "id": "sage",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Riot is in play, the Soldier is safe from all evil abilities."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20241206",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Riot nominates and kills the Banshee, all players learn that the Banshee has died, and the Banshee may nominate two players immediately."
+            },
+            {
+                "id": "butler",
+                "reason": "The Butler can not nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as being executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as being executed to the Devil's Advocate."
+            },
+            {
+                "id": "engineer",
+                "reason": "Riot and the Engineer can not both be in play at the start of the game. If the Engineer creates Riot, the evil players become Riot."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the Grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected-player, the Innkeeper-protected-player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the 3rd day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) then the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates and kills the Monk-protected-player, the Monk-protected-player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as being executed to the Pacifist."
+            },
+            {
+                "id": "pithag",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "f a Riot player nominates and kills a Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra 3 bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as being executed to the Undertaker."
+            },
+            {
+                "id": "zealot",
+                "reason": "If you are nominated, you must nominate again, even if dead."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240725",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Riot nominates and kills the Banshee, all players learn that the Banshee has died, and the Banshee may nominate two players immediately."
+            },
+            {
+                "id": "butler",
+                "reason": "The Butler can not nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as being executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as being executed to the Devil's Advocate."
+            },
+            {
+                "id": "engineer",
+                "reason": "Riot and the Engineer can not both be in play at the start of the game. If the Engineer creates Riot, the evil players become Riot."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the Grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected-player, the Innkeeper-protected-player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the 3rd day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) then the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates and kills the Monk-protected-player, the Monk-protected-player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as being executed to the Pacifist."
+            },
+            {
+                "id": "pithag",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills a Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra 3 bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as being executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240528",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Riot nominates and kills the Banshee, all players learn that the Banshee has died, and the Banshee may nominate two players immediately."
+            },
+            {
+                "id": "butler",
+                "reason": "The Butler can not nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as being executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as being executed to the Devil's Advocate."
+            },
+            {
+                "id": "engineer",
+                "reason": "Riot and the Engineer can not both be in play at the start of the game. If the Engineer creates Riot, the evil players become Riot."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If The Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the Grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected-player, the Innkeeper-protected-player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the 3rd day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) then the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates and kills the Monk-protected-player, the Monk-protected-player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as being executed to the Pacifist."
+            },
+            {
+                "id": "pithag",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills a Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra 3 bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as being executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240515",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If a Riot player nominates and kills the Banshee, all players learn that the Banshee has died, and the Banshee may nominate two players immediately."
+            },
+            {
+                "id": "butler",
+                "reason": "The Butler cannot nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as executed to the Devil's Advocate."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected player, the protected player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the third day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates a Monk-protected player, the protected player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as executed to the Pacifist."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills the Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra three bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "summoner",
+                "reason": "If the Summoner creates Riot, the chosen player and all evil players become Riot. The chosen player must be one of the Summoner's good living neighbours."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240425",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "The Butler cannot nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as executed to the Devil's Advocate."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected player, the protected player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the third day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates a Monk-protected player, the protected player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as executed to the Pacifist."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills the Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra three bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "summoner",
+                "reason": "If the Summoner creates Riot, the chosen player and all evil players become Riot. The chosen player must be one of the Summoner's good living neighbours."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240322",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "The Butler cannot nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as executed to the Devil's Advocate."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected player, the protected player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the third day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates a Monk-protected player, the protected player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as executed to the Pacifist."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills the Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra three bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20231201",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "butler",
+                "reason": "The Butler cannot nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as executed to the Devil's Advocate."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected player, the protected player does not die."
+            },
+            {
+                "id": "investigator",
+                "reason": "Riot registers as a Minion to the Investigator."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the third day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates a Monk-protected player, the protected player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as executed to the Pacifist."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills the Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra three bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as executed to the Undertaker."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah_20240428",
+        "name": "Riot",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!"
+    },
+    {
+        "id": "leviathan_gah_20251103",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+            },
+            {
+                "id": "farmer",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+            },
+            {
+                "id": "king",
+                "reason": "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the Leviathan is in play & no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+            },
+            {
+                "id": "sage",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+            },
+            {
+                "id": "soldier",
+                "reason": "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20241206",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Leviathan is in play, and the Banshee dies by execution, all players learn that the Banshee has died, and the Banshee gains their ability."
+            },
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play & a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play & no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play & the Ravenkeeper dies by execution, they wake that night to use their ability. They are drunk if their nominator was good."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play & the Sage dies by execution, they wake that night to use their ability. They are drunk if their nominator was good."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20240515",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Leviathan is in play, and the Banshee dies by execution, all players learn that the Banshee has died, and the Banshee gains their ability."
+            },
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play and a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play and no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play and the Ravenkeeper dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play and the Sage dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20240425",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play and a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play and no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play and the Ravenkeeper dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play and the Sage dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20231204",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play and a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play and no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play and the Ravenkeeper dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play and the Sage dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20231201",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play and a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play and no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play and the Ravenkeeper dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play and the Sage dies by execution, they wake that night to use their ability."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah_20230428",
+        "name": "Leviathan",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."
+    }
+]

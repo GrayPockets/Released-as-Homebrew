@@ -1,0 +1,70 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Grognard Other Characters as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "gangster_gah_20230422",
+        "name": "Gangster",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/gangster-B_sTmUJn.webp",
+            "https://botc.app/assets/gangster_g-CA0UOV4w.webp",
+            "https://botc.app/assets/gangster_e-DCxm-xho.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Once per day, you may choose to kill a living neighbor, if your other living neighbor agrees.",
+        "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+    },
+    {
+        "id": "gardener_gah_20240725",
+        "name": "Gardener",
+        "edition": "fabled",
+        "image": [
+            "https://wiki.bloodontheclocktower.com/images/archive/5/5c/20251103095407%21Icon_gardener.png"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "The Storyteller assigns 1 or more players' characters.",
+        "flavor": "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears.",
+        "special": [
+            {
+                "name": "distribute-roles",
+                "type": "ability",
+                "time": "pregame"
+            }
+        ]
+    },
+    {
+        "id": "bootlegger_gah_20251103",
+        "name": "Bootlegger",
+        "edition": "fabled",
+        "image": [
+            "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "This script has homebrew characters or rules.",
+        "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
+    },
+    {
+        "id": "stormcatcher_gah_20251103",
+        "name": "Storm Catcher",
+        "edition": "fabled",
+        "image": [
+            "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095433%21Icon_stormcatcher.png"
+        ],
+        "team": "loric",
+        "firstNight": 5,
+        "firstNightReminder": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
+        "reminders": [
+            "Stormcaught"
+        ],
+        "setup": false,
+        "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
+        "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+    }
+]
