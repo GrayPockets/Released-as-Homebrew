@@ -211,6 +211,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 97 - $${\color{darkred}Leviathan}$$
 
 # Online app missing features
+The Cannibal / Poppy Grower jinx is missing: https://discord.com/channels/1011236067560669234/1446337608509558845
 Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
 * Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
@@ -240,6 +241,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Pull-requests fulfill the single-responsibility principal: one concept at a time.
 
 ## Changelog
+### 0.189.0
+* Grognard jinx by date
 ### 0.188.2
 * Hermit id correction
 ### 0.188.1
