@@ -13,6 +13,9 @@ This is a reference for homebrew script builders to learn from examples in order
 
 :warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
 
+> [!WARNING]
+> The Script Tool currently throws errors when exporting PNG images using the above JSON. Here is an [Alternative Homebrew JSON](Homebrew/Released_ScriptTool_Homebrew.json) that works with the PNG exporter.
+
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
@@ -211,6 +214,8 @@ The following is a full list of night order. This is so night order numbers can 
 
 # Online app missing features
 The Cannibal / Poppy Grower jinx is incorrectly documented: https://discord.com/channels/1011236067560669234/1446337608509558845
+
+The Script Tool PNG Export function does not work with images sourced from the Online App: https://discord.com/channels/1011236067560669234/1447323702420050142
 
 Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
 * Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
