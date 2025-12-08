@@ -143,7 +143,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 30 - $${\color{darkred}Harpy}$$
 * 31 - $${\color{darkred}Mezepheles}$$
 * 32 - $${\color{darkred}Scarlet Woman}$$
-* 33 - $${\color{deepskyblue}Summoner}$$
+* 33 - $${\color{darkred}Summoner}$$
 * 34 - $${\color{deepskyblue}Lunatic}$$
 * 35 - $${\color{deepskyblue}Exorcist}$$
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
