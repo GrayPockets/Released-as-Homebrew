@@ -1,4 +1,6 @@
 # Changelog
+## 1.0.2
+* Undertaker icons correction
 ## 1.0.1
 * Summoner night order color correction
 ## 1.0.0
