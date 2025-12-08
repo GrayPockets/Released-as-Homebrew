@@ -1,4 +1,6 @@
 # Changelog
+## 1.1.0
+* Alternate homebrew characters with script tool sourced images
 ## 1.0.2
 * Undertaker icons correction
 ## 1.0.1

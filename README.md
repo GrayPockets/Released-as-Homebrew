@@ -13,6 +13,9 @@ This is a reference for homebrew script builders to learn from examples in order
 
 :warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
 
+> [!WARNING]
+> The Script Tool currently throws errors when exporting PNG images using the above JSON. Here is an [Alternative Homebrew JSON](Homebrew/Released_ScriptTool_Homebrew.json) that works with the PNG exporter.
+
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
