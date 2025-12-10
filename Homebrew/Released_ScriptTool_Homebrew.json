@@ -83,7 +83,7 @@
         "edition": "tb",
         "image": [
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_g.webp"
+            "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 53,
@@ -1379,7 +1379,7 @@
         "team": "outsider",
         "image": [
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hermit_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hermit_g.webp"
+            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hermit_e.webp"
         ],
         "edition": "carousel",
         "reminders": [
