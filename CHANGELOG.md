@@ -1,4 +1,6 @@
 # Changelog
+## 1.2.0
+* Online App compatibility 3.48.1
 ## 1.1.3
 * Investigator and Hermit icons correction
 ## 1.1.2

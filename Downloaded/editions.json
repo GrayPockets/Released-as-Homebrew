@@ -3,18 +3,18 @@
         "description": "...is a death extravaganza. Demons kill multiple times per night, and Minions get in on the action too. Good players can take great risks to gain reliable information, but may accidentally kill their friends in the process. Luckily, there are many ways to keep players alive long past their use-by date. If the good team cannot determine which Minions and Demons are in play, however, their doom is all but certain.",
         "name": "Bad Moon Rising"
     },
-        "custom": {
+    "custom": {
         "description": "To play with a custom script, you need to select the characters you want to play with in the official Script Tool and then upload the generated \"custom-list.json\" either directly here or provide a URL to such a hosted JSON file. To load it, you can also drag & drop the script file onto this screen or paste the JSON from your clipboard.",
         "name": "Custom Script"
     },
-        "homebrew": {
+    "homebrew": {
         "name": "Homebrew"
     },
-        "snv": {
+    "snv": {
         "description": "...is the craziest of the three editions included in the base set. Good characters get amazing information each and every night. However, the evil team is extremely varied and threatening and can throw massive confusion into the mix. Characters change alignment. Players change characters. Even the evil team can lose track of who is who. This is also the first appearance of madness, which throws all manner of spanners into the works.",
         "name": "Sects & Violets"
     },
-        "tb": {
+    "tb": {
         "description": "...has a little bit of everything. Some characters passively receive information, some need to take action to learn who is who, while some simply want to bait the Demon into attacking them. Both good and evil can gain the upper hand by making well-timed sacrifices.\nTrouble Brewing is a relatively straightforward Demon hunt, but evil has a number of dastardly misinformation tricks up their sleeves, so the good players had better question what they think they know if they hope to survive.",
         "name": "Trouble Brewing"
     }
