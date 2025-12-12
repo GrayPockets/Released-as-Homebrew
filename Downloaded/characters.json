@@ -60,7 +60,7 @@
     "balloonist": {
         "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
         "first": "Show any player. :reminder:",
-        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!",
+        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!",
         "name": "Balloonist",
         "other": "Show a player with a different character type to previously. :reminder:"
     },
@@ -712,7 +712,7 @@
     "pixie": {
         "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.",
         "first": "Show the Townsfolk character token marked *MAD*.",
-        "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town.  Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me.",
+        "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town. Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me.",
         "name": "Pixie"
     },
     "plaguedoctor": {
@@ -904,7 +904,7 @@
     },
     "stormcatcher": {
         "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
-        "first": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
+        "first": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player. If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
         "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye.",
         "name": "Storm Catcher"
     },
@@ -940,7 +940,7 @@
         "other": "The Tinker might die. :reminder:"
     },
     "tor": {
-        "ability": "Players don't know their character or alignment. They learn them after they die.",
+        "ability": "Players don't know their character or alignment. They learn them when they die.",
         "first": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
         "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth.",
         "name": "Tor"
@@ -1050,6 +1050,11 @@
         "ability": "If there are 5 or more players alive, you must vote for every nomination.",
         "flavor": "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane.",
         "name": "Zealot"
+    },
+    "zenomancer": {
+        "ability": "One or more players each have a goal. When achieved, that player learns a piece of true info.",
+        "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down.",
+        "name": "Zenomancer"
     },
     "zombuul": {
         "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",

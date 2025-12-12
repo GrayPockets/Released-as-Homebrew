@@ -2,7 +2,7 @@
     try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {};
         e.SENTRY_RELEASE = {
-            id: "botc-app@3.48.0"
+            id: "botc-app@3.48.1"
         }
     } catch {}
 }
@@ -12,8 +12,8 @@ try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {}
           , t = new e.Error().stack;
         t && (e._sentryDebugIds = e._sentryDebugIds || {},
-        e._sentryDebugIds[t] = "8bbcab44-d688-4143-b863-644fbe9ccc40",
-        e._sentryDebugIdIdentifier = "sentry-dbid-8bbcab44-d688-4143-b863-644fbe9ccc40")
+        e._sentryDebugIds[t] = "943c4a23-949e-43ad-97ae-d6adad50b3d4",
+        e._sentryDebugIdIdentifier = "sentry-dbid-943c4a23-949e-43ad-97ae-d6adad50b3d4")
     }
     )()
 } catch {}
@@ -77,6 +77,7 @@ Trouble Brewing is a relatively straightforward Demon hunt, but evil has a numbe
     fear: "Fear",
     finalnightnoattack: "Final Night: No Attack",
     friend: "Friend",
+    goal: "Goal",
     good: "Good",
     goodplayerexecuted: "Good Player Executed",
     grandchild: "Grandchild",
@@ -133,4 +134,4 @@ Trouble Brewing is a relatively straightforward Demon hunt, but evil has a numbe
     roles: n
 };
 export {r as default, a as editions, o as jinxes, i as reminders, n as roles};
-//# sourceMappingURL=en-Br5vjRFS.js.map
+//# sourceMappingURL=en-BWAy7uHL.js.map

@@ -202,7 +202,7 @@
         ],
         "setup": false,
         "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.",
-        "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town.  Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me."
+        "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town. Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me."
     },
     {
         "id": "bountyhunter_rah",
@@ -306,7 +306,7 @@
         ],
         "setup": true,
         "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
-        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
     },
     {
         "id": "general_rah",
@@ -415,8 +415,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mathematician_g-CYQ5a9XP.webp",
-            "https://botc.app/assets/mathematician_e-DOTUnrYp.webp"
+            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
+            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -2126,7 +2126,7 @@
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/wizard_e-CkOtUevi.webp",
-            "https://botc.app/assets/wizard_g-BCLi9Wt3.webp"
+            "https://botc.app/assets/wizard_g-MV5lMPJf.webp"
         ],
         "team": "minion",
         "firstNight": 35,
@@ -3548,7 +3548,7 @@
         ],
         "team": "loric",
         "firstNight": 5,
-        "firstNightReminder": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
+        "firstNightReminder": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player. If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
         "reminders": [
             "Stormcaught"
         ],

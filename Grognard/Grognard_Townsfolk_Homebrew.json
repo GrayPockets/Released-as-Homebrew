@@ -107,7 +107,7 @@
         ],
         "setup": true,
         "ability": "Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]",
-        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
     },
     {
         "id": "chambermaid_gah_20241206",
@@ -154,8 +154,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mathematician_g-CYQ5a9XP.webp",
-            "https://botc.app/assets/mathematician_e-DOTUnrYp.webp"
+            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
+            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -188,8 +188,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mathematician_g-CYQ5a9XP.webp",
-            "https://botc.app/assets/mathematician_e-DOTUnrYp.webp"
+            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
+            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -222,8 +222,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mathematician_g-CYQ5a9XP.webp",
-            "https://botc.app/assets/mathematician_e-DOTUnrYp.webp"
+            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
+            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
