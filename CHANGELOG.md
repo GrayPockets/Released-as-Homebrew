@@ -1,4 +1,6 @@
 # Changelog
+## 1.1.2
+* Trouble Brewing Undertaker icons correction
 ## 1.1.1
 * Alternate homebrew Investigator and Hermit Icon correction
 ## 1.1.0
