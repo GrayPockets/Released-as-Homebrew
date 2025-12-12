@@ -1,4 +1,6 @@
 # Changelog
+## 1.1.3
+* Investigator and Hermit icons correction
 ## 1.1.2
 * Trouble Brewing Undertaker icons correction
 ## 1.1.1
