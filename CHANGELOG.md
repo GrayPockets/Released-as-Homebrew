@@ -1,4 +1,7 @@
 # Changelog
+## 1.3.0
+* Online App compatibility 3.49.0
+* Documentation Grognard and Steamfitter as Loric
 ## 1.2.0
 * Online App compatibility 3.48.1
 ## 1.1.3

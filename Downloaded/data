@@ -3364,6 +3364,18 @@
             "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones."
         },
         {
+            "id": "hindu",
+            "firstNightReminder": "",
+            "otherNightReminder": "",
+            "reminders": [],
+            "setup": false,
+            "name": "Hindu",
+            "team": "loric",
+            "edition": "loric",
+            "ability": "The first 4 players to die are immediately reincarnated as Travellers of the same alignment.",
+            "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+        },
+        {
             "id": "stormcatcher",
             "firstNightReminder": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
             "otherNightReminder": "",

@@ -3515,6 +3515,18 @@
         ]
     },
     {
+        "id": "hindu_rah",
+        "name": "Hindu",
+        "edition": "loric",
+        "image": [
+            "https://script.bloodontheclocktower.com/src/assets/icons/loric/hindu.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "The first 4 players to die are immediately reincarnated as Travellers of the same alignment.",
+        "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+    },
+    {
         "id": "tor_rah",
         "name": "Tor",
         "edition": "loric",

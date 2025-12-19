@@ -1,6 +1,6 @@
 # Released as Homebrew
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.48.1-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.49.0-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
@@ -20,10 +20,10 @@ This is a reference for homebrew script builders to learn from examples in order
 Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
 ### [Grognard Character JSON](Grognard)
-These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Fabled along with them.
+These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric along with them.
 
 ### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
-These characters have been announced but not released. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Fabled along with them.
+These characters have been announced but not released. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Loric along with them.
 
 ### [Special Character JSON](Homebrew/Special_Homebrew.json)
 These characters cannot be modeled properly due to app code restrictions or automatic duplication.

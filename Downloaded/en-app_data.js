@@ -2,7 +2,7 @@
     try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {};
         e.SENTRY_RELEASE = {
-            id: "botc-app@3.48.1"
+            id: "botc-app@3.49.0"
         }
     } catch {}
 }
@@ -12,8 +12,8 @@ try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {}
           , t = new e.Error().stack;
         t && (e._sentryDebugIds = e._sentryDebugIds || {},
-        e._sentryDebugIds[t] = "6527b1f8-7a3b-4a45-960b-92837ae1b2c9",
-        e._sentryDebugIdIdentifier = "sentry-dbid-6527b1f8-7a3b-4a45-960b-92837ae1b2c9")
+        e._sentryDebugIds[t] = "67215ddd-162b-4e7c-b39e-677f6534047f",
+        e._sentryDebugIdIdentifier = "sentry-dbid-67215ddd-162b-4e7c-b39e-677f6534047f")
     }
     )()
 } catch {}
@@ -429,7 +429,8 @@ Please complete more games to unlock this feature.`,
         jinxes: "Jinxes",
         other_nights: `Not the
 first night`,
-        popout: "Pop-out Character Tab"
+        popout: "Pop-out Character tab",
+        popout_window: "Open Character tab in new window"
     },
     characters: {
         title: "Characters"
@@ -568,6 +569,7 @@ Check back later!`
     since: "since {0}",
     translation_disclaimer: "You're currently using a localized version of the app. This translation has been created and reviewed by the following volunteers, who are not affiliated with The Pandemonium Institute:",
     translation_game: "This game content translation might not accurately reflect the official English game rules as written by The Pandemonium Institute.",
+    travellers_alive: "{0} / {1} travellers alive",
     update: "Please Update!",
     updating: "Updating app to version {0}...",
     warning_browser: "You are using an old or unsupported browser",
@@ -647,4 +649,4 @@ Check back later!`
     version: d
 };
 export {o as common, m as default, r as grimoire, a as modals, i as overlays, n as pages, s as player, l as session, c as storyteller, u as tabs, h as user, d as version};
-//# sourceMappingURL=en-BCgckO2U.js.map
+//# sourceMappingURL=en-DicA8dLB.js.map
