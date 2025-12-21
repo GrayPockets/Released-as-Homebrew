@@ -25,7 +25,7 @@
     },
     {
         "id": "knight_rah",
-        "name": "Knignt",
+        "name": "Knight",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/knight_g-rWciCOvN.webp",
@@ -1165,7 +1165,7 @@
     },
     {
         "id": "sage_rah",
-        "name": "Sage ",
+        "name": "Sage",
         "edition": "snv",
         "image": [
             "https://botc.app/assets/sage_g-BQUVfu9h.webp",

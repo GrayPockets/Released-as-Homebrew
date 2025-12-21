@@ -1,4 +1,6 @@
 # Changelog
+## 1.3.1
+* Knight and Sage name correction
 ## 1.3.0
 * Online App compatibility 3.49.0
 * Documentation Grognard and Steamfitter as Loric

@@ -25,7 +25,7 @@
     },
     {
         "id": "knight_rah",
-        "name": "Knignt",
+        "name": "Knight",
         "edition": "carousel",
         "image": [
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/knight_g.webp",
@@ -1165,7 +1165,7 @@
     },
     {
         "id": "sage_rah",
-        "name": "Sage ",
+        "name": "Sage",
         "edition": "snv",
         "image": [
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/sage_g.webp",
