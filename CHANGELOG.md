@@ -1,4 +1,6 @@
 # Changelog
+## 1.4.0
+* Cannibal Grognard and Poppy Grower jinx documentation
 ## 1.3.1
 * Knight and Sage name correction
 ## 1.3.0

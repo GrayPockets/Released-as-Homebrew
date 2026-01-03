@@ -213,12 +213,11 @@ The following is a full list of night order. This is so night order numbers can 
 * 97 - $${\color{darkred}Leviathan}$$
 
 # Online app missing features
-The Cannibal / Poppy Grower jinx is incorrectly documented: https://discord.com/channels/1011236067560669234/1446337608509558845
-
 The Script Tool PNG Export function does not work with images sourced from the Online App: https://discord.com/channels/1011236067560669234/1447323702420050142
 
+Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
+
 Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
-* Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
 * Demon Info, Minion Info, and other character type special effects are unable to be called upon: https://discord.com/channels/1011236067560669234/1383723585386057788
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
