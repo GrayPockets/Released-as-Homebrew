@@ -1,6 +1,6 @@
 # Released as Homebrew
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.49.0-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.50.0-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
@@ -217,24 +217,22 @@ The Script Tool PNG Export function does not work with images sourced from the O
 
 Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 
-Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
+Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters. Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
-* Demon Info, Minion Info, and other character type special effects are unable to be called upon: https://discord.com/channels/1011236067560669234/1383723585386057788
+* Demon Info, Minion Info, and other character type special effects: https://discord.com/channels/1011236067560669234/1383723585386057788
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
     * "magician": Character token does not appear in Minion Info.
     * "magician": Character token does not appear in Demon Info.
-* "banshee": Raising more than one hand is not available: https://discord.com/channels/1011236067560669234/1295364988952641578
+* "banshee": Raising more than one hand: https://discord.com/channels/1011236067560669234/1295364988952641578
 * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order: https://discord.com/channels/1011236067560669234/1243146222907428895
-* "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
-* "voudon": Voudon style voting is not available.
-* "atheist": Global duplicate characters is not available.
-* "tor": Blind start is not available.
-* "bigwig": Defense attorney is not available.
-* "revolutionary": Aligned character protection is not available.
-* "bootlegger": Making your own lists for Fabled to display is not available.
+* "vortox": Global ST notes, such as "Townsfolk abilities yield false information".
+* "voudon": Voudon style voting.
+* "tor": Blind start.
+* "bigwig": Defense attorney.
+* "revolutionary": Aligned character protection.
+* "bootlegger": Making your own lists for Fabled to display.
 * "dawn", "minioninfo", "demoninfo", "dusk": Cannot modify the instruction text: https://discord.com/channels/1011236067560669234/1410705219364585614
-* Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Git Expectations
 * Update CHANGELOG.md with each commit.

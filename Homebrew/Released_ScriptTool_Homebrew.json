@@ -3527,6 +3527,24 @@
         "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
     },
     {
+        "id": "pope_rah",
+        "name": "Pope",
+        "edition": "loric",
+        "image": [
+            "https://script.bloodontheclocktower.com/src/assets/icons/loric/pope.webp"
+        ],
+        "team": "loric",
+        "setup": true,
+        "ability": "There are duplicate good characters in play. They might also be bluffs.",
+        "flavor": "...Pulcherrimae.",
+        "special": [
+            {
+                "name": "good-duplicate",
+                "type": "selection"
+            }
+        ]
+    },
+    {
         "id": "tor_rah",
         "name": "Tor",
         "edition": "loric",

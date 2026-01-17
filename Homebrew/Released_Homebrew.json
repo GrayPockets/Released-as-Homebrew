@@ -15,7 +15,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 62,
-        "firstNightReminder": "Point to the good player marked *KNOW*.",
+        "firstNightReminder": "Point to the player marked *KNOW*.",
         "reminders": [
             "Know"
         ],
@@ -33,7 +33,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 63,
-        "firstNightReminder": "Point to the two non-Demon players marked *KNOW*.",
+        "firstNightReminder": "Point to the 2 players marked *KNOW*.",
         "reminders": [
             "Know",
             "Know"
@@ -67,7 +67,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 64,
-        "firstNightReminder": "Point to all three players marked *KNOW*.",
+        "firstNightReminder": "Point to the 3 players marked *KNOW*.",
         "reminders": [
             "Know",
             "Know",
@@ -180,7 +180,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 66,
-        "firstNightReminder": "Point clockwise or anticlockwise around the circle.",
+        "firstNightReminder": "Point clockwise or anticlockwise.",
         "setup": false,
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
         "flavor": "これは夢。それも夢。すべて夢です。"
@@ -214,9 +214,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 68,
-        "firstNightReminder": "Point to the *KNOWN* player.",
+        "firstNightReminder": "Point to the player marked *KNOW*. ",
         "otherNight": 87,
-        "otherNightReminder": "If the *KNOWN* player died today or tonight, point to a new *KNOWN* player.",
+        "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
         "reminders": [
             "Know"
         ],
@@ -298,9 +298,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 65,
-        "firstNightReminder": "Show any player. :reminder:",
+        "firstNightReminder": "Point to any player. :reminder:",
         "otherNight": 84,
-        "otherNightReminder": "Show a player with a different character type to previously. :reminder:",
+        "otherNightReminder": "Point to a player with a different character type to the previously shown player. :reminder:",
         "reminders": [
             "Know"
         ],
@@ -335,9 +335,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 28,
-        "firstNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token.",
+        "firstNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens.",
         "otherNight": 14,
-        "otherNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token.",
+        "otherNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens.",
         "reminders": [
             "No Ability",
             "No Ability",
@@ -374,9 +374,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 67,
-        "firstNightReminder": "Choose a Village Idiot to be drunk. Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player.",
+        "firstNightReminder": "If there are multiple Village Idiots, mark one as *DRUNK*. :reminder: Wake the Village Idiots one at a time to choose a player. Give a thumb signal.",
         "otherNight": 85,
-        "otherNightReminder": "Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player.",
+        "otherNightReminder": "Wake the Village Idiots one at a time to choose a player. Give a thumb signal.",
         "reminders": [
             "Drunk"
         ],
@@ -462,9 +462,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 24,
-        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* token and the King token, then point to the King.",
+        "firstNightReminder": "Wake the Demon: Show the *THIS PLAYER IS* & King tokens, then point to the King.",
         "otherNight": 86,
-        "otherNightReminder": "If the dead equal or outnumber the living, show the character token of an alive player.",
+        "otherNightReminder": "If the dead equal or outnumber the living, show the character token of a living player.",
         "setup": false,
         "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.",
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
@@ -516,9 +516,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 70,
-        "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+        "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
         "otherNight": 89,
-        "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+        "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
         "setup": false,
         "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
         "flavor": "Thinking themselves wise, they became fools."
@@ -760,9 +760,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 27,
-        "firstNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 13,
-        "otherNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -780,9 +780,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 69,
-        "firstNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "firstNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "otherNight": 88,
-        "otherNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "otherNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -872,9 +872,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 48,
-        "firstNightReminder": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token.",
+        "firstNightReminder": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token.",
         "otherNight": 66,
-        "otherNightReminder": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token.",
+        "otherNightReminder": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token.",
         "reminders": [
             "No Ability"
         ],
@@ -959,7 +959,7 @@
         ],
         "edition": "carousel",
         "otherNight": 37,
-        "otherNightReminder": "If the Princess nominated the player who was executed today, the Demon wakes as normal, but no one dies to the Demon's ability.",
+        "otherNightReminder": "If the Princess nominated the player who was executed today, wake the Demon as normal, but no one dies to the Demon's ability. :reminder:",
         "reminders": [
             "Doesn't Kill"
         ],
@@ -1012,7 +1012,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -1105,9 +1105,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 50,
-        "firstNightReminder": "Run the Amnesiac's ability, if applicable.",
+        "firstNightReminder": "Do whatever needs to be done to satisfy the Amnesiac's ability.",
         "otherNight": 68,
-        "otherNightReminder": "Run the Amnesiac's ability, if applicable.",
+        "otherNightReminder": "Do whatever needs to be done to satisfy the Amnesiac's ability.",
         "reminders": [
             "?",
             "?",
@@ -1127,7 +1127,7 @@
         ],
         "team": "townsfolk",
         "otherNight": 69,
-        "otherNightReminder": "If the Farmer died tonight, wake an alive good player. Show them the *YOU ARE* info token and a Farmer character token. Replace their previous token with the Farmer token.",
+        "otherNightReminder": "If the Farmer died tonight, wake a living good player. Show the *YOU ARE* info token and a Farmer token.",
         "setup": false,
         "ability": "When you die at night, an alive good player becomes a Farmer.",
         "flavor": "Even the high and mighty need food on the table. Without us, the city starves."
@@ -1203,7 +1203,7 @@
         ],
         "edition": "carousel",
         "otherNight": 63,
-        "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died. :reminder:",
+        "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce that the Banshee has died. :reminder:",
         "reminders": [
             "Has Ability"
         ],
@@ -1290,7 +1290,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
@@ -1331,9 +1331,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 16,
-        "firstNightReminder": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+        "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 11,
-        "otherNightReminder": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep.",
+        "otherNightReminder": "If the Poppy Grower died today or tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
         "reminders": [
             "Evil Wakes"
         ],
@@ -1369,7 +1369,7 @@
         "special": [
             {
                 "type": "selection",
-                "name": "bag-duplicate"
+                "name": "good-duplicate"
             }
         ]
     },
@@ -1443,7 +1443,7 @@
         ],
         "team": "outsider",
         "firstNight": 72,
-        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
         ],
@@ -1584,7 +1584,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -1702,7 +1702,7 @@
         ],
         "team": "outsider",
         "otherNight": 58,
-        "otherNightReminder": "If the Hatter died today or tonight, wake Minions and Demons, allow them to choose new characters.",
+        "otherNightReminder": "If the Hatter died, wake the Minions & Demons. Each may choose a new character. If they do, show the *YOU ARE* token & their new character token.",
         "reminders": [
             "Tea Party Tonight"
         ],
@@ -1759,9 +1759,9 @@
         ],
         "team": "outsider",
         "firstNight": 49,
-        "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "firstNightReminder": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "otherNight": 67,
-        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "reminders": [
             "Guess Used"
         ],
@@ -1779,7 +1779,7 @@
         ],
         "team": "outsider",
         "firstNight": 20,
-        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token and three not-in-play character tokens. Put each Minion to sleep.",
+        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "setup": false,
         "ability": "Each Minion gets 3 bluffs.",
         "flavor": "It was John."
@@ -1850,9 +1850,9 @@
         ],
         "team": "minion",
         "firstNight": 45,
-        "firstNightReminder": "Show the written word.",
+        "firstNightReminder": "Show the secret word.",
         "otherNight": 31,
-        "otherNightReminder": "If a player is marked with the *TURNS EVIL* reminder, wake them. Show the *YOU ARE* info token and a thumbs down. The Mezepheles loses their ability. :reminder:",
+        "otherNightReminder": "If a good player said the secret word, wake the player. Show the *YOU ARE* info token & give a thumbs-down. :reminder: :reminder:",
         "reminders": [
             "Turns Evil",
             "No Ability"
@@ -1970,9 +1970,9 @@
         ],
         "team": "minion",
         "firstNight": 44,
-        "firstNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "firstNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "otherNight": 30,
-        "otherNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "otherNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "reminders": [
             "Mad",
             "2nd"
@@ -2037,9 +2037,9 @@
         ],
         "team": "minion",
         "firstNight": 43,
-        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 29,
-        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
         "reminders": [
             "Fear"
         ],
@@ -2130,9 +2130,9 @@
         ],
         "team": "minion",
         "firstNight": 35,
-        "firstNightReminder": "Run the Wizard's ability, if applicable.",
+        "firstNightReminder": "Do whatever needs to be done to satisfy the Wizard's ability.",
         "otherNight": 19,
-        "otherNightReminder": "Run the Wizard's ability, if applicable.",
+        "otherNightReminder": "Do whatever needs to be done to satisfy the Wizard's ability.",
         "reminders": [
             "?",
             "?"
@@ -2151,7 +2151,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -2187,7 +2187,7 @@
         ],
         "team": "minion",
         "firstNight": 31,
-        "firstNightReminder": "Mark the Xaan with the *NIGHT 1* reminder. If X is 1, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
+        "firstNightReminder": "If X is 1, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
         "otherNight": 15,
         "otherNightReminder": "Change the Xaan reminder token to the relevant night. If it is night X, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
         "reminders": [
@@ -2210,7 +2210,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -2286,7 +2286,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -2453,7 +2453,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2525,7 +2525,7 @@
         ],
         "team": "minion",
         "firstNight": 13,
-        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "setup": false,
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
@@ -2583,9 +2583,9 @@
         ],
         "team": "demon",
         "firstNight": 17,
-        "firstNightReminder": "Choose a secret phrase. Wake the Yaggababble and let them know their secret phrase.",
+        "firstNightReminder": "Show the Yaggababble their secret phrase.",
         "otherNight": 53,
-        "otherNightReminder": "For each time the Yaggababble said the phrase today, you may choose a player. They die. :reminder:",
+        "otherNightReminder": "For each time the Yaggababble said their phrase today, a player might die. :reminder:",
         "reminders": [
             "Dead",
             "Dead",
@@ -2633,9 +2633,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -2768,7 +2768,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -2950,7 +2950,7 @@
         ],
         "team": "demon",
         "firstNight": 7,
-        "firstNightReminder": "Replace neighbors of the Lord of Typhon with Minions, wake them, tell them their new alignment and character, then do minion info.",
+        "firstNightReminder": "Wake the Lord of Typhon's neighbors. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 47,
         "otherNightReminder": "The Lord of Typhon chooses a player. :reminder:",
         "reminders": [
@@ -3099,9 +3099,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -3259,7 +3259,7 @@
         ],
         "team": "traveller",
         "otherNight": 8,
-        "otherNightReminder": "The Harlot points at any living player. Then, put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die.",
+        "otherNightReminder": "The Harlot chooses a living player. Put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. If that player nods their head, wake the Harlot and show them the chosen player's character token. Both players might die. :reminder: :reminder:",
         "reminders": [
             "Dead",
             "Dead"
@@ -3372,7 +3372,7 @@
         ],
         "team": "traveller",
         "firstNight": 9,
-        "firstNightReminder": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token.",
+        "firstNightReminder": "Show the *YOU ARE* info token, then a Townsfolk or Minion token. Swap the Apprentice & Townsfolk or Minion tokens. :reminder:",
         "reminders": [
             "Is The Apprentice"
         ],
@@ -3527,6 +3527,24 @@
         "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
     },
     {
+        "id": "pope_rah",
+        "name": "Pope",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/pope-CXG7C3oM.webp"
+        ],
+        "team": "loric",
+        "setup": true,
+        "ability": "There are duplicate good characters in play. They might also be bluffs.",
+        "flavor": "...Pulcherrimae.",
+        "special": [
+            {
+                "name": "good-duplicate",
+                "type": "selection"
+            }
+        ]
+    },
+    {
         "id": "tor_rah",
         "name": "Tor",
         "edition": "loric",
@@ -3589,7 +3607,7 @@
         ],
         "team": "fabled",
         "otherNight": 2,
-        "otherNightReminder": "Wake each player marked *VISITOR* or *FALSE INFO* one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked “Visitor” or, if you are waking the player marked “False Info,” show them any number of fingers except the number of evil players marked “Visitor.”",
+        "otherNightReminder": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Give a finger signal.",
         "reminders": [
             "Visitor",
             "Visitor",
@@ -3700,9 +3718,9 @@
         ],
         "team": "fabled",
         "firstNight": 4,
-        "firstNightReminder": "Resolve the Minion Info and Demon Info steps even though there are fewer than 7 players.",
+        "firstNightReminder": "Resolve Minion Info and Demon Info, even though there are fewer than 7 players.",    
         "otherNight": 3,
-        "otherNightReminder": "If it is a night when a Demon attack could end the game, and the Demon is marked *FINAL NIGHT: NO ATTACK*, then the Demon does not act tonight. (Do not wake them.)",
+        "otherNightReminder": "If a Demon attack could end the game, and the Demon is marked *FINAL NIGHT: NO ATTACK*, do not wake the Demon.",
         "reminders": [
             "Final Night: No Attack"
         ],
@@ -3731,7 +3749,7 @@
         ],
         "team": "fabled",
         "firstNight": 3,
-        "firstNightReminder": "Declare which players are affected by the Buddhist.",
+        "firstNightReminder": "Announce which players are affected by the Buddhist.",
         "setup": false,
         "ability": "For the first 2 minutes of each day, veteran players may not talk.",
         "flavor": "You throw thorns. Falling in my silence, they become flowers."
@@ -3760,7 +3778,7 @@
         ],
         "team": "fabled",
         "firstNight": 2,
-        "firstNightReminder": "Announce which players are protected by the Angel. Add the *PROTECTED* token to the relevant players.",
+        "firstNightReminder": "Announce which players are protected by the Angel. :reminder:",
         "reminders": [
             "Protected",
             "Protected",

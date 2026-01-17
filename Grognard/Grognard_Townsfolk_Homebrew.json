@@ -15,9 +15,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 68,
-        "firstNightReminder": "Point to the *KNOWN* player.",
+        "firstNightReminder": "Point to the player marked *KNOW*. ",
         "otherNight": 87,
-        "otherNightReminder": "If the *KNOWN* player died today or tonight, point to a new *KNOWN* player.",
+        "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
         "reminders": [
             "Know"
         ],
@@ -45,9 +45,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 68,
-        "firstNightReminder": "Point to the *KNOWN* player.",
+        "firstNightReminder": "Point to the player marked *KNOW*. ",
         "otherNight": 87,
-        "otherNightReminder": "If the *KNOWN* player died today or tonight, point to a new *KNOWN* player.",
+        "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
         "reminders": [
             "Know"
         ],
@@ -75,9 +75,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 68,
-        "firstNightReminder": "Point to the *KNOWN* player.",
+        "firstNightReminder": "Point to the player marked *KNOW*. ",
         "otherNight": 87,
-        "otherNightReminder": "If the *KNOWN* player died today or tonight, point to a new *KNOWN* player.",
+        "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
         "reminders": [
             "Know"
         ],
@@ -95,9 +95,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 65,
-        "firstNightReminder": "Show any player. :reminder:",
+        "firstNightReminder": "Point to any player. :reminder:",
         "otherNight": 84,
-        "otherNightReminder": "Show a player with a different character type than all previously shown. :reminder:",
+        "otherNightReminder": "Point to a player with a different character type to the previously shown player. :reminder:",
         "reminders": [
             "Seen Townsfolk",
             "Seen Outsider",
@@ -251,9 +251,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 24,
-        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* token and the King token, then point to the King.",
+        "firstNightReminder": "Wake the Demon: Show the *THIS PLAYER IS* & King tokens, then point to the King.",
         "otherNight": 86,
-        "otherNightReminder": "If the dead equal or outnumber the living, show the character token of an alive player.",
+        "otherNightReminder": "If the dead equal or outnumber the living, show the character token of a living player.",
         "setup": false,
         "ability": "Each night, if the dead outnumber the living, you learn 1 alive character. The Demon knows who you are.",
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
@@ -372,9 +372,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 27,
-        "firstNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 13,
-        "otherNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -398,9 +398,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 27,
-        "firstNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 13,
-        "otherNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -428,9 +428,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 27,
-        "firstNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 13,
-        "otherNightReminder": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -448,9 +448,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 69,
-        "firstNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "firstNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "otherNight": 88,
-        "otherNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "otherNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "reminders": [
             "No Ability"
         ],
@@ -532,7 +532,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -590,7 +590,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -648,7 +648,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -678,7 +678,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -702,7 +702,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a not-in-play Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -726,7 +726,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a not-in-play Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -760,7 +760,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 15,
-        "firstNightReminder": "Show the *YOU ARE* token and the character token of a not-in-play Minion.",
+        "firstNightReminder": "Show the *YOU ARE* info token and a Minion token.",
         "remindersGlobal": [
             "Is The Alchemist"
         ],
@@ -1074,7 +1074,7 @@
         ],
         "team": "townsfolk",
         "otherNight": 69,
-        "otherNightReminder": "If the Farmer died tonight, wake an alive good player. Show them the *YOU ARE* info token and a Farmer character token. Replace their previous token with the Farmer token.",
+        "otherNightReminder": "If the Farmer died tonight, wake a living good player. Show the *YOU ARE* info token and a Farmer token.",
         "setup": false,
         "ability": "If you die at night, an alive good player becomes a Farmer.",
         "flavor": "Even the high and mighty need food on the table. Without us, the city starves."
@@ -1089,7 +1089,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
@@ -1126,7 +1126,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
@@ -1147,7 +1147,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
@@ -1162,7 +1162,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
@@ -1187,7 +1187,7 @@
         ],
         "team": "townsfolk",
         "firstNight": 18,
-        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "setup": false,
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"
@@ -1202,9 +1202,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 16,
-        "firstNightReminder": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+        "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 11,
-        "otherNightReminder": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep.",
+        "otherNightReminder": "If the Poppy Grower died today or tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
         "reminders": [
             "Evil Wakes"
         ],
@@ -1232,9 +1232,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 16,
-        "firstNightReminder": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+        "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 11,
-        "otherNightReminder": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep.",
+        "otherNightReminder": "If the Poppy Grower died today or tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
         "reminders": [
             "Evil Wakes"
         ],
@@ -1262,9 +1262,9 @@
         ],
         "team": "townsfolk",
         "firstNight": 16,
-        "firstNightReminder": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+        "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 11,
-        "otherNightReminder": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep.",
+        "otherNightReminder": "If the Poppy Grower died today or tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
         "reminders": [
             "Evil Wakes"
         ],

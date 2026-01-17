@@ -81,7 +81,7 @@
         ],
         "team": "outsider",
         "firstNight": 72,
-        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
         ],
@@ -105,7 +105,7 @@
         ],
         "team": "outsider",
         "firstNight": 72,
-        "firstNightReminder": "The Ogre points to a player. :reminder:",
+        "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
         ],
@@ -186,7 +186,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -242,7 +242,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -294,7 +294,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -312,7 +312,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -330,7 +330,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -348,7 +348,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -400,7 +400,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -452,7 +452,7 @@
         ],
         "team": "outsider",
         "otherNight": 61,
-        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now.",
+        "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
         ],
@@ -488,9 +488,9 @@
         ],
         "team": "outsider",
         "firstNight": 49,
-        "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "firstNightReminder": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "otherNight": 67,
-        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "reminders": [
             "Guess Used"
         ],
@@ -508,7 +508,7 @@
         ],
         "team": "outsider",
         "firstNight": 20,
-        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token and three not-in-play character tokens. Put each Minion to sleep.",
+        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "setup": false,
         "ability": "Minions start knowing 3 not-in-play characters.",
         "flavor": "It was John."
