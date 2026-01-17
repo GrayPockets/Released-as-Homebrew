@@ -1,4 +1,8 @@
 # Changelog
+## 1.5.0
+* Online App compatibility 3.50.0
+* Online app missing features documentation correction
+* Downloaded online app vendor.js
 ## 1.4.0
 * Cannibal Grognard and Poppy Grower jinx documentation
 ## 1.3.1

@@ -408,9 +408,9 @@
         ],
         "team": "minion",
         "firstNight": 44,
-        "firstNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "firstNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "otherNight": 30,
-        "otherNightReminder": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "otherNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "reminders": [
             "Mad",
             "2nd"
@@ -449,9 +449,9 @@
         ],
         "team": "minion",
         "firstNight": 43,
-        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 29,
-        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
         "reminders": [
             "Fear"
         ],
@@ -475,9 +475,9 @@
         ],
         "team": "minion",
         "firstNight": 43,
-        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 29,
-        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
+        "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
         "reminders": [
             "Fear"
         ],
@@ -687,7 +687,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -723,7 +723,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -759,7 +759,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -799,7 +799,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -843,7 +843,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -891,7 +891,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -939,7 +939,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -975,7 +975,7 @@
         ],
         "team": "minion",
         "firstNight": 33,
-        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
             "Know"
@@ -1001,7 +1001,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+            "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1051,7 +1051,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1097,7 +1097,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1155,7 +1155,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1209,7 +1209,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1267,7 +1267,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1326,7 +1326,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1380,7 +1380,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1434,7 +1434,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1464,7 +1464,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1540,7 +1540,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1620,7 +1620,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1704,7 +1704,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1784,7 +1784,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1860,7 +1860,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -1900,7 +1900,7 @@
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 33,
-        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
             "Night 2",
@@ -2286,7 +2286,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2331,7 +2331,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2380,7 +2380,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2433,7 +2433,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2482,7 +2482,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2531,7 +2531,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2576,7 +2576,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2621,7 +2621,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2662,7 +2662,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2703,7 +2703,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
@@ -2748,7 +2748,7 @@
         ],
         "team": "minion",
         "firstNight": 79,
-        "firstNightReminder": "Announce the Vizier player to the group.",
+        "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
@@ -3013,7 +3013,7 @@
         ],
         "team": "minion",
         "firstNight": 13,
-        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "setup": false,
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
@@ -3054,7 +3054,7 @@
         ],
         "team": "minion",
         "firstNight": 13,
-        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "setup": false,
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
@@ -3099,7 +3099,7 @@
         ],
         "team": "minion",
         "firstNight": 13,
-        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "setup": false,
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
@@ -3148,7 +3148,7 @@
         ],
         "team": "minion",
         "firstNight": 13,
-        "firstNightReminder": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "firstNightReminder": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "setup": false,
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."

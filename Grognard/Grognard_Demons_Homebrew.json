@@ -15,9 +15,9 @@
         ],
         "team": "demon",
         "firstNight": 17,
-        "firstNightReminder": "Choose a secret phrase. Wake the Yaggababble and let them know their secret phrase.",
+        "firstNightReminder": "Show the Yaggababble their secret phrase.",
         "otherNight": 53,
-        "otherNightReminder": "For each time the Yaggababble said the phrase today, you may choose a player. They die. :reminder:",
+        "otherNightReminder": "For each time the Yaggababble said their phrase today, a player might die. :reminder:",
         "reminders": [
             "Dead",
             "Dead",
@@ -37,9 +37,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -88,9 +88,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -143,9 +143,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -202,9 +202,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -261,9 +261,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -320,9 +320,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -379,9 +379,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -430,9 +430,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -477,9 +477,9 @@
         ],
         "team": "demon",
         "firstNight": 29,
-        "firstNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 52,
-        "otherNightReminder": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:",
+        "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
         "remindersGlobal": [
             "Is The Demon",
             "Dead"
@@ -510,7 +510,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -552,7 +552,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -598,7 +598,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -644,7 +644,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -686,7 +686,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -732,7 +732,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -774,7 +774,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -816,7 +816,7 @@
         ],
         "team": "demon",
         "firstNight": 8,
-        "firstNightReminder": "Wake the Kazali, allow them to choose Minions.",
+        "firstNightReminder": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "otherNight": 54,
         "otherNightReminder": "The Kazali chooses a player. :reminder: ",
         "reminders": [
@@ -1435,7 +1435,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1461,7 +1461,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1481,7 +1481,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1507,7 +1507,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1537,7 +1537,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1567,7 +1567,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -1593,7 +1593,7 @@
         ],
         "team": "demon",
         "otherNight": 50,
-        "otherNightReminder": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three.",
+        "otherNightReminder": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target.",
         "reminders": [
             "1",
             "2",
@@ -2611,9 +2611,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -2690,9 +2690,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -2757,9 +2757,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -2824,9 +2824,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -2887,9 +2887,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -2946,9 +2946,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",
@@ -3001,9 +3001,9 @@
         ],
         "team": "demon",
         "firstNight": 78,
-        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 97,
-        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
         "reminders": [
             "Day 1",
             "Day 2",

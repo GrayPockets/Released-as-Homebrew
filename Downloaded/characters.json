@@ -7,7 +7,7 @@
     },
     "alchemist": {
         "ability": "You have a Minion ability. When using this, the Storyteller may prompt you to choose differently.",
-        "first": "Show the *YOU ARE* token and the character token of a Minion.",
+        "first": "Show the *YOU ARE* info token and a Minion token.",
         "flavor": "Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth.",
         "name": "Alchemist"
     },
@@ -15,7 +15,7 @@
         "ability": "Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
         "flavor": "Alsukut min dhahab.",
         "name": "Al-Hadikhia",
-        "other": "The Al-Hadikhia chooses three players. :reminder: :reminder: :reminder: Wake the player marked *1* and say \"the Al-Hadikhia has chosen\", then the player's name, then \"Do you choose to live?\" They either nod or shake their head. Put them to sleep and add or remove shrouds accordingly. Repeat for players marked *2* and *3*. If all three players are now alive, add a shroud to all three."
+        "other": "The Al-Hadikhia chooses 3 players. :reminder: :reminder: :reminder: In order, wake each target. They nod or shake their head. Put them to sleep before waking the next target."
     },
     "alsaahir": {
         "ability": "Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
@@ -24,20 +24,20 @@
     },
     "amnesiac": {
         "ability": "You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.",
-        "first": "Run the Amnesiac's ability, if applicable.",
+        "first": "Do whatever needs to be done to satisfy the Amnesiac's ability.",
         "flavor": "Wait. What. Who? Oh, ok. Wait. What?",
         "name": "Amnesiac",
-        "other": "Run the Amnesiac's ability, if applicable."
+        "other": "Do whatever needs to be done to satisfy the Amnesiac's ability."
     },
     "angel": {
         "ability": "Something bad might happen to whoever is most responsible for the death of a new player.",
-        "first": "Announce which players are protected by the Angel. Add the *PROTECTED* token to the relevant players.",
+        "first": "Announce which players are protected by the Angel. :reminder:",
         "flavor": "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms.",
         "name": "Angel"
     },
     "apprentice": {
         "ability": "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).",
-        "first": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token.",
+        "first": "Show the *YOU ARE* info token, then a Townsfolk or Minion token. Swap the Apprentice & Townsfolk or Minion tokens. :reminder:",
         "flavor": "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet.",
         "name": "Apprentice"
     },
@@ -59,16 +59,16 @@
     },
     "balloonist": {
         "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
-        "first": "Show any player. :reminder:",
+        "first": "Point to any player. :reminder:",
         "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!",
         "name": "Balloonist",
-        "other": "Show a player with a different character type to previously. :reminder:"
+        "other": "Point to a player with a different character type to the previously shown player. :reminder:"
     },
     "banshee": {
         "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
         "flavor": "Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh.",
         "name": "Banshee",
-        "other": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died. :reminder:"
+        "other": "If the Banshee was killed by the Demon tonight, announce that the Banshee has died. :reminder:"
     },
     "barber": {
         "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",
@@ -78,10 +78,10 @@
     },
     "barista": {
         "ability": "Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.",
-        "first": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice).",
+        "first": "Choose a player. Wake them and give a finger signal. :reminder:",
         "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?",
         "name": "Barista",
-        "other": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice)."
+        "other": "Choose a player. Wake them and give a finger signal. :reminder:"
     },
     "baron": {
         "ability": "There are extra Outsiders in play. [+2 Outsiders]",
@@ -105,7 +105,7 @@
     },
     "boffin": {
         "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
-        "first": "Wake the Boffin and the Demon. Show the not-in-play good character token. Put the Boffin and the Demon to sleep.",
+        "first": "Wake the Boffin and the Demon. Show the *THIS CHARACTER SELECTED YOU* & Boffin tokens, then the not-in-play good character token.",
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle.",
         "name": "Boffin"
     },
@@ -113,7 +113,7 @@
         "ability": "Once per game, at night*, choose a dead player: they regain their ability until dusk.",
         "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers.",
         "name": "Bone Collector",
-        "other": "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)"
+        "other": "The Bone Collector might choose a dead player. :reminder: If necessary, wake the chosen player to use their ability."
     },
     "boomdandy": {
         "ability": "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.",
@@ -127,14 +127,14 @@
     },
     "bountyhunter": {
         "ability": "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]",
-        "first": "Point to the *KNOWN* player.",
+        "first": "Point to the player marked *KNOW*. ",
         "flavor": "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure.",
         "name": "Bounty Hunter",
-        "other": "If the *KNOWN* player died today or tonight, point to a new *KNOWN* player."
+        "other": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*."
     },
     "buddhist": {
         "ability": "For the first 2 minutes of each day, veteran players may not talk.",
-        "first": "Declare which players are affected by the Buddhist.",
+        "first": "Announce which players are affected by the Buddhist.",
         "flavor": "You throw thorns. Falling in my silence, they become flowers.",
         "name": "Buddhist"
     },
@@ -160,7 +160,8 @@
     "cannibal": {
         "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution.",
         "flavor": "I don’t like clowns. They taste funny.",
-        "name": "Cannibal"
+        "name": "Cannibal",
+        "other": "NO LEAF = NO TEXT"
     },
     "cerenovus": {
         "ability": "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed.",
@@ -203,17 +204,17 @@
     },
     "cultleader": {
         "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
-        "first": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment.",
+        "first": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
         "flavor": "Thinking themselves wise, they became fools.",
         "name": "Cult Leader",
-        "other": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token and a thumbs up or down for their new alignment."
+        "other": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal."
     },
     "damsel": {
         "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
-        "first": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "first": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "flavor": "Don't touch the hair, honey.",
         "name": "Damsel",
-        "other": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token."
+        "other": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token."
     },
     "dawn": {
         "first": "Wait for a few seconds. End the Night Phase.",
@@ -267,7 +268,7 @@
         "ability": "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info.",
         "flavor": "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always.",
         "name": "Duchess",
-        "other": "Wake each player marked *VISITOR* or *FALSE INFO* one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked “Visitor” or, if you are waking the player marked “False Info,” show them any number of fingers except the number of evil players marked “Visitor.”"
+        "other": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Give a finger signal."
     },
     "dusk": {
         "first": "Start the Night Phase.",
@@ -283,10 +284,10 @@
     },
     "engineer": {
         "ability": "Once per game, at night, choose which Minions or which Demon is in play.",
-        "first": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters.",
+        "first": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
         "flavor": "If it bends, great. If it breaks, well, it probably needed fixing anyway.",
         "name": "Engineer",
-        "other": "The Engineer might choose Minions or Demons. :reminder: If they do: Put the Engineer to sleep. Wake a target, show them the *YOU ARE* token and their new character token, then put that target to sleep. Repeat for all players that changed characters."
+        "other": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:"
     },
     "eviltwin": {
         "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
@@ -310,14 +311,14 @@
         "ability": "When you die at night, an alive good player becomes a Farmer.",
         "flavor": "Even the high and mighty need food on the table. Without us, the city starves.",
         "name": "Farmer",
-        "other": "If the Farmer died tonight, wake an alive good player. Show them the *YOU ARE* info token and a Farmer character token. Replace their previous token with the Farmer token."
+        "other": "If the Farmer died tonight, wake a living good player. Show the *YOU ARE* info token and a Farmer token."
     },
     "fearmonger": {
         "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
-        "first": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
+        "first": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you.",
         "name": "Fearmonger",
-        "other": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\""
+        "other": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player."
     },
     "ferryman": {
         "ability": "On the final day, all dead players regain their vote token.",
@@ -429,20 +430,20 @@
         "ability": "Each night*, choose a living player: if they agree, you learn their character, but you both might die.",
         "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good.",
         "name": "Harlot",
-        "other": "The Harlot points at any living player. Then, put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die."
+        "other": "The Harlot chooses a living player. Put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. If that player nods their head, wake the Harlot and show them the chosen player's character token. Both players might die. :reminder: :reminder:"
     },
     "harpy": {
         "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
-        "first": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "first": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me.",
         "name": "Harpy",
-        "other": "The Harpy chooses two players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target."
+        "other": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target."
     },
     "hatter": {
         "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
         "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat.",
         "name": "Hatter",
-        "other": "If the Hatter died today or tonight, wake Minions and Demons, allow them to choose new characters."
+        "other": "If the Hatter died, wake the Minions & Demons. Each may choose a new character. If they do, show the *YOU ARE* token & their new character token."
     },
     "hellslibrarian": {
         "ability": "Something bad might happen to whoever talks when the Storyteller has asked for silence.",
@@ -473,10 +474,10 @@
     },
     "huntsman": {
         "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]",
-        "first": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token.",
+        "first": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token.",
         "flavor": "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming.",
         "name": "Huntsman",
-        "other": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token."
+        "other": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token."
     },
     "imp": {
         "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
@@ -509,17 +510,17 @@
     },
     "kazali": {
         "ability": "Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
-        "first": "Wake the Kazali, allow them to choose Minions.",
+        "first": "The Kazali chooses which players are which Minions. Wake each target. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig.",
         "name": "Kazali",
-        "other": "The Kazali chooses a player. :reminder: "
+        "other": "The Kazali chooses a player. :reminder:"
     },
     "king": {
         "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.",
-        "first": "Wake the Demon. Show the *THIS PLAYER IS* token and the King token, then point to the King.",
+        "first": "Wake the Demon: Show the *THIS PLAYER IS* & King tokens, then point to the King.",
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show.",
         "name": "King",
-        "other": "If the dead equal or outnumber the living, show the character token of an alive player."
+        "other": "If the dead equal or outnumber the living, show the character token of a living player."
     },
     "klutz": {
         "ability": "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",
@@ -528,7 +529,7 @@
     },
     "knight": {
         "ability": "You start knowing 2 players that are not the Demon.",
-        "first": "Point to the two non-Demon players marked *KNOW*.",
+        "first": "Point to the 2 players marked *KNOW*.",
         "flavor": "When a man lies, he murders some part of the world.",
         "name": "Knight"
     },
@@ -540,10 +541,10 @@
     },
     "leviathan": {
         "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
-        "first": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "first": "Announce that the Leviathan is in play. :reminder:",
         "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
         "name": "Leviathan",
-        "other": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:"
+        "other": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play."
     },
     "librarian": {
         "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
@@ -553,10 +554,10 @@
     },
     "lilmonsta": {
         "ability": "Each night, Minions choose who babysits Lil' Monsta & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
-        "first": "Wake all Minions, allow them to choose a babysitter. :reminder:",
+        "first": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "flavor": "Step 1: Be cute. Step 2: World domination. Step 3: Bweakfast.",
         "name": "Lil' Monsta",
-        "other": "Wake all Minions, allow them to choose a babysitter. :reminder: A player might die. :reminder:"
+        "other": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:"
     },
     "lleech": {
         "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.",
@@ -567,7 +568,7 @@
     },
     "lordoftyphon": {
         "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
-        "first": "Replace neighbors of the Lord of Typhon with Minions, wake them, tell them their new alignment and character, then do minion info.",
+        "first": "Wake the Lord of Typhon's neighbors. Show the *YOU ARE* and Minion tokens & give a thumbs-down.",
         "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds.",
         "name": "Lord of Typhon",
         "other": "The Lord of Typhon chooses a player. :reminder:"
@@ -587,13 +588,13 @@
     },
     "magician": {
         "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
-        "first": "Include the Magician in the Minion and Demon Info steps.",
+        "first": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
         "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
         "name": "Magician"
     },
     "marionette": {
         "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
-        "first": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "first": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "flavor": "Words, words. They're all we have to go on.",
         "name": "Marionette"
     },
@@ -621,10 +622,10 @@
     },
     "mezepheles": {
         "ability": "You start knowing a secret word. The 1st good player to say this word becomes evil that night.",
-        "first": "Show the written word.",
+        "first": "Show the secret word.",
         "flavor": "That which issues from the heart alone, will bend the hearts of others to your own.",
         "name": "Mezepheles",
-        "other": "If a player is marked with the *TURNS EVIL* reminder, wake them. Show the *YOU ARE* info token and a thumbs down. The Mezepheles loses their ability. :reminder:"
+        "other": "If a good player said the secret word, wake the player. Show the *YOU ARE* info token & give a thumbs-down. :reminder: :reminder:"
     },
     "minioninfo": {
         "first": "If there are 7 or more players, wake all Minions: Show the *THIS IS THE DEMON* token. Point to the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the other Minions.",
@@ -654,14 +655,14 @@
     },
     "nightwatchman": {
         "ability": "Once per game, at night, choose a player: they learn you are the Nightwatchman.",
-        "first": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "first": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "flavor": "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window...",
         "name": "Nightwatchman",
-        "other": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman."
+        "other": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:"
     },
     "noble": {
         "ability": "You start knowing 3 players, 1 and only 1 of which is evil.",
-        "first": "Point to all three players marked *KNOW*.",
+        "first": "Point to the 3 players marked *KNOW*.",
         "flavor": "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit.",
         "name": "Noble"
     },
@@ -673,7 +674,7 @@
     },
     "ogre": {
         "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
-        "first": "The Ogre points to a player. :reminder:",
+        "first": "The Ogre chooses a player. :reminder:",
         "flavor": "<grunt><grin></grunt>",
         "name": "Ogre"
     },
@@ -681,7 +682,7 @@
         "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
         "flavor": "Like a bonfire on a moonless night… I see you, mortal.",
         "name": "Ojo",
-        "other": "The Ojo chooses a character. :reminder: "
+        "other": "The Ojo chooses a character. :reminder:"
     },
     "oracle": {
         "ability": "Each night*, you learn how many dead players are evil.",
@@ -724,7 +725,7 @@
         "ability": "When you die, the Storyteller gains a Minion ability.",
         "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh.",
         "name": "Plague Doctor",
-        "other": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now."
+        "other": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:"
     },
     "po": {
         "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
@@ -744,25 +745,30 @@
         "flavor": "I'm glad you asked that question. Truly, I am. But I think the REAL question here is...",
         "name": "Politician"
     },
+    "pope": {
+        "ability": "There are duplicate good characters in play. They might also be bluffs.",
+        "flavor": "...Pulcherrimae.",
+        "name": "Pope"
+    },
     "poppygrower": {
         "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
-        "first": "Do not do the Minion Info and Demon Info steps. Wake the Demon, show the *THESE CHARACTERS ARE NOT IN PLAY* info token and any three good character tokens that are not in play.",
+        "first": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark.",
         "name": "Poppy Grower",
-        "other": "If the Poppy Grower died today or tonight, wake the Minions, show the *THIS IS THE DEMON* info token and point to the Demon. Put them to sleep. Wake the Demon, show the *THESE ARE YOUR MINIONS* info token and point to the Minions. Put the Demon to sleep."
+        "other": "If the Poppy Grower died today or tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions."
     },
     "preacher": {
         "ability": "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.",
-        "first": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token.",
+        "first": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens.",
         "flavor": "It is better to be rich and healthy than poor and sick.",
         "name": "Preacher",
-        "other": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token and the Preacher token."
+        "other": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens."
     },
     "princess": {
         "ability": "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.",
         "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court.",
         "name": "Princess",
-        "other": "If the Princess nominated the player who was executed today, the Demon wakes as normal, but no one dies to the Demon's ability."
+        "other": "If the Princess nominated the player who was executed today, wake the Demon as normal, but no one dies to the Demon's ability. :reminder:"
     },
     "professor": {
         "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
@@ -862,7 +868,7 @@
     },
     "shugenja": {
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
-        "first": "Point clockwise or anticlockwise around the circle.",
+        "first": "Point clockwise or anticlockwise.",
         "flavor": "これは夢。それも夢。すべて夢です。",
         "name": "Shugenja"
     },
@@ -880,7 +886,7 @@
     },
     "snitch": {
         "ability": "Each Minion gets 3 bluffs.",
-        "first": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token and three not-in-play character tokens. Put each Minion to sleep.",
+        "first": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "flavor": "It was John.",
         "name": "Snitch"
     },
@@ -903,13 +909,13 @@
     },
     "steward": {
         "ability": "You start knowing 1 good player.",
-        "first": "Point to the good player marked *KNOW*.",
+        "first": "Point to the player marked *KNOW*.",
         "flavor": "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!",
         "name": "Steward"
     },
     "stormcatcher": {
         "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
-        "first": "At the start of the night, announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. :reminder: Wake each evil player and show them the character token, then the marked player. If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token and the relevant character token.",
+        "first": "Announce which character is stormcaught. If that character is in play, mark that player as *STORMCAUGHT*. Wake each evil player and show them the character token, then the marked player.  If not in play, wake each evil player, show them the *THESE CHARACTERS ARE NOT IN PLAY* token & the relevant character token.",
         "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye.",
         "name": "Storm Catcher"
     },
@@ -918,7 +924,7 @@
         "first": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
         "name": "Summoner",
-        "other": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token."
+        "other": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down."
     },
     "sweetheart": {
         "ability": "When you die, 1 player is drunk from now on.",
@@ -958,10 +964,10 @@
     },
     "toymaker": {
         "ability": "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info.",
-        "first": "Resolve the Minion Info and Demon Info steps even though there are fewer than 7 players.",
+        "first": "Resolve Minion Info and Demon Info, even though there are fewer than 7 players.",
         "flavor": "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!",
         "name": "Toymaker",
-        "other": "If it is a night when a Demon attack could end the game, and the Demon is marked *FINAL NIGHT: NO ATTACK*, then the Demon does not act tonight. (Do not wake them.)"
+        "other": "If a Demon attack could end the game, and the Demon is marked *FINAL NIGHT: NO ATTACK*, do not wake the Demon."
     },
     "undertaker": {
         "ability": "Each night*, you learn which character died by execution today.",
@@ -977,10 +983,10 @@
     },
     "villageidiot": {
         "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
-        "first": "Choose a Village Idiot to be drunk. Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player.",
+        "first": "If there are multiple Village Idiots, mark one as *DRUNK*. :reminder: Wake the Village Idiots one at a time to choose a player. Give a thumb signal.",
         "flavor": "Roses are blue, and violets are red, Please reverse what I just said.",
         "name": "Village Idiot",
-        "other": "Wake the Village Idiots one at a time, they choose a player, show either good or evil thumbs according to the alignment of that player."
+        "other": "Wake the Village Idiots one at a time to choose a player. Give a thumb signal."
     },
     "virgin": {
         "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
@@ -989,7 +995,7 @@
     },
     "vizier": {
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
-        "first": "Announce the Vizier player to the group.",
+        "first": "Announce which player is the Vizier.",
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
         "name": "Vizier"
     },
@@ -1012,7 +1018,7 @@
     },
     "widow": {
         "ability": "On your 1st night, look at the Grimoire & choose a player: they are poisoned. 1 good player knows a Widow is in play.",
-        "first": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
+        "first": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "flavor": "More wine? Château d’Ergot ’07 is a very special vintage. My yes, very special indeed.",
         "name": "Widow"
     },
@@ -1025,10 +1031,10 @@
     },
     "wizard": {
         "ability": "Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.",
-        "first": "Run the Wizard's ability, if applicable.",
+        "first": "Do whatever needs to be done to satisfy the Wizard's ability.",
         "flavor": "Every man and every woman is a star. Love is the law, love under will.",
         "name": "Wizard",
-        "other": "Run the Wizard's ability, if applicable."
+        "other": "Do whatever needs to be done to satisfy the Wizard's ability."
     },
     "wraith": {
         "ability": "You may choose to open your eyes at night. You wake when other evil players do.",
@@ -1039,17 +1045,17 @@
     },
     "xaan": {
         "ability": "On night X, all Townsfolk are poisoned until dusk. [X Outsiders]",
-        "first": "Mark the Xaan with the *NIGHT 1* reminder. If X is 1, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
+        "first": "If X is 1, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
         "flavor": "Down they fall. One by one. By two, by three, by five.",
         "name": "Xaan",
         "other": "Change the Xaan reminder token to the relevant night. If it is night X, mark the Xaan with the *X* reminder token. :reminder: :reminder:"
     },
     "yaggababble": {
         "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
-        "first": "Choose a secret phrase. Wake the Yaggababble and let them know their secret phrase.",
+        "first": "Show the Yaggababble their secret phrase.",
         "flavor": "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!",
         "name": "Yaggababble",
-        "other": "For each time the Yaggababble said the phrase today, you may choose a player. They die. :reminder:"
+        "other": "For each time the Yaggababble said their phrase today, a player might die. :reminder:"
     },
     "zealot": {
         "ability": "If there are 5 or more players alive, you must vote for every nomination.",
