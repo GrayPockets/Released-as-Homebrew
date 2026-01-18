@@ -1,4 +1,6 @@
 # Changelog
+## 1.5.2
+* Grognard Barista
 ## 1.5.1
 * Alternate homebrew night order instructions
 ## 1.5.0

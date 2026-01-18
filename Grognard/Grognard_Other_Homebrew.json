@@ -6,6 +6,30 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
+        "id": "barista_gah_20230324",
+        "name": "Barista",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/barista-9RUmOrIt.webp",
+            "https://botc.app/assets/barista_g-IYOwLzUb.webp",
+            "https://botc.app/assets/barista_e-dh62LsHj.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 10,
+        "firstNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice).",
+        "otherNight": 52,
+        "otherNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice).",
+        "reminders": [
+            "Sober & Healthy",
+            "Acts Twice",
+            "?",
+            "?"
+        ],
+        "setup": false,
+        "ability": "Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.",
+        "flavor": "There really is no cause to worry because when you think about it we are all  capable and qualified and smart enough to grab the bull by the horns and sit down and figure this out like the  reasonable adults we are by the way would you like another cup it really is the most amazing beverage they say it is from the east but anyway where were we ah yes going for a jog and really nutting out this demon business which we can do with just a little teensy mental boost and some logical thinking for example Senior Hu here is a regular customer and therefore quite trustworthy and would anyone like another cup?"
+    },
+    {
         "id": "gangster_gah_20230422",
         "name": "Gangster",
         "edition": "carousel",
