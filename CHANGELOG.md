@@ -1,4 +1,6 @@
 # Changelog
+## 1.5.1
+* Alternate homebrew night order instructions
 ## 1.5.0
 * Online App compatibility 3.50.0
 * Online app missing features documentation correction
