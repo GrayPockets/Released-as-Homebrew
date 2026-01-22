@@ -1,4 +1,6 @@
 # Changelog
+## 1.5.3
+* Online App compatibility 3.50.1
 ## 1.5.2
 * Grognard Barista
 ## 1.5.1

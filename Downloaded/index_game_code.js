@@ -1,9 +1,9 @@
-import {F as Ra, r as k, c as u, o as r, a as A, b, t as c, n as Ud, g as Hd, d as qd, m as J, e as U, f as D, h as I, i as rl, U as Xe, j as a, w as T, k as v, T as L, l as _, p as C, q as R, s as y, u as q, v as E, x as he, _ as tt, y as it, z as ot, A as nt, B as at, C as rt, D as lt, E as ct, G as dt, H as ut, I as gt, J as mt, K as ht, L as pt, M as At, N as bt, O as ft, P as vt, Q as yt, R as _t, S as wt, V as kt, W as Ct, X as St, Y as Pt, Z as Tt, $ as It, a0 as Mt, a1 as Rt, a2 as Dt, a3 as Et, a4 as Nt, a5 as Bt, a6 as Vt, a7 as Ot, a8 as jt, a9 as Ut, aa as Ht, ab as qt, ac as Lt, ad as zt, ae as Gt, af as Wt, ag as Ft, ah as Qt, ai as Zt, aj as Xt, ak as Kt, al as Yt, am as Jt, an as $t, ao as xt, ap as ei, aq as si, ar as ti, as as ii, at as oi, au as ni, av as ai, aw as ri, ax as li, ay as ci, az as di, aA as ui, aB as gi, aC as mi, aD as hi, aE as pi, aF as Ai, aG as bi, aH as fi, aI as vi, aJ as yi, aK as _i, aL as wi, aM as ki, aN as Ci, aO as Si, aP as Pi, aQ as Ti, aR as Ii, aS as Mi, aT as Ri, aU as Di, aV as Ei, aW as Ni, aX as Bi, aY as Vi, aZ as Oi, a_ as ji, a$ as Ui, b0 as Hi, b1 as qi, b2 as Li, b3 as zi, b4 as Gi, b5 as Wi, b6 as Fi, b7 as Qi, b8 as Zi, b9 as Xi, ba as Ki, bb as Yi, bc as Ji, bd as $i, be as xi, bf as eo, bg as so, bh as to, bi as io, bj as oo, bk as no, bl as ao, bm as ro, bn as lo, bo as co, bp as uo, bq as go, br as mo, bs as ho, bt as po, bu as Ao, bv as bo, bw as fo, bx as vo, by as yo, bz as _o, bA as wo, bB as ko, bC as Co, bD as So, bE as Po, bF as To, bG as Io, bH as Mo, bI as Ro, bJ as Do, bK as Eo, bL as No, bM as Bo, bN as Vo, bO as Oo, bP as jo, bQ as Uo, bR as Ho, bS as qo, bT as Lo, bU as zo, bV as Go, bW as Wo, bX as Fo, bY as Qo, bZ as Zo, b_ as Xo, b$ as Ko, c0 as Yo, c1 as Jo, c2 as $o, c3 as xo, c4 as en, c5 as sn, c6 as tn, c7 as on, c8 as nn, c9 as an, ca as rn, cb as ln, cc as cn, cd as dn, ce as un, cf as gn, cg as mn, ch as hn, ci as pn, cj as An, ck as bn, cl as fn, cm as vn, cn as yn, co as _n, cp as wn, cq as kn, cr as Cn, cs as Sn, ct as z, cu as Ae, cv as Ce, cw as Ld, cx as Us, cy as Ke, cz as ll, cA as cl, cB as W, cC as zd, cD as He, cE as Gd, cF as Wd, cG as Fd, cH as Da, cI as Hs, cJ as Qd, cK as dl, cL as X, cM as Zd, cN as Xd, cO as ul, cP as Kd, cQ as Yd, cR as Jd, cS as $d, cT as xd, cU as eu, cV as gl, cW as su, cX as tu, cY as iu, cZ as Ea, c_ as ou, c$ as nu, d0 as au, d1 as ru, d2 as lu} from "./vendor-B6Bd4vNj.js";
+import {F as Ra, r as k, c as u, o as r, a as A, b, t as c, n as Ud, g as Hd, d as qd, m as J, e as U, f as D, h as I, i as rl, U as Xe, j as a, w as T, k as v, T as L, l as _, p as C, q as R, s as y, u as q, v as E, x as he, _ as tt, y as it, z as ot, A as nt, B as at, C as rt, D as lt, E as ct, G as dt, H as ut, I as gt, J as mt, K as ht, L as pt, M as At, N as bt, O as ft, P as vt, Q as yt, R as _t, S as wt, V as kt, W as Ct, X as St, Y as Pt, Z as Tt, $ as It, a0 as Mt, a1 as Rt, a2 as Dt, a3 as Et, a4 as Nt, a5 as Bt, a6 as Vt, a7 as Ot, a8 as jt, a9 as Ut, aa as Ht, ab as qt, ac as Lt, ad as zt, ae as Gt, af as Wt, ag as Ft, ah as Qt, ai as Zt, aj as Xt, ak as Kt, al as Yt, am as Jt, an as $t, ao as xt, ap as ei, aq as si, ar as ti, as as ii, at as oi, au as ni, av as ai, aw as ri, ax as li, ay as ci, az as di, aA as ui, aB as gi, aC as mi, aD as hi, aE as pi, aF as Ai, aG as bi, aH as fi, aI as vi, aJ as yi, aK as _i, aL as wi, aM as ki, aN as Ci, aO as Si, aP as Pi, aQ as Ti, aR as Ii, aS as Mi, aT as Ri, aU as Di, aV as Ei, aW as Ni, aX as Bi, aY as Vi, aZ as Oi, a_ as ji, a$ as Ui, b0 as Hi, b1 as qi, b2 as Li, b3 as zi, b4 as Gi, b5 as Wi, b6 as Fi, b7 as Qi, b8 as Zi, b9 as Xi, ba as Ki, bb as Yi, bc as Ji, bd as $i, be as xi, bf as eo, bg as so, bh as to, bi as io, bj as oo, bk as no, bl as ao, bm as ro, bn as lo, bo as co, bp as uo, bq as go, br as mo, bs as ho, bt as po, bu as Ao, bv as bo, bw as fo, bx as vo, by as yo, bz as _o, bA as wo, bB as ko, bC as Co, bD as So, bE as Po, bF as To, bG as Io, bH as Mo, bI as Ro, bJ as Do, bK as Eo, bL as No, bM as Bo, bN as Vo, bO as Oo, bP as jo, bQ as Uo, bR as Ho, bS as qo, bT as Lo, bU as zo, bV as Go, bW as Wo, bX as Fo, bY as Qo, bZ as Zo, b_ as Xo, b$ as Ko, c0 as Yo, c1 as Jo, c2 as $o, c3 as xo, c4 as en, c5 as sn, c6 as tn, c7 as on, c8 as nn, c9 as an, ca as rn, cb as ln, cc as cn, cd as dn, ce as un, cf as gn, cg as mn, ch as hn, ci as pn, cj as An, ck as bn, cl as fn, cm as vn, cn as yn, co as _n, cp as wn, cq as kn, cr as Cn, cs as Sn, ct as z, cu as Ae, cv as Ce, cw as Ld, cx as Us, cy as Ke, cz as ll, cA as cl, cB as W, cC as zd, cD as He, cE as Gd, cF as Wd, cG as Fd, cH as Da, cI as Hs, cJ as Qd, cK as dl, cL as X, cM as Zd, cN as Xd, cO as ul, cP as Kd, cQ as Yd, cR as Jd, cS as $d, cT as xd, cU as eu, cV as gl, cW as su, cX as tu, cY as iu, cZ as Ea, c_ as ou, c$ as nu, d0 as au, d1 as ru, d2 as lu} from "./vendor-qIhCxMov.js";
 (function() {
     try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {};
         e.SENTRY_RELEASE = {
-            id: "botc-app@3.50.0"
+            id: "botc-app@3.50.1"
         }
     } catch {}
 }
@@ -13,8 +13,8 @@ try {
         var e = typeof window < "u" ? window : typeof global < "u" ? global : typeof globalThis < "u" ? globalThis : typeof self < "u" ? self : {}
           , s = new e.Error().stack;
         s && (e._sentryDebugIds = e._sentryDebugIds || {},
-        e._sentryDebugIds[s] = "e9f4e3b0-77c7-4376-9b9b-17bf9476ec0b",
-        e._sentryDebugIdIdentifier = "sentry-dbid-e9f4e3b0-77c7-4376-9b9b-17bf9476ec0b")
+        e._sentryDebugIds[s] = "7f154ef6-12ff-4052-9470-84c12572f95b",
+        e._sentryDebugIdIdentifier = "sentry-dbid-7f154ef6-12ff-4052-9470-84c12572f95b")
     }
     )()
 } catch {}
@@ -301,43 +301,43 @@ const Va = (e, s, t) => s <= 2 ? t(e, s) : e % 10 === 1 && e % 100 !== 11 ? 0 : 
     let s = {};
     try {
         s = (i = (n = await Ba(Object.assign({
-            "./app/cs.json": () => Q( () => import("./cs-C5BadYzK.js"), []),
-            "./app/da.json": () => Q( () => import("./da-DYaMj8XU.js"), []),
-            "./app/de.json": () => Q( () => import("./de-ZqDNXS4X.js"), []),
-            "./app/de_CH.json": () => Q( () => import("./de_CH--BOAHZTO.js"), []),
-            "./app/en.json": () => Q( () => import("./en-ZHq32nk4.js"), []),
-            "./app/en_pirate.json": () => Q( () => import("./en_pirate-DT5IwA7U.js"), []),
-            "./app/es.json": () => Q( () => import("./es-Cb2_otlE.js"), []),
-            "./app/es_419.json": () => Q( () => import("./es_419-m8Hnuqj2.js"), []),
-            "./app/es_MX.json": () => Q( () => import("./es_MX-C-d5PQA-.js"), []),
-            "./app/fr.json": () => Q( () => import("./fr-CoQlyTuM.js"), []),
-            "./app/gl.json": () => Q( () => import("./gl-C-MTuzZz.js"), []),
-            "./app/it.json": () => Q( () => import("./it-CyDQxyJ-.js"), []),
-            "./app/ja.json": () => Q( () => import("./ja-BRq4NhmS.js"), []),
-            "./app/ko.json": () => Q( () => import("./ko-lYqhv6Im.js"), []),
-            "./app/nb_NO.json": () => Q( () => import("./nb_NO-D0BrlO9q.js"), []),
-            "./app/nl.json": () => Q( () => import("./nl-1dWxDCAg.js"), []),
-            "./app/pl.json": () => Q( () => import("./pl-DEuVYZaL.js"), []),
-            "./app/pt_BR.json": () => Q( () => import("./pt_BR-Cut4dL2l.js"), []),
-            "./app/pt_PT.json": () => Q( () => import("./pt_PT-LrFjsC5-.js"), []),
-            "./app/ru.json": () => Q( () => import("./ru-g4p9gNZU.js"), []),
-            "./app/sk.json": () => Q( () => import("./sk-ZON8MwF7.js"), []),
-            "./app/sl.json": () => Q( () => import("./sl-BraMb0kc.js"), []),
-            "./app/sv.json": () => Q( () => import("./sv-Ddwr0Qui.js"), []),
-            "./app/uk.json": () => Q( () => import("./uk-DCcuXfjx.js"), []),
-            "./app/vi.json": () => Q( () => import("./vi-BeDWc88J.js"), []),
-            "./app/zh_Hans.json": () => Q( () => import("./zh_Hans-DlzPshIq.js"), [])
+            "./app/cs.json": () => Q( () => import("./cs-z0xn-Sub.js"), []),
+            "./app/da.json": () => Q( () => import("./da-BzKknTCu.js"), []),
+            "./app/de.json": () => Q( () => import("./de-CrnzHAX7.js"), []),
+            "./app/de_CH.json": () => Q( () => import("./de_CH-JqkAfMQF.js"), []),
+            "./app/en.json": () => Q( () => import("./en-BidaDrjF.js"), []),
+            "./app/en_pirate.json": () => Q( () => import("./en_pirate-CSHFEyKO.js"), []),
+            "./app/es.json": () => Q( () => import("./es-PgElvmtU.js"), []),
+            "./app/es_419.json": () => Q( () => import("./es_419-JL7k6fIa.js"), []),
+            "./app/es_MX.json": () => Q( () => import("./es_MX-CAffIWif.js"), []),
+            "./app/fr.json": () => Q( () => import("./fr-Bs2hvzTZ.js"), []),
+            "./app/gl.json": () => Q( () => import("./gl-D4_JMEov.js"), []),
+            "./app/it.json": () => Q( () => import("./it-CkyYygUY.js"), []),
+            "./app/ja.json": () => Q( () => import("./ja-CN6fUgGv.js"), []),
+            "./app/ko.json": () => Q( () => import("./ko-DqMpX0Uz.js"), []),
+            "./app/nb_NO.json": () => Q( () => import("./nb_NO-BB0Pj95x.js"), []),
+            "./app/nl.json": () => Q( () => import("./nl-CUQATinq.js"), []),
+            "./app/pl.json": () => Q( () => import("./pl-DVgGTLAm.js"), []),
+            "./app/pt_BR.json": () => Q( () => import("./pt_BR-1lo4Jzhi.js"), []),
+            "./app/pt_PT.json": () => Q( () => import("./pt_PT-Bs6vRCtX.js"), []),
+            "./app/ru.json": () => Q( () => import("./ru-BpDMH5vZ.js"), []),
+            "./app/sk.json": () => Q( () => import("./sk-7xbZjR4s.js"), []),
+            "./app/sl.json": () => Q( () => import("./sl-Cfo-f3ox.js"), []),
+            "./app/sv.json": () => Q( () => import("./sv-DS5s_69L.js"), []),
+            "./app/uk.json": () => Q( () => import("./uk-CSSYwjag.js"), []),
+            "./app/vi.json": () => Q( () => import("./vi-B_O-DpYD.js"), []),
+            "./app/zh_Hans.json": () => Q( () => import("./zh_Hans-CuC0Nxba.js"), [])
         }), `./app/${e.replace(/[-@]/g, "_")}.json`, 5)) == null ? void 0 : n.default) != null ? i : s
     } catch {}
     let t = {};
     try {
         t = (l = (o = await Ba(Object.assign({
-            "./game/de.json": () => Q( () => import("./de-lnEEJBYB.js"), []),
-            "./game/en.json": () => Q( () => import("./en-OBSP9xlT.js"), []),
-            "./game/en_pirate.json": () => Q( () => import("./en_pirate-1fcLXM8n.js"), []),
-            "./game/es_419.json": () => Q( () => import("./es_419-tNhzDmhE.js"), []),
-            "./game/sv.json": () => Q( () => import("./sv-lRa5b98a.js"), []),
-            "./game/zh_Hans.json": () => Q( () => import("./zh_Hans-BuXyRkZJ.js"), [])
+            "./game/de.json": () => Q( () => import("./de-64HJO5Jn.js"), []),
+            "./game/en.json": () => Q( () => import("./en-CqdVOOS2.js"), []),
+            "./game/en_pirate.json": () => Q( () => import("./en_pirate-DcYq1rIo.js"), []),
+            "./game/es_419.json": () => Q( () => import("./es_419-C8D7zRKn.js"), []),
+            "./game/sv.json": () => Q( () => import("./sv-B5vQydki.js"), []),
+            "./game/zh_Hans.json": () => Q( () => import("./zh_Hans-D-RMRgO7.js"), [])
         }), `./game/${e.replace(/[-@]/g, "_")}.json`, 5)) == null ? void 0 : o.default) != null ? l : t
     } catch {}
     return {
@@ -1213,7 +1213,7 @@ function Pg(e, s, t, n, i, o) {
 }
 const Tg = j(kg, [["render", Pg]])
   , Ig = "botc-app"
-  , Mg = "3.50.0"
+  , Mg = "3.50.1"
   , Rg = "Blood on the Clocktower Online"
   , Dg = "https://botc.app"
   , Eg = "Steffen Baumgart <steffen@baumgart.biz>"
@@ -1858,7 +1858,14 @@ function im(e, s, t, n, i, o) {
     }, null, 8, tm)])])], 2)
 }
 const om = j(Gg, [["render", im], ["__scopeId", "data-v-70b7f883"]])
-  , nm = `Version 3.50.0 - Sowing discord
+  , nm = `Version 3.50.1 - Those bloody Pirates again...
+
+- 🌟 private chat requests can now be sent to players that don't use a microphone
+- 🐛 fixed Pirate English causing some bloody troubles everywhere (thanks aggressivelymemeing & @Lowie375)
+- 🐛 fixed docked night sheets not overlaying game info on hover (thanks @violetcrestedwren)
+- 🐛 fixed "invisible" usernames becoming unchangeable (thanks Davy)
+
+### Version 3.50.0 - Sowing discord
 
 - 🚀 added Pope (Loric): "There are duplicate good characters in play. They might also be bluffs."
 - 🚀 added Homebrew support for "good-duplicate" (type: "selection"), which allows a character, when selected, to duplicate any good character in the bag selection and bluff screen
@@ -1964,19 +1971,7 @@ const om = j(Gg, [["render", im], ["__scopeId", "data-v-70b7f883"]])
 
 - 🌟 improved selecting a nominee next to the top and bottom seats
 - 🐛 fixed KO / ZH translation rendering upside down in a few places (thanks hydrodamalis)
-- 🐛 fixed selecting multiple night recipients (thanks goodpart)
-
-### Version 3.47.0 - Glorious Loric
-
-- 🚀 the Loric have arrived: Big Wig & Tor (and made Bootlegger, Gardener & Storm Catcher Loric as well)
-- 🌟 added Chinese (Simplified) translations (thanks to G-Stone), as well as interface translations in German (Switzerland), French, Korean, Norwegian Bokmål, Polish, Portuguese (Portugal), Slovak, Ukrainian and Vietnamese (thanks to all the volunteers)
-- 🌟 added indicator to show if someone has deafened their audio
-- 🌟 simplified self-nominations by saving a click
-- 🐛 fixed token ability tool-tip rendering weirdly during token distribution animation (thanks @inspirationfollows)
-- 🐛 fixed being unable to lower your hand after raising it as a fake dead & voteless Banshee (thanks @joernlenoch)
-- 🐛 fixed Storyteller self-assigning a character both at the start and end of the game messing up their statistics (thanks lejordet)
-- 🐛 fixed base 3 script names not showing up properly in Discord session link previews (thanks pimpwilly)
-- 🐛 fixed token glow not adhering to selected colorblind mode (thanks @jeremyroman)`
+- 🐛 fixed selecting multiple night recipients (thanks goodpart)`
   , am = {
     props: {
         name: {
@@ -4602,7 +4597,7 @@ const ca = j(u_, [["render", m_], ["__scopeId", "data-v-2e7e825f"]])
 }
   , Lr = () => {
     he(e => ({
-        v318edbb2: e.avatarZoom
+        v6c0d4c24: e.avatarZoom
     }))
 }
   , zr = da.setup;
@@ -4696,7 +4691,7 @@ function C_(e, s, t, n, i, o) {
             u("div", b_, [a("em", null, c((G = e.nightOrder.get((H = t.player.role) == null ? void 0 : H.id)) == null ? void 0 : G.first), 1), t.player.role.firstNightReminder ? (r(),
             u("div", f_, [a("aside", null, c(e.$t("grimoire.phases.first_night")), 1), a("span", {
                 class: "reminder",
-                innerHTML: o.renderReminderHTML(e.$t(`roles.${t.player.role.id}.first`, t.player.role.firstNightReminder))
+                innerHTML: o.renderReminderHTML(e.$te(`roles.${t.player.role.id}.first`) ? e.$t(`roles.${t.player.role.id}.first`) : t.player.role.firstNightReminder)
             }, null, 8, v_)])) : A("", !0)])) : A("", !0)]
         }
         ),
@@ -4710,7 +4705,7 @@ function C_(e, s, t, n, i, o) {
             u("div", y_, [a("em", null, c((G = e.nightOrder.get((H = t.player.role) == null ? void 0 : H.id)) == null ? void 0 : G.other), 1), t.player.role.otherNightReminder ? (r(),
             u("div", __, [a("aside", null, c(e.$t("grimoire.phases.other_nights")), 1), a("span", {
                 class: "reminder",
-                innerHTML: o.renderReminderHTML(e.$t(`roles.${t.player.role.id}.other`, t.player.role.otherNightReminder))
+                innerHTML: o.renderReminderHTML(e.$te(`roles.${t.player.role.id}.other`) ? e.$t(`roles.${t.player.role.id}.other`) : t.player.role.otherNightReminder)
             }, null, 8, w_)])) : A("", !0)])) : A("", !0)]
         }
         ),
@@ -4736,7 +4731,7 @@ function C_(e, s, t, n, i, o) {
         player: t.player
     }, null, 8, ["player"])], 2)
 }
-const S_ = j(da, [["render", C_], ["__scopeId", "data-v-236e09e1"]])
+const S_ = j(da, [["render", C_], ["__scopeId", "data-v-926744f8"]])
   , P_ = {
     components: {
         Token: be,
@@ -4788,7 +4783,7 @@ const S_ = j(da, [["render", C_], ["__scopeId", "data-v-236e09e1"]])
             try {
                 e = new RegExp(this.search.trim(),"i")
             } catch {}
-            return [...this.rolesAvailable].filter( ([s,t]) => t.team === "traveller" && !this.roles.has(s)).filter( ([,s]) => e === "" || this.tab === 0 || this.$t(`roles.${s.id}.name`, s.name).match(e) || this.$t(`roles.${s.id}.ability`, s.ability).match(e) || this.$t(`grimoire.${s.team}`, s.team).match(e)).map( ([,s]) => s)
+            return [...this.rolesAvailable].filter( ([s,t]) => t.team === "traveller" && !this.roles.has(s)).filter( ([,s]) => e === "" || this.tab === 0 || (this.$te(`roles.${s.id}.name`) ? this.$t(`roles.${s.id}.name`) : s.name).match(e) || (this.$te(`roles.${s.id}.ability`) ? this.$t(`roles.${s.id}.ability`) : s.ability).match(e) || this.$t(`grimoire.${s.team}`, s.team).match(e)).map( ([,s]) => s)
         },
         user() {
             return this.modal.params.playerIndex === void 0 ? !1 : this.modal.params.playerIndex >= 0 ? this.players[this.modal.params.playerIndex] : this.storytellers[this.modal.params.playerIndex * -1 - 1]
@@ -5020,7 +5015,7 @@ function V_(e, s, t, n, i, o) {
         _: 1
     })
 }
-const O_ = j(P_, [["render", V_], ["__scopeId", "data-v-b7c458e5"]])
+const O_ = j(P_, [["render", V_], ["__scopeId", "data-v-e9b4f6ca"]])
   , ke = e => s => s.name === e.name && s.role === e.role
   , j_ = {
     components: {
@@ -5432,7 +5427,7 @@ const Q_ = j(j_, [["render", F_], ["__scopeId", "data-v-d75444e0"]])
         },
         nightReminder() {
             const {player: e} = this.modal.params;
-            return e != null && e.role ? e.role.firstNightReminder && this.game.phase <= 1 ? this.$t(`roles.${e.role.id}.first`, e.role.firstNightReminder) : e.role.otherNightReminder && this.game.phase > 1 ? this.$t(`roles.${e.role.id}.other`, e.role.otherNightReminder) : "" : ""
+            return e != null && e.role ? e.role.firstNightReminder && this.game.phase <= 1 ? this.$te(`roles.${e.role.id}.first`) ? this.$t(`roles.${e.role.id}.first`) : e.role.firstNightReminder : e.role.otherNightReminder && this.game.phase > 1 ? this.$te(`roles.${e.role.id}.other`) ? this.$t(`roles.${e.role.id}.other`) : e.role.otherNightReminder : "" : ""
         },
         warning() {
             var s, t;
@@ -6014,7 +6009,7 @@ function Cw(e, s, t, n, i, o) {
                             })
                         }, null, 4)) : A("", !0), a("span", {
                             class: _((V = o.allRoles.get(w.data)) == null ? void 0 : V.team)
-                        }, c(e.$t(`roles.${w.data}.name`, (O = o.allRoles.get(w.data)) == null ? void 0 : O.name)), 3)], 64)) : w.id === "custom" ? (r(),
+                        }, c(e.$te(`roles.${w.data}.name`) ? e.$t(`roles.${w.data}.name`) : (O = o.allRoles.get(w.data)) == null ? void 0 : O.name), 3)], 64)) : w.id === "custom" ? (r(),
                         u(y, {
                             key: 2
                         }, [b(g, {
@@ -6085,7 +6080,7 @@ function Cw(e, s, t, n, i, o) {
                         })
                     }, null, 4)) : A("", !0), a("span", {
                         class: _((S = o.allRoles.get(p.data)) == null ? void 0 : S.team)
-                    }, c(e.$t(`roles.${p.data}.name`, (w = o.allRoles.get(p.data)) == null ? void 0 : w.name)), 3)], 64)) : p.id === "custom" ? (r(),
+                    }, c(e.$te(`roles.${p.data}.name`) ? e.$t(`roles.${p.data}.name`) : (w = o.allRoles.get(p.data)) == null ? void 0 : w.name), 3)], 64)) : p.id === "custom" ? (r(),
                     u(y, {
                         key: 2
                     }, [b(g, {
@@ -6142,7 +6137,7 @@ function Cw(e, s, t, n, i, o) {
                 })
             }, [b(g, {
                 icon: "star"
-            }), v(" " + c(e.$t(`roles.${f.id}.name`, f.name)) + ": " + c(p.value), 1)], 8, aw))), 128)), (r(!0),
+            }), v(" " + c(e.$te(`roles.${f.id}.name`) ? e.$t(`roles.${f.id}.name`) : f.name) + ": " + c(p.value), 1)], 8, aw))), 128)), (r(!0),
             u(y, null, E(i.signals.filter(p => {
                 var f;
                 return !p.limit || p.limit === ((f = e.modal.params.player) == null ? void 0 : f.role.id)
@@ -6184,7 +6179,7 @@ function Cw(e, s, t, n, i, o) {
                 onClick: w => o.useAbility(p)
             }, [b(g, {
                 icon: "star"
-            }), v(" " + c(e.$t(`roles.${f.id}.name`, f.name)) + ": " + c(e.$t(`grimoire.abilities.${p.name}`)), 1)], 8, lw))), 128)) : A("", !0), s[14] || (s[14] = a("li", {
+            }), v(" " + c(e.$te(`roles.${f.id}.name`) ? e.$t(`roles.${f.id}.name`) : f.name) + ": " + c(e.$t(`grimoire.abilities.${p.name}`)), 1)], 8, lw))), 128)) : A("", !0), s[14] || (s[14] = a("li", {
                 class: "break"
             }, null, -1)), (r(!0),
             u(y, null, E(o.specialSignals.card, ({role: p, ability: f}, S) => (r(),
@@ -6260,7 +6255,7 @@ function Cw(e, s, t, n, i, o) {
                 style: q({
                     backgroundImage: `url(${e.roleIconURL(p)})`
                 })
-            }, null, 4)) : A("", !0), v(" " + c(e.$t(`roles.${p.id}.name`, p.name)), 1)], 10, Aw)], 64))), 128))]), a("div", bw, [a("span", {
+            }, null, 4)) : A("", !0), v(" " + c(e.$te(`roles.${p.id}.name`) ? e.$t(`roles.${p.id}.name`) : p.name), 1)], 10, Aw)], 64))), 128))]), a("div", bw, [a("span", {
                 class: "button",
                 onClick: s[8] || (s[8] = p => o.addRole())
             }, c(e.$t("common.button_cancel")), 1)])], 64)) : i.panel === "show" ? (r(),
@@ -6323,7 +6318,7 @@ function Cw(e, s, t, n, i, o) {
         _: 1
     })
 }
-const Sw = j(Z_, [["render", Cw], ["__scopeId", "data-v-4f1bdc85"]])
+const Sw = j(Z_, [["render", Cw], ["__scopeId", "data-v-22458e58"]])
   , Pw = {
     components: {
         Modal: ee
@@ -8195,7 +8190,7 @@ function Wk(e, s, t, n, i, o) {
     u("div", Lk, c(e.$t("user.stats.loading")), 1)) : (r(),
     u("div", zk, c(e.$t("user.stats.warning")), 1))])])], 2))
 }
-const yl = j(kk, [["render", Wk], ["__scopeId", "data-v-eb190093"]])
+const yl = j(kk, [["render", Wk], ["__scopeId", "data-v-484f26e6"]])
   , Fk = {
     production: "https://botc.app/backend/"
 }
@@ -9722,7 +9717,7 @@ const gC = j(cC, [["render", uC], ["__scopeId", "data-v-af7d1b40"]])
 }
   , Wr = () => {
     he(e => ({
-        v7f6a9a08: e.avatarZoom
+        v474d07ef: e.avatarZoom
     }))
 }
   , Fr = ka.setup;
@@ -9807,7 +9802,7 @@ function RC(e, s, t, n, i, o) {
                     u("div", hC, [a("em", null, c((ne = e.nightOrder.get((oe = f.role) == null ? void 0 : oe.id)) == null ? void 0 : ne.first), 1), f.role.firstNightReminder ? (r(),
                     u("div", pC, [a("aside", null, c(e.$t("grimoire.phases.first_night")), 1), a("span", {
                         class: "reminder",
-                        innerHTML: o.renderReminderHTML(e.$t(`roles.${f.role.id}.first`, f.role.firstNightReminder))
+                        innerHTML: o.renderReminderHTML(e.$te(`roles.${f.role.id}.first`) ? e.$t(`roles.${f.role.id}.first`) : f.role.firstNightReminder)
                     }, null, 8, AC)])) : A("", !0)])) : A("", !0)]
                 }
                 ),
@@ -9821,7 +9816,7 @@ function RC(e, s, t, n, i, o) {
                     u("div", bC, [a("em", null, c((ne = e.nightOrder.get((oe = f.role) == null ? void 0 : oe.id)) == null ? void 0 : ne.other), 1), f.role.otherNightReminder ? (r(),
                     u("div", fC, [a("aside", null, c(e.$t("grimoire.phases.other_nights")), 1), a("span", {
                         class: "reminder",
-                        innerHTML: o.renderReminderHTML(e.$t(`roles.${f.role.id}.other`, f.role.otherNightReminder))
+                        innerHTML: o.renderReminderHTML(e.$te(`roles.${f.role.id}.other`) ? e.$t(`roles.${f.role.id}.other`) : f.role.otherNightReminder)
                     }, null, 8, vC)])) : A("", !0)])) : A("", !0)]
                 }
                 ),
@@ -9945,7 +9940,7 @@ function RC(e, s, t, n, i, o) {
         _: 1
     })) : A("", !0)], 64)
 }
-const DC = j(ka, [["render", RC], ["__scopeId", "data-v-6d08178b"]])
+const DC = j(ka, [["render", RC], ["__scopeId", "data-v-9e342365"]])
   , Ca = {
     props: {
         name: {
@@ -10687,7 +10682,7 @@ function lS(e, s, t, n, i, o) {
                     }, [a("em", null, c((f = e.nightOrder.get(h.id)) == null ? void 0 : f.first), 1), h.firstNightReminder ? (r(),
                     u("div", sS, [a("aside", null, c(e.$t("grimoire.phases.first_night")), 1), a("span", {
                         class: "reminder",
-                        innerHTML: o.renderReminderHTML(e.$t(`roles.${h.id}.first`, h.firstNightReminder))
+                        innerHTML: o.renderReminderHTML(e.$te(`roles.${h.id}.first`) ? e.$t(`roles.${h.id}.first`) : h.firstNightReminder)
                     }, null, 8, tS)])) : A("", !0)], 2)) : A("", !0)]
                 }
                 ),
@@ -10706,7 +10701,7 @@ function lS(e, s, t, n, i, o) {
                     }, [a("em", null, c((f = e.nightOrder.get(h.id)) == null ? void 0 : f.other), 1), h.otherNightReminder ? (r(),
                     u("div", iS, [a("aside", null, c(e.$t("grimoire.phases.other_nights")), 1), a("span", {
                         class: "reminder",
-                        innerHTML: o.renderReminderHTML(e.$t(`roles.${h.id}.other`, h.otherNightReminder))
+                        innerHTML: o.renderReminderHTML(e.$te(`roles.${h.id}.other`) ? e.$t(`roles.${h.id}.other`) : h.otherNightReminder)
                     }, null, 8, oS)])) : A("", !0)], 2)) : A("", !0)]
                 }
                 ),
@@ -10744,7 +10739,7 @@ function lS(e, s, t, n, i, o) {
         _: 1
     })
 }
-const cS = j(xC, [["render", lS], ["__scopeId", "data-v-76d3aea3"]])
+const cS = j(xC, [["render", lS], ["__scopeId", "data-v-402ca50b"]])
   , dS = {
     name: "BluffsTab",
     components: {
@@ -11376,7 +11371,7 @@ const gS = j(dS, [["render", uS], ["__scopeId", "data-v-0d4daf04"]])
 }
   , Xr = () => {
     he(e => ({
-        v15767469: e.zoom
+        v3ef517c3: e.zoom
     }))
 }
   , Kr = Sa.setup;
@@ -11618,7 +11613,7 @@ function MS(e, s, t, n, i, o) {
         _: 1
     }, 8, ["is-draggable", "style"])], 16)) : A("", !0)], 64)
 }
-const RS = j(Sa, [["render", MS], ["__scopeId", "data-v-d4c77a3e"]])
+const RS = j(Sa, [["render", MS], ["__scopeId", "data-v-1340b949"]])
   , Pa = {
     components: {
         Tab: Oe
@@ -18232,7 +18227,7 @@ function HR(e, s, t, n, i, o) {
                 style: q({
                     backgroundImage: `url(${e.roleIconURL(H)})`
                 }),
-                title: H.name || e.$t(`roles.${H.id}.name`, (G = e.rolesAvailable.get(H.id)) == null ? void 0 : G.name)
+                title: H.name || e.$te(`roles.${H.id}.name`) ? e.$t(`roles.${H.id}.name`) : (G = e.rolesAvailable.get(H.id)) == null ? void 0 : G.name
             }, null, 12, CR)
         }
         ), 128))])), M.npcs.length ? (r(),
@@ -18246,7 +18241,7 @@ function HR(e, s, t, n, i, o) {
                 style: q({
                     backgroundImage: `url(${e.roleIconURL(H)})`
                 }),
-                title: H.name || e.$t(`roles.${H.id}.name`, (G = e.npcs.get(H.id)) == null ? void 0 : G.name)
+                title: H.name || e.$te(`roles.${H.id}.name`) ? e.$t(`roles.${H.id}.name`) : (G = e.npcs.get(H.id)) == null ? void 0 : G.name
             }, null, 12, PR)
         }
         ), 128))])) : A("", !0), M.players.length ? (r(),
@@ -18386,7 +18381,7 @@ function HR(e, s, t, n, i, o) {
         class: "logo sb"
     })], -1)), b(h), b(m), b(p), b(f), b(S), b(w), b(B), b(V)])
 }
-const qR = j(FM, [["render", HR], ["__scopeId", "data-v-da085c34"]])
+const qR = j(FM, [["render", HR], ["__scopeId", "data-v-08c8bf71"]])
   , LR = {
     components: {
         VueTurnstile: Kd
@@ -22618,7 +22613,7 @@ const AE = 300 * 1e3
         return [...t.session.users].some( ([i]) => !(!e.channel || e.userChannels.get(i) !== e.channel || !n["players/seatedPlayerMap"].has(i)))
     },
     whispersAvailable(e, s, t, n) {
-        return t.session.sessionId ? t.vote.nomination ? new Set : n["user/isSpectator"] ? new Set : new Set([...t.session.users].filter( ([i,o]) => !n["players/seatedPlayerMap"].has(i) || n["game/isNight"] && !n["user/isStoryteller"] && !n["players/storytellerMap"].has(i) || i === t.user.user.id || !o.isOnline || e.whisperTo.has(i) || !e.audio.streams.has(i) ? !1 : !s.isPrivateChat(e.userChannels.get(i)) || !s.isPrivateChat(e.channel)).map( ([i]) => i)) : new Set
+        return t.session.sessionId ? t.vote.nomination ? new Set : n["user/isSpectator"] ? new Set : new Set([...t.session.users].filter( ([i,o]) => !n["players/seatedPlayerMap"].has(i) || n["game/isNight"] && !n["user/isStoryteller"] && !n["players/storytellerMap"].has(i) || i === t.user.user.id || !o.isOnline || e.whisperTo.has(i) ? !1 : !s.isPrivateChat(e.userChannels.get(i)) || !s.isPrivateChat(e.channel)).map( ([i]) => i)) : new Set
     },
     textsAvailable(e, s, t, n) {
         const i = n["players/seatedPlayerMap"]
@@ -22672,7 +22667,7 @@ const AE = 300 * 1e3
         (!i || l) && setTimeout( () => g("removeTextMessage", m), AE))
     },
     requestWhisper({rootGetters: e, rootState: s, commit: t, state: n, getters: i}, o) {
-        if (!e["players/seatedPlayerMap"].has(s.user.user.id) || !o.id || !n.audio.streams.has(o.id) || n.whisperTo.has(o.id))
+        if (!e["players/seatedPlayerMap"].has(s.user.user.id) || !o.id || n.whisperTo.has(o.id))
             return;
         t("togglePrompt", !1);
         let l = (e["game/isNight"] ? "night-" : "private-") + String(Date.now()).substring(6, 10) + Math.round(Math.random() * 1e4);
@@ -25352,4 +25347,4 @@ const xE = async () => {
 }
 ;
 xE();
-//# sourceMappingURL=index-oYtLfgNB.js.map
+//# sourceMappingURL=index-IdGQ6Pj3.js.map

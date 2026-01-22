@@ -3284,10 +3284,6 @@
             "name": "EU4 East"
         },
         {
-            "host": "eu5",
-            "name": "EU5 Central "
-        },
-        {
             "host": "eu6",
             "name": "EU6 West "
         },
