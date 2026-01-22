@@ -1,6 +1,6 @@
 # Released as Homebrew
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.50.0-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.50.1-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
