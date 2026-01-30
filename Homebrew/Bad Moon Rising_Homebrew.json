@@ -20,7 +20,7 @@
         "team": "townsfolk",
         "firstNight": 58,
         "firstNightReminder": "Point to the grandchild player & show their character token.",
-        "otherNight": 72,
+        "otherNight": 73,
         "otherNightReminder": "If the grandchild was killed by the Demon, the Grandmother dies too. :reminder:",
         "reminders": [
             "Grandchild",
@@ -41,7 +41,7 @@
         "team": "townsfolk",
         "firstNight": 25,
         "firstNightReminder": "The Sailor chooses a living player. :reminder:",
-        "otherNight": 12,
+        "otherNight": 13,
         "otherNightReminder": "The Sailor chooses a living player. :reminder:",
         "reminders": [
             "Drunk"
@@ -61,7 +61,7 @@
         "team": "townsfolk",
         "firstNight": 75,
         "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
-        "otherNight": 94,
+        "otherNight": 95,
         "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
         "setup": false,
         "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
@@ -76,7 +76,7 @@
             "https://botc.app/assets/exorcist_e-DoXc6R_z.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 35,
+        "otherNight": 36,
         "otherNightReminder": "The Exorcist chooses a player. :reminder: Put the Exorcist to sleep. If the Exorcist chose the Demon: Wake the Demon. Show the *THIS CHARACTER SELECTED YOU* & Exorcist tokens. Point to the Exorcist.",
         "reminders": [
             "Chosen"
@@ -94,7 +94,7 @@
             "https://botc.app/assets/innkeeper_e-dzanyuqI.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 18,
+        "otherNight": 19,
         "otherNightReminder": "The Innkeeper chooses 2 players. :reminder: :reminder: :reminder:",
         "reminders": [
             "Safe",
@@ -114,7 +114,7 @@
             "https://botc.app/assets/gambler_e-Co0D5NyD.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 20,
+        "otherNight": 21,
         "otherNightReminder": "The Gambler chooses a player & a character. :reminder:",
         "reminders": [
             "Dead"
@@ -132,7 +132,7 @@
             "https://botc.app/assets/gossip_e-DKOgldGS.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 57,
+        "otherNight": 58,
         "otherNightReminder": "If the Gossip is due to kill a player, they die. :reminder:",
         "reminders": [
             "Dead"
@@ -152,7 +152,7 @@
         "team": "townsfolk",
         "firstNight": 34,
         "firstNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
-        "otherNight": 17,
+        "otherNight": 18,
         "otherNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
         "reminders": [
             "Drunk 3",
@@ -173,7 +173,7 @@
             "https://botc.app/assets/professor_e-BpuIeGol.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 64,
+        "otherNight": 65,
         "otherNightReminder": "The Professor might choose a dead player. :reminder: :reminder:",
         "reminders": [
             "Alive",
@@ -254,7 +254,7 @@
             "https://botc.app/assets/tinker_e-dpPUDqmq.webp"
         ],
         "team": "outsider",
-        "otherNight": 70,
+        "otherNight": 71,
         "otherNightReminder": "The Tinker might die. :reminder:",
         "reminders": [
             "Dead"
@@ -272,7 +272,7 @@
             "https://botc.app/assets/moonchild_e-D-P3dKVK.webp"
         ],
         "team": "outsider",
-        "otherNight": 71,
+        "otherNight": 72,
         "otherNightReminder": "If the Moonchild is due to kill a good player, they die. :reminder:",
         "reminders": [
             "Dead"
@@ -308,7 +308,7 @@
         "team": "outsider",
         "firstNight": 21,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
-        "otherNight": 34,
+        "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
         "reminders": [
             "Chosen",
@@ -330,7 +330,7 @@
         "team": "minion",
         "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56,
+        "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -351,7 +351,7 @@
         "team": "minion",
         "firstNight": 39,
         "firstNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
-        "otherNight": 25,
+        "otherNight": 26,
         "otherNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
         "reminders": [
             "Survives Execution"
@@ -369,7 +369,7 @@
             "https://botc.app/assets/assassin_g-D_zJwNaF.webp"
         ],
         "team": "minion",
-        "otherNight": 55,
+        "otherNight": 56,
         "otherNightReminder": "The Assassin might choose a player. :reminder: :reminder:",
         "reminders": [
             "Dead",
@@ -407,7 +407,7 @@
             "https://botc.app/assets/zombuul_g-B4MTwk5-.webp"
         ],
         "team": "demon",
-        "otherNight": 40,
+        "otherNight": 41,
         "otherNightReminder": "If no one died today, the Zombuul chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -428,7 +428,7 @@
         "team": "demon",
         "firstNight": 46,
         "firstNightReminder": "The Pukka chooses a player. :reminder:",
-        "otherNight": 41,
+        "otherNight": 42,
         "otherNightReminder": "The Pukka chooses a player. :reminder: The previously poisoned player dies then becomes healthy. :reminder:",
         "reminders": [
             "Poisoned",
@@ -448,7 +448,7 @@
             "https://botc.app/assets/shabaloth_g-BUwNFN-9.webp"
         ],
         "team": "demon",
-        "otherNight": 42,
+        "otherNight": 43,
         "otherNightReminder": "A previously chosen player might be resurrected. :reminder: The Shabaloth chooses 2 players. :reminder: :reminder:",
         "reminders": [
             "Dead",
@@ -468,7 +468,7 @@
             "https://botc.app/assets/po_g-blqsHHpB.webp"
         ],
         "team": "demon",
-        "otherNight": 43,
+        "otherNight": 44,
         "otherNightReminder": "The Po may choose a player OR chooses 3 players if they chose no-one last night. :reminder: or :reminder: :reminder: :reminder:",
         "reminders": [
             "Dead",

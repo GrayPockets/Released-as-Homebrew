@@ -817,7 +817,7 @@
             "name": "Engineer",
             "edition": "carousel",
             "team": "townsfolk",
-            "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
+            "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
             "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
             "reminders": [
                 "No Ability"
@@ -1607,7 +1607,7 @@
             "name": "Snitch",
             "edition": "carousel",
             "team": "outsider",
-            "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+            "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens.",
             "reminders": [],
             "setup": false,
             "ability": "Each Minion gets 3 bluffs.",
@@ -1758,8 +1758,8 @@
             "name": "Harpy",
             "team": "minion",
             "edition": "carousel",
-            "firstNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
-            "otherNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+            "firstNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+            "otherNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
             "reminders": [
                 "Mad",
                 "2nd"
@@ -2624,6 +2624,7 @@
             "id": "riot",
             "name": "Riot",
             "edition": "carousel",
+            "otherNightReminder": "Change the Riot reminder token to the relevant day. :reminder: If it is night 3, you may wake the Minions. Show the *YOU ARE* & Riot tokens.",
             "team": "demon",
             "reminders": [
                 "Day 1",
@@ -2804,8 +2805,8 @@
             "name": "Barista",
             "edition": "snv",
             "team": "traveller",
-            "firstNightReminder": "Choose a player. Wake them and give a finger signal. :reminder:",
-            "otherNightReminder": "Choose a player. Wake them and give a finger signal. :reminder:",
+            "firstNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
+            "otherNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
             "reminders": [
                 "Sober & Healthy",
                 "Acts Twice",
@@ -2839,6 +2840,19 @@
             "setup": false,
             "ability": "Each day, after the 1st execution, you may nominate again.",
             "flavor": "It tastes like chicken. More please."
+        },
+        {
+            "id": "cacklejack",
+            "name": "Cacklejack",
+            "edition": "carousel",
+            "team": "traveller",
+            "otherNightReminder": "Before dawn, choose a player not marked *NOT ME*. Wake the target. Show the *YOU ARE* info token & their new character token.",
+            "reminders": [
+                "Not me"
+            ],
+            "setup": false,
+            "ability": "Each day, choose a player: a different player changes character tonight.",
+            "flavor": "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
         },
         {
             "id": "gunslinger",
@@ -3041,7 +3055,7 @@
         },
         {
             "id": "duchess",
-            "otherNightReminder": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Give a finger signal.",
+            "otherNightReminder": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Show the *THIS CHARACTER SELECTED YOU* & Duchess tokens, then give a finger signal.",
             "reminders": [
                 "Visitor",
                 "Visitor",
@@ -3284,6 +3298,10 @@
             "name": "EU4 East"
         },
         {
+            "host": "eu5",
+            "name": "EU5 Central"
+        },
+        {
             "host": "eu6",
             "name": "EU6 West "
         },
@@ -3399,6 +3417,7 @@
             "duchess",
             "toymaker",
             "wraith",
+            "cacklejack",
             "barista",
             "bureaucrat",
             "thief",
@@ -3490,6 +3509,7 @@
             "general",
             "chambermaid",
             "mathematician",
+            "riot",
             "dawn",
             "leviathan"
         ]

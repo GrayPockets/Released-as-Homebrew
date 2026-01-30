@@ -16,7 +16,7 @@
         "team": "minion",
         "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56,
+        "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -43,7 +43,7 @@
         "team": "minion",
         "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56,
+        "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -70,7 +70,7 @@
         "team": "minion",
         "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56,
+        "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -91,7 +91,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -129,7 +129,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -171,7 +171,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -217,7 +217,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -271,7 +271,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -321,7 +321,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -355,7 +355,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -385,7 +385,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
@@ -408,9 +408,9 @@
         ],
         "team": "minion",
         "firstNight": 44,
-        "firstNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
-        "otherNight": 30,
-        "otherNightReminder": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "firstNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "otherNight": 31,
+        "otherNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "reminders": [
             "Mad",
             "2nd"
@@ -430,7 +430,7 @@
         "team": "minion",
         "firstNight": 42,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
-        "otherNight": 27,
+        "otherNight": 28,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "reminders": [
             "Mad"
@@ -450,7 +450,7 @@
         "team": "minion",
         "firstNight": 43,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
-        "otherNight": 29,
+        "otherNight": 30,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
         "reminders": [
             "Fear"
@@ -476,7 +476,7 @@
         "team": "minion",
         "firstNight": 43,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
-        "otherNight": 29,
+        "otherNight": 30,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
         "reminders": [
             "Fear"
@@ -494,7 +494,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -539,7 +539,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -580,7 +580,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -617,7 +617,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -650,7 +650,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -671,7 +671,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -1001,7 +1001,7 @@
         ],
         "team": "minion",
         "firstNight": 26,
-            "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
         ],
@@ -1463,7 +1463,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1539,7 +1539,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1619,7 +1619,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1703,7 +1703,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1783,7 +1783,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1859,7 +1859,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -1899,7 +1899,7 @@
         "team": "minion",
         "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33,
+        "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
         "reminders": [
             "Night 1",
@@ -2135,7 +2135,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2163,7 +2163,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2187,7 +2187,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2211,7 +2211,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2239,7 +2239,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2267,7 +2267,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -2764,7 +2764,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die",
@@ -2791,7 +2791,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die",
@@ -2824,7 +2824,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die"
@@ -2864,7 +2864,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die"
@@ -2904,7 +2904,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die"
@@ -2944,7 +2944,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die"
@@ -2988,7 +2988,7 @@
         "team": "minion",
         "firstNight": 38,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
-        "otherNight": 24,
+        "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "reminders": [
             "About To Die"

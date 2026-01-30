@@ -1,4 +1,8 @@
 # Changelog
+## 1.6.0
+* Online App compatibility 3.51.1
+* Cacklejack character
+* Night order update
 ## 1.5.3
 * Online App compatibility 3.50.1
 ## 1.5.2

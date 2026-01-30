@@ -78,10 +78,10 @@
     },
     "barista": {
         "ability": "Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.",
-        "first": "Choose a player. Wake them and give a finger signal. :reminder:",
+        "first": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
         "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?",
         "name": "Barista",
-        "other": "Choose a player. Wake them and give a finger signal. :reminder:"
+        "other": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:"
     },
     "baron": {
         "ability": "There are extra Outsiders in play. [+2 Outsiders]",
@@ -127,7 +127,7 @@
     },
     "bountyhunter": {
         "ability": "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]",
-        "first": "Point to the player marked *KNOW*. ",
+        "first": "Point to the player marked *KNOW*.",
         "flavor": "Alone, I walk these streets, paved with the sick stench of corruption. Its thickness worms its way into my nostrils, unbidden, burning with revulsion. And anticipation. The illness of this wretched place grows each night. And I... I am the cure.",
         "name": "Bounty Hunter",
         "other": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*."
@@ -157,11 +157,16 @@
         "name": "Butler",
         "other": "The Butler chooses a player. :reminder:"
     },
+    "cacklejack": {
+        "ability": "Each day, choose a player: a different player changes character tonight.",
+        "flavor": "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!",
+        "name": "Cacklejack",
+        "other": "Before dawn, choose a player not marked *NOT ME*. Wake the target. Show the *YOU ARE* info token & their new character token."
+    },
     "cannibal": {
         "ability": "You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution.",
         "flavor": "I don’t like clowns. They taste funny.",
-        "name": "Cannibal",
-        "other": "NO LEAF = NO TEXT"
+        "name": "Cannibal"
     },
     "cerenovus": {
         "ability": "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed.",
@@ -268,7 +273,7 @@
         "ability": "Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info.",
         "flavor": "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always.",
         "name": "Duchess",
-        "other": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Give a finger signal."
+        "other": "One at a time: Wake each player marked *VISITOR* or *FALSE INFO*. Show the *THIS CHARACTER SELECTED YOU* & Duchess tokens, then give a finger signal."
     },
     "dusk": {
         "first": "Start the Night Phase.",
@@ -284,7 +289,7 @@
     },
     "engineer": {
         "ability": "Once per game, at night, choose which Minions or which Demon is in play.",
-        "first": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s). Show the *YOU ARE* info token & their new character token. :reminder:",
+        "first": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "flavor": "If it bends, great. If it breaks, well, it probably needed fixing anyway.",
         "name": "Engineer",
         "other": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:"
@@ -434,10 +439,10 @@
     },
     "harpy": {
         "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
-        "first": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
+        "first": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me.",
         "name": "Harpy",
-        "other": "The Harpy chooses 2 players. :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target."
+        "other": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target."
     },
     "hatter": {
         "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
@@ -811,6 +816,7 @@
     },
     "riot": {
         "ability": "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen.",
+        "other": "Change the Riot reminder token to the relevant day. :reminder: If it is night 3, you may wake the Minions. Show the *YOU ARE* & Riot tokens.",
         "flavor": "Larga vida a la revolución! Mi revolucion!",
         "name": "Riot"
     },
@@ -886,7 +892,7 @@
     },
     "snitch": {
         "ability": "Each Minion gets 3 bluffs.",
-        "first": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "first": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens.",
         "flavor": "It was John.",
         "name": "Snitch"
     },

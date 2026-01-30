@@ -146,7 +146,7 @@
         "team": "fabled",
         "firstNight": 77,
         "firstNightReminder": "Wait for a few seconds. End the Night Phase.",
-        "otherNight": 96,
+        "otherNight": 99,
         "otherNightReminder": "Wait for a few seconds. End the Night Phase.",
         "setup": false,
         "ability": "Ends the Night Phase."

@@ -35,7 +35,7 @@
         "team": "townsfolk",
         "firstNight": 60,
         "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
-        "otherNight": 78,
+        "otherNight": 79,
         "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
         "setup": false,
         "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
@@ -52,7 +52,7 @@
         "team": "townsfolk",
         "firstNight": 36,
         "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
-        "otherNight": 22,
+        "otherNight": 23,
         "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
         "reminders": [
             "Poisoned"
@@ -72,7 +72,7 @@
         "team": "townsfolk",
         "firstNight": 76,
         "firstNightReminder": "Give a finger signal.",
-        "otherNight": 95,
+        "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
         "reminders": [
             "Abnormal",
@@ -112,7 +112,7 @@
             "https://botc.app/assets/flowergirl_e-DJcVSLWX.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 79,
+        "otherNight": 80,
         "otherNightReminder": "Either nod or shake your head.",
         "reminders": [
             "Demon Voted",
@@ -131,7 +131,7 @@
             "https://botc.app/assets/towncrier_e-BzUGp1JT.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 80,
+        "otherNight": 81,
         "otherNightReminder": "Either nod or shake your head.",
         "reminders": [
             "Minions Not Nominated",
@@ -150,7 +150,7 @@
             "https://botc.app/assets/oracle_e-BgNZAuGG.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 81,
+        "otherNight": 82,
         "otherNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "Each night*, you learn how many dead players are evil.",
@@ -180,7 +180,7 @@
         "team": "townsfolk",
         "firstNight": 61,
         "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
-        "otherNight": 82,
+        "otherNight": 83,
         "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
         "reminders": [
             "No Ability"
@@ -200,7 +200,7 @@
         "team": "townsfolk",
         "firstNight": 14,
         "firstNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
-        "otherNight": 10,
+        "otherNight": 11,
         "otherNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
         "reminders": [
             "Drunk"
@@ -243,7 +243,7 @@
             "https://botc.app/assets/juggler_e-BQQDYvGs.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 83,
+        "otherNight": 84,
         "otherNightReminder": "Give a finger signal.",
         "reminders": [
             "Correct",
@@ -265,7 +265,7 @@
             "https://botc.app/assets/sage_e-BS8e_Ree.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 62,
+        "otherNight": 63,
         "otherNightReminder": "If the Demon killed the Sage, wake the Sage and point to 2 players, 1 of which is the Demon.",
         "setup": false,
         "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
@@ -293,7 +293,7 @@
             "https://botc.app/assets/sweetheart_e-Bm63hRzw.webp"
         ],
         "team": "outsider",
-        "otherNight": 60,
+        "otherNight": 61,
         "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now. :reminder:",
         "reminders": [
             "Drunk"
@@ -311,7 +311,7 @@
             "https://botc.app/assets/barber_e-BJbMUslE.webp"
         ],
         "team": "outsider",
-        "otherNight": 59,
+        "otherNight": 60,
         "otherNightReminder": "If the Barber died today or tonight, show the Demon the *THIS CHARACTER SELECTED YOU* & Barber tokens. If the Demon chose 2 players, wake one at a time. Show the *YOU ARE* token & their new character token.",
         "reminders": [
             "Haircuts Tonight"
@@ -362,7 +362,7 @@
         "team": "minion",
         "firstNight": 41,
         "firstNightReminder": "The Witch chooses a player. :reminder:",
-        "otherNight": 26,
+        "otherNight": 27,
         "otherNightReminder": "The Witch chooses a player. :reminder:",
         "reminders": [
             "Cursed"
@@ -382,7 +382,7 @@
         "team": "minion",
         "firstNight": 42,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
-        "otherNight": 27,
+        "otherNight": 28,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "reminders": [
             "Mad"
@@ -406,7 +406,7 @@
             "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
-        "otherNight": 28,
+        "otherNight": 29,
         "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
         "setup": false,
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -447,7 +447,7 @@
             "https://botc.app/assets/fanggu_g-Dwai_VtD.webp"
         ],
         "team": "demon",
-        "otherNight": 44,
+        "otherNight": 45,
         "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:",
         "reminders": [
             "Dead",
@@ -466,7 +466,7 @@
             "https://botc.app/assets/vigormortis_g-DP1UY2Jk.webp"
         ],
         "team": "demon",
-        "otherNight": 48,
+        "otherNight": 49,
         "otherNightReminder": "The Vigormortis chooses a player. :reminder: If that player is a Minion, poison a neighboring Townsfolk. :reminder: :reminder:",
         "reminders": [
             "Dead",
@@ -490,7 +490,7 @@
             "https://botc.app/assets/nodashii_g-jI2LJQhL.webp"
         ],
         "team": "demon",
-        "otherNight": 45,
+        "otherNight": 46,
         "otherNightReminder": "The No Dashii chooses a player. :reminder:",
         "reminders": [
             "Dead",
@@ -510,7 +510,7 @@
             "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
         ],
         "team": "demon",
-        "otherNight": 46,
+        "otherNight": 47,
         "otherNightReminder": "The Vortox chooses a player. :reminder:",
         "reminders": [
             "Dead"
@@ -536,9 +536,9 @@
         ],
         "team": "traveller",
         "firstNight": 10,
-        "firstNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice).",
-        "otherNight": 52,
-        "otherNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober/healthy/true info or activate their ability twice).",
+        "firstNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
+        "otherNight": 53,
+        "otherNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
         "reminders": [
             "Sober & Healthy",
             "Acts Twice",
@@ -559,8 +559,8 @@
             "https://botc.app/assets/harlot_e-CDyE0Kdh.webp"
         ],
         "team": "traveller",
-        "otherNight": 8,
-        "otherNightReminder": "The Harlot points at any living player. Then, put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. That player either nods their head yes or shakes their head no. If they nodded their head yes, wake the Harlot and show them the chosen player's character token. Then, you may decide that both players die.",
+        "otherNight": 9,
+        "otherNightReminder": "The Harlot chooses a living player. Put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. If that player nods their head, wake the Harlot and show them the chosen player's character token. Both players might die. :reminder: :reminder:",
         "reminders": [
             "Dead",
             "Dead"
@@ -593,8 +593,8 @@
             "https://botc.app/assets/bonecollector_e-CIpytarz.webp"
         ],
         "team": "traveller",
-        "otherNight": 9,
-        "otherNightReminder": "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)",
+        "otherNight": 10,
+        "otherNightReminder": "The Bone Collector might choose a dead player. :reminder: If necessary, wake the chosen player to use their ability.",
         "reminders": [
             "No Ability",
             "Has Ability"

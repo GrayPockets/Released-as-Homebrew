@@ -92,7 +92,7 @@
         "team": "townsfolk",
         "firstNight": 55,
         "firstNightReminder": "Give a finger signal.",
-        "otherNight": 75,
+        "otherNight": 76,
         "otherNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "Each night, you learn how many of your 2 alive neighbors are evil.",
@@ -109,7 +109,7 @@
         "team": "townsfolk",
         "firstNight": 56,
         "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
-        "otherNight": 76,
+        "otherNight": 77,
         "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
         "reminders": [
             "Red Herring"
@@ -127,7 +127,7 @@
             "https://botc.app/assets/undertaker_e-DVB8aMO4.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 77,
+        "otherNight": 78,
         "otherNightReminder": "If a player was executed today, show their character token.",
         "reminders": [
             "Died Today"
@@ -145,7 +145,7 @@
             "https://botc.app/assets/monk_e-OTOQUKVm.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 23,
+        "otherNight": 24,
         "otherNightReminder": "The Monk chooses a player. :reminder:",
         "reminders": [
             "Safe"
@@ -163,7 +163,7 @@
             "https://botc.app/assets/ravenkeeper_e-Yrx6NFvE.webp"
         ],
         "team": "townsfolk",
-        "otherNight": 74,
+        "otherNight": 75,
         "otherNightReminder": "If the Ravenkeeper died tonight, the Ravenkeeper chooses a player. Show that player's character token.",
         "setup": false,
         "ability": "If you die at night, you are woken to choose a player: you learn their character.",
@@ -238,7 +238,7 @@
         "team": "outsider",
         "firstNight": 57,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
-        "otherNight": 90,
+        "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
         "reminders": [
             "Master"
@@ -326,7 +326,7 @@
         "team": "minion",
         "firstNight": 32,
         "firstNightReminder": "The Poisoner chooses a player. :reminder:",
-        "otherNight": 16,
+        "otherNight": 17,
         "otherNightReminder": "The Poisoner chooses a player. :reminder:",
         "reminders": [
             "Poisoned"
@@ -346,7 +346,7 @@
         "team": "minion",
         "firstNight": 71,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
-        "otherNight": 91,
+        "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "setup": false,
         "special": [
@@ -382,7 +382,7 @@
             "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
-        "otherNight": 32,
+        "otherNight": 33,
         "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
         "reminders": [
             "Is The Demon"
@@ -423,7 +423,7 @@
             "https://botc.app/assets/imp_g-D-G7pJEY.webp"
         ],
         "team": "demon",
-        "otherNight": 39,
+        "otherNight": 40,
         "otherNightReminder": "The Imp chooses a player. :reminder: If the Imp chose themselves: Replace 1 alive Minion token with a spare Imp token. Put the old Imp to sleep. Wake the new Imp. Show the *YOU ARE* token, then show the Imp token.",
         "reminders": [
             "Dead"
@@ -444,7 +444,7 @@
         "team": "traveller",
         "firstNight": 11,
         "firstNightReminder": "The Bureaucrat chooses a player. :reminder:",
-        "otherNight": 6,
+        "otherNight": 7,
         "otherNightReminder": "The Bureaucrat chooses a player. :reminder:",
         "reminders": [
             "3 Votes"
@@ -472,7 +472,7 @@
         "team": "traveller",
         "firstNight": 12,
         "firstNightReminder": "The Thief chooses a player. :reminder:",
-        "otherNight": 7,
+        "otherNight": 8,
         "otherNightReminder": "The Thief chooses a player. :reminder:",
         "reminders": [
             "Negative Vote"

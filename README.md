@@ -1,6 +1,6 @@
 # Released as Homebrew
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.50.1-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.51.1-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
@@ -14,7 +14,7 @@ This is a reference for homebrew script builders to learn from examples in order
 :warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
 
 > [!WARNING]
-> The Script Tool currently throws errors when exporting PNG images using the above JSON. Here is an [Alternative Homebrew JSON](Homebrew/Released_ScriptTool_Homebrew.json) that works with the PNG exporter.
+> The [Script Tool](https://script.bloodontheclocktower.com/) currently throws errors when exporting PNG images using the above JSON. Here is an [Alternative Homebrew JSON](Homebrew/Released_ScriptTool_Homebrew.json) that works with the PNG exporter.
 
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
@@ -117,100 +117,101 @@ The following is a full list of night order. This is so night order numbers can 
 * 2 - $${\color{goldenrod}Duchess}$$
 * 3 - $${\color{goldenrod}Toymaker}$$
 * 4 - $${\color{darkred}Wraith}$$
-* 5 - $${\color{fuchsia}Barista}$$
-* 5.5 - $${\color{fuchsia}Cacklejack}$$
-* 6 - $${\color{fuchsia}Bureaucrat}$$
-* 7 - $${\color{fuchsia}Thief}$$
-* 8 - $${\color{fuchsia}Harlot}$$
-* 9 - $${\color{fuchsia}Bone Collector}$$
-* 10 - $${\color{deepskyblue}Philosopher}$$
-* 11 - $${\color{deepskyblue}Poppy Grower}$$
-* 12 - $${\color{deepskyblue}Sailor}$$
-* 13 - $${\color{deepskyblue}Engineer}$$
-* 14 - $${\color{deepskyblue}Preacher}$$
-* 15 - $${\color{darkred}Xaan}$$
-* 16 - $${\color{darkred}Poisoner}$$
-* 17 - $${\color{deepskyblue}Courtier}$$
-* 18 - $${\color{deepskyblue}Innkeeper}$$
-* 19 - $${\color{darkred}Wizard}$$
-* 20 - $${\color{deepskyblue}Gambler}$$
-* 21 - $${\color{deepskyblue}Acrobat}$$
-* 22 - $${\color{deepskyblue}Snake Charmer}$$
-* 23 - $${\color{deepskyblue}Monk}$$
-* 24 - $${\color{darkred}Organ Grinder}$$
-* 25 - $${\color{darkred}Devil's Advocate}$$
-* 26 - $${\color{darkred}Witch}$$
-* 27 - $${\color{darkred}Cerenovus}$$
-* 28 - $${\color{darkred}Pit-Hag}$$
-* 29 - $${\color{darkred}Fearmonger}$$
-* 30 - $${\color{darkred}Harpy}$$
-* 31 - $${\color{darkred}Mezepheles}$$
-* 32 - $${\color{darkred}Scarlet Woman}$$
-* 33 - $${\color{darkred}Summoner}$$
-* 34 - $${\color{deepskyblue}Lunatic}$$
-* 35 - $${\color{deepskyblue}Exorcist}$$
-* 36 - $${\color{deepskyblue}Lycanthrope}$$
-* 37 - $${\color{deepskyblue}Princess}$$
-* 38 - $${\color{darkred}Legion}$$
-* 39 - $${\color{darkred}Imp}$$
-* 40 - $${\color{darkred}Zombuul}$$
-* 41 - $${\color{darkred}Pukka}$$
-* 42 - $${\color{darkred}Shabaloth}$$
-* 43 - $${\color{darkred}Po}$$
-* 44 - $${\color{darkred}Fang Gu}$$
-* 45 - $${\color{darkred}No Dashii}$$
-* 46 - $${\color{darkred}Vortox}$$
-* 47 - $${\color{darkred}Lord of Typhon}$$
-* 48 - $${\color{darkred}Vigormortis}$$
-* 49 - $${\color{darkred}Ojo}$$
-* 50 - $${\color{darkred}Al-Hadikhia}$$
-* 51 - $${\color{darkred}Lleech}$$
-* 52 - $${\color{darkred}Lil' Monsta}$$
-* 53 - $${\color{darkred}Yaggababble}$$
-* 54 - $${\color{darkred}Kazali}$$
-* 55 - $${\color{darkred}Assassin}$$
-* 56 - $${\color{darkred}Godfather}$$
-* 57 - $${\color{deepskyblue}Gossip}$$
-* 58 - $${\color{deepskyblue}Hatter}$$
-* 59 - $${\color{deepskyblue}Barber}$$
-* 60 - $${\color{deepskyblue}Sweetheart}$$
-* 61 - $${\color{deepskyblue}Plague Doctor}$$
-* 62 - $${\color{deepskyblue}Sage}$$
-* 63 - $${\color{deepskyblue}Banshee}$$
-* 64 - $${\color{deepskyblue}Professor}$$
-* 65 - $${\color{deepskyblue}Choirboy}$$
-* 66 - $${\color{deepskyblue}Huntsman}$$
-* 67 - $${\color{deepskyblue}Damsel}$$
-* 68 - $${\color{deepskyblue}Amnesiac}$$
-* 69 - $${\color{deepskyblue}Farmer}$$
-* 70 - $${\color{deepskyblue}Tinker}$$
-* 71 - $${\color{deepskyblue}Moonchild}$$
-* 72 - $${\color{deepskyblue}Grandmother}$$
-* 73 - $${\color{olivedrab}Tor}$$
-* 74 - $${\color{deepskyblue}Ravenkeeper}$$
-* 75 - $${\color{deepskyblue}Empath}$$
-* 76 - $${\color{deepskyblue}Fortune Teller}$$
-* 77 - $${\color{deepskyblue}Undertaker}$$
-* 78 - $${\color{deepskyblue}Dreamer}$$
-* 79 - $${\color{deepskyblue}Flowergirl}$$
-* 80 - $${\color{deepskyblue}Town Crier}$$
+* 5 - $${\color{fuchsia}Cacklejack}$$
+* 6 - $${\color{fuchsia}Barista}$$
+* 7 - $${\color{fuchsia}Bureaucrat}$$
+* 8 - $${\color{fuchsia}Thief}$$
+* 9 - $${\color{fuchsia}Harlot}$$
+* 10 - $${\color{fuchsia}Bone Collector}$$
+* 11 - $${\color{deepskyblue}Philosopher}$$
+* 12 - $${\color{deepskyblue}Poppy Grower}$$
+* 13 - $${\color{deepskyblue}Sailor}$$
+* 14 - $${\color{deepskyblue}Engineer}$$
+* 15 - $${\color{deepskyblue}Preacher}$$
+* 16 - $${\color{darkred}Xaan}$$
+* 17 - $${\color{darkred}Poisoner}$$
+* 18 - $${\color{deepskyblue}Courtier}$$
+* 19 - $${\color{deepskyblue}Innkeeper}$$
+* 20 - $${\color{darkred}Wizard}$$
+* 21 - $${\color{deepskyblue}Gambler}$$
+* 22 - $${\color{deepskyblue}Acrobat}$$
+* 23 - $${\color{deepskyblue}Snake Charmer}$$
+* 24 - $${\color{deepskyblue}Monk}$$
+* 25 - $${\color{darkred}Organ Grinder}$$
+* 26 - $${\color{darkred}Devil's Advocate}$$
+* 27 - $${\color{darkred}Witch}$$
+* 28 - $${\color{darkred}Cerenovus}$$
+* 29 - $${\color{darkred}Pit-Hag}$$
+* 30 - $${\color{darkred}Fearmonger}$$
+* 31 - $${\color{darkred}Harpy}$$
+* 32 - $${\color{darkred}Mezepheles}$$
+* 33 - $${\color{darkred}Scarlet Woman}$$
+* 34 - $${\color{darkred}Summoner}$$
+* 35 - $${\color{deepskyblue}Lunatic}$$
+* 36 - $${\color{deepskyblue}Exorcist}$$
+* 37 - $${\color{deepskyblue}Lycanthrope}$$
+* 38 - $${\color{deepskyblue}Princess}$$
+* 39 - $${\color{darkred}Legion}$$
+* 40 - $${\color{darkred}Imp}$$
+* 41 - $${\color{darkred}Zombuul}$$
+* 42 - $${\color{darkred}Pukka}$$
+* 43 - $${\color{darkred}Shabaloth}$$
+* 44 - $${\color{darkred}Po}$$
+* 45 - $${\color{darkred}Fang Gu}$$
+* 46 - $${\color{darkred}No Dashii}$$
+* 47 - $${\color{darkred}Vortox}$$
+* 48 - $${\color{darkred}Lord of Typhon}$$
+* 49 - $${\color{darkred}Vigormortis}$$
+* 50 - $${\color{darkred}Ojo}$$
+* 51 - $${\color{darkred}Al-Hadikhia}$$
+* 52 - $${\color{darkred}Lleech}$$
+* 53 - $${\color{darkred}Lil' Monsta}$$
+* 54 - $${\color{darkred}Yaggababble}$$
+* 55 - $${\color{darkred}Kazali}$$
+* 56 - $${\color{darkred}Assassin}$$
+* 57 - $${\color{darkred}Godfather}$$
+* 58 - $${\color{deepskyblue}Gossip}$$
+* 59 - $${\color{deepskyblue}Hatter}$$
+* 60 - $${\color{deepskyblue}Barber}$$
+* 61 - $${\color{deepskyblue}Sweetheart}$$
+* 62 - $${\color{deepskyblue}Plague Doctor}$$
+* 63 - $${\color{deepskyblue}Sage}$$
+* 64 - $${\color{deepskyblue}Banshee}$$
+* 65 - $${\color{deepskyblue}Professor}$$
+* 66 - $${\color{deepskyblue}Choirboy}$$
+* 67 - $${\color{deepskyblue}Huntsman}$$
+* 68 - $${\color{deepskyblue}Damsel}$$
+* 69 - $${\color{deepskyblue}Amnesiac}$$
+* 70 - $${\color{deepskyblue}Farmer}$$
+* 71 - $${\color{deepskyblue}Tinker}$$
+* 72 - $${\color{deepskyblue}Moonchild}$$
+* 73 - $${\color{deepskyblue}Grandmother}$$
+* 74 - $${\color{olivedrab}Tor}$$
+* 75 - $${\color{deepskyblue}Ravenkeeper}$$
+* 76 - $${\color{deepskyblue}Empath}$$
+* 77 - $${\color{deepskyblue}Fortune Teller}$$
+* 78 - $${\color{deepskyblue}Undertaker}$$
+* 79 - $${\color{deepskyblue}Dreamer}$$
+* 80 - $${\color{deepskyblue}Flowergirl}$$
 * 81 - $${\color{deepskyblue}Town Crier}$$
-* 82 - $${\color{deepskyblue}Seamstress}$$
-* 83 - $${\color{deepskyblue}Juggler}$$
-* 84 - $${\color{deepskyblue}Balloonist}$$
-* 85 - $${\color{deepskyblue}Village Idiot}$$
-* 86 - $${\color{deepskyblue}King}$$
-* 87 - $${\color{deepskyblue}Bounty Hunter}$$
-* 88 - $${\color{deepskyblue}Nightwatchman}$$
-* 89 - $${\color{deepskyblue}Cult Leader}$$
-* 90 - $${\color{deepskyblue}Butler}$$
-* 91 - $${\color{darkred}Spy}$$
-* 92 - $${\color{deepskyblue}High Priestess}$$
-* 93 - $${\color{deepskyblue}General}$$
-* 94 - $${\color{deepskyblue}Chambermaid}$$
-* 95 - $${\color{deepskyblue}Mathematician}$$
-* 96 - $${\color{black}Dawn}$$
-* 97 - $${\color{darkred}Leviathan}$$
+* 82 - $${\color{deepskyblue}Oracle}$$
+* 83 - $${\color{deepskyblue}Seamstress}$$
+* 84 - $${\color{deepskyblue}Juggler}$$
+* 85 - $${\color{deepskyblue}Balloonist}$$
+* 86 - $${\color{deepskyblue}Village Idiot}$$
+* 87 - $${\color{deepskyblue}King}$$
+* 88 - $${\color{deepskyblue}Bounty Hunter}$$
+* 89 - $${\color{deepskyblue}Nightwatchman}$$
+* 90 - $${\color{deepskyblue}Cult Leader}$$
+* 91 - $${\color{deepskyblue}Butler}$$
+* 92 - $${\color{darkred}Spy}$$
+* 93 - $${\color{deepskyblue}High Priestess}$$
+* 94 - $${\color{deepskyblue}General}$$
+* 95 - $${\color{deepskyblue}Chambermaid}$$
+* 97 - $${\color{deepskyblue}Mathematician}$$
+* 98 - $${\color{darkred}Riot}$$
+* 99 - $${\color{black}Dawn}$$
+* 100 - $${\color{darkred}Leviathan}$$
 
 # Online app missing features
 The Script Tool PNG Export function does not work with images sourced from the Online App: https://discord.com/channels/1011236067560669234/1447323702420050142
