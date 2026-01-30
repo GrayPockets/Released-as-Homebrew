@@ -16,7 +16,7 @@
         "team": "outsider",
         "firstNight": 57,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
-        "otherNight": 90,
+        "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
         "reminders": [
             "Master"
@@ -36,7 +36,7 @@
         "team": "outsider",
         "firstNight": 57,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
-        "otherNight": 90,
+        "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
         "reminders": [
             "Master"
@@ -62,7 +62,7 @@
         "team": "outsider",
         "firstNight": 57,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
-        "otherNight": 90,
+        "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
         "reminders": [
             "Master"
@@ -124,7 +124,7 @@
         "team": "outsider",
         "firstNight": 21,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
-        "otherNight": 34,
+        "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
         "reminders": [
             "Chosen",
@@ -152,7 +152,7 @@
         "team": "outsider",
         "firstNight": 21,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
-        "otherNight": 34,
+        "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
         "reminders": [
             "Chosen",
@@ -185,7 +185,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -241,7 +241,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -293,7 +293,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -311,7 +311,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -329,7 +329,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -347,7 +347,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -399,7 +399,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -451,7 +451,7 @@
             "https://botc.app/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
-        "otherNight": 61,
+        "otherNight": 62,
         "otherNightReminder": "If the Plague Doctor died, the Storyteller gained a Minion ability. If you haven’t done this yet, do so now. :reminder:",
         "reminders": [
             "Storyteller Ability"
@@ -489,7 +489,7 @@
         "team": "outsider",
         "firstNight": 49,
         "firstNightReminder": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
-        "otherNight": 67,
+        "otherNight": 68,
         "otherNightReminder": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "reminders": [
             "Guess Used"
@@ -508,7 +508,7 @@
         ],
         "team": "outsider",
         "firstNight": 20,
-        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens.",
         "setup": false,
         "ability": "Minions start knowing 3 not-in-play characters.",
         "flavor": "It was John."
