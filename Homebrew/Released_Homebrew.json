@@ -3238,7 +3238,7 @@
         "team": "traveller",
         "firstNight": 10,
         "firstNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
-        "otherNight": 53,
+        "otherNight": 6,
         "otherNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
         "reminders": [
             "Sober & Healthy",
