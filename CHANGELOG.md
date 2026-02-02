@@ -1,4 +1,6 @@
 # Changelog
+## 1.6.2
+* Cacklejack other night order correction
 ## 1.6.1
 * Barista other night order correction
 ## 1.6.0
