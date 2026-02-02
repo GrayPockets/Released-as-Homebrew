@@ -1,4 +1,6 @@
 # Changelog
+## 1.6.1
+* Barista other night order correction
 ## 1.6.0
 * Online App compatibility 3.51.1
 * Cacklejack character
