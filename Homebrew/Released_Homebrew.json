@@ -3517,6 +3517,21 @@
         "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
     },
     {
+        "id": "ventriloquist_rah",
+        "name": "Ventriloquist",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/ventriloquist-DuObucyt.webp"
+        ],
+        "reminders": [
+            "Mad"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "If a player is mad as a fresh character during their nomination, they might not die if executed today.",
+        "flavor": "Well, folks, gather ‘round! This here’s my pal Charlie, and he’s got a mouth on him that’d make a mule blush. But don’t worry folks, I do all the talkin’... or do I?"
+    },
+    {
         "id": "gardener_rah",
         "name": "Gardener",
         "edition": "loric",
@@ -3676,7 +3691,7 @@
     {
         "id": "ferryman_rah",
         "name": "Ferryman",
-        "edition": "fabled",
+        "edition": "carousel",
         "image": [
             "https://botc.app/assets/ferryman-B8DIdDH1.webp"
         ],
@@ -3813,7 +3828,7 @@
     {
         "id": "deusexfiasco_rah",
         "name": "Deus ex Fiasco RAH",
-        "edition": "fabled",
+        "edition": "carousel",
         "image": [
             "https://botc.app/assets/deusexfiasco-C-oc4vaU.webp"
         ],

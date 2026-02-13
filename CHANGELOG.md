@@ -1,4 +1,8 @@
 # Changelog
+## 1.7.0
+* Online App compatibility 3.52.0
+* Ventriloquist character
+* Scripts of the Month
 ## 1.6.2
 * Cacklejack other night order correction
 ## 1.6.1
@@ -15,6 +19,7 @@
 * Alternate homebrew night order instructions
 ## 1.5.0
 * Online App compatibility 3.50.0
+* Pope character
 * Online app missing features documentation correction
 * Downloaded online app vendor.js
 ## 1.4.0
@@ -23,6 +28,7 @@
 * Knight and Sage name correction
 ## 1.3.0
 * Online App compatibility 3.49.0
+* Hindu character
 * Documentation Grognard and Steamfitter as Loric
 ## 1.2.0
 * Online App compatibility 3.48.1
