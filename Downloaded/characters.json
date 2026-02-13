@@ -981,6 +981,11 @@
         "name": "Undertaker",
         "other": "If a player was executed today, show their character token."
     },
+    "ventriloquist": {
+        "ability": "If a player is mad as a fresh character during their nomination, they might not die if executed today.",
+        "flavor": "Well, folks, gather ‘round! This here’s my pal Charlie, and he’s got a mouth on him that’d make a mule blush. But don’t worry folks, I do all the talkin’... or do I?",
+        "name": "Ventriloquist"
+    },
     "vigormortis": {
         "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]",
         "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life.",
