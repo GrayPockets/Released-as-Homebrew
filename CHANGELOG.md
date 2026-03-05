@@ -1,4 +1,7 @@
 # Changelog
+## 1.7.1
+* Shugenja missing feature work-around
+* Online app missing features Shugenja
 ## 1.7.0
 * Online App compatibility 3.52.0
 * Ventriloquist character
