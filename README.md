@@ -227,6 +227,7 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
     * "magician": Character token does not appear in Demon Info.
 * "banshee": Raising more than one hand: https://discord.com/channels/1011236067560669234/1295364988952641578
 * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order: https://discord.com/channels/1011236067560669234/1243146222907428895
+* "shugenja": The "clockwise" and "anticlockwise" night info buttons
 * "vortox": Global ST notes, such as "Townsfolk abilities yield false information".
 * "voudon": Voudon style voting.
 * "tor": Blind start.

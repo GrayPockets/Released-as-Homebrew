@@ -183,7 +183,21 @@
         "firstNightReminder": "Point clockwise or anticlockwise.",
         "setup": false,
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
-        "flavor": "これは夢。それも夢。すべて夢です。"
+        "flavor": "これは夢。それも夢。すべて夢です。",
+        "special": [
+            {
+                "name": "card",
+                "type": "signal",
+                "time": "night",
+                "value": "Clockwise🔁"
+            },
+            {
+                "name": "card",
+                "type": "signal",
+                "time": "night",
+                "value": "Anticlockwise 🔄"
+            }
+        ]
     },
     {
         "id": "pixie_rah",
