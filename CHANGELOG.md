@@ -1,4 +1,8 @@
 # Changelog
+## 1.8.0
+* Alternate homebrew characters with resources and github sourced 
+* Community created content logo
+* Other resources links
 ## 1.7.1
 * Shugenja missing feature work-around
 * Online app missing features Shugenja
