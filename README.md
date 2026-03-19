@@ -1,5 +1,7 @@
 # Released as Homebrew
 
+![Community Created Content](Display/ccc-sleeve.png)
+
 ![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.52.0-8A2BE2)
 
 ## Description
@@ -7,19 +9,34 @@ Recreations of every released Blood on the Clocktower character in homebrew form
 
 This is a reference for homebrew script builders to learn from examples in order to make their own characters. In some instances, it can be useful to make changes to released characters such as adding homebrew jinxes, allowing duplicates tokens, putting in extra reminder tokens, or other changes that might match a Bootlegger rule.
 
-### [Released as Homebrew JSON](Homebrew/Released_Homebrew.json)
+### Other Homebrew Resources
+* [BOTC Repository](https://github.com/ThePandemoniumInstitute/botc-release)
+* [Community Resources](https://release.botc.app/resources/)
+
+## Released as Homebrew JSON
+
+To use a recreated character, edit a script JSON file and paste in a character from one of the Homebrew JSON files.
 
 :warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a "_rah" tag is appended to each character id.
 
 :warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
 
+### By Image Source
+* [botc.app](Homebrew/Released_Homebrew.json) :warning:
+* [script.bloodontheclocktower.com](Homebrew/Released_ScriptTool_Homebrew)
+* [release.botc.app](Homebrew/Released_Resources_Homebrew)
+* [github.com/ThePandemoniumInstitute/botc-release](Homebrew/Released_Source_Homebrew)
+
 > [!WARNING]
-> The [Script Tool](https://script.bloodontheclocktower.com/) currently throws errors when exporting PNG images using the above JSON. Here is an [Alternative Homebrew JSON](Homebrew/Released_ScriptTool_Homebrew.json) that works with the PNG exporter.
+> Images from botc.app do not display when using the **Export PNG** function of the [Script Tool](https://script.bloodontheclocktower.com/).
 
 ### [Original Character JSON](Original/Released.json)
-Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
+Original full character list and released scripts are included for reference.
 
-### [Grognard Character JSON](Grognard)
+### [Downloaded App Files](Downloaded)
+Files downloaded directly from the online app are included for reference. 
+
+### [Grognard Character JSONs](Grognard)
 These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric along with them.
 
 ### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
