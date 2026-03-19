@@ -36,7 +36,7 @@ Original full character list and released scripts are included for reference.
 ### [Downloaded App Files](Downloaded)
 Files downloaded directly from the online app are included for reference. 
 
-### [Grognard Character JSON Files](Grognard)
+### [Grognard Character JSONs](Grognard)
 These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric along with them.
 
 ### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
