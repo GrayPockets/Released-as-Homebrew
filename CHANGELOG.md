@@ -1,4 +1,10 @@
 # Changelog
+## 1.9.0
+* Online App compatibility 3.53.2
+* God of Ug character
+* Knaves character
+* Cacklejack reminder update
+* Online app missing features hat
 ## 1.8.0
 * Alternate homebrew characters with resources and github sourced 
 * Community created content logo
