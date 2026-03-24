@@ -2,7 +2,7 @@
 
 ![Community Created Content](Display/ccc-sleeve.png)
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.52.0-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.53.2-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
@@ -248,7 +248,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "vortox": Global ST notes, such as "Townsfolk abilities yield false information".
 * "voudon": Voudon style voting.
 * "tor": Blind start.
-* "bigwig": Defense attorney.
+* "bigwig": Defense attorney effect.
+* "bigwig" / "godofug": Set image for specialty hats.
 * "revolutionary": Aligned character protection.
 * "bootlegger": Making your own lists for Fabled to display.
 * "dawn", "minioninfo", "demoninfo", "dusk": Cannot modify the instruction text: https://discord.com/channels/1011236067560669234/1410705219364585614

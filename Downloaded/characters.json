@@ -403,6 +403,11 @@
         "name": "Godfather",
         "other": "If an Outsider died today, the Godfather chooses a player. :reminder:"
     },
+    "godofug": {
+        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
+        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "name": "God of Ug"
+    },
     "golem": {
         "ability": "You may only nominate once per game. When you do, if the nominee is not the Demon, they die.",
         "flavor": "Golem help? Golem smash! Golem help.",
@@ -531,6 +536,11 @@
         "ability": "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",
         "flavor": "Oops.",
         "name": "Klutz"
+    },
+    "knaves": {
+        "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
+        "flavor": "Every wall is a door. Every meal is a feast.",
+        "name": "Knaves"
     },
     "knight": {
         "ability": "You start knowing 2 players that are not the Demon.",

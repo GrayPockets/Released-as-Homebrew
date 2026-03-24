@@ -3309,7 +3309,7 @@
         "otherNight": 5,
         "otherNightReminder": "Before dawn, choose a player not marked *NOT ME*. Wake the target. Show the *YOU ARE* info token & their new character token.",
         "reminders": [
-            "Not me"
+            "Not Me"
         ],
         "setup": false,
         "ability": "Each day, choose a player: a different player changes character tonight.",
@@ -3563,6 +3563,32 @@
         ]
     },
     {
+        "id": "godofug_rah",
+        "name": "God of Ug",
+        "edition": "loric",
+        "image": [
+            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/godofug.webp"
+        ],
+        "team": "loric",
+        "reminders": [
+            "Hat"
+        ],
+        "setup": false,
+        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
+        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "special": [
+            {
+                "type": "vote",
+                "name": "multiplier",
+                "value": 2
+            },
+            {
+                "type": "reminder",
+                "name": "public"
+            }
+        ]
+    },
+    {
         "id": "hindu_rah",
         "name": "Hindu",
         "edition": "loric",
@@ -3573,6 +3599,18 @@
         "setup": false,
         "ability": "The first 4 players to die are immediately reincarnated as Travellers of the same alignment.",
         "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+    },
+    {
+        "id": "knaves_rah",
+        "name": "Knaves",
+        "edition": "loric",
+        "image": [
+            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/knaves.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
+        "flavor": "Every wall is a door. Every meal is a feast."
     },
     {
         "id": "pope_rah",
