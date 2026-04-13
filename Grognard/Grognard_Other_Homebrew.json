@@ -44,6 +44,25 @@
         "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
     },
     {
+        "id": "gardener_gah_20260323",
+        "name": "Gardener",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/gardener-DXERv7Nr.webp"
+        ],
+        "team": "loric",
+        "setup": true,
+        "ability": "The Storyteller assigns 1 or more players' characters.",
+        "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones.",
+        "special": [
+            {
+                "name": "distribute-roles",
+                "type": "ability",
+                "time": "pregame"
+            }
+        ]
+    },
+    {
         "id": "gardener_gah_20240725",
         "name": "Gardener",
         "edition": "fabled",
@@ -51,7 +70,7 @@
             "https://wiki.bloodontheclocktower.com/images/archive/5/5c/20251103095407%21Icon_gardener.png"
         ],
         "team": "fabled",
-        "setup": false,
+        "setup": true,
         "ability": "The Storyteller assigns 1 or more players' characters.",
         "flavor": "Oh now, this won't do. We've got the monkshood mixed in with the wolfsbane and the hemlock is smothering the hellebore! Oh dear me, we'd better start over. Fetch my shears.",
         "special": [
@@ -70,7 +89,11 @@
             "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
         ],
         "team": "fabled",
-        "setup": false,
+        "reminders": [
+            "?",
+            "?"
+        ],
+        "setup": true,
         "ability": "This script has homebrew characters or rules.",
         "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
     },

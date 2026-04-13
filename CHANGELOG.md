@@ -1,4 +1,10 @@
 # Changelog
+## 1.10.0
+* Online App compatibility 3.53.3
+* Summoner flavor text
+* Bootlegger reminders and setup update
+* Gardener ability and setup update
+* Qutler secret character
 ## 1.9.0
 * Online App compatibility 3.53.2
 * God of Ug character
