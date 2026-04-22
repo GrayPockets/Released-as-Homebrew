@@ -1,4 +1,6 @@
 # Changelog
+## 1.10.1
+* Deus ex Fiasco name correction
 ## 1.10.0
 * Online App compatibility 3.53.3
 * Summoner flavor text
