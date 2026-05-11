@@ -1,11 +1,12 @@
 [
     {
         "id": "_meta",
+        "name": "Trouble Brewing as Homebrew",
         "author": "TPI",
-        "name": "Trouble Brewing",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
-        "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator","chef","empath","fortuneteller","butler","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","poisoner","monk","spy","scarletwoman","imp","tor","ravenkeeper","undertaker","empath","fortuneteller","butler","dawn"]
     },

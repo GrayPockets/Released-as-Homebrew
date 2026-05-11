@@ -1,11 +1,12 @@
 [
     {
         "id": "_meta",
-        "author": "TPI",
         "name": "Sects & Violets as Homebrew",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
-        "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista_snv","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista_snv","bonecollector_snv","harlot_snv","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu_snv","vigormortis_snv","nodashii_snv","vortox_snv","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
@@ -18,7 +19,7 @@
             "https://botc.app/assets/clockmaker_e-De0CuxuO.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 59,
+        "firstNight": 60,
         "firstNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
@@ -33,7 +34,7 @@
             "https://botc.app/assets/dreamer_e-9zGefVKW.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 60,
+        "firstNight": 61,
         "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
         "otherNight": 79,
         "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
@@ -50,7 +51,7 @@
             "https://botc.app/assets/snakecharmer_e-D6CrPRGR.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 36,
+        "firstNight": 37,
         "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
         "otherNight": 23,
         "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
@@ -70,7 +71,7 @@
             "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 76,
+        "firstNight": 77,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
@@ -178,7 +179,7 @@
             "https://botc.app/assets/seamstress_e-BfBRBNhv.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 61,
+        "firstNight": 62,
         "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
         "otherNight": 83,
         "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
@@ -342,7 +343,7 @@
             "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
         ],
         "team": "minion",
-        "firstNight": 40,
+        "firstNight": 41,
         "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
         "reminders": [
             "Twin"
@@ -360,7 +361,7 @@
             "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
         ],
         "team": "minion",
-        "firstNight": 41,
+        "firstNight": 42,
         "firstNightReminder": "The Witch chooses a player. :reminder:",
         "otherNight": 27,
         "otherNightReminder": "The Witch chooses a player. :reminder:",
@@ -380,7 +381,7 @@
             "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
         ],
         "team": "minion",
-        "firstNight": 42,
+        "firstNight": 43,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "otherNight": 28,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",

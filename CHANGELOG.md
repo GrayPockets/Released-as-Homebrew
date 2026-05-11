@@ -1,4 +1,12 @@
 # Changelog
+## 1.11.0
+* Online App compatibility 3.54.2
+* Tor first night order correction
+* Tor other night order instructions
+* Hide logo & title of base three scripts
+* Rearrange _meta object fields
+* Replaced vendor.js with MODULES documentation
+* Scripts of the Month correction
 ## 1.10.1
 * Deus ex Fiasco name correction
 ## 1.10.0

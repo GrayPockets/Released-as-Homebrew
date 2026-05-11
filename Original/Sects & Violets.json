@@ -1,11 +1,12 @@
 [
     {
         "id": "_meta",
-        "author": "TPI",
         "name": "Sects & Violets",
-        "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
-        "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
         "hideTitle": true,
+        "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
+        "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer","eviltwin","witch","cerenovus","clockmaker","dreamer","seamstress","mathematician","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician","dawn"]
     },

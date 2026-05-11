@@ -1,8 +1,8 @@
 [
     {
         "id": "_meta",
-        "author": "GrayPockets",
         "name": "Grognard Townsfolk as Homebrew",
+        "author": "GrayPockets",
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
@@ -14,7 +14,7 @@
             "https://botc.app/assets/bountyhunter_e-BhBaVK4W.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 68,
+        "firstNight": 69,
         "firstNightReminder": "Point to the player marked *KNOW*.",
         "otherNight": 88,
         "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
@@ -44,7 +44,7 @@
             "https://botc.app/assets/bountyhunter_e-BhBaVK4W.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 68,
+        "firstNight": 69,
         "firstNightReminder": "Point to the player marked *KNOW*.",
         "otherNight": 88,
         "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
@@ -74,7 +74,7 @@
             "https://botc.app/assets/bountyhunter_e-BhBaVK4W.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 68,
+        "firstNight": 69,
         "firstNightReminder": "Point to the player marked *KNOW*.",
         "otherNight": 88,
         "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
@@ -94,7 +94,7 @@
             "https://botc.app/assets/balloonist_e-D2ByQ9TA.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 65,
+        "firstNight": 66,
         "firstNightReminder": "Point to any player. :reminder:",
         "otherNight": 85,
         "otherNightReminder": "Point to a player with a different character type to the previously shown player. :reminder:",
@@ -118,7 +118,7 @@
             "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 75,
+        "firstNight": 76,
         "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
         "otherNight": 95,
         "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
@@ -141,7 +141,7 @@
             "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 75,
+        "firstNight": 76,
         "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
         "otherNight": 95,
         "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
@@ -158,7 +158,7 @@
             "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 76,
+        "firstNight": 77,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
@@ -192,7 +192,7 @@
             "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 76,
+        "firstNight": 77,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
@@ -226,7 +226,7 @@
             "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 76,
+        "firstNight": 77,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
@@ -250,7 +250,7 @@
             "https://botc.app/assets/king_e-DuQcqpvF.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 24,
+        "firstNight": 25,
         "firstNightReminder": "Wake the Demon: Show the *THIS PLAYER IS* & King tokens, then point to the King.",
         "otherNight": 87,
         "otherNightReminder": "If the dead equal or outnumber the living, show the character token of a living player.",
@@ -371,7 +371,7 @@
             "https://botc.app/assets/engineer_e-LUiXESUv.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 27,
+        "firstNight": 28,
         "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 14,
         "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
@@ -397,7 +397,7 @@
             "https://botc.app/assets/engineer_e-LUiXESUv.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 27,
+        "firstNight": 28,
         "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 14,
         "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
@@ -427,7 +427,7 @@
             "https://botc.app/assets/engineer_e-LUiXESUv.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 27,
+        "firstNight": 28,
         "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 14,
         "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
@@ -447,7 +447,7 @@
             "https://botc.app/assets/nightwatchman_e-DcwB8vOD.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 69,
+        "firstNight": 70,
         "firstNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "otherNight": 89,
         "otherNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",

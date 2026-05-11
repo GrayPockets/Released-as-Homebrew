@@ -66,68 +66,69 @@ The following is a full list of night order. This is so night order numbers can 
 * 15 - $${\color{deepskyblue}Alchemist}$$
 * 16 - $${\color{deepskyblue}Poppy Grower}$$
 * 17 - $${\color{darkred}Yaggababble}$$
-* 18 - $${\color{deepskyblue}Magician}$$
-* 19 - $${\color{black}Minion Info}$$
-* 20 - $${\color{deepskyblue}Snitch}$$
-* 21 - $${\color{deepskyblue}Lunatic}$$
-* 22 - $${\color{darkred}Summoner}$$
-* 23 - $${\color{black}Demon Info}$$
-* 24 - $${\color{deepskyblue}King}$$
-* 25 - $${\color{deepskyblue}Sailor}$$
-* 26 - $${\color{darkred}Marionette}$$
-* 27 - $${\color{deepskyblue}Engineer}$$
-* 28 - $${\color{deepskyblue}Preacher}$$
-* 29 - $${\color{darkred}Lil' Monsta}$$
-* 30 - $${\color{darkred}Lleech}$$
-* 31 - $${\color{darkred}Xaan}$$
-* 32 - $${\color{darkred}Poisoner}$$
-* 33 - $${\color{darkred}Widow}$$
-* 34 - $${\color{deepskyblue}Courtier}$$
-* 35 - $${\color{darkred}Wizard}$$
-* 36 - $${\color{deepskyblue}Snake Charmer}$$
-* 37 - $${\color{darkred}Godfather}$$
-* 38 - $${\color{darkred}Organ Grinder}$$
-* 39 - $${\color{darkred}Devil's Advocate}$$
-* 40 - $${\color{darkred}Evil Twin}$$
-* 41 - $${\color{darkred}Witch}$$
-* 42 - $${\color{darkred}Cerenovus}$$
-* 43 - $${\color{darkred}Fearmonger}$$
-* 44 - $${\color{darkred}Harpy}$$
-* 45 - $${\color{darkred}Mezepheles}$$
-* 46 - $${\color{darkred}Pukka}$$
-* 47 - $${\color{deepskyblue}Pixie}$$
-* 48 - $${\color{deepskyblue}Huntsman}$$
-* 49 - $${\color{deepskyblue}Damsel}$$
-* 50 - $${\color{deepskyblue}Amnesiac}$$
-* 51 - $${\color{deepskyblue}Washerwoman}$$
-* 52 - $${\color{deepskyblue}Librarian}$$
-* 53 - $${\color{deepskyblue}Investigator}$$
-* 54 - $${\color{deepskyblue}Chef}$$
-* 55 - $${\color{deepskyblue}Empath}$$
-* 56 - $${\color{deepskyblue}Fortune Teller}$$
-* 57 - $${\color{deepskyblue}Butler}$$
-* 58 - $${\color{deepskyblue}Grandmother}$$
-* 59 - $${\color{deepskyblue}Clockmaker}$$
-* 60 - $${\color{deepskyblue}Dreamer}$$
-* 61 - $${\color{deepskyblue}Seamstress}$$
-* 62 - $${\color{deepskyblue}Steward}$$
-* 63 - $${\color{deepskyblue}Knight}$$
-* 64 - $${\color{deepskyblue}Noble}$$
-* 65 - $${\color{deepskyblue}Balloonist}$$
-* 66 - $${\color{deepskyblue}Shugenja}$$
-* 67 - $${\color{deepskyblue}Village Idiot}$$
-* 68 - $${\color{deepskyblue}Bounty Hunter}$$
-* 69 - $${\color{deepskyblue}Nightwatchman}$$
-* 70 - $${\color{deepskyblue}Cult Leader}$$
-* 71 - $${\color{darkred}Spy}$$
-* 72 - $${\color{deepskyblue}Ogre}$$
-* 73 - $${\color{deepskyblue}High Priestess}$$
-* 74 - $${\color{deepskyblue}General}$$
-* 75 - $${\color{deepskyblue}Chambermaid}$$
-* 76 - $${\color{deepskyblue}Mathematician}$$
-* 77 - $${\color{black}Dawn}$$
-* 78 - $${\color{darkred}Leviathan}$$
-* 79 - $${\color{darkred}Vizier}$$
+* 18 - $${\color{deepskyblue}Magician}$$ 
+* 19 - $${\color{olivedrab}Tor}$$
+* 20 - $${\color{black}Minion Info}$$
+* 21 - $${\color{deepskyblue}Snitch}$$
+* 22 - $${\color{deepskyblue}Lunatic}$$
+* 23 - $${\color{darkred}Summoner}$$
+* 24 - $${\color{black}Demon Info}$$
+* 25 - $${\color{deepskyblue}King}$$
+* 26 - $${\color{deepskyblue}Sailor}$$
+* 27 - $${\color{darkred}Marionette}$$
+* 28 - $${\color{deepskyblue}Engineer}$$
+* 29 - $${\color{deepskyblue}Preacher}$$
+* 30 - $${\color{darkred}Lil' Monsta}$$
+* 31 - $${\color{darkred}Lleech}$$
+* 32 - $${\color{darkred}Xaan}$$
+* 33 - $${\color{darkred}Poisoner}$$
+* 34 - $${\color{darkred}Widow}$$
+* 35 - $${\color{deepskyblue}Courtier}$$
+* 36 - $${\color{darkred}Wizard}$$
+* 37 - $${\color{deepskyblue}Snake Charmer}$$
+* 38 - $${\color{darkred}Godfather}$$
+* 39 - $${\color{darkred}Organ Grinder}$$
+* 40 - $${\color{darkred}Devil's Advocate}$$
+* 41 - $${\color{darkred}Evil Twin}$$
+* 42 - $${\color{darkred}Witch}$$
+* 43 - $${\color{darkred}Cerenovus}$$
+* 44 - $${\color{darkred}Fearmonger}$$
+* 45 - $${\color{darkred}Harpy}$$
+* 46 - $${\color{darkred}Mezepheles}$$
+* 47 - $${\color{darkred}Pukka}$$
+* 48 - $${\color{deepskyblue}Pixie}$$
+* 49 - $${\color{deepskyblue}Huntsman}$$
+* 50 - $${\color{deepskyblue}Damsel}$$
+* 51 - $${\color{deepskyblue}Amnesiac}$$
+* 52 - $${\color{deepskyblue}Washerwoman}$$
+* 53 - $${\color{deepskyblue}Librarian}$$
+* 54 - $${\color{deepskyblue}Investigator}$$
+* 55 - $${\color{deepskyblue}Chef}$$
+* 56 - $${\color{deepskyblue}Empath}$$
+* 57 - $${\color{deepskyblue}Fortune Teller}$$
+* 58 - $${\color{deepskyblue}Butler}$$
+* 59 - $${\color{deepskyblue}Grandmother}$$
+* 60 - $${\color{deepskyblue}Clockmaker}$$
+* 61 - $${\color{deepskyblue}Dreamer}$$
+* 62 - $${\color{deepskyblue}Seamstress}$$
+* 63 - $${\color{deepskyblue}Steward}$$
+* 64 - $${\color{deepskyblue}Knight}$$
+* 65 - $${\color{deepskyblue}Noble}$$
+* 66 - $${\color{deepskyblue}Balloonist}$$
+* 67 - $${\color{deepskyblue}Shugenja}$$
+* 68 - $${\color{deepskyblue}Village Idiot}$$
+* 69 - $${\color{deepskyblue}Bounty Hunter}$$
+* 70 - $${\color{deepskyblue}Nightwatchman}$$
+* 71 - $${\color{deepskyblue}Cult Leader}$$
+* 72 - $${\color{darkred}Spy}$$
+* 73 - $${\color{deepskyblue}Ogre}$$
+* 74 - $${\color{deepskyblue}High Priestess}$$
+* 75 - $${\color{deepskyblue}General}$$
+* 76 - $${\color{deepskyblue}Chambermaid}$$
+* 77 - $${\color{deepskyblue}Mathematician}$$
+* 78 - $${\color{black}Dawn}$$
+* 79 - $${\color{darkred}Leviathan}$$
+* 80 - $${\color{darkred}Vizier}$$
 
 ### Other Nights Order
 * 1 - $${\color{black}Dusk}$$

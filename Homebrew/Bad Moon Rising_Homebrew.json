@@ -1,11 +1,12 @@
 [
     {
         "id": "_meta",
-        "author": "TPI",
         "name": "Bad Moon Rising as Homebrew",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
-        "hideTitle": true,
         "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice_bmr", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka_bmr", "grandmother_bmr", "chambermaid_bmr", "dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul_bmr","pukka_bmr","shabaloth_bmr","po_bmr","assassin_bmr","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
@@ -18,7 +19,7 @@
             "https://botc.app/assets/grandmother_e-BLCIA5TL.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 58,
+        "firstNight": 59,
         "firstNightReminder": "Point to the grandchild player & show their character token.",
         "otherNight": 73,
         "otherNightReminder": "If the grandchild was killed by the Demon, the Grandmother dies too. :reminder:",
@@ -39,7 +40,7 @@
             "https://botc.app/assets/sailor_e-DfZBdaxk.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 25,
+        "firstNight": 26,
         "firstNightReminder": "The Sailor chooses a living player. :reminder:",
         "otherNight": 13,
         "otherNightReminder": "The Sailor chooses a living player. :reminder:",
@@ -59,7 +60,7 @@
             "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 75,
+        "firstNight": 76,
         "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
         "otherNight": 95,
         "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
@@ -150,7 +151,7 @@
             "https://botc.app/assets/courtier_e-DxjU0rGy.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 34,
+        "firstNight": 35,
         "firstNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
         "otherNight": 18,
         "otherNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
@@ -306,7 +307,7 @@
             "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
         ],
         "team": "outsider",
-        "firstNight": 21,
+        "firstNight": 22,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
         "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
@@ -328,7 +329,7 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37,
+        "firstNight": 38,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
         "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
@@ -349,7 +350,7 @@
             "https://botc.app/assets/devilsadvocate_g-DeyJHzxG.webp"
         ],
         "team": "minion",
-        "firstNight": 39,
+        "firstNight": 40,
         "firstNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
         "otherNight": 26,
         "otherNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
@@ -426,7 +427,7 @@
             "https://botc.app/assets/pukka_g-D7il5SFF.webp"
         ],
         "team": "demon",
-        "firstNight": 46,
+        "firstNight": 47,
         "firstNightReminder": "The Pukka chooses a player. :reminder:",
         "otherNight": 42,
         "otherNightReminder": "The Pukka chooses a player. :reminder: The previously poisoned player dies then becomes healthy. :reminder:",

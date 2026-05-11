@@ -1,8 +1,8 @@
 [
     {
         "id": "_meta",
-        "author": "GrayPockets",
         "name": "Grognard Outsiders as Homebrew",
+        "author": "GrayPockets",
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
@@ -14,7 +14,7 @@
             "https://botc.app/assets/butler_e-C2ho4G2f.webp"
         ],
         "team": "outsider",
-        "firstNight": 57,
+        "firstNight": 58,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
         "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
@@ -34,7 +34,7 @@
             "https://botc.app/assets/butler_e-C2ho4G2f.webp"
         ],
         "team": "outsider",
-        "firstNight": 57,
+        "firstNight": 58,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
         "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
@@ -60,7 +60,7 @@
             "https://botc.app/assets/butler_e-C2ho4G2f.webp"
         ],
         "team": "outsider",
-        "firstNight": 57,
+        "firstNight": 58,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
         "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
@@ -80,7 +80,7 @@
             "https://botc.app/assets/ogre_e-k2lur_NF.webp"
         ],
         "team": "outsider",
-        "firstNight": 72,
+        "firstNight": 73,
         "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
@@ -104,7 +104,7 @@
             "https://botc.app/assets/ogre_e-k2lur_NF.webp"
         ],
         "team": "outsider",
-        "firstNight": 72,
+        "firstNight": 73,
         "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
@@ -122,7 +122,7 @@
             "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
         ],
         "team": "outsider",
-        "firstNight": 21,
+        "firstNight": 22,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
         "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
@@ -150,7 +150,7 @@
             "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
         ],
         "team": "outsider",
-        "firstNight": 21,
+        "firstNight": 22,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
         "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
@@ -487,7 +487,7 @@
             "https://botc.app/assets/damsel_e-fpsIFV1Z.webp"
         ],
         "team": "outsider",
-        "firstNight": 49,
+        "firstNight": 50,
         "firstNightReminder": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "otherNight": 68,
         "otherNightReminder": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
@@ -507,7 +507,7 @@
             "https://botc.app/assets/snitch_e-yBlnGiGd.webp"
         ],
         "team": "outsider",
-        "firstNight": 20,
+        "firstNight": 21,
         "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens.",
         "setup": false,
         "ability": "Minions start knowing 3 not-in-play characters.",

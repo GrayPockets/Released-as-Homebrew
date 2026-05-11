@@ -1,11 +1,12 @@
 [
     {
         "id": "_meta",
-        "author": "TPI",
         "name": "Trouble Brewing as Homebrew",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
-        "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat_tb","thief_tb","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat_tb","thief_tb","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp_tb","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
@@ -18,7 +19,7 @@
             "https://botc.app/assets/washerwoman_e-TC3PgT2N.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 51,
+        "firstNight": 52,
         "firstNightReminder": "Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.",
         "reminders": [
             "Townsfolk",
@@ -37,7 +38,7 @@
             "https://botc.app/assets/librarian_e-DNYbXXNX.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 52,
+        "firstNight": 53,
         "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players.",
         "reminders": [
             "Outsider",
@@ -56,7 +57,7 @@
             "https://botc.app/assets/investigator_e-CR-lRqwj.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 53,
+        "firstNight": 54,
         "firstNightReminder": "Show the Minion character token. Point to both the *MINION* and *WRONG* players.",
         "reminders": [
             "Minion",
@@ -75,7 +76,7 @@
             "https://botc.app/assets/chef_e-B3RO5GXN.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 54,
+        "firstNight": 55,
         "firstNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "You start knowing how many pairs of evil players there are.",
@@ -90,7 +91,7 @@
             "https://botc.app/assets/empath_e-CWeYvCJ9.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 55,
+        "firstNight": 56,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 76,
         "otherNightReminder": "Give a finger signal.",
@@ -107,7 +108,7 @@
             "https://botc.app/assets/fortuneteller_e-BWljoXp7.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 56,
+        "firstNight": 57,
         "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
         "otherNight": 77,
         "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
@@ -236,7 +237,7 @@
             "https://botc.app/assets/butler_e-C2ho4G2f.webp"
         ],
         "team": "outsider",
-        "firstNight": 57,
+        "firstNight": 58,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
         "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
@@ -324,7 +325,7 @@
             "https://botc.app/assets/poisoner_g-DHNIHhxZ.webp"
         ],
         "team": "minion",
-        "firstNight": 32,
+        "firstNight": 33,
         "firstNightReminder": "The Poisoner chooses a player. :reminder:",
         "otherNight": 17,
         "otherNightReminder": "The Poisoner chooses a player. :reminder:",
@@ -344,7 +345,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",

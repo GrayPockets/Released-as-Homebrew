@@ -1,8 +1,8 @@
 [
     {
         "id": "_meta",
-        "author": "GrayPockets",
         "name": "Released as Homebrew",
+        "author": "GrayPockets",
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
@@ -14,7 +14,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/steward_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 62,
+        "firstNight": 63,
         "firstNightReminder": "Point to the player marked *KNOW*.",
         "reminders": [
             "Know"
@@ -32,7 +32,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/knight_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 63,
+        "firstNight": 64,
         "firstNightReminder": "Point to the 2 players marked *KNOW*.",
         "reminders": [
             "Know",
@@ -51,7 +51,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/chef_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 54,
+        "firstNight": 55,
         "firstNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "You start knowing how many pairs of evil players there are.",
@@ -66,7 +66,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/noble_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 64,
+        "firstNight": 65,
         "firstNightReminder": "Point to the 3 players marked *KNOW*.",
         "reminders": [
             "Know",
@@ -86,7 +86,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 53,
+        "firstNight": 54,
         "firstNightReminder": "Show the Minion character token. Point to both the *MINION* and *WRONG* players.",
         "reminders": [
             "Minion",
@@ -105,7 +105,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/washerwoman_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 51,
+        "firstNight": 52,
         "firstNightReminder": "Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.",
         "reminders": [
             "Townsfolk",
@@ -124,7 +124,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/clockmaker_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 59,
+        "firstNight": 60,
         "firstNightReminder": "Give a finger signal.",
         "setup": false,
         "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
@@ -139,7 +139,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/grandmother_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 58,
+        "firstNight": 59,
         "firstNightReminder": "Point to the grandchild player & show their character token.",
         "otherNight": 73,
         "otherNightReminder": "If the grandchild was killed by the Demon, the Grandmother dies too. :reminder:",
@@ -160,7 +160,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/librarian_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 52,
+        "firstNight": 53,
         "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players.",
         "reminders": [
             "Outsider",
@@ -179,7 +179,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/shugenja_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 66,
+        "firstNight": 67,
         "firstNightReminder": "Point clockwise or anticlockwise.",
         "setup": false,
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
@@ -208,7 +208,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/pixie_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 47,
+        "firstNight": 48,
         "firstNightReminder": "Show the Townsfolk character token marked *MAD*.",
         "reminders": [
             "Mad",
@@ -227,7 +227,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/bountyhunter_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 68,
+        "firstNight": 69,
         "firstNightReminder": "Point to the player marked *KNOW*.",
         "otherNight": 88,
         "otherNightReminder": "If the player marked *KNOW* died today or tonight, point to the new player marked *KNOW*.",
@@ -257,7 +257,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/empath_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 55,
+        "firstNight": 56,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 76,
         "otherNightReminder": "Give a finger signal.",
@@ -274,7 +274,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/highpriestess_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 73,
+        "firstNight": 74,
         "firstNightReminder": "Point to a player.",
         "otherNight": 93,
         "otherNightReminder": "Point to a player.",
@@ -291,7 +291,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/sailor_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 25,
+        "firstNight": 26,
         "firstNightReminder": "The Sailor chooses a living player. :reminder:",
         "otherNight": 13,
         "otherNightReminder": "The Sailor chooses a living player. :reminder:",
@@ -311,7 +311,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/balloonist_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 65,
+        "firstNight": 66,
         "firstNightReminder": "Point to any player. :reminder:",
         "otherNight": 85,
         "otherNightReminder": "Point to a player with a different character type to the previously shown player. :reminder:",
@@ -331,7 +331,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/general_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 74,
+        "firstNight": 75,
         "firstNightReminder": "Give a thumb signal.",
         "otherNight": 93,
         "otherNightReminder": "Give a thumb signal.",
@@ -348,7 +348,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/preacher_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 28,
+        "firstNight": 29,
         "firstNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens.",
         "otherNight": 15,
         "otherNightReminder": "The Preacher chooses a player. :reminder: If they chose a Minion: Put the Preacher to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* & Preacher tokens.",
@@ -370,7 +370,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/chambermaid_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 75,
+        "firstNight": 76,
         "firstNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
         "otherNight": 95,
         "otherNightReminder": "The Chambermaid chooses 2 living players. Give a finger signal.",
@@ -387,7 +387,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/villageidiot_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 67,
+        "firstNight": 68,
         "firstNightReminder": "If there are multiple Village Idiots, mark one as *DRUNK*. :reminder: Wake the Village Idiots one at a time to choose a player. Give a thumb signal.",
         "otherNight": 86,
         "otherNightReminder": "Wake the Village Idiots one at a time to choose a player. Give a thumb signal.",
@@ -413,7 +413,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/snakecharmer_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 36,
+        "firstNight": 37,
         "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
         "otherNight": 23,
         "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
@@ -433,7 +433,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/mathematician_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 76,
+        "firstNight": 77,
         "firstNightReminder": "Give a finger signal.",
         "otherNight": 97,
         "otherNightReminder": "Give a finger signal.",
@@ -475,7 +475,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/king_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 24,
+        "firstNight": 25,
         "firstNightReminder": "Wake the Demon: Show the *THIS PLAYER IS* & King tokens, then point to the King.",
         "otherNight": 87,
         "otherNightReminder": "If the dead equal or outnumber the living, show the character token of a living player.",
@@ -492,7 +492,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/dreamer_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 60,
+        "firstNight": 61,
         "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
         "otherNight": 79,
         "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
@@ -509,7 +509,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/fortuneteller_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 56,
+        "firstNight": 57,
         "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
         "otherNight": 77,
         "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
@@ -529,7 +529,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cultleader_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 70,
+        "firstNight": 71,
         "firstNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
         "otherNight": 90,
         "otherNightReminder": "The Cult Leader might change alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
@@ -773,7 +773,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/engineer_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 27,
+        "firstNight": 28,
         "firstNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
         "otherNight": 14,
         "otherNightReminder": "The Engineer might choose Minions or Demons. Put the Engineer to sleep. Wake the target(s) one at a time. Show the *YOU ARE* info token & their new character token. :reminder:",
@@ -793,7 +793,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/nightwatchman_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 69,
+        "firstNight": 70,
         "firstNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
         "otherNight": 89,
         "otherNightReminder": "The Nightwatchman might choose a player. Put the Nightwatchman to sleep. Wake the target. Show the *THIS PLAYER IS* & Nightwatchman tokens, then point to the Nightwatchman. :reminder:",
@@ -813,7 +813,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/courtier_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 34,
+        "firstNight": 35,
         "firstNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
         "otherNight": 18,
         "otherNightReminder": "The Courtier might choose a character. :reminder: :reminder:",
@@ -836,7 +836,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/seamstress_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 61,
+        "firstNight": 62,
         "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
         "otherNight": 83,
         "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
@@ -885,7 +885,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/huntsman_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 48,
+        "firstNight": 49,
         "firstNightReminder": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token.",
         "otherNight": 67,
         "otherNightReminder": "The Huntsman might choose a player. :reminder: If they chose the Damsel: Put the Huntsman to sleep. Wake the target. Show the *YOU ARE* info token & their new character token.",
@@ -1118,7 +1118,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/amnesiac_e.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 50,
+        "firstNight": 51,
         "firstNightReminder": "Do whatever needs to be done to satisfy the Amnesiac's ability.",
         "otherNight": 69,
         "otherNightReminder": "Do whatever needs to be done to satisfy the Amnesiac's ability.",
@@ -1414,7 +1414,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/butler_e.webp"
         ],
         "team": "outsider",
-        "firstNight": 57,
+        "firstNight": 58,
         "firstNightReminder": "The Butler chooses a player. :reminder:",
         "otherNight": 91,
         "otherNightReminder": "The Butler chooses a player. :reminder:",
@@ -1456,7 +1456,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ogre_e.webp"
         ],
         "team": "outsider",
-        "firstNight": 72,
+        "firstNight": 73,
         "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "reminders": [
             "Friend"
@@ -1474,7 +1474,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/lunatic_e.webp"
         ],
         "team": "outsider",
-        "firstNight": 21,
+        "firstNight": 22,
         "firstNightReminder": "If there are 7 or more players, wake the Lunatic: Show the *THESE ARE YOUR MINIONS* token. Point to any players. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 good character tokens. Put the Lunatic to sleep. Wake the Demon. Show the *YOU ARE* info token and the Demon token. Show the *THIS PLAYER IS* info token and the Lunatic token, then point to the Lunatic.",
         "otherNight": 35,
         "otherNightReminder": "Do whatever needs to be done to simulate the Demon acting. Put the Lunatic to sleep. Wake the Demon. Show the Lunatic token & point to them, then their target(s).",
@@ -1772,7 +1772,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/damsel_e.webp"
         ],
         "team": "outsider",
-        "firstNight": 49,
+        "firstNight": 50,
         "firstNightReminder": "During Minion Info, show the Minions the Damsel token. If you haven't done this yet, do so now. If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
         "otherNight": 68,
         "otherNightReminder": "If the Damsel was chosen by the Huntsman, show the *YOU ARE* info token & their new character token.",
@@ -1792,7 +1792,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/snitch_e.webp"
         ],
         "team": "outsider",
-        "firstNight": 20,
+        "firstNight": 21,
         "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens.",
         "setup": false,
         "ability": "Each Minion gets 3 bluffs.",
@@ -1863,7 +1863,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/mezepheles_g.webp"
         ],
         "team": "minion",
-        "firstNight": 45,
+        "firstNight": 46,
         "firstNightReminder": "Show the secret word.",
         "otherNight": 32,
         "otherNightReminder": "If a good player said the secret word, wake the player. Show the *YOU ARE* info token & give a thumbs-down. :reminder: :reminder:",
@@ -1884,7 +1884,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/godfather_g.webp"
         ],
         "team": "minion",
-        "firstNight": 37,
+        "firstNight": 38,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
         "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
@@ -1905,7 +1905,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/poisoner_g.webp"
         ],
         "team": "minion",
-        "firstNight": 32,
+        "firstNight": 33,
         "firstNightReminder": "The Poisoner chooses a player. :reminder:",
         "otherNight": 17,
         "otherNightReminder": "The Poisoner chooses a player. :reminder:",
@@ -1925,7 +1925,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/devilsadvocate_g.webp"
         ],
         "team": "minion",
-        "firstNight": 39,
+        "firstNight": 40,
         "firstNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
         "otherNight": 26,
         "otherNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
@@ -1945,7 +1945,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/tb/spy_g.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -1983,7 +1983,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/harpy_g.webp"
         ],
         "team": "minion",
-        "firstNight": 44,
+        "firstNight": 45,
         "firstNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "otherNight": 31,
         "otherNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
@@ -2004,7 +2004,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/witch_g.webp"
         ],
         "team": "minion",
-        "firstNight": 41,
+        "firstNight": 42,
         "firstNightReminder": "The Witch chooses a player. :reminder:",
         "otherNight": 27,
         "otherNightReminder": "The Witch chooses a player. :reminder:",
@@ -2024,7 +2024,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/cerenovus_g.webp"
         ],
         "team": "minion",
-        "firstNight": 42,
+        "firstNight": 43,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "otherNight": 28,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
@@ -2050,7 +2050,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/fearmonger_g.webp"
         ],
         "team": "minion",
-        "firstNight": 43,
+        "firstNight": 44,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 30,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
@@ -2143,7 +2143,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/wizard_g.webp"
         ],
         "team": "minion",
-        "firstNight": 35,
+        "firstNight": 36,
         "firstNightReminder": "Do whatever needs to be done to satisfy the Wizard's ability.",
         "otherNight": 20,
         "otherNightReminder": "Do whatever needs to be done to satisfy the Wizard's ability.",
@@ -2164,7 +2164,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/widow_g.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -2200,7 +2200,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/xaan_g.webp"
         ],
         "team": "minion",
-        "firstNight": 31,
+        "firstNight": 32,
         "firstNightReminder": "If X is 1, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
         "otherNight": 16,
         "otherNightReminder": "Change the Xaan reminder token to the relevant night. If it is night X, mark the Xaan with the *X* reminder token. :reminder: :reminder:",
@@ -2223,7 +2223,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/marionette_g.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -2297,7 +2297,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/summoner_g.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -2365,7 +2365,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/snv/eviltwin_g.webp"
         ],
         "team": "minion",
-        "firstNight": 40,
+        "firstNight": 41,
         "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
         "reminders": [
             "Twin"
@@ -2466,7 +2466,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/vizier_g.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
@@ -2511,7 +2511,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/organgrinder_g.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2624,7 +2624,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/bmr/pukka_g.webp"
         ],
         "team": "demon",
-        "firstNight": 46,
+        "firstNight": 47,
         "firstNightReminder": "The Pukka chooses a player. :reminder:",
         "otherNight": 42,
         "otherNightReminder": "The Pukka chooses a player. :reminder: The previously poisoned player dies then becomes healthy. :reminder:",
@@ -2646,7 +2646,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lilmonsta_g.webp"
         ],
         "team": "demon",
-        "firstNight": 29,
+        "firstNight": 30,
         "firstNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens.",
         "otherNight": 53,
         "otherNightReminder": "Wake the Minions. They choose a player. :reminder: Put the Minions to sleep. Wake the target. Show the *YOU ARE* & Lil' Monsta tokens. A player might die. :reminder:",
@@ -2983,7 +2983,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lleech_g.webp"
         ],
         "team": "demon",
-        "firstNight": 30,
+        "firstNight": 31,
         "firstNightReminder": "The Lleech chooses a player. :reminder:",
         "otherNight": 52,
         "otherNightReminder": "The Lleech chooses a player. :reminder:",
@@ -3112,7 +3112,7 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/carousel/leviathan_g.webp"
         ],
         "team": "demon",
-        "firstNight": 78,
+        "firstNight": 79,
         "firstNightReminder": "Announce that the Leviathan is in play. :reminder:",
         "otherNight": 100,
         "otherNightReminder": "Change the Leviathan reminder token to the relevant day. :reminder: You may announce that the Leviathan is in play.",
@@ -3627,6 +3627,10 @@
             {
                 "name": "good-duplicate",
                 "type": "selection"
+            },
+            {
+                "name": "evil-duplicate",
+                "type": "selection"
             }
         ]
     },
@@ -3638,8 +3642,10 @@
             "https://script.bloodontheclocktower.com/src/assets/icons/loric/tor.webp"
         ],
         "team": "loric",
+        "firstNight": 19,
+        "firstNightReminder": "Skip Minion Info and Demon Info.",
         "otherNight": 74,
-        "otherNightReminder": "If a player died tonight, show the *YOU ARE* info token, their character token, & a thumbs up or thumbs down.",
+        "otherNightReminder": "If a player died tonight, show the *YOU ARE* info token, their character token, & give a thumb signal.",
         "setup": true,
         "ability": "Players don't know their character or alignment. They learn them when they die.",
         "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth."

@@ -1,8 +1,8 @@
 [
     {
         "id": "_meta",
-        "author": "GrayPockets",
         "name": "Grognard Minions as Homebrew",
+        "author": "GrayPockets",
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
@@ -14,7 +14,7 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37,
+        "firstNight": 38,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
         "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
@@ -41,7 +41,7 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37,
+        "firstNight": 38,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
         "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
@@ -68,7 +68,7 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37,
+        "firstNight": 38,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
         "otherNight": 57,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
@@ -89,7 +89,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -127,7 +127,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -169,7 +169,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -215,7 +215,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -269,7 +269,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -319,7 +319,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -353,7 +353,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -383,7 +383,7 @@
             "https://botc.app/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
-        "firstNight": 71,
+        "firstNight": 72,
         "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
         "otherNight": 92,
         "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
@@ -407,7 +407,7 @@
             "https://botc.app/assets/harpy_g-Bp6VIdav.webp"
         ],
         "team": "minion",
-        "firstNight": 44,
+        "firstNight": 45,
         "firstNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
         "otherNight": 31,
         "otherNightReminder": "The Harpy chooses 2 players. :reminder: :reminder: Put the Harpy to sleep. Wake the 1st target. Show the *THIS CHARACTER SELECTED YOU* token, the Harpy token, then point to the 2nd target.",
@@ -428,7 +428,7 @@
             "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
         ],
         "team": "minion",
-        "firstNight": 42,
+        "firstNight": 43,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "otherNight": 28,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
@@ -448,7 +448,7 @@
             "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
         ],
         "team": "minion",
-        "firstNight": 43,
+        "firstNight": 44,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 30,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
@@ -474,7 +474,7 @@
             "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
         ],
         "team": "minion",
-        "firstNight": 43,
+        "firstNight": 44,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Announce that the Fearmonger has chosen a player.",
         "otherNight": 30,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the target is different to last night, announce that the Fearmonger has chosen a player.",
@@ -686,7 +686,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -722,7 +722,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -758,7 +758,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -798,7 +798,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -842,7 +842,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -890,7 +890,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -938,7 +938,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -974,7 +974,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33,
+        "firstNight": 34,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder: Put the Widow to sleep. Wake the player marked *KNOW* & show the Widow token. :reminder:",
         "reminders": [
             "Poisoned",
@@ -1000,7 +1000,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1050,7 +1050,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1096,7 +1096,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1154,7 +1154,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1208,7 +1208,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1266,7 +1266,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1325,7 +1325,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1379,7 +1379,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1433,7 +1433,7 @@
             "https://botc.app/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
-        "firstNight": 26,
+        "firstNight": 27,
         "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* & Marionette tokens. Point to the Marionette.",
         "remindersGlobal": [
             "Is The Marionette"
@@ -1461,7 +1461,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1537,7 +1537,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1617,7 +1617,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1701,7 +1701,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1781,7 +1781,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1857,7 +1857,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1897,7 +1897,7 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22,
+        "firstNight": 23,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 34,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. :reminder: If it is night 3, the Summoner chooses a player & a Demon character. Put the Summoner to sleep. Wake the target. Show the *YOU ARE* and Demon tokens & give a thumbs-down.",
@@ -1919,7 +1919,7 @@
             "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
         ],
         "team": "minion",
-        "firstNight": 40,
+        "firstNight": 41,
         "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
         "reminders": [
             "Twin"
@@ -1943,7 +1943,7 @@
             "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
         ],
         "team": "minion",
-        "firstNight": 40,
+        "firstNight": 41,
         "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
         "reminders": [
             "Twin"
@@ -2285,7 +2285,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
@@ -2330,7 +2330,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
@@ -2379,7 +2379,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
@@ -2432,7 +2432,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2481,7 +2481,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2530,7 +2530,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2575,7 +2575,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2620,7 +2620,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2661,7 +2661,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2702,7 +2702,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2747,7 +2747,7 @@
             "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
-        "firstNight": 79,
+        "firstNight": 80,
         "firstNightReminder": "Announce which player is the Vizier.",
         "setup": false,
         "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
@@ -2762,7 +2762,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2789,7 +2789,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2822,7 +2822,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2862,7 +2862,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2902,7 +2902,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2942,7 +2942,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
@@ -2986,7 +2986,7 @@
             "https://botc.app/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
-        "firstNight": 38,
+        "firstNight": 39,
         "firstNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",
         "otherNight": 25,
         "otherNightReminder": "The Organ Grinder either nods their head yes to be drunk, or shakes their head no to be sober. :reminder:",

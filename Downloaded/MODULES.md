@@ -4,4 +4,5 @@
 * mediasoup.js
 * rolldown_runtime.js
 * sentry.js
+* vendor.js
 * vue.js
