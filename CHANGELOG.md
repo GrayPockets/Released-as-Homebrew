@@ -1,4 +1,6 @@
 # Changelog
+## 1.11.1
+* Other night order correction
 ## 1.11.0
 * Online App compatibility 3.54.2
 * Tor first night order correction
