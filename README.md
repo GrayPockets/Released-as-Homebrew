@@ -46,7 +46,7 @@ These characters have been announced but not released. Feel free to use the Gray
 These characters cannot be modeled properly due to app code restrictions or automatic duplication.
 
 ## Night Order Reference
-The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
+The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference. You can also find this list as PDF with both numerical and alphabetical listings [here](Homebrew/Night Order.pdf)
 
 ### First Night Order
 * 1 - $${\color{black}Dusk}$$
