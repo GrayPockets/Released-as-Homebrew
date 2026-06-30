@@ -45,7 +45,7 @@
         "firstNight": 73,
         "firstNightReminder": "The Ogre chooses a player. :reminder:",
         "otherNight": 4.5,
-        "otherNightReminder": "If the player marked *FRIEND* changes character, the Ogre does too.",
+        "otherNightReminder": "If the player marked *FRIEND* changes alignment, the Ogre does too.",
         "reminders": [
             "Friend"
         ],

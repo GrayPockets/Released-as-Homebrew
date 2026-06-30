@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.1
+* Ogre other night order instructions
+* Optional character names
 ## 1.12.0
 * Online App compatibility 3.56.1
 * Acrobat flavor text
