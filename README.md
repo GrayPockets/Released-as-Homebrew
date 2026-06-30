@@ -2,7 +2,7 @@
 
 ![Community Created Content](Display/ccc-sleeve.png)
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.53.3-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.56.1-8A2BE2)
 
 ## Description
 Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
@@ -29,6 +29,8 @@ To use a recreated character, edit a script JSON file and paste in a character f
 
 > [!WARNING]
 > Images from botc.app do not display when using the **Export PNG** function of the [Script Tool](https://script.bloodontheclocktower.com/).
+
+### [Optional Rules Baked In](Optional)
 
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference.

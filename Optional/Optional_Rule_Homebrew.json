@@ -1,0 +1,155 @@
+[
+    {
+        "id": "_meta",
+        "name": "Optional as Homebrew",
+        "author": "GrayPockets",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew",
+        "bootlegger": [
+            "Placid Poppy Grower optional rule is in effect.",
+            "BFF Ogre optional rule is in effect.",
+            "Chaos Hatter optional rule is in effect.",
+            "Fae Pit-Hag optional rule is in effect.",
+            "Dread Wraith optional rule is in effect.",
+            "Relay Hindu optional rule is in effect."
+        ]
+    },
+    {
+        "id": "poppygrower_oah",
+        "name": "Poppy Grower*",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/poppygrower_g-BeRDzj2D.webp",
+            "https://botc.app/assets/poppygrower_e-BPf4mjjt.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 16,
+        "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 12,
+        "otherNightReminder": "If the Poppy Grower died today, became drunk, poisoned, or left play tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
+        "reminders": [
+            "Evil Wakes"
+        ],
+        "setup": false,
+        "ability": "Minions & Demons do not know each other. If you die, become drunk, poisoned, or leave play, they learn who each other are that night.",
+        "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
+    },
+    {
+        "id": "ogre_oah",
+        "name": "Ogre*",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/ogre_g-B3Q_ybOi.webp",
+            "https://botc.app/assets/ogre_e-k2lur_NF.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 73,
+        "firstNightReminder": "The Ogre chooses a player. :reminder:",
+        "otherNight": 4.5,
+        "otherNightReminder": "If the player marked *FRIEND* changes character, the Ogre does too.",
+        "reminders": [
+            "Friend"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, choose a player (not yourself): you always have the same alignment as them (you don't know which) even if drunk or poisoned.",
+        "flavor": "<grunt><grin></grunt>"
+    },
+    {
+        "id": "hatter_oah",
+        "name": "Hatter*",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/hatter_g-16CFZpfo.webp",
+            "https://botc.app/assets/hatter_e-BMVaOuLf.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 59,
+        "otherNightReminder": "If the Hatter died, wake the Minions & Demons. Each may choose a new Minion or Demon character. If they do, show the *YOU ARE* token & their new character token.",
+        "reminders": [
+            "Tea Party Tonight"
+        ],
+        "setup": false,
+        "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be. The Demon may become a Minion & a Minion may become the Demon.",
+        "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+    },
+    {
+        "id": "pithag_oah",
+        "name": "Pit-Hag*",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
+            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 29,
+        "otherNightReminder": "The Pit-Hag chooses a player & a non-Traveller character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary. If a Traveller will stay until the end of the game, the Pit-Hag may change them into a non-Traveller.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+            },
+            {
+                "id": "politician",
+                "reason": "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
+    {
+        "id": "wraith_oah",
+        "name": "Wraith*",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/wraith_e-CRfpOd4V.webp",
+            "https://botc.app/assets/wraith_g-DDErJKaT.webp"
+        ],
+        "team": "minion",
+        "reminders": [
+            "Dead",
+            "Kill Used"
+        ],
+        "firstNight": 6,
+        "firstNightReminder": "Wake the Wraith whenever other evil players wake.",
+        "otherNight": 4,
+        "otherNightReminder": "Wake the Wraith whenever other evil players wake.",
+        "setup": false,
+        "ability": "You may choose to open your eyes at night. You wake when other evil players do. Once per game, a player that is mad that you are the Wraith, dies.",
+        "flavor": "Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti.",
+        "special": [
+            {
+                "name": "open-eyes",
+                "type": "player",
+                "time": "night"
+            }
+        ]
+    },
+    {
+        "id": "hindu_oah",
+        "name": "Hindu*",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/hindu-B0td_trJ.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "The first 4 players to die are immediately reincarnated as Travellers of the same alignment. If the Demon becomes a Traveller, a Minion becomes the Demon.",
+        "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
+    }
+]
