@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.0
+* Online App compatibility 3.56.1
+* Acrobat flavor text
 ## 1.11.1
 * Other night order correction
 ## 1.11.0
