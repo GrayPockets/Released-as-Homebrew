@@ -30,6 +30,8 @@ To use a recreated character, edit a script JSON file and paste in a character f
 > [!WARNING]
 > Images from botc.app do not display when using the **Export PNG** function of the [Script Tool](https://script.bloodontheclocktower.com/).
 
+### [Optional Rules Baked In](Optional)
+
 ### [Original Character JSON](Original/Released.json)
 Original full character list and released scripts are included for reference.
 

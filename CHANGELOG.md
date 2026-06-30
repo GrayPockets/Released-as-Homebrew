@@ -2,6 +2,7 @@
 ## 1.12.0
 * Online App compatibility 3.56.1
 * Acrobat flavor text
+* Alternate homebrew characters with optional rules baked in
 ## 1.11.1
 * Other night order correction
 ## 1.11.0
