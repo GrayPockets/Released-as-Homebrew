@@ -1,6 +1,11 @@
 # Changelog
 ## 1.13.0
 * PDF Version of Night Order
+## 1.12.2
+* Alsaahir optional rule spelling
+## 1.12.1
+* Ogre other night order instructions
+* Optional character names
 ## 1.12.0
 * Online App compatibility 3.56.1
 * Acrobat flavor text
