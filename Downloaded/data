@@ -750,7 +750,7 @@
             ],
             "setup": false,
             "ability": "Each night*, choose a player: if they are or become drunk or poisoned tonight, you die.",
-            "flavor": "Welcome, one and all, to the greatest show on earth."
+            "flavor": "Ladies and gentlemen, hold fast to your hats, for I shall defy the very laws of gravity and dance upon the air, a marvel of agility and daring, all for your delight and wonder!"
         },
         {
             "id": "exorcist",
@@ -3181,6 +3181,18 @@
             "flavor": "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
         },
         {
+            "id": "bigwig",
+            "firstNightReminder": "",
+            "otherNightReminder": "",
+            "reminders": [],
+            "setup": false,
+            "name": "Big Wig",
+            "team": "loric",
+            "edition": "loric",
+            "ability": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
+            "flavor": "Vanity asks ‘Is it popular?’ Cowardice asks ‘Is it safe?’ Conscience asks ‘Is it right?’ Who among us will ask: ‘Is it true?’"
+        },
+        {
             "id": "bootlegger",
             "reminders": [
                 "?",
@@ -3192,18 +3204,6 @@
             "edition": "loric",
             "ability": "This script has homebrew characters or rules.",
             "flavor": "When I was born, I was named ‘Homebrewy McHomebrewface’, like my father before me. A respectable name, for a dignified age."
-        },
-        {
-            "id": "bigwig",
-            "firstNightReminder": "",
-            "otherNightReminder": "",
-            "reminders": [],
-            "setup": false,
-            "name": "Big Wig",
-            "team": "loric",
-            "edition": "loric",
-            "ability": "Each nominee chooses a player: until voting, only they may speak & they are mad the nominee is good or they might die.",
-            "flavor": "Vanity asks ‘Is it popular?’ Cowardice asks ‘Is it safe?’ Conscience asks ‘Is it right?’ Who among us will ask: ‘Is it true?’"
         },
         {
             "id": "gardener",

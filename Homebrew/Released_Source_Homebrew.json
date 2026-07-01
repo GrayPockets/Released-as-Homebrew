@@ -3535,6 +3535,32 @@
         "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
     },
     {
+        "id": "godofug_rah",
+        "name": "God of Ug",
+        "edition": "loric",
+        "image": [
+            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/godofug.webp"
+        ],
+        "team": "loric",
+        "reminders": [
+            "Hat"
+        ],
+        "setup": false,
+        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
+        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "special": [
+            {
+                "type": "vote",
+                "name": "multiplier",
+                "value": 2
+            },
+            {
+                "type": "reminder",
+                "name": "public"
+            }
+        ]
+    },
+    {
         "id": "ventriloquist_rah",
         "name": "Ventriloquist",
         "edition": "loric",
@@ -3569,32 +3595,6 @@
         ]
     },
     {
-        "id": "godofug_rah",
-        "name": "God of Ug",
-        "edition": "loric",
-        "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/godofug.webp"
-        ],
-        "team": "loric",
-        "reminders": [
-            "Hat"
-        ],
-        "setup": false,
-        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
-        "flavor": "Blessed are my children, for they see the beauty in simple things.",
-        "special": [
-            {
-                "type": "vote",
-                "name": "multiplier",
-                "value": 2
-            },
-            {
-                "type": "reminder",
-                "name": "public"
-            }
-        ]
-    },
-    {
         "id": "hindu_rah",
         "name": "Hindu",
         "edition": "loric",
@@ -3605,18 +3605,6 @@
         "setup": false,
         "ability": "The first 4 players to die are immediately reincarnated as Travellers of the same alignment.",
         "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
-    },
-    {
-        "id": "knaves_rah",
-        "name": "Knaves",
-        "edition": "loric",
-        "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/knaves.webp"
-        ],
-        "team": "loric",
-        "setup": false,
-        "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
-        "flavor": "Every wall is a door. Every meal is a feast."
     },
     {
         "id": "pope_rah",
@@ -3639,6 +3627,18 @@
                 "name": "good-duplicate"
             }
         ]
+    },
+    {
+        "id": "knaves_rah",
+        "name": "Knaves",
+        "edition": "loric",
+        "image": [
+            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/knaves.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
+        "flavor": "Every wall is a door. Every meal is a feast."
     },
     {
         "id": "tor_rah",

@@ -3535,6 +3535,32 @@
         "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
     },
     {
+        "id": "godofug_rah",
+        "name": "God of Ug",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/godofug-BXMzwd9N.webp"
+        ],
+        "team": "loric",
+        "reminders": [
+            "Hat"
+        ],
+        "setup": false,
+        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
+        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "special": [
+            {
+                "type": "vote",
+                "name": "multiplier",
+                "value": 2
+            },
+            {
+                "type": "reminder",
+                "name": "public"
+            }
+        ]
+    },
+    {
         "id": "ventriloquist_rah",
         "name": "Ventriloquist",
         "edition": "loric",
@@ -3569,28 +3595,24 @@
         ]
     },
     {
-        "id": "godofug_rah",
-        "name": "God of Ug",
+        "id": "pope_rah",
+        "name": "Pope",
         "edition": "loric",
         "image": [
-            "https://botc.app/assets/godofug-BXMzwd9N.webp"
+            "https://botc.app/assets/pope-CXG7C3oM.webp"
         ],
         "team": "loric",
-        "reminders": [
-            "Hat"
-        ],
-        "setup": false,
-        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
-        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "setup": true,
+        "ability": "There are duplicate good characters in play. They might also be bluffs.",
+        "flavor": "...Pulcherrimae.",
         "special": [
             {
-                "type": "vote",
-                "name": "multiplier",
-                "value": 2
+                "name": "evil-duplicate",
+                "type": "selection"
             },
             {
-                "type": "reminder",
-                "name": "public"
+                "name": "good-duplicate",
+                "type": "selection"
             }
         ]
     },
@@ -3617,28 +3639,6 @@
         "setup": false,
         "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
         "flavor": "Every wall is a door. Every meal is a feast."
-    },
-    {
-        "id": "pope_rah",
-        "name": "Pope",
-        "edition": "loric",
-        "image": [
-            "https://botc.app/assets/pope-CXG7C3oM.webp"
-        ],
-        "team": "loric",
-        "setup": true,
-        "ability": "There are duplicate good characters in play. They might also be bluffs.",
-        "flavor": "...Pulcherrimae.",
-        "special": [
-            {
-                "name": "evil-duplicate",
-                "type": "selection"
-            },
-            {
-                "name": "good-duplicate",
-                "type": "selection"
-            }
-        ]
     },
     {
         "id": "tor_rah",
