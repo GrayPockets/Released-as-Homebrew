@@ -9,6 +9,8 @@ Recreations of every released Blood on the Clocktower character in homebrew form
 
 This is a reference for homebrew script builders to learn from examples in order to make their own characters. In some instances, it can be useful to make changes to released characters such as adding homebrew jinxes, allowing duplicates tokens, putting in extra reminder tokens, or other changes that might match a Bootlegger rule.
 
+The SAO order of characters is sourced from the Blood on the CLocktower Script Tool.
+
 ### Other Homebrew Resources
 * [BOTC Repository](https://github.com/ThePandemoniumInstitute/botc-release)
 * [Community Resources](https://release.botc.app/resources/)

@@ -1382,6 +1382,10 @@
         "flavor": "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands.",
         "special": [
             {
+                "name": "evil-duplicate",
+                "type": "selection"
+            },
+            {
                 "type": "selection",
                 "name": "good-duplicate"
             }
@@ -3531,6 +3535,32 @@
         "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
     },
     {
+        "id": "godofug_rah",
+        "name": "God of Ug",
+        "edition": "loric",
+        "image": [
+            "https://script.bloodontheclocktower.com/src/assets/icons/loric/godofug.webp"
+        ],
+        "team": "loric",
+        "reminders": [
+            "Hat"
+        ],
+        "setup": false,
+        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
+        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "special": [
+            {
+                "type": "vote",
+                "name": "multiplier",
+                "value": 2
+            },
+            {
+                "type": "reminder",
+                "name": "public"
+            }
+        ]
+    },
+    {
         "id": "ventriloquist_rah",
         "name": "Ventriloquist",
         "edition": "loric",
@@ -3565,28 +3595,24 @@
         ]
     },
     {
-        "id": "godofug_rah",
-        "name": "God of Ug",
+        "id": "pope_rah",
+        "name": "Pope",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/godofug.webp"
+            "https://script.bloodontheclocktower.com/src/assets/icons/loric/pope.webp"
         ],
         "team": "loric",
-        "reminders": [
-            "Hat"
-        ],
-        "setup": false,
-        "ability": "One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat.",
-        "flavor": "Blessed are my children, for they see the beauty in simple things.",
+        "setup": true,
+        "ability": "There are duplicate good characters in play. They might also be bluffs.",
+        "flavor": "...Pulcherrimae.",
         "special": [
             {
-                "type": "vote",
-                "name": "multiplier",
-                "value": 2
+                "name": "evil-duplicate",
+                "type": "selection"
             },
             {
-                "type": "reminder",
-                "name": "public"
+                "type": "selection",
+                "name": "good-duplicate"
             }
         ]
     },
@@ -3613,28 +3639,6 @@
         "setup": false,
         "ability": "There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch.",
         "flavor": "Every wall is a door. Every meal is a feast."
-    },
-    {
-        "id": "pope_rah",
-        "name": "Pope",
-        "edition": "loric",
-        "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/pope.webp"
-        ],
-        "team": "loric",
-        "setup": true,
-        "ability": "There are duplicate good characters in play. They might also be bluffs.",
-        "flavor": "...Pulcherrimae.",
-        "special": [
-            {
-                "name": "good-duplicate",
-                "type": "selection"
-            },
-            {
-                "name": "evil-duplicate",
-                "type": "selection"
-            }
-        ]
     },
     {
         "id": "tor_rah",
