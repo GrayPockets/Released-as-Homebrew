@@ -1,4 +1,6 @@
 # Changelog
+## 1.12.2
+* Alsaahir optional rule spelling
 ## 1.12.1
 * Ogre other night order instructions
 * Optional character names
