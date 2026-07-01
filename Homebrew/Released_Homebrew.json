@@ -1382,6 +1382,10 @@
         "flavor": "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands.",
         "special": [
             {
+                "name": "evil-duplicate",
+                "type": "selection"
+            },
+            {
                 "type": "selection",
                 "name": "good-duplicate"
             }
@@ -3627,15 +3631,11 @@
         "flavor": "...Pulcherrimae.",
         "special": [
             {
+                "name": "evil-duplicate",
+                "type": "selection"
+            },
+            {
                 "name": "good-duplicate",
-                "type": "selection"
-            },
-            {
-                "name": "evil-duplicate",
-                "type": "selection"
-            },
-            {
-                "name": "evil-duplicate",
                 "type": "selection"
             }
         ]
