@@ -1,6 +1,10 @@
 # Changelog
+## 1.14.0
+* Online App compatibility 3.57.1
+* Mathematician jinxes update
+* Magician jinx update
 ## 1.13.0
-* PDF Version of Night Order
+* PDF Night Order
 ## 1.12.3
 * Atheist and Pope special field correction
 * Downloaded Data correction

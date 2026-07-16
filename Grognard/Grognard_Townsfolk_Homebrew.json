@@ -150,6 +150,48 @@
         "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
     },
     {
+        "id": "mathematician_gah_20260708",
+        "name": "Mathematician",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
+            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 77,
+        "firstNightReminder": "Give a finger signal.",
+        "otherNight": 96,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal"
+        ],
+        "setup": false,
+        "ability": "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability.",
+        "flavor": "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk.",
+        "jinxes": [
+            {
+                "id": "chambermaid",
+                "reason": "The Chambermaid can detect if the Mathematician will wake tonight."
+            },
+            {
+                "id": "drunk",
+                "reason": "The Mathematician might learn if the Drunk's ability yielded false info or failed to work properly."
+            },
+            {
+                "id": "lunatic",
+                "reason": "The Mathematician might learn if the Lunatic attacks a different player than the real Demon attacked."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Mathematician might learn if the Marionette's ability yielded false info or failed to work properly."
+            }
+        ]
+    },
+    {
         "id": "mathematician_gah_20251118",
         "name": "Mathematician",
         "edition": "snv",
@@ -1078,6 +1120,47 @@
         "setup": false,
         "ability": "If you die at night, an alive good player becomes a Farmer.",
         "flavor": "Even the high and mighty need food on the table. Without us, the city starves."
+    },
+    {
+        "id": "magician_rah",
+        "name": "Magician",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/magician_g-DXz3Ajt8.webp",
+            "https://botc.app/assets/magician_e-BMchX9vJ.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 18,
+        "firstNightReminder": "During Minion Info, point to the Magician and the Demon. During Demon Info, point to the Magician and the Minions.",
+        "setup": false,
+        "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
+        "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
+        "jinxes": [
+            {
+                "id": "legion",
+                "reason": "The Magician wakes with Legion and might register as evil. Legion knows if a Magician is in play, but not which player it is."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Magician is alive, the Demon doesn't know which neighbor is the Marionette."
+            },
+            {
+                "id": "spy",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "vizier",
+                "reason": "If the Vizier is in play, the Magician has no ability but is immune to the Vizier's ability."
+            },
+            {
+                "id": "widow",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "wraith",
+                "reason": "After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+            }
+        ]
     },
     {
         "id": "magician_gah_20251103",

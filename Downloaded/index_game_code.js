@@ -2,22 +2,22 @@
     try {
         var e = typeof window < `u` ? window : typeof global < `u` ? global : typeof globalThis < `u` ? globalThis : typeof self < `u` ? self : {};
         e.SENTRY_RELEASE = {
-            id: `botc-app@3.56.1`
+            id: `botc-app@3.57.1`
         };
         var t = new e.Error().stack;
         t && (e._sentryDebugIds = e._sentryDebugIds || {},
-        e._sentryDebugIds[t] = `83bdeaa3-52b5-4e8e-a2b3-a8d354c4b632`,
-        e._sentryDebugIdIdentifier = `sentry-dbid-83bdeaa3-52b5-4e8e-a2b3-a8d354c4b632`)
+        e._sentryDebugIds[t] = `c654a7be-93a7-4284-886f-a46b03c27cbe`,
+        e._sentryDebugIdIdentifier = `sentry-dbid-c654a7be-93a7-4284-886f-a46b03c27cbe`)
     } catch {}
 }
 )();
-import {a as e} from "./rolldown-runtime-8Vp-qF_4.js";
-import {A as t, B as n, C as r, D as i, E as a, F as o, H as s, I as c, L as l, M as u, N as d, O as f, P as p, R as m, S as h, T as g, U as _, V as v, W as y, _ as b, a as x, b as S, c as C, d as w, f as T, g as E, h as D, i as O, j as ee, k, l as A, m as j, n as te, o as M, p as ne, r as re, s as N, t as ie, u as ae, v as P, w as F, x as I, y as L, z as R} from "./vue-core-B2NQbR1G.js";
-import {$ as oe, $t as se, A as ce, At as le, B as ue, Bt as de, C as fe, Ct as pe, D as me, Dt as he, E as ge, Et as _e, F as ve, Ft as ye, G as be, Gt as xe, H as Se, Ht as Ce, I as we, It as Te, J as Ee, Jt as De, K as Oe, Kt as ke, L as Ae, Lt as je, M as Me, Mt as Ne, N as Pe, Nt as Fe, O as Ie, Ot as Le, P as Re, Pt as ze, Q as Be, Qt as Ve, R as He, Rt as Ue, S as We, St as Ge, T as Ke, Tt as qe, U as Je, Ut as Ye, V as Xe, Vt as Ze, W as Qe, Wt as $e, X as et, Xt as tt, Y as nt, Yt as rt, Z as it, Zt as at, _ as ot, _t as st, a as ct, an as lt, at as ut, b as dt, bt as ft, c as pt, cn as mt, ct as ht, d as gt, dt as _t, en as vt, et as yt, f as bt, fn as xt, ft as St, g as Ct, gt as wt, h as Tt, ht as Et, i as Dt, in as Ot, it as kt, j as At, jt, k as Mt, kt as Nt, l as Pt, ln as Ft, lt as It, m as Lt, mt as Rt, n as zt, nn as Bt, nt as Vt, o as Ht, on as Ut, ot as Wt, p as Gt, pt as Kt, q as qt, qt as Jt, r as Yt, rn as Xt, rt as Zt, s as Qt, sn as $t, st as en, t as tn, tn as nn, tt as rn, u as an, ut as on, v as sn, vt as cn, w as ln, wt as un, x as dn, xt as fn, y as pn, yt as mn, z as hn, zt as gn} from "./fortawesome-DPUasP7Y.js";
-import {i as _n, n as vn, r as z, t as yn} from "./sentry-BXa0C3db.js";
-import {a as bn, at as xn, c as Sn, ct as Cn, d as wn, f as Tn, i as En, it as Dn, l as On, n as kn, o as An, ot as jn, p as Mn, r as Nn, rt as Pn, s as Fn, st as In, t as Ln, u as Rn} from "./vendor-CESoJSjv.js";
-import {n as zn, t as Bn} from "./ajv-CVjcCjlo.js";
-import {t as Vn} from "./mediasoup-DrxUINIe.js";
+import {a as e} from "./rolldown-runtime-Btro0alw.js";
+import {A as t, B as n, C as r, D as i, E as a, F as o, H as s, I as c, L as l, M as u, N as d, O as f, P as p, R as m, S as h, T as g, U as _, V as v, W as y, _ as b, a as x, b as S, c as C, d as w, f as T, g as E, h as D, i as O, j as ee, k, l as A, m as j, n as te, o as M, p as ne, r as re, s as N, t as ie, u as ae, v as P, w as F, x as I, y as L, z as R} from "./vue-core-B_kpDvVa.js";
+import {$ as oe, $t as se, A as ce, At as le, B as ue, Bt as de, C as fe, Ct as pe, D as me, Dt as he, E as ge, Et as _e, F as ve, Ft as ye, G as be, Gt as xe, H as Se, Ht as Ce, I as we, It as Te, J as Ee, Jt as De, K as Oe, Kt as ke, L as Ae, Lt as je, M as Me, Mt as Ne, N as Pe, Nt as Fe, O as Ie, Ot as Le, P as Re, Pt as ze, Q as Be, Qt as Ve, R as He, Rt as Ue, S as We, St as Ge, T as Ke, Tt as qe, U as Je, Ut as Ye, V as Xe, Vt as Ze, W as Qe, Wt as $e, X as et, Xt as tt, Y as nt, Yt as rt, Z as it, Zt as at, _ as ot, _t as st, a as ct, an as lt, at as ut, b as dt, bt as ft, c as pt, cn as mt, ct as ht, d as gt, dt as _t, en as vt, et as yt, f as bt, fn as xt, ft as St, g as Ct, gt as wt, h as Tt, ht as Et, i as Dt, in as Ot, it as kt, j as At, jt, k as Mt, kt as Nt, l as Pt, ln as Ft, lt as It, m as Lt, mt as Rt, n as zt, nn as Bt, nt as Vt, o as Ht, on as Ut, ot as Wt, p as Gt, pt as Kt, q as qt, qt as Jt, r as Yt, rn as Xt, rt as Zt, s as Qt, sn as $t, st as en, t as tn, tn as nn, tt as rn, u as an, ut as on, v as sn, vt as cn, w as ln, wt as un, x as dn, xt as fn, y as pn, yt as mn, z as hn, zt as gn} from "./fortawesome-BNnIvBc8.js";
+import {i as _n, n as vn, r as z, t as yn} from "./sentry-C0-6-YNg.js";
+import {a as bn, at as xn, c as Sn, ct as Cn, d as wn, f as Tn, i as En, it as Dn, l as On, n as kn, o as An, ot as jn, p as Mn, r as Nn, rt as Pn, s as Fn, st as In, t as Ln, u as Rn} from "./vendor-DTlKEko6.js";
+import {n as zn, t as Bn} from "./ajv-P-3PCOTT.js";
+import {t as Vn} from "./mediasoup-DRaxaBSA.js";
 (function() {
     let e = document.createElement(`link`).relList;
     if (e && e.supports && e.supports(`modulepreload`))
@@ -317,34 +317,34 @@ var ar = (e, t, n) => t <= 2 ? n(e, t) : e % 10 == 1 && e % 100 != 11 ? 0 : e % 
         else {
             var r, i;
             n = (r = (i = await Xn(Object.assign({
-                "./app/cs.json": () => V( () => import(`./cs-BD99tWP8.js`), []),
-                "./app/da.json": () => V( () => import(`./da-2y5UrUKe.js`), []),
-                "./app/de.json": () => V( () => import(`./de-DZieSjbI.js`), []),
-                "./app/de_CH.json": () => V( () => import(`./de_CH-DppCa5kd.js`), []),
-                "./app/en.json": () => V( () => import(`./en-C2lzs4MM.js`), []),
-                "./app/en_pirate.json": () => V( () => import(`./en_pirate-BHe5hTD6.js`), []),
-                "./app/es.json": () => V( () => import(`./es-CYf7rXG9.js`), []),
-                "./app/es_419.json": () => V( () => import(`./es_419-CR_8Rqnm.js`), []),
-                "./app/es_MX.json": () => V( () => import(`./es_MX-DhOm1JFe.js`), []),
-                "./app/fi.json": () => V( () => import(`./fi-0q5w2xku.js`), []),
-                "./app/fr.json": () => V( () => import(`./fr-BYtfEoaA.js`), []),
-                "./app/gl.json": () => V( () => import(`./gl-DbX3jhCv.js`), []),
-                "./app/it.json": () => V( () => import(`./it-tQ_223Jj.js`), []),
-                "./app/ja.json": () => V( () => import(`./ja--ijDey1B.js`), []),
-                "./app/ko.json": () => V( () => import(`./ko-BYj1G2Nu.js`), []),
-                "./app/nb_NO.json": () => V( () => import(`./nb_NO-BjojA3Rv.js`), []),
-                "./app/nl.json": () => V( () => import(`./nl-CsfOouvx.js`), []),
-                "./app/pl.json": () => V( () => import(`./pl-EMIy7DJH.js`), []),
-                "./app/pt_BR.json": () => V( () => import(`./pt_BR-J98oJZhn.js`), []),
-                "./app/pt_PT.json": () => V( () => import(`./pt_PT-DfRXsF7d.js`), []),
-                "./app/ru.json": () => V( () => import(`./ru-Bs4eCgTy.js`), []),
-                "./app/sk.json": () => V( () => import(`./sk-BWkrrZ3Y.js`), []),
-                "./app/sl.json": () => V( () => import(`./sl-Dh-LwS5a.js`), []),
-                "./app/sv.json": () => V( () => import(`./sv-BKCJlDNc.js`), []),
-                "./app/th.json": () => V( () => import(`./th-DlNtOpQK.js`), []),
-                "./app/uk.json": () => V( () => import(`./uk-BcS9oxGB.js`), []),
-                "./app/vi.json": () => V( () => import(`./vi-rnjL0lGU.js`), []),
-                "./app/zh_Hans.json": () => V( () => import(`./zh_Hans-CiAXSvNA.js`), [])
+                "./app/cs.json": () => V( () => import(`./cs-aO7djNvF.js`), []),
+                "./app/da.json": () => V( () => import(`./da-DuSik50W.js`), []),
+                "./app/de.json": () => V( () => import(`./de-DL6EK3g0.js`), []),
+                "./app/de_CH.json": () => V( () => import(`./de_CH-B-jrSEiY.js`), []),
+                "./app/en.json": () => V( () => import(`./en-Bj3i-twp.js`), []),
+                "./app/en_pirate.json": () => V( () => import(`./en_pirate-C50b6R2Z.js`), []),
+                "./app/es.json": () => V( () => import(`./es-B0sLQMl1.js`), []),
+                "./app/es_419.json": () => V( () => import(`./es_419-CaKp2ngX.js`), []),
+                "./app/es_MX.json": () => V( () => import(`./es_MX-3JE2ARHA.js`), []),
+                "./app/fi.json": () => V( () => import(`./fi-CXUyzsji.js`), []),
+                "./app/fr.json": () => V( () => import(`./fr-Ck4HCnH5.js`), []),
+                "./app/gl.json": () => V( () => import(`./gl-CFQfhsMv.js`), []),
+                "./app/it.json": () => V( () => import(`./it-DFnSoVOu.js`), []),
+                "./app/ja.json": () => V( () => import(`./ja-DvA7DxNu.js`), []),
+                "./app/ko.json": () => V( () => import(`./ko-DNHoc4df.js`), []),
+                "./app/nb_NO.json": () => V( () => import(`./nb_NO-DQoKgaAT.js`), []),
+                "./app/nl.json": () => V( () => import(`./nl-Z5CLibIi.js`), []),
+                "./app/pl.json": () => V( () => import(`./pl-C6AdGHWO.js`), []),
+                "./app/pt_BR.json": () => V( () => import(`./pt_BR-CI_NQ7Lt.js`), []),
+                "./app/pt_PT.json": () => V( () => import(`./pt_PT-DFrDrh48.js`), []),
+                "./app/ru.json": () => V( () => import(`./ru-B22FXOJV.js`), []),
+                "./app/sk.json": () => V( () => import(`./sk-DB_TtDuH.js`), []),
+                "./app/sl.json": () => V( () => import(`./sl-oArDtu9w.js`), []),
+                "./app/sv.json": () => V( () => import(`./sv-DFDEsttt.js`), []),
+                "./app/th.json": () => V( () => import(`./th-BQWcIw-Q.js`), []),
+                "./app/uk.json": () => V( () => import(`./uk-Dr3RXifu.js`), []),
+                "./app/vi.json": () => V( () => import(`./vi-BcsI8XVu.js`), []),
+                "./app/zh_Hans.json": () => V( () => import(`./zh_Hans-BQIGn5XL.js`), [])
             }), `./app/${e.replace(/[-@]/g, `_`)}.json`, 3)) == null ? void 0 : i.default) == null ? n : r
         }
     } catch {}
@@ -356,20 +356,20 @@ var ar = (e, t, n) => t <= 2 ? n(e, t) : e % 10 == 1 && e % 100 != 11 ? 0 : e % 
             else {
                 var o, s;
                 a = (o = (s = await Xn(Object.assign({
-                    "./game/de.json": () => V( () => import(`./de-CKPMc4IY2.js`), []),
-                    "./game/en.json": () => V( () => import(`./en-DA82EzMk.js`), []),
-                    "./game/en_pirate.json": () => V( () => import(`./en_pirate-DOUYbe2T.js`), []),
-                    "./game/es.json": () => V( () => import(`./es-CEujhtOf.js`), []),
-                    "./game/es_419.json": () => V( () => import(`./es_419-BXcL4-4j.js`), []),
-                    "./game/fi.json": () => V( () => import(`./fi-Cb3Cl16S.js`), []),
-                    "./game/fr.json": () => V( () => import(`./fr-BY4jYRyj.js`), []),
-                    "./game/hu.json": () => V( () => import(`./hu-FVosNqIK.js`), []),
-                    "./game/ja.json": () => V( () => import(`./ja-fzY9rCDa.js`), []),
-                    "./game/ko.json": () => V( () => import(`./ko-DbH_ikR9.js`), []),
-                    "./game/ru.json": () => V( () => import(`./ru-DfbCjpDD.js`), []),
-                    "./game/sv.json": () => V( () => import(`./sv-DKa7xwvJ.js`), []),
-                    "./game/th.json": () => V( () => import(`./th-Ctd3c5WT.js`), []),
-                    "./game/zh_Hans.json": () => V( () => import(`./zh_Hans-Bg_fpX28.js`), [])
+                    "./game/de.json": () => V( () => import(`./de-sMIGExyW2.js`), []),
+                    "./game/en.json": () => V( () => import(`./en-C7EMsAC-.js`), []),
+                    "./game/en_pirate.json": () => V( () => import(`./en_pirate-CKKt4hfd.js`), []),
+                    "./game/es.json": () => V( () => import(`./es-DeruoOIZ.js`), []),
+                    "./game/es_419.json": () => V( () => import(`./es_419-DetDGWor.js`), []),
+                    "./game/fi.json": () => V( () => import(`./fi-CC4bu1M7.js`), []),
+                    "./game/fr.json": () => V( () => import(`./fr-Avar9MmT.js`), []),
+                    "./game/hu.json": () => V( () => import(`./hu-87TtKew5.js`), []),
+                    "./game/ja.json": () => V( () => import(`./ja-zSaq9uOB.js`), []),
+                    "./game/ko.json": () => V( () => import(`./ko-ByOtAdjt.js`), []),
+                    "./game/ru.json": () => V( () => import(`./ru-DHCw32n5.js`), []),
+                    "./game/sv.json": () => V( () => import(`./sv-BbEVlTCU.js`), []),
+                    "./game/th.json": () => V( () => import(`./th-CZ0GGqVW.js`), []),
+                    "./game/zh_Hans.json": () => V( () => import(`./zh_Hans-CXj8PvJP.js`), [])
                 }), `./game/${e.replace(/[-@]/g, `_`)}.json`, 3)) == null ? void 0 : s.default) == null ? a : o
             }
         } catch {}
@@ -1376,7 +1376,7 @@ function ui(e, t, n, r, i, a) {
 var di = B(si, [[`render`, ui]])
   , H = {
     name: `botc-app`,
-    version: `3.56.1`,
+    version: `3.57.1`,
     description: `Blood on the Clocktower Online`,
     homepage: `https://botc.app`,
     private: !0,
@@ -1616,10 +1616,11 @@ var yi = B(pi, [[`render`, vi], [`__scopeId`, `data-v-9278b499`]])
         }
     },
     data() {
+        var e, t;
         return {
             isVersionOpen: !1,
             version: H.version,
-            locale: this.$i18n.locale,
+            locale: (e = (t = this.$i18n) == null ? void 0 : t.locale) == null ? `en` : e,
             locales: rr,
             browser: Mn(),
             nodeEnv: `production`,
@@ -1631,13 +1632,6 @@ var yi = B(pi, [[`render`, vi], [`__scopeId`, `data-v-9278b499`]])
     },
     methods: {
         ...C([`toggleModal`]),
-        announcement() {
-            this.user.level === `special-tpi` ? this.toggleModal({
-                name: `announcement`
-            }) : this.toggleModal({
-                name: `update`
-            })
-        },
         async updateLocale() {
             await lr(this.locale),
             localStorage.setItem(`locale`, this.locale),
@@ -1837,7 +1831,9 @@ function Pi(e, t, n, a, o, s) {
         return !e.status.includes(`dead`) && ((t = e.role) == null ? void 0 : t.team) === `traveller`
     }
     ).length, e.travellers])), 1)], 64)) : r(``, !0)], 8, Ai)], 64)) : r(``, !0), I(`div`, ji, [I(`span`, {
-        onClick: t[6] || (t[6] = (...e) => s.announcement && s.announcement(...e)),
+        onClick: t[6] || (t[6] = t => e.toggleModal({
+            name: `update`
+        })),
         class: `changelog`
     }, y(e.$t(`common.botc_online`)) + ` ` + y(o.nodeEnv === `production` ? `v${o.version}` : o.nodeEnv) + y(s.isApp ? `-app` : ``), 1), o.locale === o.defaultLocale ? r(``, !0) : (d(),
     h(g, {
@@ -1860,8 +1856,25 @@ function Pi(e, t, n, a, o, s) {
         type: `language`
     }).of(e) || o.locales[e].name) + ` (` + y(e.toUpperCase()) + `) `, 9, Ni))), 128))], 544), [[b, o.locale]]), i(` ` + y(s.languageName), 1)])])], 2)
 }
-var Fi = B(bi, [[`render`, Pi], [`__scopeId`, `data-v-0cdacc88`]])
-  , Ii = `Version 3.56.1 - Fixing some bugs
+var Fi = B(bi, [[`render`, Pi], [`__scopeId`, `data-v-f07c2b34`]])
+  , Ii = `Version 3.57.1 - Patreon bugfix
+
+- 🌟 the app will now prevent your device from turning off the screen if you are (spectating) in a session
+- 🐛 fixed logging in with Patreon not updating your subscription level properly (thanks nysondorf)
+
+### Version 3.57.0 - Jinxes, social logins and increased lobby sizes
+
+- 🚀 updated the Jinxes for Magician/Legion, Mathematician/Drunk, Mathematician/Lunatic and Mathematician/Marionette
+- 🚀 added 1-click login for Patreon and linking existing accounts to Patreon accounts (all paid subscriptions will automatically be linked to your Patreon account)
+- 🚀 added 1-click login for Discord and linking existing accounts to Discord accounts
+- 🚀 paying subscribers no longer count against the lobby size limit of 25 users
+- 🌟 automatically show bluffs tab if you're the Summoner
+- 🐛 fixed a small bug with the docked text tab placement (thanks evelyn)
+- 🐛 fixed race conditions with private chat requests between players when night falls (thanks rush)
+- 🐛 fixed custom scripts not opening a proper browser tab when downloaded in the standalone app (thanks @dichter)
+- 🐛 fixed whisper requests staying open when the recipient leaves the group chat (thanks @Andre2220)
+
+### Version 3.56.1 - Fixing some bugs
 
 - 🌟 added sound volume slider for leaving a private chat
 - 🌟 added a "reload app" button to the main menu that can also be bound to a shortcut
@@ -1877,7 +1890,7 @@ var Fi = B(bi, [[`render`, Pi], [`__scopeId`, `data-v-0cdacc88`]])
 - 🌟 improved reminder token placement in local play mode
 - 🌟 leaving a private chat will now play a sound effect, to help with getting disconnected (and returned to town square) in the middle of the chat
 - 🌟 replaced all language icons with localized language names to reduce ambiguity
-- 🌟 added global voice chat volume setting (can be found in Settings -> Chat)
+- 🌟 added global voice chat volume setting (can be found in Settings → Chat)
 - 🐛 fixed being unable to report a user from the lobby screen
 - 🐛 fixed character type icons becoming too big on bag building pop-up at high resolutions (thanks Mathis)
 - 🐛 fixed select characters for the bag being reset when reconnecting to a session (thanks Melodic🎵)
@@ -1922,40 +1935,7 @@ var Fi = B(bi, [[`render`, Pi], [`__scopeId`, `data-v-0cdacc88`]])
 ### Version 3.54.1 - Hotfix No. 1
 
 - 🐛 fixed the bluffs tab which accidentally broke with the last update (thanks Sevvi)
-- 🐛 added Spanish game translations, but this time for real
-
-### Version 3.54.0 - Social logins phase 1
-
-- 🚀 added 1-click login for Google and linking existing accounts to Google accounts, for easier and safer authentication
-- 🌟 added / updated official German, Russian, Spanish and Hungarian game translations
-- 🌟 added Thai and Finnish game and app translations
-- 🌟 Grimoire reveal can now be used in local play mode again
-- 🌟 brought the old bug reporter emote back to the app, for people that have reported many, many bugs (5 or more)
-- 🌟 added Homebrew support for "evil-duplicate" (type: "selection"), which allows a character, when selected, to duplicate any evil character in the bag selection
-- 🌟 added minimum drag distance of 30px (horizontally) before a side panel will be detached, to prevent accidental UI changes
-- 🌟 rewrote rules pop-up to be more app specific and translatable
-- 🐛 sound effects no longer continue to play when leaving a session (thanks @Rhimens)
-- 🐛 fixed colorblind mode not being applied to text chat names (thanks Possum)
-- 🐛 fixed night signal character selection getting cut off on smaller screens (thanks theworlds1stbaby)
-- 🐛 fixed empty pronouns showing up with placeholder text on other users' profiles (thanks _sivv)
-- 🐛 grimoire access request notifications can now be responded to individually (thanks eliderad)
-- 🐛 fixed scrolling out of bounds for good (thanks goodpart)
-- 🐛 fixed character and night sheets scaling infinitely with screen width (thanks @GeBuch)
-- 🐛 custom CSS no longer applies outside of game, even when enabled there (thanks sebaty5)
-- 🐛 creating a new session will now close any currently open pop-ups (thanks @BadRatBiscuit)
-- 🐛 vacating your seat will now automatically hide the prompt icons on the Storyteller (thanks jaque_thay)
-- 🐛 spectators with Grimoire access will no longer see a "change character" menu option when clicking on a traveller (thanks huffpuffduck)
-- 🐛 fixed audio chat becoming muted when stepping up from player to storyteller (thanks spod)
-
-### Version 3.53.3 - Translation update and further improvements
-
-- 🌟 added official Korean game translation
-- 🌟 moved computer clock check to a notification so you can at least still try and play when your clock is off 
-- 🐛 fixed character tab scrolling the Grimoire off-screen when a jinx was double-clicked (thanks buster1803)
-- 🐛 fixed homebrew characters with "empty" IDs breaking the app (thanks @septIO)
-- 🐛 fixed inconsistencies with Bootlegger and Gardener game data (thanks tomozbot)
-- 🐛 fixed following a disconnected Storyteller into an empty private chat (thanks etreides)
-- 🐛 fixed vote highscore showing up as NaN in some cases (thanks @SzyxON32)`
+- 🐛 added Spanish game translations, but this time for real`
   , Li = {
     props: {
         name: {
@@ -2026,9 +2006,8 @@ function Ui(e, t, n, i, a, s) {
     F(`div`, {
         class: `modal-backdrop`,
         onClick: t[2] || (t[2] = (...e) => s.close && s.close(...e))
-    }, [I(`div`, {
+    }, [I(`dialog`, {
         class: `modal`,
-        role: `dialog`,
         "aria-labelledby": `modal-title`,
         "aria-describedby": `modal-description`,
         onMousedown: t[0] || (t[0] = e => a.isInsideClick = !0),
@@ -2049,25 +2028,25 @@ function Ui(e, t, n, i, a, s) {
     }, y(e), 11, Hi))), 128))])], 64)) : (d(),
     F(`div`, zi, [o(e.$slots, `default`)]))], 32)])
 }
-for (var U = B(Li, [[`render`, Ui]]), Wi = [], Gi = ``, Ki = Ii.replace(/\r\n/gi, `
+for (var U = B(Li, [[`render`, Ui]]), Wi = `/assets/gossip-DY4wKAxk.webp`, Gi = [], Ki = ``, qi = Ii.replace(/\r\n/gi, `
 `).split(`
 
-### `); Ki.length > 0 && Ki[0].match(RegExp(`^Version ${H.version.split(`.`).slice(0, 2).join(`\\.`)}`)); ) {
-    let[e,t] = Ki.shift().split(`
+### `); qi.length > 0 && qi[0].match(RegExp(`^Version ${H.version.split(`.`).slice(0, 2).join(`\\.`)}`)); ) {
+    let[e,t] = qi.shift().split(`
 
 `);
-    Wi.unshift(e.replace(/^Version /i, ``)),
-    Gi = (Gi ? `` : `new
-`) + t + (Gi.length ? `
-` : ``) + Gi
+    Gi.unshift(e.replace(/^Version /i, ``)),
+    Ki = (Ki ? `` : `new
+`) + t + (Ki.length ? `
+` : ``) + Ki
 }
 var W = {}
-  , qi = !1;
-Gi && Gi.split(`
+  , Ji = !1;
+Ki && Ki.split(`
 `).forEach(e => {
     var t;
     if (e === `new`) {
-        qi = !0;
+        Ji = !0;
         return
     }
     switch ((t = e.match(/^- (.) /u)) == null ? void 0 : t[1]) {
@@ -2075,43 +2054,51 @@ Gi && Gi.split(`
         W.features || (W.features = []),
         W.features.push({
             line: e.substring(4),
-            bold: qi
+            bold: Ji
         });
         break;
     case `🌟`:
         W.changes || (W.changes = []),
         W.changes.push({
             line: e.substring(4),
-            bold: qi
+            bold: Ji
         });
         break;
     case `🐛`:
         W.bugs || (W.bugs = []),
         W.bugs.push({
             line: e.substring(4),
-            bold: qi
+            bold: Ji
         });
         break;
     default:
         W.other || (W.other = []),
         W.other.push({
             line: e.substring(4),
-            bold: qi
+            bold: Ji
         });
         break
     }
 }
 );
-var Ji = {
+var Yi = {
     components: {
         Modal: U
     },
-    computed: A([`modal`, `errors`, `session`, `chat`]),
+    computed: {
+        ...A([`modal`, `session`, `chat`]),
+        ...A(`user`, [`user`])
+    },
     methods: {
         ...C([`toggleModal`]),
         closeModal() {
             this.chat.isNotAllowed && this.$store.commit(`chat/toggleNotAllowed`, !1),
             this.toggleModal(this.modal)
+        },
+        announcement() {
+            this.user.level === `special-tpi` && this.toggleModal({
+                name: `announcement`
+            })
         }
     },
     data() {
@@ -2124,40 +2111,40 @@ var Ji = {
                 other: this.$t(`modals.update.other`)
             },
             updated: W,
-            titles: Wi
+            titles: Gi
         }
     }
 }
-  , Yi = {
+  , Xi = {
     class: `content`
 }
-  , Xi = {
+  , Zi = {
     class: `updates`
 }
-  , Zi = [`href`]
-  , Qi = {
+  , Qi = [`href`]
+  , $i = {
     class: `category`
 }
-  , $i = {
+  , ea = {
     class: `policies`
 }
-  , ea = {
+  , ta = {
     href: `https://bloodontheclocktower.com/terms-of-use`,
     target: `_blank`
 }
-  , ta = {
+  , na = {
     href: `https://bloodontheclocktower.com/pages/digital-moderation-policy`,
     target: `_blank`
 }
-  , na = {
+  , ra = {
     href: `https://bloodontheclocktower.com/privacy-policy`,
     target: `_blank`
 }
-  , ra = {
+  , ia = {
     href: `https://bloodontheclocktower.com/cookie-policy`,
     target: `_blank`
 };
-function ia(e, t, n, i, a, o) {
+function aa(e, t, n, i, a, o) {
     let s = c(`Modal`);
     return d(),
     h(w, {
@@ -2169,39 +2156,40 @@ function ia(e, t, n, i, a, o) {
             class: `update`,
             onClose: o.closeModal
         }, {
-            default: m( () => [I(`div`, Yi, [I(`aside`, null, [I(`div`, Xi, [I(`h3`, null, y(e.$t(`modals.update.title`)), 1), (d(!0),
+            default: m( () => [I(`div`, Xi, [I(`aside`, null, [I(`div`, Zi, [I(`h3`, null, y(e.$t(`modals.update.title`)), 1), (d(!0),
             F(S, null, p(a.titles, (e, t) => (d(),
             F(`a`, {
                 key: t,
                 tabindex: `-1`,
                 href: `https://github.com/ThePandemoniumInstitute/botc-release/releases/tag/v${e.match(/^(\d+\.\d+\.\d+)/)[1]}`,
                 target: `_blank`
-            }, y(e), 9, Zi))), 128))]), t[1] || (t[1] = I(`img`, {
-                src: `/assets/gossip-DY4wKAxk.webp`,
-                alt: `Announcement`
-            }, null, -1)), I(`div`, {
+            }, y(e), 9, Qi))), 128))]), I(`img`, {
+                src: Wi,
+                alt: `Announcement`,
+                onClick: t[0] || (t[0] = (...e) => o.announcement && o.announcement(...e))
+            }), I(`div`, {
                 class: `button`,
                 role: `button`,
-                onClick: t[0] || (t[0] = (...e) => o.closeModal && o.closeModal(...e))
+                onClick: t[1] || (t[1] = (...e) => o.closeModal && o.closeModal(...e))
             }, y(e.$t(`common.button_close`)), 1)]), I(`section`, null, [(d(!0),
             F(S, null, p(a.updated, (e, t) => (d(),
             F(`ul`, {
                 key: t
-            }, [I(`li`, Qi, y(a.categories[t]), 1), (d(!0),
+            }, [I(`li`, $i, y(a.categories[t]), 1), (d(!0),
             F(S, null, p(e, ({line: e, bold: t}, n) => (d(),
             F(`li`, {
                 key: n,
                 class: v({
                     bold: t
                 })
-            }, y(e), 3))), 128))]))), 128))]), I(`footer`, $i, [I(`a`, ea, y(e.$t(`common.terms_of_use`)), 1), I(`a`, ta, y(e.$t(`common.moderation_policy`)), 1), I(`a`, na, y(e.$t(`common.privacy_policy`)), 1), I(`a`, ra, y(e.$t(`common.cookie_policy`)), 1)])])]),
+            }, y(e), 3))), 128))]))), 128))]), I(`footer`, ea, [I(`a`, ta, y(e.$t(`common.terms_of_use`)), 1), I(`a`, na, y(e.$t(`common.moderation_policy`)), 1), I(`a`, ra, y(e.$t(`common.privacy_policy`)), 1), I(`a`, ia, y(e.$t(`common.cookie_policy`)), 1)])])]),
             _: 1
         }, 8, [`onClose`])) : r(``, !0)]),
         _: 1
     })
 }
-var aa = B(Ji, [[`render`, ia], [`__scopeId`, `data-v-50b555b3`]])
-  , oa = async () => {
+var oa = B(Yi, [[`render`, aa], [`__scopeId`, `data-v-d07513ca`]])
+  , sa = async () => {
     if (window.__TAURI__) {
         let e = await xn()
           , t = await e.isFullscreen();
@@ -2216,20 +2204,20 @@ var aa = B(Ji, [[`render`, ia], [`__scopeId`, `data-v-50b555b3`]])
             }
         } catch {}
 }
-  , sa = document.createElement(`textarea`)
-  , ca = e => (sa.textContent = e,
-sa.innerHTML)
-  , la = async e => {
+  , ca = document.createElement(`textarea`)
+  , la = e => (ca.textContent = e,
+ca.innerHTML)
+  , ua = async e => {
     var t;
     if (!(!((t = window.crypto) == null || (t = t.subtle) == null) && t.digest))
         return ``;
     let n = await window.crypto.subtle.digest(`SHA-256`, new TextEncoder().encode(e));
     return Array.from(new Uint8Array(n)).map(e => e.toString(16).padStart(2, `0`)).join(``)
 }
-  , ua = {
+  , da = {
     components: {
         Notifications: Cr,
-        UpdateModal: aa,
+        UpdateModal: oa,
         Version: Fi,
         Sounds: di,
         MainMenu: Wr,
@@ -2271,9 +2259,9 @@ sa.innerHTML)
                 delete this.shortcuts[t][e]
             }
             ,
-            renderReminderHTML: e => ca(String(e)).replace(/\*(.*?)\*/gi, `<b>$1</b>`).replace(/:reminder:/gi, `<i class="reminder-token"></i>`),
-            getSHA256Hash: la,
-            toggleFullscreen: oa
+            renderReminderHTML: e => la(String(e)).replace(/\*(.*?)\*/gi, `<b>$1</b>`).replace(/:reminder:/gi, `<i class="reminder-token"></i>`),
+            getSHA256Hash: ua,
+            toggleFullscreen: sa
         }
     },
     methods: {
@@ -2326,7 +2314,7 @@ sa.innerHTML)
                 }
                 if (s.toggleFullscreen.includes(c))
                     try {
-                        await oa()
+                        await sa()
                     } catch {}
                 if (this.$route.name === `Grimoire`) {
                     var u;
@@ -2357,7 +2345,7 @@ sa.innerHTML)
                     }
                     this.session.sessionId && (this.history.unshift(c),
                     this.history.splice(6),
-                    await la(this.history.join(`;`)) === this.$store.state.session.code && this.$store.dispatch(`openDialogue`, {
+                    await ua(this.history.join(`;`)) === this.$store.state.session.code && this.$store.dispatch(`openDialogue`, {
                         type: `prompt`,
                         title: `Welcome to the Royal Court`,
                         placeholder: `Answer`,
@@ -2417,23 +2405,23 @@ sa.innerHTML)
         }
     }
 }
-  , da = () => {
+  , fa = () => {
     j(e => ({
         v9a3b26ae: e.settings.general.colorblind
     }))
 }
-  , fa = ua.setup;
-ua.setup = fa ? (e, t) => (da(),
-fa(e, t)) : da;
-var pa = {
+  , pa = da.setup;
+da.setup = pa ? (e, t) => (fa(),
+pa(e, t)) : fa;
+var ma = {
     key: 1,
     class: `icons`
 }
-  , ma = {
+  , ha = {
     key: 0,
     id: `loading`
 };
-function ha(e, t, n, a, o, s) {
+function ga(e, t, n, a, o, s) {
     let l = c(`router-view`)
       , u = c(`MainMenu`)
       , p = c(`Notifications`)
@@ -2466,395 +2454,395 @@ function ha(e, t, n, a, o, s) {
     h(u, {
         key: 0
     })) : e.$route.meta.isPublic ? r(``, !0) : (d(),
-    F(`div`, pa, [f(p)])), f(w, {
+    F(`div`, ma, [f(p)])), f(w, {
         name: `fade`
     }, {
         default: m( () => [e.grimoire.loadingState && [`Grimoire`, `Lobby`].includes(e.$route.name) ? (d(),
-        F(`div`, ma, [t[8] || (t[8] = I(`div`, {
+        F(`div`, ha, [t[8] || (t[8] = I(`div`, {
             class: `loader`
         }, null, -1)), i(` Loading ` + y(e.grimoire.loadingState) + `... `, 1)])) : r(``, !0)]),
         _: 1
     }), f(g), f(_), f(b), f(x)], 34)
 }
-var ga = B(ua, [[`render`, ha]])
-  , _a = `/assets/custom-CLofFTEi.webp`
+var _a = B(da, [[`render`, ga]])
   , va = `/assets/custom-CLofFTEi.webp`
   , ya = `/assets/custom-CLofFTEi.webp`
-  , ba = `/assets/demon_e-BE73nmRM.webp`
+  , ba = `/assets/custom-CLofFTEi.webp`
   , xa = `/assets/demon_e-BE73nmRM.webp`
-  , Sa = `/assets/demon_g-CSs6ZD66.webp`
-  , Ca = `/assets/evil-CDY3e2Qm.webp`
-  , wa = `/assets/fabled-WyWuPk8w.webp`
-  , Ta = `/assets/good-D9wGdnv9.webp`
-  , Ea = `/assets/loric-DAp9AMZR.webp`
-  , Da = `/assets/minion-lDFo-tEX.webp`
+  , Sa = `/assets/demon_e-BE73nmRM.webp`
+  , Ca = `/assets/demon_g-CSs6ZD66.webp`
+  , wa = `/assets/evil-CDY3e2Qm.webp`
+  , Ta = `/assets/fabled-WyWuPk8w.webp`
+  , Ea = `/assets/good-D9wGdnv9.webp`
+  , Da = `/assets/loric-DAp9AMZR.webp`
   , Oa = `/assets/minion-lDFo-tEX.webp`
-  , ka = `/assets/minion_g-Cgm5WnSR.webp`
-  , Aa = `/assets/outsider-BzhBt4on.webp`
-  , ja = `/assets/outsider_e-CgWWsKPC.webp`
-  , Ma = `/assets/outsider-BzhBt4on.webp`
-  , Na = `/assets/townsfolk-CKaS3yKc.webp`
-  , Pa = `/assets/townsfolk_e-CHxn-dgu.webp`
-  , Fa = `/assets/townsfolk-CKaS3yKc.webp`
-  , Ia = `/assets/traveller-CmR1gFU-.webp`
-  , La = `/assets/traveller_e-ezMTv16C.webp`
-  , Ra = `/assets/traveller_g-BNxDoGo0.webp`
-  , za = `/assets/apprentice-Dq5aGiYi.webp`
-  , Ba = `/assets/apprentice_e-BEpvFWvS.webp`
-  , Va = `/assets/apprentice_g-qVS2q4bN.webp`
-  , Ha = `/assets/assassin_e-BDitHnVO.webp`
-  , Ua = `/assets/assassin_g-D_zJwNaF.webp`
-  , Wa = `/assets/bishop-LYgE69Ju.webp`
-  , Ga = `/assets/bishop_e-CvwvjoUI.webp`
-  , Ka = `/assets/bishop_g-DdZW0SpA.webp`
-  , qa = `/assets/chambermaid_e-CdqkTS11.webp`
-  , Ja = `/assets/chambermaid_g-DAtPnmSz.webp`
-  , Ya = `/assets/courtier_e-DxjU0rGy.webp`
-  , Xa = `/assets/courtier_g-8Fhu5KML.webp`
-  , Za = `/assets/devilsadvocate_e-6olcm7Cx.webp`
-  , Qa = `/assets/devilsadvocate_g-DeyJHzxG.webp`
-  , $a = `/assets/exorcist_e-DoXc6R_z.webp`
-  , eo = `/assets/exorcist_g-CiIkE1hM.webp`
-  , to = `/assets/fool_e-CdlNFIsk.webp`
-  , no = `/assets/fool_g-C-vzA630.webp`
-  , ro = `/assets/gambler_e-Co0D5NyD.webp`
-  , io = `/assets/gambler_g-BJg931OP.webp`
-  , ao = `/assets/godfather_e-CszxqtFl.webp`
-  , oo = `/assets/godfather_g-BHOpUHNN.webp`
-  , so = `/assets/goon_e-DmCcVOv-.webp`
-  , co = `/assets/goon_g-qCN1CxKh.webp`
-  , lo = `/assets/gossip_e-DKOgldGS.webp`
-  , uo = `/assets/gossip_g-0mo_0qnq.webp`
-  , fo = `/assets/grandmother_e-BLCIA5TL.webp`
-  , po = `/assets/grandmother_g-CjEyeFLi.webp`
-  , mo = `/assets/innkeeper_e-dzanyuqI.webp`
-  , ho = `/assets/innkeeper_g-B_YjhWTM.webp`
-  , go = `/assets/judge-Df7wYZLu.webp`
-  , _o = `/assets/judge_e-jGAdrE7z.webp`
-  , vo = `/assets/judge_g-CJbFZ44x.webp`
-  , yo = `/assets/lunatic_e-D53Boxpa.webp`
-  , bo = `/assets/lunatic_g-Bz2ai2Da.webp`
-  , xo = `/assets/mastermind_e-lwTDvV6G.webp`
-  , So = `/assets/mastermind_g-BzBbXNuB.webp`
-  , Co = `/assets/matron-D4Vegu5w.webp`
-  , wo = `/assets/matron_e-i60IfjWL.webp`
-  , To = `/assets/matron_g-faTHHRCk.webp`
-  , Eo = `/assets/minstrel_e-Cv94nSeJ.webp`
-  , Do = `/assets/minstrel_g-M5EHa7zy.webp`
-  , Oo = `/assets/moonchild_e-D-P3dKVK.webp`
-  , ko = `/assets/moonchild_g-DKURQEzF.webp`
-  , Ao = `/assets/pacifist_e-BDyZFmeQ.webp`
-  , jo = `/assets/pacifist_g-DAkM1DME.webp`
-  , Mo = `/assets/po_e-BkxsM_xT.webp`
-  , No = `/assets/po_g-blqsHHpB.webp`
-  , Po = `/assets/professor_e-BpuIeGol.webp`
-  , Fo = `/assets/professor_g-h2X7rvhv.webp`
-  , Io = `/assets/pukka_e-CmZzVHPM.webp`
-  , Lo = `/assets/pukka_g-D7il5SFF.webp`
-  , Ro = `/assets/sailor_e-DfZBdaxk.webp`
-  , zo = `/assets/sailor_g-MdYxQ8zf.webp`
-  , Bo = `/assets/shabaloth_e-DsCO_Txn.webp`
-  , Vo = `/assets/shabaloth_g-BUwNFN-9.webp`
-  , Ho = `/assets/tealady_e-CZT3s07k.webp`
-  , Uo = `/assets/tealady_g-C6X-kuq2.webp`
-  , Wo = `/assets/tinker_e-dpPUDqmq.webp`
-  , Go = `/assets/tinker_g-CS4VFqeN.webp`
-  , Ko = `/assets/voudon-CNiyV0sS.webp`
-  , qo = `/assets/voudon_e-D9qWXIyp.webp`
-  , Jo = `/assets/voudon_g-D-tbnf_D.webp`
-  , Yo = `/assets/zombuul_e-DzySLzke.webp`
-  , Xo = `/assets/zombuul_g-B4MTwk5-.webp`
-  , Zo = `/assets/acrobat_e-BtZarrxs.webp`
-  , Qo = `/assets/acrobat_g-ClaB0uN4.webp`
-  , $o = `/assets/alchemist_e-DjjClIsL.webp`
-  , es = `/assets/alchemist_g-DtcrLn7_.webp`
-  , ts = `/assets/alhadikhia_e-D6XyyVmp.webp`
-  , ns = `/assets/alhadikhia_g-BggSDiOq.webp`
-  , rs = `/assets/alsaahir_e-DiydqcyG.webp`
-  , is = `/assets/alsaahir_g-CpjMnnMq.webp`
-  , as = `/assets/amnesiac_e-CEaf8TX1.webp`
-  , os = `/assets/amnesiac_g-1rV8CyUl.webp`
-  , ss = `/assets/atheist_e-CHiIPNXQ.webp`
-  , cs = `/assets/atheist_g-CQOMSxIU.webp`
-  , ls = `/assets/balloonist_e-D2ByQ9TA.webp`
-  , us = `/assets/balloonist_g-Dlfqy_E5.webp`
-  , ds = `/assets/banshee_e-8hOn5kSm.webp`
-  , fs = `/assets/banshee_g-DJc6lJye.webp`
-  , ps = `/assets/boffin_e-Bks9yuea.webp`
-  , ms = `/assets/boffin_g-lws0h7cM.webp`
-  , hs = `/assets/boomdandy_e-S13eahkU.webp`
-  , gs = `/assets/boomdandy_g-DOTwgB8d.webp`
-  , _s = `/assets/bountyhunter_e-BhBaVK4W.webp`
-  , vs = `/assets/bountyhunter_g-BCEfwrWL.webp`
-  , ys = `/assets/cacklejack-DLjP2vpy.webp`
-  , bs = `/assets/cacklejack_e-DIhvXgOD.webp`
-  , xs = `/assets/cacklejack_g-D7trNfLk.webp`
-  , Ss = `/assets/cannibal_e-PuVaqnSr.webp`
-  , Cs = `/assets/cannibal_g-eP3mwaD2.webp`
-  , ws = `/assets/choirboy_e-CpElv2uq.webp`
-  , Ts = `/assets/choirboy_g-Dk5L9Lx_.webp`
-  , Es = `/assets/cultleader_e-CXgWMt1A.webp`
-  , Ds = `/assets/cultleader_g-BYq1_U3R.webp`
-  , Os = `/assets/damsel_e-fpsIFV1Z.webp`
-  , ks = `/assets/damsel_g-NwMWC09c.webp`
-  , As = `/assets/deusexfiasco-C-oc4vaU.webp`
-  , js = `/assets/engineer_e-LUiXESUv.webp`
-  , Ms = `/assets/engineer_g-N-nhrQAt.webp`
-  , Ns = `/assets/farmer_e-BKzmeJOt.webp`
-  , Ps = `/assets/farmer_g-aC9H7ek9.webp`
-  , Fs = `/assets/fearmonger_e-RqyAUnj6.webp`
-  , Is = `/assets/fearmonger_g-WdnstOgT.webp`
-  , Ls = `/assets/ferryman-B8DIdDH1.webp`
-  , Rs = `/assets/fisherman_e-Da2Y5IG7.webp`
-  , zs = `/assets/fisherman_g-D4SVpSql.webp`
-  , Bs = `/assets/gangster-B_sTmUJn.webp`
-  , Vs = `/assets/gangster_e-DCxm-xho.webp`
-  , Hs = `/assets/gangster_g-CA0UOV4w.webp`
-  , Us = `/assets/general_e-C4rC0GAq.webp`
-  , Ws = `/assets/general_g-BqvScIJc.webp`
-  , Gs = `/assets/gnome-BVlHOkWi.webp`
-  , Ks = `/assets/gnome_e-DTU6TQnj.webp`
-  , qs = `/assets/gnome_g-BpCqTusW.webp`
-  , Js = `/assets/goblin_e-5zp-L7ts.webp`
-  , Ys = `/assets/goblin_g-Dm3DHjuy.webp`
-  , Xs = `/assets/golem_e-BMGfUhmK.webp`
-  , Zs = `/assets/golem_g-HC-xAVh8.webp`
-  , Qs = `/assets/harpy_e-ChKTPCeL.webp`
-  , $s = `/assets/harpy_g-Bp6VIdav.webp`
-  , ec = `/assets/hatter_e-BMVaOuLf.webp`
-  , tc = `/assets/hatter_g-16CFZpfo.webp`
-  , nc = `/assets/heretic_e-EZ4S5b8y.webp`
-  , rc = `/assets/heretic_g-DKZZAGQ8.webp`
-  , ic = `/assets/hermit_e-CXzG3UkT.webp`
-  , ac = `/assets/hermit_g-BT8xmstw.webp`
-  , oc = `/assets/highpriestess_e-Cl1icXV6.webp`
-  , sc = `/assets/highpriestess_g-D0i0Myk4.webp`
-  , cc = `/assets/huntsman_e-CN9kkQNR.webp`
-  , lc = `/assets/huntsman_g-1Nv97uqA.webp`
-  , uc = `/assets/kazali_e-Bhxi3sLd.webp`
-  , dc = `/assets/kazali_g-BZsxV8YM.webp`
-  , fc = `/assets/king_e-DuQcqpvF.webp`
-  , pc = `/assets/king_g-CEMQO7k3.webp`
-  , mc = `/assets/knight_e-DErJZl0C.webp`
-  , hc = `/assets/knight_g-rWciCOvN.webp`
-  , gc = `/assets/legion_e-DyzBzM4-.webp`
-  , _c = `/assets/legion_g-B4S3Jf4H.webp`
-  , vc = `/assets/leviathan_e-DvtMvt2q.webp`
-  , yc = `/assets/leviathan_g-DnoVSKUH.webp`
-  , bc = `/assets/lilmonsta_e-cdABFMUI.webp`
-  , xc = `/assets/lilmonsta_g-DD3Lbp-C.webp`
-  , Sc = `/assets/lleech_e-DzN_r6Yd.webp`
-  , Cc = `/assets/lleech_g-CSTCwFJh.webp`
-  , wc = `/assets/lordoftyphon_e-DbP_44G8.webp`
-  , Tc = `/assets/lordoftyphon_g-CHKJk_1t.webp`
-  , Ec = `/assets/lycanthrope_e-n_edx2Mg.webp`
-  , Dc = `/assets/lycanthrope_g-BGOyDOkb.webp`
-  , Oc = `/assets/magician_e-BMchX9vJ.webp`
-  , kc = `/assets/magician_g-DXz3Ajt8.webp`
-  , Ac = `/assets/marionette_e-BVmqAITW.webp`
-  , jc = `/assets/marionette_g-XJqVphtg.webp`
-  , Mc = `/assets/mezepheles_e-B7tfHUqC.webp`
-  , Nc = `/assets/mezepheles_g-DlDB5-jk.webp`
-  , Pc = `/assets/nightwatchman_e-DcwB8vOD.webp`
-  , Fc = `/assets/nightwatchman_g-CaasqmRn.webp`
-  , Ic = `/assets/noble_e-BFJBeujm.webp`
-  , Lc = `/assets/noble_g-B0vksP8B.webp`
-  , Rc = `/assets/ogre_e-k2lur_NF.webp`
-  , zc = `/assets/ogre_g-B3Q_ybOi.webp`
-  , Bc = `/assets/ojo_e-BwP-O6LJ.webp`
-  , Vc = `/assets/ojo_g-jY2iz8BT.webp`
-  , Hc = `/assets/organgrinder_e-EGmGGCZJ.webp`
-  , Uc = `/assets/organgrinder_g-WFPK_p_x.webp`
-  , Wc = `/assets/pixie_e-Dknojw1x.webp`
-  , Gc = `/assets/pixie_g-B1xIo6Bx.webp`
-  , Kc = `/assets/plaguedoctor_e-DdVqxJ_g.webp`
-  , qc = `/assets/plaguedoctor_g-DUqDeP9l.webp`
-  , Jc = `/assets/politician_e-CRiP_Thj.webp`
-  , Yc = `/assets/politician_g-CXCSDrvE.webp`
-  , Xc = `/assets/poppygrower_e-BPf4mjjt.webp`
-  , Zc = `/assets/poppygrower_g-BeRDzj2D.webp`
-  , Qc = `/assets/preacher_e-CjXiLHle.webp`
-  , $c = `/assets/preacher_g-CpPb8fQI.webp`
-  , el = `/assets/princess_e-DDQtxFNX.webp`
-  , tl = `/assets/princess_g-BGsIJ79g.webp`
-  , nl = `/assets/psychopath_e-CStA2Nbh.webp`
-  , rl = `/assets/psychopath_g-YqeVVosZ.webp`
-  , il = `/assets/puzzlemaster_e-BeIjkcep.webp`
-  , al = `/assets/puzzlemaster_g-C7roEIMq.webp`
-  , ol = `/assets/riot_e-DKD9x_C8.webp`
-  , sl = `/assets/riot_g-B3TDQj13.webp`
-  , cl = `/assets/shugenja_e-DQCYsHfD.webp`
-  , ll = `/assets/shugenja_g-DAlTPOOn.webp`
-  , ul = `/assets/snitch_e-yBlnGiGd.webp`
-  , dl = `/assets/snitch_g-D_RNpbcY.webp`
-  , fl = `/assets/steward_e-BJUqXXmp.webp`
-  , pl = `/assets/steward_g-ASO14Teu.webp`
-  , ml = `/assets/summoner_e-Ce5RiRwu.webp`
-  , hl = `/assets/summoner_g-B3PLNqgM.webp`
-  , gl = `/assets/villageidiot_e-D6AONnUX.webp`
-  , _l = `/assets/villageidiot_g-CdZf6FkN.webp`
-  , vl = `/assets/vizier_e-CR5iBAo1.webp`
-  , yl = `/assets/vizier_g-CKNiI-8C.webp`
-  , bl = `/assets/widow_e-DGFTy37y.webp`
-  , xl = `/assets/widow_g-BMAAZQVw.webp`
-  , Sl = `/assets/wizard_e-CkOtUevi.webp`
-  , Cl = `/assets/wizard_g-MV5lMPJf.webp`
-  , wl = `/assets/wraith_e-CRfpOd4V.webp`
-  , Tl = `/assets/wraith_g-DDErJKaT.webp`
-  , El = `/assets/xaan_e-CkIqEKvE.webp`
-  , Dl = `/assets/xaan_g-BtfiSj2N.webp`
-  , Ol = `/assets/yaggababble_e-rNTFzBKi.webp`
-  , kl = `/assets/yaggababble_g-CPSh-7bE.webp`
-  , Al = `/assets/zealot_e-DoDEvVGE.webp`
-  , jl = `/assets/zealot_g-D94u8jin.webp`
-  , Ml = `/assets/angel-Ayuhu7Hq.webp`
-  , Nl = `/assets/buddhist-BTncsaTX.webp`
-  , Pl = `/assets/djinn-SYNTW9dK.webp`
-  , Fl = `/assets/doomsayer-tGT5Bk_R.webp`
-  , Il = `/assets/duchess-CHpS7XMx.webp`
-  , Ll = `/assets/fibbin-MpVC8JVg.webp`
-  , Rl = `/assets/fiddler-DlAFGPhN.webp`
-  , zl = `/assets/hellslibrarian-DfbmTvS9.webp`
-  , Bl = `/assets/revolutionary-D1FL8eUK.webp`
-  , Vl = `/assets/sentinel-BaOVo1PE.webp`
-  , Hl = `/assets/spiritofivory-8gBtDAQc.webp`
-  , Ul = `/assets/toymaker-DnUyVGxn.webp`
-  , Wl = `/assets/bigwig-BSza_a7D.webp`
-  , Gl = `/assets/bootlegger-C4a2M4Iu.webp`
-  , Kl = `/assets/gardener-DXERv7Nr.webp`
-  , ql = `/assets/godofug-BXMzwd9N.webp`
-  , Jl = `/assets/hindu-B0td_trJ.webp`
-  , Yl = `/assets/knaves-BqPUqw36.webp`
-  , Xl = `/assets/pope-CXG7C3oM.webp`
-  , Zl = `/assets/stormcatcher-CYdqWLOL.webp`
-  , Ql = `/assets/tor-DkO8A08D.webp`
-  , $l = `/assets/ventriloquist-DuObucyt.webp`
-  , eu = `/assets/zenomancer-C6zEtMpb.webp`
-  , tu = `/assets/artist_e-CpwoIhpV.webp`
-  , nu = `/assets/artist_g-CyRrA7cN.webp`
-  , ru = `/assets/barber_e-BJbMUslE.webp`
-  , iu = `/assets/barber_g-CP7mk8b9.webp`
-  , au = `/assets/barista-9RUmOrIt.webp`
-  , ou = `/assets/barista_e-dh62LsHj.webp`
-  , su = `/assets/barista_g-IYOwLzUb.webp`
-  , cu = `/assets/bonecollector-CEqnpjbS.webp`
-  , lu = `/assets/bonecollector_e-CIpytarz.webp`
-  , uu = `/assets/bonecollector_g-DBlHdEjU.webp`
-  , du = `/assets/butcher-COYeTS3-.webp`
-  , fu = `/assets/butcher_e-BvZvHE-0.webp`
-  , pu = `/assets/butcher_g-BqDe54Mz.webp`
-  , mu = `/assets/cerenovus_e-ARmVZpWA.webp`
-  , hu = `/assets/cerenovus_g-Dks6rbpA.webp`
-  , gu = `/assets/clockmaker_e-De0CuxuO.webp`
-  , _u = `/assets/clockmaker_g-z-gzmkzc.webp`
-  , vu = `/assets/deviant-DLaJy91u.webp`
-  , yu = `/assets/deviant_e-D0QU1Y2Y.webp`
-  , bu = `/assets/deviant_g-Bbk8K2ZR.webp`
-  , xu = `/assets/dreamer_e-9zGefVKW.webp`
-  , Su = `/assets/dreamer_g-CjKsf0eE.webp`
-  , Cu = `/assets/eviltwin_e-yPqoVnXw.webp`
-  , wu = `/assets/eviltwin_g-DVXfIL-n.webp`
-  , Tu = `/assets/fanggu_e-6DavSWxL.webp`
-  , Eu = `/assets/fanggu_g-Dwai_VtD.webp`
-  , Du = `/assets/flowergirl_e-DJcVSLWX.webp`
-  , Ou = `/assets/flowergirl_g-C3oZV2PZ.webp`
-  , ku = `/assets/harlot-aJaTZULk.webp`
-  , Au = `/assets/harlot_e-CDyE0Kdh.webp`
-  , ju = `/assets/harlot_g-DfGUnLek.webp`
-  , Mu = `/assets/juggler_e-BQQDYvGs.webp`
-  , Nu = `/assets/juggler_g-CghN7Lp-.webp`
-  , Pu = `/assets/klutz_e-C-CdPEop.webp`
-  , Fu = `/assets/klutz_g-DRcV_Rgl.webp`
-  , Iu = `/assets/mathematician_e-D-VneyvO.webp`
-  , Lu = `/assets/mathematician_g-DiYoQRIl.webp`
-  , Ru = `/assets/mutant_e-COP-pfTP.webp`
-  , zu = `/assets/mutant_g-CUe36x-i.webp`
-  , Bu = `/assets/nodashii_e-Dt8UO6rj.webp`
-  , Vu = `/assets/nodashii_g-jI2LJQhL.webp`
-  , Hu = `/assets/oracle_e-BgNZAuGG.webp`
-  , Uu = `/assets/oracle_g-HZdhcJUJ.webp`
-  , Wu = `/assets/philosopher_e-sc5zSJy2.webp`
-  , Gu = `/assets/philosopher_g-DOk3eWqe.webp`
-  , Ku = `/assets/pithag_e-C9pUiUjt.webp`
-  , qu = `/assets/pithag_g-BJqrMoq3.webp`
-  , Ju = `/assets/sage_e-BS8e_Ree.webp`
-  , Yu = `/assets/sage_g-BQUVfu9h.webp`
-  , Xu = `/assets/savant_e-5neUO4oK.webp`
-  , Zu = `/assets/savant_g-n6x1YgAZ.webp`
-  , Qu = `/assets/seamstress_e-BfBRBNhv.webp`
-  , $u = `/assets/seamstress_g-B4RHsroR.webp`
-  , ed = `/assets/snakecharmer_e-D6CrPRGR.webp`
-  , td = `/assets/snakecharmer_g-DYwjThVr.webp`
-  , nd = `/assets/sweetheart_e-Bm63hRzw.webp`
-  , rd = `/assets/sweetheart_g-CmqS74DM.webp`
-  , id = `/assets/towncrier_e-BzUGp1JT.webp`
-  , ad = `/assets/towncrier_g-D9dERfO2.webp`
-  , od = `/assets/vigormortis_e-0VJIslwJ.webp`
-  , sd = `/assets/vigormortis_g-DP1UY2Jk.webp`
-  , cd = `/assets/vortox_e-CI-Cd8aG.webp`
-  , ld = `/assets/vortox_g-w20-Mdd8.webp`
-  , ud = `/assets/witch_e-D4AS1R1Q.webp`
-  , dd = `/assets/witch_g-CI6rg-Tb.webp`
-  , fd = `/assets/baron_e-CH4q2C6-.webp`
-  , pd = `/assets/baron_g-DSaQcH7D.webp`
-  , md = `/assets/beggar-BpoW7fsL.webp`
-  , hd = `/assets/beggar_e-C3_HD_se.webp`
-  , gd = `/assets/beggar_g-Cn5PE4nQ.webp`
-  , _d = `/assets/bureaucrat-C7wkPXRS.webp`
-  , vd = `/assets/bureaucrat_e-Bmh-G0_a.webp`
-  , yd = `/assets/bureaucrat_g-CyJZqBNe.webp`
-  , bd = `/assets/butler_e-C2ho4G2f.webp`
-  , xd = `/assets/butler_g-Cr36DpeC.webp`
-  , Sd = `/assets/chef_e-B3RO5GXN.webp`
-  , Cd = `/assets/chef_g-C3a3cGeP.webp`
-  , wd = `/assets/drunk_e-bRjLB9FX.webp`
-  , Td = `/assets/drunk_g--QNmv0ZY.webp`
-  , Ed = `/assets/empath_e-CWeYvCJ9.webp`
-  , Dd = `/assets/empath_g-vVEkU0cf.webp`
-  , Od = `/assets/fortuneteller_e-BWljoXp7.webp`
-  , kd = `/assets/fortuneteller_g-lQQzYvkg.webp`
-  , Ad = `/assets/gunslinger-wipgFlby.webp`
-  , jd = `/assets/gunslinger_e-DCPdRPrm.webp`
-  , Md = `/assets/gunslinger_g-CKzyQCHC.webp`
-  , Nd = `/assets/imp_e-DNpveOPY.webp`
-  , Pd = `/assets/imp_g-D-G7pJEY.webp`
-  , Fd = `/assets/investigator_e-CR-lRqwj.webp`
-  , Id = `/assets/investigator_g-DWSOiA6Q.webp`
-  , Ld = `/assets/librarian_e-DNYbXXNX.webp`
-  , Rd = `/assets/librarian_g-Bvwb7yEa.webp`
-  , zd = `/assets/mayor_e-Bc2mKeJ3.webp`
-  , Bd = `/assets/mayor_g-BQeJ8Z2E.webp`
-  , Vd = `/assets/monk_e-OTOQUKVm.webp`
-  , Hd = `/assets/monk_g-D4wNFA-b.webp`
-  , Ud = `/assets/poisoner_e-Usf7TcoY.webp`
-  , Wd = `/assets/poisoner_g-DHNIHhxZ.webp`
-  , Gd = `/assets/ravenkeeper_e-Yrx6NFvE.webp`
-  , Kd = `/assets/ravenkeeper_g-Bg-yrUxj.webp`
-  , qd = `/assets/recluse_e-BUtHsTp3.webp`
-  , Jd = `/assets/recluse_g-DxMFqO0r.webp`
-  , Yd = `/assets/saint_e-CnQBC4rO.webp`
-  , Xd = `/assets/saint_g-BU0hab0E.webp`
-  , Zd = `/assets/scapegoat-rhlm_MDq.webp`
-  , Qd = `/assets/scapegoat_e-BFRtmmYo.webp`
-  , $d = `/assets/scapegoat_g-CrL8fHff.webp`
-  , ef = `/assets/scarletwoman_e-BP5Fv_Ne.webp`
-  , tf = `/assets/scarletwoman_g-CM50XIwn.webp`
-  , nf = `/assets/slayer_e-4pQk5kJR.webp`
-  , rf = `/assets/slayer_g-BO_75tK_.webp`
-  , af = `/assets/soldier_e-CvaeglsK.webp`
-  , of = `/assets/soldier_g-Baq_oQFs.webp`
-  , sf = `/assets/spy_e-DU0tdGGe.webp`
-  , cf = `/assets/spy_g-7hnV_AFT.webp`
-  , lf = `/assets/thief-DWMyBS_x.webp`
-  , uf = `/assets/thief_e-yPbPTo5i.webp`
-  , df = `/assets/thief_g-CPsEnUSQ.webp`
-  , ff = `/assets/undertaker_e-DVB8aMO4.webp`
-  , pf = `/assets/undertaker_g-sXYI7VS3.webp`
-  , mf = `/assets/virgin_e-BB20SAPv.webp`
-  , hf = `/assets/virgin_g-DfRSMLSj.webp`
-  , gf = `/assets/washerwoman_e-TC3PgT2N.webp`
-  , _f = `/assets/washerwoman_g-CVnYjPdR.webp`
-  , vf = {
+  , ka = `/assets/minion-lDFo-tEX.webp`
+  , Aa = `/assets/minion_g-Cgm5WnSR.webp`
+  , ja = `/assets/outsider-BzhBt4on.webp`
+  , Ma = `/assets/outsider_e-CgWWsKPC.webp`
+  , Na = `/assets/outsider-BzhBt4on.webp`
+  , Pa = `/assets/townsfolk_g-CKaS3yKc.webp`
+  , Fa = `/assets/townsfolk_e-CHxn-dgu.webp`
+  , Ia = `/assets/townsfolk_g-CKaS3yKc.webp`
+  , La = `/assets/traveller-CmR1gFU-.webp`
+  , Ra = `/assets/traveller_e-ezMTv16C.webp`
+  , za = `/assets/traveller_g-BNxDoGo0.webp`
+  , Ba = `/assets/apprentice-Dq5aGiYi.webp`
+  , Va = `/assets/apprentice_e-BEpvFWvS.webp`
+  , Ha = `/assets/apprentice_g-qVS2q4bN.webp`
+  , Ua = `/assets/assassin_e-BDitHnVO.webp`
+  , Wa = `/assets/assassin_g-D_zJwNaF.webp`
+  , Ga = `/assets/bishop-LYgE69Ju.webp`
+  , Ka = `/assets/bishop_e-CvwvjoUI.webp`
+  , qa = `/assets/bishop_g-DdZW0SpA.webp`
+  , Ja = `/assets/chambermaid_e-CdqkTS11.webp`
+  , Ya = `/assets/chambermaid_g-DAtPnmSz.webp`
+  , Xa = `/assets/courtier_e-DxjU0rGy.webp`
+  , Za = `/assets/courtier_g-8Fhu5KML.webp`
+  , Qa = `/assets/devilsadvocate_e-6olcm7Cx.webp`
+  , $a = `/assets/devilsadvocate_g-DeyJHzxG.webp`
+  , eo = `/assets/exorcist_e-DoXc6R_z.webp`
+  , to = `/assets/exorcist_g-CiIkE1hM.webp`
+  , no = `/assets/fool_e-CdlNFIsk.webp`
+  , ro = `/assets/fool_g-C-vzA630.webp`
+  , io = `/assets/gambler_e-Co0D5NyD.webp`
+  , ao = `/assets/gambler_g-BJg931OP.webp`
+  , oo = `/assets/godfather_e-CszxqtFl.webp`
+  , so = `/assets/godfather_g-BHOpUHNN.webp`
+  , co = `/assets/goon_e-DmCcVOv-.webp`
+  , lo = `/assets/goon_g-qCN1CxKh.webp`
+  , uo = `/assets/gossip_e-DKOgldGS.webp`
+  , fo = `/assets/gossip_g-0mo_0qnq.webp`
+  , po = `/assets/grandmother_e-BLCIA5TL.webp`
+  , mo = `/assets/grandmother_g-CjEyeFLi.webp`
+  , ho = `/assets/innkeeper_e-dzanyuqI.webp`
+  , go = `/assets/innkeeper_g-B_YjhWTM.webp`
+  , _o = `/assets/judge-Df7wYZLu.webp`
+  , vo = `/assets/judge_e-jGAdrE7z.webp`
+  , yo = `/assets/judge_g-CJbFZ44x.webp`
+  , bo = `/assets/lunatic_e-D53Boxpa.webp`
+  , xo = `/assets/lunatic_g-Bz2ai2Da.webp`
+  , So = `/assets/mastermind_e-lwTDvV6G.webp`
+  , Co = `/assets/mastermind_g-BzBbXNuB.webp`
+  , wo = `/assets/matron-D4Vegu5w.webp`
+  , To = `/assets/matron_e-i60IfjWL.webp`
+  , Eo = `/assets/matron_g-faTHHRCk.webp`
+  , Do = `/assets/minstrel_e-Cv94nSeJ.webp`
+  , Oo = `/assets/minstrel_g-M5EHa7zy.webp`
+  , ko = `/assets/moonchild_e-D-P3dKVK.webp`
+  , Ao = `/assets/moonchild_g-DKURQEzF.webp`
+  , jo = `/assets/pacifist_e-BDyZFmeQ.webp`
+  , Mo = `/assets/pacifist_g-DAkM1DME.webp`
+  , No = `/assets/po_e-BkxsM_xT.webp`
+  , Po = `/assets/po_g-blqsHHpB.webp`
+  , Fo = `/assets/professor_e-BpuIeGol.webp`
+  , Io = `/assets/professor_g-h2X7rvhv.webp`
+  , Lo = `/assets/pukka_e-CmZzVHPM.webp`
+  , Ro = `/assets/pukka_g-D7il5SFF.webp`
+  , zo = `/assets/sailor_e-DfZBdaxk.webp`
+  , Bo = `/assets/sailor_g-MdYxQ8zf.webp`
+  , Vo = `/assets/shabaloth_e-DsCO_Txn.webp`
+  , Ho = `/assets/shabaloth_g-BUwNFN-9.webp`
+  , Uo = `/assets/tealady_e-CZT3s07k.webp`
+  , Wo = `/assets/tealady_g-C6X-kuq2.webp`
+  , Go = `/assets/tinker_e-dpPUDqmq.webp`
+  , Ko = `/assets/tinker_g-CS4VFqeN.webp`
+  , qo = `/assets/voudon-CNiyV0sS.webp`
+  , Jo = `/assets/voudon_e-D9qWXIyp.webp`
+  , Yo = `/assets/voudon_g-D-tbnf_D.webp`
+  , Xo = `/assets/zombuul_e-DzySLzke.webp`
+  , Zo = `/assets/zombuul_g-B4MTwk5-.webp`
+  , Qo = `/assets/acrobat_e-BtZarrxs.webp`
+  , $o = `/assets/acrobat_g-ClaB0uN4.webp`
+  , es = `/assets/alchemist_e-DjjClIsL.webp`
+  , ts = `/assets/alchemist_g-DtcrLn7_.webp`
+  , ns = `/assets/alhadikhia_e-D6XyyVmp.webp`
+  , rs = `/assets/alhadikhia_g-BggSDiOq.webp`
+  , is = `/assets/alsaahir_e-DiydqcyG.webp`
+  , as = `/assets/alsaahir_g-CpjMnnMq.webp`
+  , os = `/assets/amnesiac_e-CEaf8TX1.webp`
+  , ss = `/assets/amnesiac_g-1rV8CyUl.webp`
+  , cs = `/assets/atheist_e-CHiIPNXQ.webp`
+  , ls = `/assets/atheist_g-CQOMSxIU.webp`
+  , us = `/assets/balloonist_e-D2ByQ9TA.webp`
+  , ds = `/assets/balloonist_g-Dlfqy_E5.webp`
+  , fs = `/assets/banshee_e-8hOn5kSm.webp`
+  , ps = `/assets/banshee_g-DJc6lJye.webp`
+  , ms = `/assets/boffin_e-Bks9yuea.webp`
+  , hs = `/assets/boffin_g-lws0h7cM.webp`
+  , gs = `/assets/boomdandy_e-S13eahkU.webp`
+  , _s = `/assets/boomdandy_g-DOTwgB8d.webp`
+  , vs = `/assets/bountyhunter_e-BhBaVK4W.webp`
+  , ys = `/assets/bountyhunter_g-BCEfwrWL.webp`
+  , bs = `/assets/cacklejack-DLjP2vpy.webp`
+  , xs = `/assets/cacklejack_e-DIhvXgOD.webp`
+  , Ss = `/assets/cacklejack_g-D7trNfLk.webp`
+  , Cs = `/assets/cannibal_e-PuVaqnSr.webp`
+  , ws = `/assets/cannibal_g-eP3mwaD2.webp`
+  , Ts = `/assets/choirboy_e-CpElv2uq.webp`
+  , Es = `/assets/choirboy_g-Dk5L9Lx_.webp`
+  , Ds = `/assets/cultleader_e-CXgWMt1A.webp`
+  , Os = `/assets/cultleader_g-BYq1_U3R.webp`
+  , ks = `/assets/damsel_e-fpsIFV1Z.webp`
+  , As = `/assets/damsel_g-NwMWC09c.webp`
+  , js = `/assets/deusexfiasco-C-oc4vaU.webp`
+  , Ms = `/assets/engineer_e-LUiXESUv.webp`
+  , Ns = `/assets/engineer_g-N-nhrQAt.webp`
+  , Ps = `/assets/farmer_e-BKzmeJOt.webp`
+  , Fs = `/assets/farmer_g-aC9H7ek9.webp`
+  , Is = `/assets/fearmonger_e-RqyAUnj6.webp`
+  , Ls = `/assets/fearmonger_g-WdnstOgT.webp`
+  , Rs = `/assets/ferryman-B8DIdDH1.webp`
+  , zs = `/assets/fisherman_e-Da2Y5IG7.webp`
+  , Bs = `/assets/fisherman_g-D4SVpSql.webp`
+  , Vs = `/assets/gangster-B_sTmUJn.webp`
+  , Hs = `/assets/gangster_e-DCxm-xho.webp`
+  , Us = `/assets/gangster_g-CA0UOV4w.webp`
+  , Ws = `/assets/general_e-C4rC0GAq.webp`
+  , Gs = `/assets/general_g-BqvScIJc.webp`
+  , Ks = `/assets/gnome-BVlHOkWi.webp`
+  , qs = `/assets/gnome_e-DTU6TQnj.webp`
+  , Js = `/assets/gnome_g-BpCqTusW.webp`
+  , Ys = `/assets/goblin_e-5zp-L7ts.webp`
+  , Xs = `/assets/goblin_g-Dm3DHjuy.webp`
+  , Zs = `/assets/golem_e-BMGfUhmK.webp`
+  , Qs = `/assets/golem_g-HC-xAVh8.webp`
+  , $s = `/assets/harpy_e-ChKTPCeL.webp`
+  , ec = `/assets/harpy_g-Bp6VIdav.webp`
+  , tc = `/assets/hatter_e-BMVaOuLf.webp`
+  , nc = `/assets/hatter_g-16CFZpfo.webp`
+  , rc = `/assets/heretic_e-EZ4S5b8y.webp`
+  , ic = `/assets/heretic_g-DKZZAGQ8.webp`
+  , ac = `/assets/hermit_e-CXzG3UkT.webp`
+  , oc = `/assets/hermit_g-BT8xmstw.webp`
+  , sc = `/assets/highpriestess_e-Cl1icXV6.webp`
+  , cc = `/assets/highpriestess_g-D0i0Myk4.webp`
+  , lc = `/assets/huntsman_e-CN9kkQNR.webp`
+  , uc = `/assets/huntsman_g-1Nv97uqA.webp`
+  , dc = `/assets/kazali_e-Bhxi3sLd.webp`
+  , fc = `/assets/kazali_g-BZsxV8YM.webp`
+  , pc = `/assets/king_e-DuQcqpvF.webp`
+  , mc = `/assets/king_g-CEMQO7k3.webp`
+  , hc = `/assets/knight_e-DErJZl0C.webp`
+  , gc = `/assets/knight_g-rWciCOvN.webp`
+  , _c = `/assets/legion_e-DyzBzM4-.webp`
+  , vc = `/assets/legion_g-B4S3Jf4H.webp`
+  , yc = `/assets/leviathan_e-DvtMvt2q.webp`
+  , bc = `/assets/leviathan_g-DnoVSKUH.webp`
+  , xc = `/assets/lilmonsta_e-cdABFMUI.webp`
+  , Sc = `/assets/lilmonsta_g-DD3Lbp-C.webp`
+  , Cc = `/assets/lleech_e-DzN_r6Yd.webp`
+  , wc = `/assets/lleech_g-CSTCwFJh.webp`
+  , Tc = `/assets/lordoftyphon_e-DbP_44G8.webp`
+  , Ec = `/assets/lordoftyphon_g-CHKJk_1t.webp`
+  , Dc = `/assets/lycanthrope_e-n_edx2Mg.webp`
+  , Oc = `/assets/lycanthrope_g-BGOyDOkb.webp`
+  , kc = `/assets/magician_e-BMchX9vJ.webp`
+  , Ac = `/assets/magician_g-DXz3Ajt8.webp`
+  , jc = `/assets/marionette_e-BVmqAITW.webp`
+  , Mc = `/assets/marionette_g-XJqVphtg.webp`
+  , Nc = `/assets/mezepheles_e-B7tfHUqC.webp`
+  , Pc = `/assets/mezepheles_g-DlDB5-jk.webp`
+  , Fc = `/assets/nightwatchman_e-DcwB8vOD.webp`
+  , Ic = `/assets/nightwatchman_g-CaasqmRn.webp`
+  , Lc = `/assets/noble_e-BFJBeujm.webp`
+  , Rc = `/assets/noble_g-B0vksP8B.webp`
+  , zc = `/assets/ogre_e-k2lur_NF.webp`
+  , Bc = `/assets/ogre_g-B3Q_ybOi.webp`
+  , Vc = `/assets/ojo_e-BwP-O6LJ.webp`
+  , Hc = `/assets/ojo_g-jY2iz8BT.webp`
+  , Uc = `/assets/organgrinder_e-EGmGGCZJ.webp`
+  , Wc = `/assets/organgrinder_g-WFPK_p_x.webp`
+  , Gc = `/assets/pixie_e-Dknojw1x.webp`
+  , Kc = `/assets/pixie_g-B1xIo6Bx.webp`
+  , qc = `/assets/plaguedoctor_e-DdVqxJ_g.webp`
+  , Jc = `/assets/plaguedoctor_g-DUqDeP9l.webp`
+  , Yc = `/assets/politician_e-CRiP_Thj.webp`
+  , Xc = `/assets/politician_g-CXCSDrvE.webp`
+  , Zc = `/assets/poppygrower_e-BPf4mjjt.webp`
+  , Qc = `/assets/poppygrower_g-BeRDzj2D.webp`
+  , $c = `/assets/preacher_e-CjXiLHle.webp`
+  , el = `/assets/preacher_g-CpPb8fQI.webp`
+  , tl = `/assets/princess_e-DDQtxFNX.webp`
+  , nl = `/assets/princess_g-BGsIJ79g.webp`
+  , rl = `/assets/psychopath_e-CStA2Nbh.webp`
+  , il = `/assets/psychopath_g-YqeVVosZ.webp`
+  , al = `/assets/puzzlemaster_e-BeIjkcep.webp`
+  , ol = `/assets/puzzlemaster_g-C7roEIMq.webp`
+  , sl = `/assets/riot_e-DKD9x_C8.webp`
+  , cl = `/assets/riot_g-B3TDQj13.webp`
+  , ll = `/assets/shugenja_e-DQCYsHfD.webp`
+  , ul = `/assets/shugenja_g-DAlTPOOn.webp`
+  , dl = `/assets/snitch_e-yBlnGiGd.webp`
+  , fl = `/assets/snitch_g-D_RNpbcY.webp`
+  , pl = `/assets/steward_e-BJUqXXmp.webp`
+  , ml = `/assets/steward_g-ASO14Teu.webp`
+  , hl = `/assets/summoner_e-Ce5RiRwu.webp`
+  , gl = `/assets/summoner_g-B3PLNqgM.webp`
+  , _l = `/assets/villageidiot_e-D6AONnUX.webp`
+  , vl = `/assets/villageidiot_g-CdZf6FkN.webp`
+  , yl = `/assets/vizier_e-CR5iBAo1.webp`
+  , bl = `/assets/vizier_g-CKNiI-8C.webp`
+  , xl = `/assets/widow_e-DGFTy37y.webp`
+  , Sl = `/assets/widow_g-BMAAZQVw.webp`
+  , Cl = `/assets/wizard_e-CkOtUevi.webp`
+  , wl = `/assets/wizard_g-MV5lMPJf.webp`
+  , Tl = `/assets/wraith_e-CRfpOd4V.webp`
+  , El = `/assets/wraith_g-DDErJKaT.webp`
+  , Dl = `/assets/xaan_e-CkIqEKvE.webp`
+  , Ol = `/assets/xaan_g-BtfiSj2N.webp`
+  , kl = `/assets/yaggababble_e-rNTFzBKi.webp`
+  , Al = `/assets/yaggababble_g-CPSh-7bE.webp`
+  , jl = `/assets/zealot_e-DoDEvVGE.webp`
+  , Ml = `/assets/zealot_g-D94u8jin.webp`
+  , Nl = `/assets/angel-Ayuhu7Hq.webp`
+  , Pl = `/assets/buddhist-BTncsaTX.webp`
+  , Fl = `/assets/djinn-SYNTW9dK.webp`
+  , Il = `/assets/doomsayer-tGT5Bk_R.webp`
+  , Ll = `/assets/duchess-CHpS7XMx.webp`
+  , Rl = `/assets/fibbin-MpVC8JVg.webp`
+  , zl = `/assets/fiddler-DlAFGPhN.webp`
+  , Bl = `/assets/hellslibrarian-DfbmTvS9.webp`
+  , Vl = `/assets/revolutionary-D1FL8eUK.webp`
+  , Hl = `/assets/sentinel-BaOVo1PE.webp`
+  , Ul = `/assets/spiritofivory-8gBtDAQc.webp`
+  , Wl = `/assets/toymaker-DnUyVGxn.webp`
+  , Gl = `/assets/bigwig-BSza_a7D.webp`
+  , Kl = `/assets/bootlegger-C4a2M4Iu.webp`
+  , ql = `/assets/gardener-DXERv7Nr.webp`
+  , Jl = `/assets/godofug-BXMzwd9N.webp`
+  , Yl = `/assets/hindu-B0td_trJ.webp`
+  , Xl = `/assets/knaves-BqPUqw36.webp`
+  , Zl = `/assets/pope-CXG7C3oM.webp`
+  , Ql = `/assets/stormcatcher-CYdqWLOL.webp`
+  , $l = `/assets/tor-DkO8A08D.webp`
+  , eu = `/assets/ventriloquist-DuObucyt.webp`
+  , tu = `/assets/zenomancer-C6zEtMpb.webp`
+  , nu = `/assets/artist_e-CpwoIhpV.webp`
+  , ru = `/assets/artist_g-CyRrA7cN.webp`
+  , iu = `/assets/barber_e-BJbMUslE.webp`
+  , au = `/assets/barber_g-CP7mk8b9.webp`
+  , ou = `/assets/barista-9RUmOrIt.webp`
+  , su = `/assets/barista_e-dh62LsHj.webp`
+  , cu = `/assets/barista_g-IYOwLzUb.webp`
+  , lu = `/assets/bonecollector-CEqnpjbS.webp`
+  , uu = `/assets/bonecollector_e-CIpytarz.webp`
+  , du = `/assets/bonecollector_g-DBlHdEjU.webp`
+  , fu = `/assets/butcher-COYeTS3-.webp`
+  , pu = `/assets/butcher_e-BvZvHE-0.webp`
+  , mu = `/assets/butcher_g-BqDe54Mz.webp`
+  , hu = `/assets/cerenovus_e-ARmVZpWA.webp`
+  , gu = `/assets/cerenovus_g-Dks6rbpA.webp`
+  , _u = `/assets/clockmaker_e-De0CuxuO.webp`
+  , vu = `/assets/clockmaker_g-z-gzmkzc.webp`
+  , yu = `/assets/deviant-DLaJy91u.webp`
+  , bu = `/assets/deviant_e-D0QU1Y2Y.webp`
+  , xu = `/assets/deviant_g-Bbk8K2ZR.webp`
+  , Su = `/assets/dreamer_e-9zGefVKW.webp`
+  , Cu = `/assets/dreamer_g-CjKsf0eE.webp`
+  , wu = `/assets/eviltwin_e-yPqoVnXw.webp`
+  , Tu = `/assets/eviltwin_g-DVXfIL-n.webp`
+  , Eu = `/assets/fanggu_e-6DavSWxL.webp`
+  , Du = `/assets/fanggu_g-Dwai_VtD.webp`
+  , Ou = `/assets/flowergirl_e-DJcVSLWX.webp`
+  , ku = `/assets/flowergirl_g-C3oZV2PZ.webp`
+  , Au = `/assets/harlot-aJaTZULk.webp`
+  , ju = `/assets/harlot_e-CDyE0Kdh.webp`
+  , Mu = `/assets/harlot_g-DfGUnLek.webp`
+  , Nu = `/assets/juggler_e-BQQDYvGs.webp`
+  , Pu = `/assets/juggler_g-CghN7Lp-.webp`
+  , Fu = `/assets/klutz_e-C-CdPEop.webp`
+  , Iu = `/assets/klutz_g-DRcV_Rgl.webp`
+  , Lu = `/assets/mathematician_e-D-VneyvO.webp`
+  , Ru = `/assets/mathematician_g-DiYoQRIl.webp`
+  , zu = `/assets/mutant_e-COP-pfTP.webp`
+  , Bu = `/assets/mutant_g-CUe36x-i.webp`
+  , Vu = `/assets/nodashii_e-Dt8UO6rj.webp`
+  , Hu = `/assets/nodashii_g-jI2LJQhL.webp`
+  , Uu = `/assets/oracle_e-BgNZAuGG.webp`
+  , Wu = `/assets/oracle_g-HZdhcJUJ.webp`
+  , Gu = `/assets/philosopher_e-sc5zSJy2.webp`
+  , Ku = `/assets/philosopher_g-DOk3eWqe.webp`
+  , qu = `/assets/pithag_e-C9pUiUjt.webp`
+  , Ju = `/assets/pithag_g-BJqrMoq3.webp`
+  , Yu = `/assets/sage_e-BS8e_Ree.webp`
+  , Xu = `/assets/sage_g-BQUVfu9h.webp`
+  , Zu = `/assets/savant_e-5neUO4oK.webp`
+  , Qu = `/assets/savant_g-n6x1YgAZ.webp`
+  , $u = `/assets/seamstress_e-BfBRBNhv.webp`
+  , ed = `/assets/seamstress_g-B4RHsroR.webp`
+  , td = `/assets/snakecharmer_e-D6CrPRGR.webp`
+  , nd = `/assets/snakecharmer_g-DYwjThVr.webp`
+  , rd = `/assets/sweetheart_e-Bm63hRzw.webp`
+  , id = `/assets/sweetheart_g-CmqS74DM.webp`
+  , ad = `/assets/towncrier_e-BzUGp1JT.webp`
+  , od = `/assets/towncrier_g-D9dERfO2.webp`
+  , sd = `/assets/vigormortis_e-0VJIslwJ.webp`
+  , cd = `/assets/vigormortis_g-DP1UY2Jk.webp`
+  , ld = `/assets/vortox_e-CI-Cd8aG.webp`
+  , ud = `/assets/vortox_g-w20-Mdd8.webp`
+  , dd = `/assets/witch_e-D4AS1R1Q.webp`
+  , fd = `/assets/witch_g-CI6rg-Tb.webp`
+  , pd = `/assets/baron_e-CH4q2C6-.webp`
+  , md = `/assets/baron_g-DSaQcH7D.webp`
+  , hd = `/assets/beggar-BpoW7fsL.webp`
+  , gd = `/assets/beggar_e-C3_HD_se.webp`
+  , _d = `/assets/beggar_g-Cn5PE4nQ.webp`
+  , vd = `/assets/bureaucrat-C7wkPXRS.webp`
+  , yd = `/assets/bureaucrat_e-Bmh-G0_a.webp`
+  , bd = `/assets/bureaucrat_g-CyJZqBNe.webp`
+  , xd = `/assets/butler_e-C2ho4G2f.webp`
+  , Sd = `/assets/butler_g-Cr36DpeC.webp`
+  , Cd = `/assets/chef_e-B3RO5GXN.webp`
+  , wd = `/assets/chef_g-C3a3cGeP.webp`
+  , Td = `/assets/drunk_e-bRjLB9FX.webp`
+  , Ed = `/assets/drunk_g--QNmv0ZY.webp`
+  , Dd = `/assets/empath_e-CWeYvCJ9.webp`
+  , Od = `/assets/empath_g-vVEkU0cf.webp`
+  , kd = `/assets/fortuneteller_e-BWljoXp7.webp`
+  , Ad = `/assets/fortuneteller_g-lQQzYvkg.webp`
+  , jd = `/assets/gunslinger-wipgFlby.webp`
+  , Md = `/assets/gunslinger_e-DCPdRPrm.webp`
+  , Nd = `/assets/gunslinger_g-CKzyQCHC.webp`
+  , Pd = `/assets/imp_e-DNpveOPY.webp`
+  , Fd = `/assets/imp_g-D-G7pJEY.webp`
+  , Id = `/assets/investigator_e-CR-lRqwj.webp`
+  , Ld = `/assets/investigator_g-DWSOiA6Q.webp`
+  , Rd = `/assets/librarian_e-DNYbXXNX.webp`
+  , zd = `/assets/librarian_g-Bvwb7yEa.webp`
+  , Bd = `/assets/mayor_e-Bc2mKeJ3.webp`
+  , Vd = `/assets/mayor_g-BQeJ8Z2E.webp`
+  , Hd = `/assets/monk_e-OTOQUKVm.webp`
+  , Ud = `/assets/monk_g-D4wNFA-b.webp`
+  , Wd = `/assets/poisoner_e-Usf7TcoY.webp`
+  , Gd = `/assets/poisoner_g-DHNIHhxZ.webp`
+  , Kd = `/assets/ravenkeeper_e-Yrx6NFvE.webp`
+  , qd = `/assets/ravenkeeper_g-Bg-yrUxj.webp`
+  , Jd = `/assets/recluse_e-BUtHsTp3.webp`
+  , Yd = `/assets/recluse_g-DxMFqO0r.webp`
+  , Xd = `/assets/saint_e-CnQBC4rO.webp`
+  , Zd = `/assets/saint_g-BU0hab0E.webp`
+  , Qd = `/assets/scapegoat-rhlm_MDq.webp`
+  , $d = `/assets/scapegoat_e-BFRtmmYo.webp`
+  , ef = `/assets/scapegoat_g-CrL8fHff.webp`
+  , tf = `/assets/scarletwoman_e-BP5Fv_Ne.webp`
+  , nf = `/assets/scarletwoman_g-CM50XIwn.webp`
+  , rf = `/assets/slayer_e-4pQk5kJR.webp`
+  , af = `/assets/slayer_g-BO_75tK_.webp`
+  , of = `/assets/soldier_e-CvaeglsK.webp`
+  , sf = `/assets/soldier_g-Baq_oQFs.webp`
+  , cf = `/assets/spy_e-DU0tdGGe.webp`
+  , lf = `/assets/spy_g-7hnV_AFT.webp`
+  , uf = `/assets/thief-DWMyBS_x.webp`
+  , df = `/assets/thief_e-yPbPTo5i.webp`
+  , ff = `/assets/thief_g-CPsEnUSQ.webp`
+  , pf = `/assets/undertaker_e-DVB8aMO4.webp`
+  , mf = `/assets/undertaker_g-sXYI7VS3.webp`
+  , hf = `/assets/virgin_e-BB20SAPv.webp`
+  , gf = `/assets/virgin_g-DfRSMLSj.webp`
+  , _f = `/assets/washerwoman_e-TC3PgT2N.webp`
+  , vf = `/assets/washerwoman_g-CVnYjPdR.webp`
+  , yf = {
     name: `Banned`,
     computed: {
         ...A(`user`, [`ban`])
@@ -2864,22 +2852,22 @@ var ga = B(ua, [[`render`, ha]])
     },
     methods: {}
 }
-  , yf = {
+  , bf = {
     id: `banned`
 }
-  , bf = {
+  , xf = {
     class: `content`
 };
-function xf(e, t, n, a, o, s) {
+function Sf(e, t, n, a, o, s) {
     let l = c(`i18n-t`);
     return d(),
-    F(`div`, yf, [t[8] || (t[8] = I(`div`, {
+    F(`div`, bf, [t[8] || (t[8] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, bf, [I(`h4`, null, y(e.$t(`pages.banned.title`)), 1), I(`p`, null, [f(l, {
+    })], -1)), I(`div`, xf, [I(`h4`, null, y(e.$t(`pages.banned.title`)), 1), I(`p`, null, [f(l, {
         keypath: `pages.banned.description`,
         scope: `global`
     }, {
@@ -2919,8 +2907,8 @@ function xf(e, t, n, a, o, s) {
         class: `logo sb`
     })], -1))])
 }
-var Sf = B(vf, [[`render`, xf], [`__scopeId`, `data-v-c29aa538`]])
-  , Cf = {
+var Cf = B(yf, [[`render`, Sf], [`__scopeId`, `data-v-c29aa538`]])
+  , wf = {
     data() {
         return {
             link: this.$route.query.link
@@ -2928,92 +2916,92 @@ var Sf = B(vf, [[`render`, xf], [`__scopeId`, `data-v-c29aa538`]])
     },
     methods: {}
 }
-  , wf = {
+  , Tf = {
     id: `external`
 }
-  , Tf = {
+  , Ef = {
     class: `content`
 }
-  , Ef = [`href`, `data-tooltip`];
-function Df(e, t, n, r, a, o) {
+  , Df = [`href`, `data-tooltip`];
+function Of(e, t, n, r, a, o) {
     return d(),
-    F(`div`, wf, [t[0] || (t[0] = I(`div`, {
+    F(`div`, Tf, [t[0] || (t[0] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, Tf, [I(`h2`, null, y(e.$t(`pages.external.title`)), 1), i(` ` + y(e.$t(`pages.external.description`)) + ` `, 1), I(`b`, null, y(a.link), 1), I(`a`, {
+    })], -1)), I(`div`, Ef, [I(`h2`, null, y(e.$t(`pages.external.title`)), 1), i(` ` + y(e.$t(`pages.external.description`)) + ` `, 1), I(`b`, null, y(a.link), 1), I(`a`, {
         href: a.link,
         "data-tooltip": a.link,
         class: `button secondary`,
         rel: `noopener noreferrer`
-    }, y(e.$t(`pages.external.button`)), 9, Ef), I(`small`, null, y(e.$t(`pages.external.disclaimer`)), 1)]), t[1] || (t[1] = I(`footer`, null, [I(`img`, {
+    }, y(e.$t(`pages.external.button`)), 9, Df), I(`small`, null, y(e.$t(`pages.external.disclaimer`)), 1)]), t[1] || (t[1] = I(`footer`, null, [I(`img`, {
         src: `/assets/tpi-CjLIf2nx.webp`,
         alt: ``
     })], -1))])
 }
-var Of = B(Cf, [[`render`, Df], [`__scopeId`, `data-v-339d1d0b`]])
-  , kf = `/assets/background1-BpU4ja-f.webp`
-  , Af = `/assets/background1t-DHbud4pS.webp`
-  , jf = `/assets/background2-CgYNt1Ve.webp`
-  , Mf = `/assets/background2t-DstAC8L3.webp`
-  , Nf = `/assets/background3-BKXF5Trs.webp`
-  , Pf = `/assets/background3t-CbbHtzGF.webp`
-  , Ff = `/assets/background4-Czm52619.webp`
-  , If = `/assets/background4t-CgR43iC3.webp`
-  , Lf = `/assets/background5-C8rPTCyH.webp`
-  , Rf = `/assets/background5t-BUIwLYe9.webp`
-  , zf = `/assets/background6-B64VUblt.webp`
-  , Bf = `/assets/background6t-CtQxnilw.webp`
-  , Vf = `/assets/background1-C64aKIx0.webp`
-  , Hf = `/assets/background1t-DMtLDqmO.webp`
-  , Uf = `/assets/background2-DBkYNRkh.webp`
-  , Wf = `/assets/background2t-C5uAKrl8.webp`
-  , Gf = `/assets/background3-CoJic9Le.webp`
-  , Kf = `/assets/background3t-aFaeliYY.webp`
-  , qf = `/assets/background4-BAO6WjXL.webp`
-  , Jf = `/assets/background4t-CF_Go9po.webp`
-  , Yf = `/assets/background5-BbSbo6Gy.webp`
-  , Xf = `data:image/webp;base64,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`
-  , Zf = `/assets/background6-CoMsrMbU.webp`
-  , Qf = `data:image/webp;base64,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`
-  , $f = `/assets/background7-Cf2KQeVt.webp`
-  , ep = `data:image/webp;base64,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`
-  , tp = `/assets/background8-BBIeE9c0.webp`
-  , np = `data:image/webp;base64,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`
-  , rp = `/assets/background1-CuyW2BLZ.webp`
-  , ip = `/assets/background1t-aLs_Jl5I.webp`
-  , ap = `/assets/background2-K9_lN7Mc.webp`
-  , op = `/assets/background2t-CckmZ43o.webp`
-  , sp = `/assets/background3-DcqXQDdD.webp`
-  , cp = `/assets/background3t-B7BHi4O8.webp`
-  , lp = `/assets/background4-X8jQb4tv.webp`
-  , up = `/assets/background4t-DV1DfgFp.webp`
-  , dp = `/assets/background5-DGQcUGSF.webp`
-  , fp = `/assets/background5t-SAesBd90.webp`
-  , pp = `/assets/background6-Bj2Pn2zr.webp`
-  , mp = `/assets/background6t-BGYqtwtm.webp`
-  , hp = `/assets/background1-NUIA0OVV.webp`
-  , gp = `/assets/background1t-BOuKVDN4.webp`
-  , _p = `/assets/background2-DycZEMhJ.webp`
-  , vp = `/assets/background2t-DOofBXDu.webp`
-  , yp = `/assets/background3-Dw6DXljd.webp`
-  , bp = `/assets/background3t-DrnWsxUb.webp`
-  , xp = `/assets/background4-C7TzDZ7M.webp`
-  , Sp = `/assets/background4t-D26MBsn7.webp`
-  , Cp = `/assets/background5-CUu8vEFl.webp`
-  , wp = `/assets/background5t-BmsArEO-.webp`
-  , Tp = `/assets/background6-Dsvfc9R4.webp`
-  , Ep = `/assets/background6t-C_geWcN4.webp`
-  , Dp = `/assets/background-bJ1INm6Z.webp`
-  , Op = `/assets/background1-C0iW8pNy.webp`
-  , kp = `/assets/background1t-C4I5Mxpb.webp`
-  , Ap = `/assets/background2-vSWVpkv3.webp`
-  , jp = `/assets/background2t-8hTjdqtA.webp`
-  , Mp = `/assets/background3-CzcrM8e7.webp`
-  , Np = `/assets/background3t-BYZtXcQd.webp`
-  , Pp = {
+var kf = B(wf, [[`render`, Of], [`__scopeId`, `data-v-339d1d0b`]])
+  , Af = `/assets/background1-BpU4ja-f.webp`
+  , jf = `/assets/background1t-DHbud4pS.webp`
+  , Mf = `/assets/background2-CgYNt1Ve.webp`
+  , Nf = `/assets/background2t-DstAC8L3.webp`
+  , Pf = `/assets/background3-BKXF5Trs.webp`
+  , Ff = `/assets/background3t-CbbHtzGF.webp`
+  , If = `/assets/background4-Czm52619.webp`
+  , Lf = `/assets/background4t-CgR43iC3.webp`
+  , Rf = `/assets/background5-C8rPTCyH.webp`
+  , zf = `/assets/background5t-BUIwLYe9.webp`
+  , Bf = `/assets/background6-B64VUblt.webp`
+  , Vf = `/assets/background6t-CtQxnilw.webp`
+  , Hf = `/assets/background1-C64aKIx0.webp`
+  , Uf = `/assets/background1t-DMtLDqmO.webp`
+  , Wf = `/assets/background2-DBkYNRkh.webp`
+  , Gf = `/assets/background2t-C5uAKrl8.webp`
+  , Kf = `/assets/background3-CoJic9Le.webp`
+  , qf = `/assets/background3t-aFaeliYY.webp`
+  , Jf = `/assets/background4-BAO6WjXL.webp`
+  , Yf = `/assets/background4t-CF_Go9po.webp`
+  , Xf = `/assets/background5-BbSbo6Gy.webp`
+  , Zf = `data:image/webp;base64,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`
+  , Qf = `/assets/background6-CoMsrMbU.webp`
+  , $f = `data:image/webp;base64,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`
+  , ep = `/assets/background7-Cf2KQeVt.webp`
+  , tp = `data:image/webp;base64,UklGRjYHAABXRUJQVlA4WAoAAAAgAAAAvwAAXgAAVlA4IBgHAAAQIgCdASrAAF8APm0ylUekIyIlKHa6GKANiWkAzvLCX8O3p/GRVncBYFeEGkUx7+ktoI/tRU8OMigfl/ks4OxneuOnFAMUzPBGnHou7+7AxWV8MQquVD5UkYJ9ZvRlnGOa098lrA09zYAxqwxVEMGGNYebCl9zM5YGxN1wJJuiSCwSVyKlQniOqbyDpICQUPx1UTlp6eE7iGRn7XnfPvqvpdk0B4aE3eu32A8lJ55t5enLSs9bHUHFmsrk4P80tU81YvFwGCbCn9BAzCJvGrG+YAd2wWLgNNqqdfpSKfp3yqEP28raQ6jYIAq/WY2Rf20eB19jlcjipMX8STxWpYANNJsYqY6EnTna6t/+Sfa6LZ4uDwDuUT56kAD+/drM6Ou1Ejymh9+DwtOOFWfa8Xw2cICG9CNzk0+TPVazqRZUcoBrS2TvMyXfjpp4gOhXzeR39fGYKH1c387RJ0WFOB23HEh+VB/xbKjef6k8Kl1ISGN9OFe8LPHTI0GeZ//9tje3TJkheOgM5s6pp4iin3jWmX57Na0wETk1DrhZTgy31ziOgqGF2w/W2SLutUM98rvCD2KJas9NhCjv3FSvXUShePeGn1ghQ/1vqNMpBm8lTOoIdIOALJTyXAFOAky7RW2A0JXm8s8028HCkUBHlEEBAxsRaTqja+4RljR2hTe5HBYjIuo23JZuImNd0eOfxVKraApPVIlYB9URg5864BJAMen9JVrR7KVKfKDVA+UGutU8WEQ+1X1RiZOGhDFcbDnIzK4aVNRyN0+EROebEaK7/7XUDsnQBZFl3AUxZs4cEi3lVamm4ACMvVployNFW+zmlUC63w+D4lMwlAJwcIHL7u8vNgnAxRbrQ2hFx+DnZtQPuo0dk0kZD347z61h2dUB/1F/vh8DotKlcNWmCG4MKfUZbmnfloirYlYC/v8zlyAQjHw4PR2lvDtfaKbyTER9F5jYyifPQmQbVH3oldNlTzqNsgmSHGMxElfKfplt6NYkTDDKkGxM2XhVV0Ntme7l3fv3rIBdglHc1dDxk6EUjIxscLigYupjawM3axBOSVwLRmA3TyQt7r44f7NjWtXngwdEG6M2DR+pE8vwjTrROMoGbZIE9mU+8hFeJ6/dFX/rvrmdSjYpQHc1Y/sbWhKyc1pENkYwS3yS8E9c7L+cXMc6PCpo6h6cGxXENpmXshj6FoOAfnLoTA2RxAD7un51y0hnZwHyalgDdMiuWBJXplht0wBrQrXx79kyVaugJeki87Wd3v0BrIruBELpgYFgtGnh5mubZbTNg48pAuAqweCQHcyc+rZLVACCCZVW3sQduJtXFejcEaf2KXa1k77JhARUI+LODPG+zmPq/CEtjojbPTFZjU4EjA3JQCZAQROfP5DXw93Su9EEoLpRzsFvKfLZ1Cx9kguAajiMCWeP7VQyJlCcGr9OMOV1/dBd1PBo6gwnDhgwrIqXwZ41PkCCLWSmbQeSEdlcZy55bwy+vuK8v0Y5PeRArHgRosEGTuXns2aaWaoaKUYWRSS5WjMDJEXI1F21TG3S3b1WAfgz1Wz9UX0ioPYFU3tantmx0yfhbW1mlSEq+z0Wcgy8Ocl8fKRuXZ/ShXk27VjNoU54dsR6pEf26IGXgKp5ongnSl8cO5DLuanreLTkuvom4ZIfPyrulnpExq/66iGlp8OmCh72JPHq8VvPK7LeOtV4n3DkUrMJjwIhnE1T8wgsJHpfefTFY5qauaFAgKto+s3vb+TETRhjKuaikuQFVtazuEt9pghv53PpiyNQNXeoozzSZvXzjXY+bj0Xqq8wVZfUcuLAxr36gPJ5rFefjmvRHvM+FkP1Rg3POwHTR9sMzF/gb/I/7I6r82neSt16HHtNYMHwWlI395v93S8nVZsVVgIuHQw7De8QCtQO30sf1B336fKPSvCu6iMjy795gIeXBNnS9ZxkcDSHAo6HDXMCINuqKyFm/mzlb0XK8px07pnElVoYYSKVUam8W9KYzDqjM0utpVgcLNBIqm3N6nHPKg6VHJx7TLMWZWHVpXmQj08Ln6o+65oOzDF+/JiVaVtkPj2NeqlfvxYRoeIkFMqwm/9DWuB4pzCVc4MrzGQ3lnyroygfGLnsmw//a3yQtsgqTTHJ/3LEww4nAAqKNBd14rWiByZ4AyxPD3568bah7iHSVaK+i3uBw2txOAtceC+B8Aepkp89zadtfWVMImlUNuVe+sTo1vTPDIRVLPTIGMwhD5zkEUcgEVRM9ioSHAkFcrPauijx0yuplahBGpbRJlHgLmYiPU3WFNH3RhD/RtcIDn164M4H8yi9+PRN1/x4Xpn8YsLDDOVpU+ALIWgHl+8E8Yw7z2dAho/Yw10GVUWsy2JSQCKT3gK2iFPpvXb5pU41y3sHBvuvSdoarHjJsKE/kqP/QAAA`
+  , np = `/assets/background8-BBIeE9c0.webp`
+  , rp = `data:image/webp;base64,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`
+  , ip = `/assets/background1-CuyW2BLZ.webp`
+  , ap = `/assets/background1t-aLs_Jl5I.webp`
+  , op = `/assets/background2-K9_lN7Mc.webp`
+  , sp = `/assets/background2t-CckmZ43o.webp`
+  , cp = `/assets/background3-DcqXQDdD.webp`
+  , lp = `/assets/background3t-B7BHi4O8.webp`
+  , up = `/assets/background4-X8jQb4tv.webp`
+  , dp = `/assets/background4t-DV1DfgFp.webp`
+  , fp = `/assets/background5-DGQcUGSF.webp`
+  , pp = `/assets/background5t-SAesBd90.webp`
+  , mp = `/assets/background6-Bj2Pn2zr.webp`
+  , hp = `/assets/background6t-BGYqtwtm.webp`
+  , gp = `/assets/background1-NUIA0OVV.webp`
+  , _p = `/assets/background1t-BOuKVDN4.webp`
+  , vp = `/assets/background2-DycZEMhJ.webp`
+  , yp = `/assets/background2t-DOofBXDu.webp`
+  , bp = `/assets/background3-Dw6DXljd.webp`
+  , xp = `/assets/background3t-DrnWsxUb.webp`
+  , Sp = `/assets/background4-C7TzDZ7M.webp`
+  , Cp = `/assets/background4t-D26MBsn7.webp`
+  , wp = `/assets/background5-CUu8vEFl.webp`
+  , Tp = `/assets/background5t-BmsArEO-.webp`
+  , Ep = `/assets/background6-Dsvfc9R4.webp`
+  , Dp = `/assets/background6t-C_geWcN4.webp`
+  , Op = `/assets/background-bJ1INm6Z.webp`
+  , kp = `/assets/background1-C0iW8pNy.webp`
+  , Ap = `/assets/background1t-C4I5Mxpb.webp`
+  , jp = `/assets/background2-vSWVpkv3.webp`
+  , Mp = `/assets/background2t-8hTjdqtA.webp`
+  , Np = `/assets/background3-CzcrM8e7.webp`
+  , Pp = `/assets/background3t-BYZtXcQd.webp`
+  , Fp = {
     name: `Token`,
     props: {
         role: {
@@ -3040,44 +3028,44 @@ var Of = B(Cf, [[`render`, Df], [`__scopeId`, `data-v-339d1d0b`]])
         return {}
     }
 }
-  , Fp = [`aria-label`]
-  , Ip = {
+  , Ip = [`aria-label`]
+  , Lp = {
     key: 1,
     class: `leaf-left`
 }
-  , Lp = {
+  , Rp = {
     key: 2,
     class: `leaf-right`
 }
-  , Rp = {
+  , zp = {
     key: 4,
     class: `leaf-orange`
 }
-  , zp = {
+  , Bp = {
     viewBox: `0 0 140 140`,
     class: `name`,
     "aria-hidden": `true`
 }
-  , Bp = [`font-size`]
-  , Vp = {
+  , Vp = [`font-size`]
+  , Hp = {
     "xlink:href": `#circle-path`
 }
-  , Hp = {
+  , Up = {
     key: 5,
     class: `ability`
 }
-  , Up = {
+  , Wp = {
     key: 0,
     class: `alt-name`
 }
-  , Wp = {
+  , Gp = {
     key: 1
 }
-  , Gp = {
+  , Kp = {
     key: 2,
     class: `flavor`
 };
-function Kp(e, t, n, a, o, s) {
+function qp(e, t, n, a, o, s) {
     var c, l;
     return d(),
     F(`div`, {
@@ -3095,32 +3083,32 @@ function Kp(e, t, n, a, o, s) {
         class: `icon`,
         style: _(e.roleIconCSS(n.role, n.alignment))
     }, null, 4)) : r(``, !0), n.role.firstNight || n.role.firstNightReminder ? (d(),
-    F(`span`, Ip)) : r(``, !0), n.role.otherNight || n.role.otherNightReminder ? (d(),
-    F(`span`, Lp)) : r(``, !0), s.reminderLeaves ? (d(),
+    F(`span`, Lp)) : r(``, !0), n.role.otherNight || n.role.otherNightReminder ? (d(),
+    F(`span`, Rp)) : r(``, !0), s.reminderLeaves ? (d(),
     F(`span`, {
         key: 3,
         class: v([`leaf-top`, [`leaf-top` + Math.min(s.reminderLeaves, 6)]])
     }, null, 2)) : r(``, !0), n.role.setup ? (d(),
-    F(`span`, Rp)) : r(``, !0), (d(),
-    F(`svg`, zp, [n.role.id ? (d(),
+    F(`span`, zp)) : r(``, !0), (d(),
+    F(`svg`, Bp, [n.role.id ? (d(),
     F(`text`, {
         key: 0,
         x: `100%`,
         "text-anchor": `middle`,
         class: `label mozilla`,
         "font-size": s.roleNameFontSize
-    }, [I(`textPath`, Vp, y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name), 1)], 8, Bp)) : r(``, !0)])), n.role.ability ? (d(),
-    F(`div`, Hp, [I(`b`, null, y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name), 1), e.settings.game.isEnglishNames && e.$te(`roles.${n.role.id}.name`) && e.$t(`roles.${n.role.id}.name`) !== n.role.name ? (d(),
-    F(`span`, Up, ` (` + y(n.role.name) + `)`, 1)) : r(``, !0), I(`i`, null, `– ` + y(e.$t(`grimoire.${n.role.team}`)), 1), t[0] || (t[0] = I(`br`, null, null, -1)), i(` ` + y(e.$te(`roles.${n.role.id}.ability`) ? e.$t(`roles.${n.role.id}.ability`) : n.role.ability) + ` `, 1), n.role.id === `bootlegger` && (l = e.edition.bootlegger) != null && l.length ? (d(),
-    F(`ul`, Wp, [(d(!0),
+    }, [I(`textPath`, Hp, y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name), 1)], 8, Vp)) : r(``, !0)])), n.role.ability ? (d(),
+    F(`div`, Up, [I(`b`, null, y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name), 1), e.settings.game.isEnglishNames && e.$te(`roles.${n.role.id}.name`) && e.$t(`roles.${n.role.id}.name`) !== n.role.name ? (d(),
+    F(`span`, Wp, ` (` + y(n.role.name) + `)`, 1)) : r(``, !0), I(`i`, null, `– ` + y(e.$t(`grimoire.${n.role.team}`)), 1), t[0] || (t[0] = I(`br`, null, null, -1)), i(` ` + y(e.$te(`roles.${n.role.id}.ability`) ? e.$t(`roles.${n.role.id}.ability`) : n.role.ability) + ` `, 1), n.role.id === `bootlegger` && (l = e.edition.bootlegger) != null && l.length ? (d(),
+    F(`ul`, Gp, [(d(!0),
     F(S, null, p(e.edition.bootlegger, (e, t) => (d(),
     F(`li`, {
         key: t
     }, y(e), 1))), 128))])) : r(``, !0), n.role.flavor ? (d(),
-    F(`div`, Gp, y(e.$te(`roles.${n.role.id}.flavor`) ? e.$t(`roles.${n.role.id}.flavor`) : n.role.flavor), 1)) : r(``, !0)])) : r(``, !0)], 10, Fp)
+    F(`div`, Kp, y(e.$te(`roles.${n.role.id}.flavor`) ? e.$t(`roles.${n.role.id}.flavor`) : n.role.flavor), 1)) : r(``, !0)])) : r(``, !0)], 10, Ip)
 }
-var G = B(Pp, [[`render`, Kp], [`__scopeId`, `data-v-ae3a2122`]])
-  , qp = {
+var G = B(Fp, [[`render`, qp], [`__scopeId`, `data-v-ae3a2122`]])
+  , Jp = {
     name: `PlayerMenu`,
     props: {
         player: {
@@ -3214,19 +3202,19 @@ var G = B(Pp, [[`render`, Kp], [`__scopeId`, `data-v-ae3a2122`]])
         }
     }
 }
-  , Jp = {
+  , Yp = {
     key: 0,
     class: `menu`
 }
-  , Yp = [`onClick`];
-function Xp(e, t, n, a, o, s) {
+  , Xp = [`onClick`];
+function Zp(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`);
     return d(),
     h(w, {
         name: `fold`
     }, {
         default: m( () => [e.grimoire.menuOpen === `p` + s.index ? (d(),
-        F(`ul`, Jp, [e.isStoryteller ? (d(!0),
+        F(`ul`, Yp, [e.isStoryteller ? (d(!0),
         F(S, {
             key: 0
         }, p([...e.filterAbilities(n.player, `ability`), ...e.filterAbilities(n.player, `player`)], ({ability: n, role: r}, a) => (d(),
@@ -3236,7 +3224,7 @@ function Xp(e, t, n, a, o, s) {
             onClick: e => s.useAbility(n)
         }, [f(l, {
             icon: `star`
-        }), I(`span`, null, [i(y(e.$te(`roles.${r.id}.name`) ? e.$t(`roles.${r.id}.name`) : r.name) + `:`, 1), t[6] || (t[6] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`grimoire.abilities.${n.name}`, n.name)), 1)])], 8, Yp))), 128)) : r(``, !0), s.canChangeCharacter ? (d(),
+        }), I(`span`, null, [i(y(e.$te(`roles.${r.id}.name`) ? e.$t(`roles.${r.id}.name`) : r.name) + `:`, 1), t[6] || (t[6] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`grimoire.abilities.${n.name}`, n.name)), 1)])], 8, Xp))), 128)) : r(``, !0), s.canChangeCharacter ? (d(),
         F(`li`, {
             key: 1,
             onClick: t[0] || (t[0] = e => s.changeCharacter())
@@ -3293,12 +3281,12 @@ function Xp(e, t, n, a, o, s) {
         _: 1
     })
 }
-var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
-  , Qp = `/assets/bugreporter-Jilx8avW.mp4`
-  , $p = `/assets/bugreporter-BuoqQ1WR.webm`
-  , em = `/assets/worldcup25-BHTbsf-H.mp4`
-  , tm = `/assets/worldcup25-DQ8_m4si.webm`
-  , nm = {
+var Qp = B(Jp, [[`render`, Zp], [`__scopeId`, `data-v-43f40306`]])
+  , $p = `/assets/bugreporter-Jilx8avW.mp4`
+  , em = `/assets/bugreporter-BuoqQ1WR.webm`
+  , tm = `/assets/worldcup25-BHTbsf-H.mp4`
+  , nm = `/assets/worldcup25-DQ8_m4si.webm`
+  , rm = {
     bugreporter: {
         overlay: !0
     },
@@ -3309,7 +3297,7 @@ var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
         loop: !0
     }
 }
-  , rm = {
+  , im = {
     name: `Emote`,
     components: {
         FontAwesomeIcon: Kn
@@ -3324,7 +3312,7 @@ var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
         ...N([`roleIconCSS`]),
         ...A([`session`, `vote`]),
         animation() {
-            return nm[this.name]
+            return rm[this.name]
         },
         icon() {
             var e;
@@ -3342,7 +3330,7 @@ var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
         },
         transitionStyle() {
             var e;
-            return (e = nm[this.name]) != null && e.overlay ? `emote-overlay` : `emote-peek`
+            return (e = rm[this.name]) != null && e.overlay ? `emote-overlay` : `emote-peek`
         },
         emoteClasses() {
             return {
@@ -3353,7 +3341,7 @@ var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
         videoAttributes() {
             var e;
             return {
-                loop: ((e = nm[this.name]) == null ? void 0 : e.loop) || !1
+                loop: ((e = rm[this.name]) == null ? void 0 : e.loop) || !1
             }
         }
     },
@@ -3362,19 +3350,19 @@ var Zp = B(qp, [[`render`, Xp], [`__scopeId`, `data-v-43f40306`]])
             if (this.animation)
                 return new URL(Object.assign({
                     "/src/assets/cosmetics/emotes/bugreporter-icon.webp": qn,
-                    "/src/assets/cosmetics/emotes/bugreporter.mp4": Qp,
-                    "/src/assets/cosmetics/emotes/bugreporter.webm": $p,
+                    "/src/assets/cosmetics/emotes/bugreporter.mp4": $p,
+                    "/src/assets/cosmetics/emotes/bugreporter.webm": em,
                     "/src/assets/cosmetics/emotes/bugreporter2-icon.webp": Jn,
                     "/src/assets/cosmetics/emotes/worldcup25-icon.webp": Yn,
-                    "/src/assets/cosmetics/emotes/worldcup25.mp4": em,
-                    "/src/assets/cosmetics/emotes/worldcup25.webm": tm
+                    "/src/assets/cosmetics/emotes/worldcup25.mp4": tm,
+                    "/src/assets/cosmetics/emotes/worldcup25.webm": nm
                 })[`/src/assets/cosmetics/emotes/${this.name}.${e}`],import.meta.url).href
         }
     }
 }
-  , im = [`src`]
-  , am = [`src`];
-function om(e, n, i, a, o, s) {
+  , am = [`src`]
+  , om = [`src`];
+function sm(e, n, i, a, o, s) {
     let l = c(`font-awesome-icon`);
     return d(),
     h(w, {
@@ -3403,10 +3391,10 @@ function om(e, n, i, a, o, s) {
         }, s.videoAttributes), [I(`source`, {
             src: s.videoUrl(`mp4`),
             type: `video/mp4;codecs=hvc1`
-        }, null, 8, im), I(`source`, {
+        }, null, 8, am), I(`source`, {
             src: s.videoUrl(`webm`),
             type: `video/webm`
-        }, null, 8, am)], 16)) : s.icon ? (d(),
+        }, null, 8, om)], 16)) : s.icon ? (d(),
         h(l, {
             key: 2,
             class: `emote-icon`,
@@ -3420,11 +3408,11 @@ function om(e, n, i, a, o, s) {
         _: 1
     }, 8, [`name`])
 }
-var sm = B(rm, [[`render`, om], [`__scopeId`, `data-v-abb36635`]])
-  , cm = {
+var cm = B(im, [[`render`, sm], [`__scopeId`, `data-v-abb36635`]])
+  , lm = {
     name: `PlayerOverlay`,
     components: {
-        Emote: sm
+        Emote: cm
     },
     props: {
         player: {
@@ -3494,17 +3482,17 @@ var sm = B(rm, [[`render`, om], [`__scopeId`, `data-v-abb36635`]])
         ...M(`vote`, [`nominatePlayer`])
     }
 }
-  , lm = {
+  , um = {
     class: `overlay`
 }
-  , um = {
+  , dm = {
     class: `mirror`
 };
-function dm(e, t, n, i, a, o) {
+function fm(e, t, n, i, a, o) {
     let s = c(`font-awesome-icon`)
       , l = c(`Emote`);
     return d(),
-    F(`div`, lm, [f(T, {
+    F(`div`, um, [f(T, {
         name: `zoom`
     }, {
         default: m( () => [e.grimoire.playerSelectCallback ? (d(),
@@ -3637,15 +3625,15 @@ function dm(e, t, n, i, a, o) {
             onClick: t[6] || (t[6] = t => e.pointAtPlayer(o.playerIndex))
         }, null, 8, [`class`, `icon`, `aria-label`, `style`])) : r(``, !0)], 64))]),
         _: 1
-    }), I(`div`, um, [n.player.id ? (d(),
+    }), I(`div`, dm, [n.player.id ? (d(),
     h(l, {
         key: 0,
         "player-id": n.player.id
     }, null, 8, [`player-id`])) : r(``, !0)])])
 }
-var fm = B(cm, [[`render`, dm], [`__scopeId`, `data-v-a2b25f1a`]])
-  , pm = e(Tn())
-  , mm = (e, t) => {
+var pm = B(lm, [[`render`, fm], [`__scopeId`, `data-v-a2b25f1a`]])
+  , mm = e(Tn())
+  , hm = (e, t) => {
     var n, r;
     if (!e || Array.from(e.classList).includes(`muted`))
         return;
@@ -3657,7 +3645,7 @@ var fm = B(cm, [[`render`, dm], [`__scopeId`, `data-v-a2b25f1a`]])
     (e.closest(`li`) || e).style.setProperty(`--volume`, o),
     window.whispersElem && window.whispersElem.style.setProperty(`--volume${a}`, o)
 }
-  , hm = (e, t) => {
+  , gm = (e, t) => {
     var n;
     if (!e || Array.from(e.classList).includes(`muted`))
         return;
@@ -3665,7 +3653,7 @@ var fm = B(cm, [[`render`, dm], [`__scopeId`, `data-v-a2b25f1a`]])
     (e.closest(`li`) || e).style.setProperty(`--speaking${r}`, +!!t),
     window.whispersElem && window.whispersElem.style.setProperty(`--speaking${r}`, +!!t)
 }
-  , gm = {
+  , _m = {
     name: `ChatAudio`,
     computed: {
         ...A([`chat`, `session`]),
@@ -3718,21 +3706,21 @@ var fm = B(cm, [[`render`, dm], [`__scopeId`, `data-v-a2b25f1a`]])
             !this.stream || !this.stream.getAudioTracks()[0])
                 return;
             this.hark = (0,
-            pm.default)(this.stream, {
+            mm.default)(this.stream, {
                 play: !1,
                 interval: 100,
                 audioContext: this.chat.audio.context
             });
             let e = this.$refs.audioContainer;
-            this.hark.on(`volume_change`, mm.bind(this, e)),
-            this.hark.on(`speaking`, () => hm(e, !0)),
-            this.hark.on(`stopped_speaking`, () => hm(e, !1))
+            this.hark.on(`volume_change`, hm.bind(this, e)),
+            this.hark.on(`speaking`, () => gm(e, !0)),
+            this.hark.on(`stopped_speaking`, () => gm(e, !1))
         }
     },
     beforeUnmount() {
         this.hark && this.hark.stop(),
-        hm(this.$refs.audioContainer, !1),
-        mm(this.$refs.audioContainer, -100)
+        gm(this.$refs.audioContainer, !1),
+        hm(this.$refs.audioContainer, -100)
     },
     mounted() {
         this.$nextTick( () => {
@@ -3742,28 +3730,28 @@ var fm = B(cm, [[`render`, dm], [`__scopeId`, `data-v-a2b25f1a`]])
     },
     watch: {
         stream() {
-            this.stream ? this.$nextTick( () => this.initVolumeBar()) : (hm(this.$refs.audioContainer, !1),
-            mm(this.$refs.audioContainer, -100))
+            this.stream ? this.$nextTick( () => this.initVolumeBar()) : (gm(this.$refs.audioContainer, !1),
+            hm(this.$refs.audioContainer, -100))
         },
         "chat.isNotAllowed"() {
             this.chat.isNotAllowed || this.initVolumeBar()
         },
         muted() {
-            this.muted && (hm(this.$refs.audioContainer, !1),
-            mm(this.$refs.audioContainer, -100))
+            this.muted && (gm(this.$refs.audioContainer, !1),
+            hm(this.$refs.audioContainer, -100))
         }
     }
 }
-  , _m = {
+  , vm = {
     key: 0,
     class: `chat-audio`
 }
-  , vm = [`data-volume`, `data-userid`, `title`];
-function ym(e, t, n, i, a, o) {
+  , ym = [`data-volume`, `data-userid`, `title`];
+function bm(e, t, n, i, a, o) {
     var s;
     let l = c(`font-awesome-icon`);
     return e.session.sessionId && n.userId && e.chat.isConnected && (s = e.session.users.get(n.userId)) != null && s.isOnline ? (d(),
-    F(`div`, _m, [o.stream ? (d(),
+    F(`div`, vm, [o.stream ? (d(),
     F(`div`, {
         key: 0,
         class: v([`audio`, {
@@ -3787,7 +3775,7 @@ function ym(e, t, n, i, a, o) {
     h(l, {
         key: 2,
         icon: `microphone-slash`
-    })) : r(``, !0)], 10, vm)) : e.chat.consumers.has(n.userId) || n.userId === e.user.id ? (d(),
+    })) : r(``, !0)], 10, ym)) : e.chat.consumers.has(n.userId) || n.userId === e.user.id ? (d(),
     F(`div`, {
         key: 1,
         onClick: t[1] || (t[1] = L( () => {}
@@ -3803,11 +3791,11 @@ function ym(e, t, n, i, a, o) {
         title: e.$t(`player.name.listening`)
     }, null, 8, [`title`]))])) : r(``, !0)])) : r(``, !0)
 }
-var bm = B(gm, [[`render`, ym], [`__scopeId`, `data-v-d9bf5d2c`]])
-  , xm = {
+var xm = B(_m, [[`render`, bm], [`__scopeId`, `data-v-d9bf5d2c`]])
+  , Sm = {
     name: `PlayerName`,
     components: {
-        ChatAudio: bm
+        ChatAudio: xm
     },
     props: {
         player: {
@@ -3892,22 +3880,22 @@ var bm = B(gm, [[`render`, ym], [`__scopeId`, `data-v-d9bf5d2c`]])
         }
     }
 }
-  , Sm = [`title`, `draggable`]
-  , Cm = {
+  , Cm = [`title`, `draggable`]
+  , wm = {
     class: `name`
 }
-  , wm = {
+  , Tm = {
     key: 0
 }
-  , Tm = {
+  , Em = {
     key: 0,
     class: `pronouns`
 }
-  , Em = {
+  , Dm = {
     key: 1,
     class: `pronouns`
 };
-function Dm(e, t, n, i, a, o) {
+function Om(e, t, n, i, a, o) {
     var s, l, u, p, m;
     let g = c(`font-awesome-icon`)
       , b = c(`ChatAudio`);
@@ -3927,8 +3915,8 @@ function Dm(e, t, n, i, a, o) {
         onClick: t[1] || (t[1] = e => o.changeName()),
         onDragstart: t[2] || (t[2] = e => o.startDrag(e)),
         onDragend: t[3] || (t[3] = e => o.stopDrag())
-    }, [I(`div`, Cm, [o.videoMuted ? (d(),
-    F(`div`, wm, [f(g, {
+    }, [I(`div`, wm, [o.videoMuted ? (d(),
+    F(`div`, Tm, [f(g, {
         class: v([`video`, {
             silenced: e.chat.userOverrides.get(`novideo-` + n.player.id) === 1,
             muted: e.chat.userOverrides.get(`novideo-` + n.player.id) !== 1
@@ -3973,11 +3961,11 @@ function Dm(e, t, n, i, a, o) {
         title: e.$t(`player.name.remove`),
         onClick: t[0] || (t[0] = L(e => o.removePlayer(), [`stop`]))
     }, null, 8, [`title`])) : r(``, !0)]), o.playerUser.pronouns && e.session.sessionId ? (d(),
-    F(`div`, Tm, y(o.playerUser.pronouns), 1)) : !n.player.id && e.session.sessionId ? (d(),
-    F(`div`, Em, y(e.$t(`player.name.claim`)), 1)) : r(``, !0)], 46, Sm)
+    F(`div`, Em, y(o.playerUser.pronouns), 1)) : !n.player.id && e.session.sessionId ? (d(),
+    F(`div`, Dm, y(e.$t(`player.name.claim`)), 1)) : r(``, !0)], 46, Cm)
 }
-var Om = B(xm, [[`render`, Dm], [`__scopeId`, `data-v-a97a535a`]])
-  , km = {
+var km = B(Sm, [[`render`, Om], [`__scopeId`, `data-v-a97a535a`]])
+  , Am = {
     name: `Reminder`,
     props: {
         reminder: {
@@ -4014,28 +4002,28 @@ var Om = B(xm, [[`render`, Dm], [`__scopeId`, `data-v-a97a535a`]])
         return {}
     }
 }
-  , Am = () => {
+  , jm = () => {
     j(e => ({
         v41e45315: e.zoom
     }))
 }
-  , jm = km.setup;
-km.setup = jm ? (e, t) => (Am(),
-jm(e, t)) : Am;
-var Mm = {
+  , Mm = Am.setup;
+Am.setup = Mm ? (e, t) => (jm(),
+Mm(e, t)) : jm;
+var Nm = {
     key: 1,
     viewBox: `0 0 140 140`,
     class: `text`
 }
-  , Nm = [`font-size`]
-  , Pm = {
+  , Pm = [`font-size`]
+  , Fm = {
     "xlink:href": `#circle-path`
 }
-  , Fm = {
+  , Im = {
     key: 2,
     class: `text`
 };
-function Im(e, t, n, i, a, s) {
+function Lm(e, t, n, i, a, s) {
     return d(),
     F(`div`, {
         class: v([`reminder`, s.classes])
@@ -4045,19 +4033,19 @@ function Im(e, t, n, i, a, s) {
         class: `icon`,
         style: _(e.roleIconCSS(n.reminder.role))
     }, null, 4)) : r(``, !0), n.reminder.role && (n.reminder.role !== `custom` || n.reminder.name.length < 15) ? (d(),
-    F(`svg`, Mm, [I(`text`, {
+    F(`svg`, Nm, [I(`text`, {
         x: `100%`,
         "text-anchor": `middle`,
         class: `label mozilla`,
         "font-size": s.fontSize
-    }, [I(`textPath`, Pm, y(n.reminder.role !== `custom` && e.$te(`reminders.${s.id}`) ? e.$t(`reminders.${s.id}`) : n.reminder.name), 1)], 8, Nm)])) : n.reminder.name ? (d(),
-    F(`span`, Fm, y(n.reminder.name), 1)) : r(``, !0), o(e.$slots, `default`, {}, void 0, !0)], 2)
+    }, [I(`textPath`, Fm, y(n.reminder.role !== `custom` && e.$te(`reminders.${s.id}`) ? e.$t(`reminders.${s.id}`) : n.reminder.name), 1)], 8, Pm)])) : n.reminder.name ? (d(),
+    F(`span`, Im, y(n.reminder.name), 1)) : r(``, !0), o(e.$slots, `default`, {}, void 0, !0)], 2)
 }
-var Lm = B(km, [[`render`, Im], [`__scopeId`, `data-v-e0f28173`]])
-  , Rm = {
+var Rm = B(Am, [[`render`, Lm], [`__scopeId`, `data-v-e0f28173`]])
+  , zm = {
     name: `PlayerReminders`,
     components: {
-        Reminder: Lm
+        Reminder: Rm
     },
     props: {
         player: {
@@ -4141,19 +4129,19 @@ var Lm = B(km, [[`render`, Im], [`__scopeId`, `data-v-e0f28173`]])
         }
     }
 }
-  , zm = {
+  , Bm = {
     class: `reminders`,
     role: `list`
 }
-  , Bm = {
+  , Vm = {
     key: 0,
     class: `overlay`
 };
-function Vm(e, t, n, i, a, o) {
+function Hm(e, t, n, i, a, o) {
     let s = c(`font-awesome-icon`)
       , l = c(`Reminder`);
     return d(),
-    F(`div`, zm, [(d(!0),
+    F(`div`, Bm, [(d(!0),
     F(S, null, p(n.player.reminders, (t, n) => (d(),
     h(l, {
         key: n,
@@ -4162,7 +4150,7 @@ function Vm(e, t, n, i, a, o) {
         default: m( () => {
             var n;
             return [e.isStoryteller || !((n = t.flags) != null && n.includes(`public`)) ? (d(),
-            F(`div`, Bm, [t.role === `custom` ? (d(),
+            F(`div`, Vm, [t.role === `custom` ? (d(),
             h(s, {
                 key: 1,
                 class: `save`,
@@ -4200,8 +4188,8 @@ function Vm(e, t, n, i, a, o) {
         }), [`stop`]))
     }, null, 8, [`aria-label`])])
 }
-var Hm = B(Rm, [[`render`, Vm], [`__scopeId`, `data-v-c0eff904`]])
-  , Um = {
+var Um = B(zm, [[`render`, Hm], [`__scopeId`, `data-v-c0eff904`]])
+  , Wm = {
     name: `PlayerWhisper`,
     props: {
         player: {
@@ -4230,13 +4218,13 @@ var Hm = B(Rm, [[`render`, Vm], [`__scopeId`, `data-v-c0eff904`]])
     },
     methods: {}
 }
-  , Wm = {
+  , Gm = {
     class: `whisper`
 };
-function Gm(e, t, n, r, i, a) {
+function Km(e, t, n, r, i, a) {
     let o = c(`font-awesome-icon`);
     return d(),
-    F(`div`, Wm, [(d(!0),
+    F(`div`, Gm, [(d(!0),
     F(S, null, p(a.whisperIndicators, ({msgId: e, prev: t, next: n, length: r}) => (d(),
     F(`span`, {
         key: e,
@@ -4252,37 +4240,37 @@ function Gm(e, t, n, r, i, a) {
         icon: `envelope`
     })], 6))), 128))])
 }
-var Km = B(Um, [[`render`, Gm], [`__scopeId`, `data-v-6ba4b276`]])
-  , qm = `/assets/avatar0-u1LxaXkZ.webp`
-  , Jm = `/assets/avatar1-CIODRiLI.webp`
-  , Ym = `/assets/avatar10-Ce5aMeqa.webp`
-  , Xm = `/assets/avatar11-D0soE0Fu.webp`
-  , Zm = `/assets/avatar12-CQBRBiyb.webp`
-  , Qm = `/assets/avatar13-Bpg0u82M.webp`
-  , $m = `/assets/avatar14-h_wJnEaW.webp`
-  , eh = `/assets/avatar15-B7bRtsAD.webp`
-  , th = `/assets/avatar16-u00HGBBf.webp`
-  , nh = `/assets/avatar17-amVAvnUE.webp`
-  , rh = `/assets/avatar18-BIZPKahS.webp`
-  , ih = `/assets/avatar19-Bbs0PuH3.webp`
-  , ah = `/assets/avatar2-DYXL9YFA.webp`
-  , oh = `/assets/avatar20-MD1WsuJ6.webp`
-  , sh = `/assets/avatar21-Bs2m13ni.webp`
-  , ch = `/assets/avatar22-Bq1IgAYY.webp`
-  , lh = `/assets/avatar23-BKNYnWO7.webp`
-  , uh = `/assets/avatar24-D1bqdpeq.webp`
-  , dh = `/assets/avatar25-C0TghHJl.webp`
-  , fh = `/assets/avatar26-BbpC9TVV.webp`
-  , ph = `/assets/avatar27-CnpM0r3p.webp`
-  , mh = `/assets/avatar3-B2H-m15c.webp`
-  , hh = `/assets/avatar4--Z7nPrzq.webp`
-  , gh = `/assets/avatar5-CMBaoxol.webp`
-  , _h = `/assets/avatar6-DfDkBP7R.webp`
-  , vh = `/assets/avatar7-B6pbOZSY.webp`
-  , yh = `/assets/avatar8-BD4fLzfO.webp`
-  , bh = `/assets/avatar9-BsG8Afot.webp`
-  , xh = `/assets/avatarworldcup25-BaNix0NU.webp`
-  , Sh = {
+var qm = B(Wm, [[`render`, Km], [`__scopeId`, `data-v-6ba4b276`]])
+  , Jm = `/assets/avatar0-u1LxaXkZ.webp`
+  , Ym = `/assets/avatar1-CIODRiLI.webp`
+  , Xm = `/assets/avatar10-Ce5aMeqa.webp`
+  , Zm = `/assets/avatar11-D0soE0Fu.webp`
+  , Qm = `/assets/avatar12-CQBRBiyb.webp`
+  , $m = `/assets/avatar13-Bpg0u82M.webp`
+  , eh = `/assets/avatar14-h_wJnEaW.webp`
+  , th = `/assets/avatar15-B7bRtsAD.webp`
+  , nh = `/assets/avatar16-u00HGBBf.webp`
+  , rh = `/assets/avatar17-amVAvnUE.webp`
+  , ih = `/assets/avatar18-BIZPKahS.webp`
+  , ah = `/assets/avatar19-Bbs0PuH3.webp`
+  , oh = `/assets/avatar2-DYXL9YFA.webp`
+  , sh = `/assets/avatar20-MD1WsuJ6.webp`
+  , ch = `/assets/avatar21-Bs2m13ni.webp`
+  , lh = `/assets/avatar22-Bq1IgAYY.webp`
+  , uh = `/assets/avatar23-BKNYnWO7.webp`
+  , dh = `/assets/avatar24-D1bqdpeq.webp`
+  , fh = `/assets/avatar25-C0TghHJl.webp`
+  , ph = `/assets/avatar26-BbpC9TVV.webp`
+  , mh = `/assets/avatar27-CnpM0r3p.webp`
+  , hh = `/assets/avatar3-B2H-m15c.webp`
+  , gh = `/assets/avatar4--Z7nPrzq.webp`
+  , _h = `/assets/avatar5-CMBaoxol.webp`
+  , vh = `/assets/avatar6-DfDkBP7R.webp`
+  , yh = `/assets/avatar7-B6pbOZSY.webp`
+  , bh = `/assets/avatar8-BD4fLzfO.webp`
+  , xh = `/assets/avatar9-BsG8Afot.webp`
+  , Sh = `/assets/avatarworldcup25-BaNix0NU.webp`
+  , Ch = {
     name: `PlayerAvatar`,
     props: {
         user: {
@@ -4314,65 +4302,65 @@ var Km = B(Um, [[`render`, Gm], [`__scopeId`, `data-v-6ba4b276`]])
         },
         avatarImageURL() {
             return this.isBlocked ? new URL(`/assets/blocked-IXrgzNSB.webp`,`` + import.meta.url).href : typeof this.validatedAvatar == `number` ? this.validatedAvatar >= 0 ? new URL(Object.assign({
-                "/src/assets/cosmetics/avatar0.webp": qm,
-                "/src/assets/cosmetics/avatar1.webp": Jm,
-                "/src/assets/cosmetics/avatar10.webp": Ym,
-                "/src/assets/cosmetics/avatar11.webp": Xm,
-                "/src/assets/cosmetics/avatar12.webp": Zm,
-                "/src/assets/cosmetics/avatar13.webp": Qm,
-                "/src/assets/cosmetics/avatar14.webp": $m,
-                "/src/assets/cosmetics/avatar15.webp": eh,
-                "/src/assets/cosmetics/avatar16.webp": th,
-                "/src/assets/cosmetics/avatar17.webp": nh,
-                "/src/assets/cosmetics/avatar18.webp": rh,
-                "/src/assets/cosmetics/avatar19.webp": ih,
-                "/src/assets/cosmetics/avatar2.webp": ah,
-                "/src/assets/cosmetics/avatar20.webp": oh,
-                "/src/assets/cosmetics/avatar21.webp": sh,
-                "/src/assets/cosmetics/avatar22.webp": ch,
-                "/src/assets/cosmetics/avatar23.webp": lh,
-                "/src/assets/cosmetics/avatar24.webp": uh,
-                "/src/assets/cosmetics/avatar25.webp": dh,
-                "/src/assets/cosmetics/avatar26.webp": fh,
-                "/src/assets/cosmetics/avatar27.webp": ph,
-                "/src/assets/cosmetics/avatar3.webp": mh,
-                "/src/assets/cosmetics/avatar4.webp": hh,
-                "/src/assets/cosmetics/avatar5.webp": gh,
-                "/src/assets/cosmetics/avatar6.webp": _h,
-                "/src/assets/cosmetics/avatar7.webp": vh,
-                "/src/assets/cosmetics/avatar8.webp": yh,
-                "/src/assets/cosmetics/avatar9.webp": bh,
-                "/src/assets/cosmetics/avatarworldcup25.webp": xh
+                "/src/assets/cosmetics/avatar0.webp": Jm,
+                "/src/assets/cosmetics/avatar1.webp": Ym,
+                "/src/assets/cosmetics/avatar10.webp": Xm,
+                "/src/assets/cosmetics/avatar11.webp": Zm,
+                "/src/assets/cosmetics/avatar12.webp": Qm,
+                "/src/assets/cosmetics/avatar13.webp": $m,
+                "/src/assets/cosmetics/avatar14.webp": eh,
+                "/src/assets/cosmetics/avatar15.webp": th,
+                "/src/assets/cosmetics/avatar16.webp": nh,
+                "/src/assets/cosmetics/avatar17.webp": rh,
+                "/src/assets/cosmetics/avatar18.webp": ih,
+                "/src/assets/cosmetics/avatar19.webp": ah,
+                "/src/assets/cosmetics/avatar2.webp": oh,
+                "/src/assets/cosmetics/avatar20.webp": sh,
+                "/src/assets/cosmetics/avatar21.webp": ch,
+                "/src/assets/cosmetics/avatar22.webp": lh,
+                "/src/assets/cosmetics/avatar23.webp": uh,
+                "/src/assets/cosmetics/avatar24.webp": dh,
+                "/src/assets/cosmetics/avatar25.webp": fh,
+                "/src/assets/cosmetics/avatar26.webp": ph,
+                "/src/assets/cosmetics/avatar27.webp": mh,
+                "/src/assets/cosmetics/avatar3.webp": hh,
+                "/src/assets/cosmetics/avatar4.webp": gh,
+                "/src/assets/cosmetics/avatar5.webp": _h,
+                "/src/assets/cosmetics/avatar6.webp": vh,
+                "/src/assets/cosmetics/avatar7.webp": yh,
+                "/src/assets/cosmetics/avatar8.webp": bh,
+                "/src/assets/cosmetics/avatar9.webp": xh,
+                "/src/assets/cosmetics/avatarworldcup25.webp": Sh
             })[`/src/assets/cosmetics/avatar${this.validatedAvatar}.webp`],import.meta.url).href : `https://img.botc.app/avatars/${this.user.id}.webp?c${Number(this.validatedAvatar)}` : new URL(Object.assign({
-                "/src/assets/cosmetics/avatar0.webp": qm,
-                "/src/assets/cosmetics/avatar1.webp": Jm,
-                "/src/assets/cosmetics/avatar10.webp": Ym,
-                "/src/assets/cosmetics/avatar11.webp": Xm,
-                "/src/assets/cosmetics/avatar12.webp": Zm,
-                "/src/assets/cosmetics/avatar13.webp": Qm,
-                "/src/assets/cosmetics/avatar14.webp": $m,
-                "/src/assets/cosmetics/avatar15.webp": eh,
-                "/src/assets/cosmetics/avatar16.webp": th,
-                "/src/assets/cosmetics/avatar17.webp": nh,
-                "/src/assets/cosmetics/avatar18.webp": rh,
-                "/src/assets/cosmetics/avatar19.webp": ih,
-                "/src/assets/cosmetics/avatar2.webp": ah,
-                "/src/assets/cosmetics/avatar20.webp": oh,
-                "/src/assets/cosmetics/avatar21.webp": sh,
-                "/src/assets/cosmetics/avatar22.webp": ch,
-                "/src/assets/cosmetics/avatar23.webp": lh,
-                "/src/assets/cosmetics/avatar24.webp": uh,
-                "/src/assets/cosmetics/avatar25.webp": dh,
-                "/src/assets/cosmetics/avatar26.webp": fh,
-                "/src/assets/cosmetics/avatar27.webp": ph,
-                "/src/assets/cosmetics/avatar3.webp": mh,
-                "/src/assets/cosmetics/avatar4.webp": hh,
-                "/src/assets/cosmetics/avatar5.webp": gh,
-                "/src/assets/cosmetics/avatar6.webp": _h,
-                "/src/assets/cosmetics/avatar7.webp": vh,
-                "/src/assets/cosmetics/avatar8.webp": yh,
-                "/src/assets/cosmetics/avatar9.webp": bh,
-                "/src/assets/cosmetics/avatarworldcup25.webp": xh
+                "/src/assets/cosmetics/avatar0.webp": Jm,
+                "/src/assets/cosmetics/avatar1.webp": Ym,
+                "/src/assets/cosmetics/avatar10.webp": Xm,
+                "/src/assets/cosmetics/avatar11.webp": Zm,
+                "/src/assets/cosmetics/avatar12.webp": Qm,
+                "/src/assets/cosmetics/avatar13.webp": $m,
+                "/src/assets/cosmetics/avatar14.webp": eh,
+                "/src/assets/cosmetics/avatar15.webp": th,
+                "/src/assets/cosmetics/avatar16.webp": nh,
+                "/src/assets/cosmetics/avatar17.webp": rh,
+                "/src/assets/cosmetics/avatar18.webp": ih,
+                "/src/assets/cosmetics/avatar19.webp": ah,
+                "/src/assets/cosmetics/avatar2.webp": oh,
+                "/src/assets/cosmetics/avatar20.webp": sh,
+                "/src/assets/cosmetics/avatar21.webp": ch,
+                "/src/assets/cosmetics/avatar22.webp": lh,
+                "/src/assets/cosmetics/avatar23.webp": uh,
+                "/src/assets/cosmetics/avatar24.webp": dh,
+                "/src/assets/cosmetics/avatar25.webp": fh,
+                "/src/assets/cosmetics/avatar26.webp": ph,
+                "/src/assets/cosmetics/avatar27.webp": mh,
+                "/src/assets/cosmetics/avatar3.webp": hh,
+                "/src/assets/cosmetics/avatar4.webp": gh,
+                "/src/assets/cosmetics/avatar5.webp": _h,
+                "/src/assets/cosmetics/avatar6.webp": vh,
+                "/src/assets/cosmetics/avatar7.webp": yh,
+                "/src/assets/cosmetics/avatar8.webp": bh,
+                "/src/assets/cosmetics/avatar9.webp": xh,
+                "/src/assets/cosmetics/avatarworldcup25.webp": Sh
             })[`/src/assets/cosmetics/avatar${this.validatedAvatar}.webp`],import.meta.url).href
         },
         avatarStyle() {
@@ -4382,7 +4370,7 @@ var Km = B(Um, [[`render`, Gm], [`__scopeId`, `data-v-6ba4b276`]])
         }
     }
 };
-function Ch(e, t, n, r, i, a) {
+function wh(e, t, n, r, i, a) {
     return d(),
     F(`div`, {
         class: v([`player-avatar`, {
@@ -4392,11 +4380,11 @@ function Ch(e, t, n, r, i, a) {
         style: _(a.avatarStyle)
     }, [o(e.$slots, `default`, {}, void 0, !0)], 6)
 }
-var wh = B(Sh, [[`render`, Ch], [`__scopeId`, `data-v-1742b8e7`]])
-  , Th = {
+var Th = B(Ch, [[`render`, wh], [`__scopeId`, `data-v-1742b8e7`]])
+  , Eh = {
     name: `ChatVideo`,
     components: {
-        PlayerAvatar: wh
+        PlayerAvatar: Th
     },
     computed: {
         ...A([`chat`, `session`, `settings`]),
@@ -4469,8 +4457,8 @@ var wh = B(Sh, [[`render`, Ch], [`__scopeId`, `data-v-1742b8e7`]])
         }
     }
 }
-  , Eh = [`.srcObject`];
-function Dh(e, t, n, i, a, o) {
+  , Dh = [`.srcObject`];
+function Oh(e, t, n, i, a, o) {
     var s, l;
     let u = c(`PlayerAvatar`);
     return d(),
@@ -4504,7 +4492,7 @@ function Dh(e, t, n, i, a, o) {
                     disableremoteplayback: `true`,
                     playsInline: ``,
                     ref: `video`
-                }, null, 40, Eh)], 2)) : r(``, !0)]
+                }, null, 40, Dh)], 2)) : r(``, !0)]
             }
             ),
             _: 1
@@ -4512,15 +4500,15 @@ function Dh(e, t, n, i, a, o) {
         _: 1
     }, 8, [`user`, `class`])
 }
-var Oh = B(Th, [[`render`, Dh], [`__scopeId`, `data-v-796a261d`]])
-  , kh = {
+var kh = B(Eh, [[`render`, Oh], [`__scopeId`, `data-v-796a261d`]])
+  , Ah = {
     components: {
-        ChatVideo: Oh,
-        PlayerWhisper: Km,
-        PlayerReminders: Hm,
-        PlayerName: Om,
-        PlayerOverlay: fm,
-        PlayerMenu: Zp,
+        ChatVideo: kh,
+        PlayerWhisper: qm,
+        PlayerReminders: Um,
+        PlayerName: km,
+        PlayerOverlay: pm,
+        PlayerMenu: Qp,
         Token: G
     },
     inject: [`renderReminderHTML`],
@@ -4633,40 +4621,40 @@ var Oh = B(Th, [[`render`, Dh], [`__scopeId`, `data-v-796a261d`]])
         ...C([`setMenuOpen`, `toggleModal`])
     }
 }
-  , Ah = () => {
+  , jh = () => {
     j(e => ({
         v52022c25: e.avatarZoom
     }))
 }
-  , jh = kh.setup;
-kh.setup = jh ? (e, t) => (Ah(),
-jh(e, t)) : Ah;
-var Mh = {
+  , Mh = Ah.setup;
+Ah.setup = Mh ? (e, t) => (jh(),
+Mh(e, t)) : jh;
+var Nh = {
     class: `nameplate-container`
 }
-  , Nh = [`aria-label`]
-  , Ph = {
+  , Ph = [`aria-label`]
+  , Fh = {
     key: 0,
     class: `flag-powerful`
 }
-  , Fh = {
+  , Ih = {
     key: 0,
     class: `night-order first`
 }
-  , Ih = {
+  , Lh = {
     key: 0
 }
-  , Lh = [`innerHTML`]
-  , Rh = {
+  , Rh = [`innerHTML`]
+  , zh = {
     key: 0,
     class: `night-order other`
 }
-  , zh = {
+  , Bh = {
     key: 0
 }
-  , Bh = [`innerHTML`]
-  , Vh = [`aria-pressed`, `title`];
-function Hh(e, t, n, i, a, o) {
+  , Vh = [`innerHTML`]
+  , Hh = [`aria-pressed`, `title`];
+function Uh(e, t, n, i, a, o) {
     var s, l;
     let u = c(`ChatVideo`)
       , p = c(`PlayerName`)
@@ -4701,7 +4689,7 @@ function Hh(e, t, n, i, a, o) {
             onClick: t[0] || (t[0] = L(t => e.grimoire.isTownSquare || e.vote.locked > 0 || e.vote.isInProgress ? o.toggleStatus() : o.playerClick(), [`stop`]))
         }, null, 8, [`user-id`])) : r(``, !0)]),
         _: 1
-    }), I(`div`, Mh, [f(p, {
+    }), I(`div`, Nh, [f(p, {
         player: n.player
     }, null, 8, [`player`])]), I(`div`, {
         class: v([`player`, [{
@@ -4715,7 +4703,7 @@ function Hh(e, t, n, i, a, o) {
         onClick: t[1] || (t[1] = e => o.toggleStatus()),
         "aria-label": e.$t(`player.toggle_status`)
     }, [!((l = e.session.users.get(n.player.id)) == null || (l = l.flags) == null) && l.includes(`powerful`) ? (d(),
-    F(`div`, Ph)) : r(``, !0)], 8, Nh), f(g, {
+    F(`div`, Fh)) : r(``, !0)], 8, Ph), f(g, {
         role: n.player.role,
         alignment: n.player.alignment,
         onClick: t[2] || (t[2] = L(e => o.playerClick(), [`stop`]))
@@ -4725,11 +4713,11 @@ function Hh(e, t, n, i, a, o) {
         default: m( () => {
             var t, i, a, s;
             return [(t = e.nightOrder.get((i = n.player.role) == null ? void 0 : i.id)) != null && t.first && e.settings.game.isNightOrder && e.isNight && e.hasGrimoireAccess ? (d(),
-            F(`div`, Fh, [I(`em`, null, y((a = e.nightOrder.get((s = n.player.role) == null ? void 0 : s.id)) == null ? void 0 : a.first), 1), n.player.role.firstNightReminder ? (d(),
-            F(`div`, Ih, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
+            F(`div`, Ih, [I(`em`, null, y((a = e.nightOrder.get((s = n.player.role) == null ? void 0 : s.id)) == null ? void 0 : a.first), 1), n.player.role.firstNightReminder ? (d(),
+            F(`div`, Lh, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
                 class: `reminder`,
                 innerHTML: o.renderReminderHTML(e.$te(`roles.${n.player.role.id}.first`) ? e.$t(`roles.${n.player.role.id}.first`) : n.player.role.firstNightReminder)
-            }, null, 8, Lh)])) : r(``, !0)])) : r(``, !0)]
+            }, null, 8, Rh)])) : r(``, !0)])) : r(``, !0)]
         }
         ),
         _: 1
@@ -4739,11 +4727,11 @@ function Hh(e, t, n, i, a, o) {
         default: m( () => {
             var t, i, a, s;
             return [(t = e.nightOrder.get((i = n.player.role) == null ? void 0 : i.id)) != null && t.other && e.settings.game.isNightOrder && e.isNight && e.hasGrimoireAccess ? (d(),
-            F(`div`, Rh, [I(`em`, null, y((a = e.nightOrder.get((s = n.player.role) == null ? void 0 : s.id)) == null ? void 0 : a.other), 1), n.player.role.otherNightReminder ? (d(),
-            F(`div`, zh, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
+            F(`div`, zh, [I(`em`, null, y((a = e.nightOrder.get((s = n.player.role) == null ? void 0 : s.id)) == null ? void 0 : a.other), 1), n.player.role.otherNightReminder ? (d(),
+            F(`div`, Bh, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
                 class: `reminder`,
                 innerHTML: o.renderReminderHTML(e.$te(`roles.${n.player.role.id}.other`) ? e.$t(`roles.${n.player.role.id}.other`) : n.player.role.otherNightReminder)
-            }, null, 8, Bh)])) : r(``, !0)])) : r(``, !0)]
+            }, null, 8, Vh)])) : r(``, !0)])) : r(``, !0)]
         }
         ),
         _: 1
@@ -4757,7 +4745,7 @@ function Hh(e, t, n, i, a, o) {
     h(_, {
         key: 0,
         icon: n.player.status.includes(`dead`) ? `eye` : `eye-slash`
-    }, null, 8, [`icon`])) : r(``, !0)], 8, Vh), f(b, {
+    }, null, 8, [`icon`])) : r(``, !0)], 8, Hh), f(b, {
         player: n.player
     }, null, 8, [`player`]), f(x, {
         ref: `player`,
@@ -4768,8 +4756,8 @@ function Hh(e, t, n, i, a, o) {
         player: n.player
     }, null, 8, [`player`])], 2)
 }
-var Uh = B(kh, [[`render`, Hh], [`__scopeId`, `data-v-abb2432e`]])
-  , Wh = {
+var Wh = B(Ah, [[`render`, Uh], [`__scopeId`, `data-v-abb2432e`]])
+  , Gh = {
     components: {
         Token: G,
         Modal: U
@@ -4900,28 +4888,28 @@ var Uh = B(kh, [[`render`, Hh], [`__scopeId`, `data-v-abb2432e`]])
         }
     }
 }
-  , Gh = [`placeholder`]
-  , Kh = {
+  , Kh = [`placeholder`]
+  , qh = {
     class: `tokens`
 }
-  , qh = {
+  , Jh = {
     key: 0,
     class: `break`
 }
-  , Jh = [`onClick`]
-  , Yh = {
+  , Yh = [`onClick`]
+  , Xh = {
     key: 0,
     class: `paging`
 }
-  , Xh = {
+  , Zh = {
     key: 2,
     class: `paging`
 }
-  , Zh = {
+  , Qh = {
     class: `tokens`
 }
-  , Qh = [`onClick`];
-function $h(e, t, n, a, o, s) {
+  , $h = [`onClick`];
+function eg(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`Token`)
       , _ = c(`font-awesome-icon`)
@@ -4979,13 +4967,13 @@ function $h(e, t, n, a, o, s) {
                 "onUpdate:modelValue": t[1] || (t[1] = e => o.search = e),
                 placeholder: e.$t(`common.button_search`),
                 onKeydown: t[2] || (t[2] = L( (...e) => s.keydown && s.keydown(...e), [`stop`]))
-            }, null, 40, Gh), [[P, o.search]])]),
-            "tab-0": m( () => [I(`ul`, Kh, [(d(!0),
+            }, null, 40, Kh), [[P, o.search]])]),
+            "tab-0": m( () => [I(`ul`, qh, [(d(!0),
             F(S, null, p(s.rolesPage, (t, n) => (d(),
             F(S, {
                 key: t.id
             }, [n && s.rolesPage[n - 1].team !== t.team && o.sort.indexOf(s.rolesPage[n - 1].team) > -1 ? (d(),
-            F(`li`, qh)) : r(``, !0), I(`li`, {
+            F(`li`, Jh)) : r(``, !0), I(`li`, {
                 class: v([t.team, {
                     player: e.players.some(e => e.role.id === t.id)
                 }]),
@@ -4994,10 +4982,10 @@ function $h(e, t, n, a, o, s) {
                 role: t,
                 class: `top`,
                 alignment: o.alignment
-            }, null, 8, [`role`, `alignment`])], 10, Jh)], 64))), 128)), t[6] || (t[6] = I(`li`, {
+            }, null, 8, [`role`, `alignment`])], 10, Yh)], 64))), 128)), t[6] || (t[6] = I(`li`, {
                 class: `break`
             }, null, -1)), s.availableRoles.length > 35 ? (d(),
-            F(`li`, Yh, [o.page ? (d(),
+            F(`li`, Xh, [o.page ? (d(),
             h(_, {
                 key: 0,
                 icon: `arrow-circle-left`,
@@ -5007,7 +4995,7 @@ function $h(e, t, n, a, o, s) {
                 key: 1,
                 onClick: t[4] || (t[4] = e => s.setRole())
             }, [f(u)])), s.availableRoles.length > 35 ? (d(),
-            F(`li`, Xh, [o.page < Math.floor((s.availableRoles.length - 1) / 35) ? (d(),
+            F(`li`, Zh, [o.page < Math.floor((s.availableRoles.length - 1) / 35) ? (d(),
             h(_, {
                 key: 0,
                 icon: `arrow-circle-right`,
@@ -5023,7 +5011,7 @@ function $h(e, t, n, a, o, s) {
                 default: m( () => [I(`b`, null, `"` + y(o.search) + `"`, 1)]),
                 _: 1
             })) : r(``, !0)])]),
-            "tab-1": m( () => [I(`ul`, Zh, [(d(!0),
+            "tab-1": m( () => [I(`ul`, Qh, [(d(!0),
             F(S, null, p(s.travellers, e => (d(),
             F(`li`, {
                 class: v([e.team]),
@@ -5033,7 +5021,7 @@ function $h(e, t, n, a, o, s) {
                 role: e,
                 class: `top`,
                 alignment: o.alignment
-            }, null, 8, [`role`, `alignment`])], 10, Qh))), 128)), !s.travellers.length && o.search ? (d(),
+            }, null, 8, [`role`, `alignment`])], 10, $h))), 128)), !s.travellers.length && o.search ? (d(),
             h(l, {
                 key: 0,
                 tag: `li`,
@@ -5050,9 +5038,9 @@ function $h(e, t, n, a, o, s) {
         _: 1
     })
 }
-var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
-  , tg = e => t => t.name === e.name && t.role === e.role
-  , ng = (e, t=`reminders`, n={}) => {
+var tg = B(Gh, [[`render`, eg], [`__scopeId`, `data-v-8629d379`]])
+  , ng = e => t => t.name === e.name && t.role === e.role
+  , rg = (e, t=`reminders`, n={}) => {
     var r, i, a, o, s;
     let c = (r = (i = e.special) == null ? void 0 : i.filter(e => e.type === `reminder`).map(e => e.name)) == null ? [] : r;
     return !(n == null || (a = n.status) == null) && a.includes(`dead`) && c.push(`dead`),
@@ -5062,9 +5050,9 @@ var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
         flags: c
     }))) == null ? [] : o
 }
-  , rg = {
+  , ig = {
     components: {
-        Reminder: Lm,
+        Reminder: Rm,
         Modal: U
     },
     inject: [`isTouchDevice`],
@@ -5086,25 +5074,25 @@ var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
                 t = new RegExp(this.search.trim(),`i`)
             } catch {}
             [...this.players, ...this.storytellers].forEach(t => {
-                !t.role || !Array.isArray(t.role.reminders) || t.status.includes(`dead`) && this.players.some(e => e.role.id === t.role.id && !e.status.includes(`dead`)) || (e = [...e, ...ng(t.role, `reminders`, t)])
+                !t.role || !Array.isArray(t.role.reminders) || t.status.includes(`dead`) && this.players.some(e => e.role.id === t.role.id && !e.status.includes(`dead`)) || (e = [...e, ...rg(t.role, `reminders`, t)])
             }
             ),
             this.bluffs.forEach(t => {
-                !t || !t.reminders || (e = [...e, ...ng(t)])
+                !t || !t.reminders || (e = [...e, ...rg(t)])
             }
             ),
             this.roles.forEach(t => {
-                Array.isArray(t.remindersGlobal) && (e = [...e, ...ng(t, `remindersGlobal`)])
+                Array.isArray(t.remindersGlobal) && (e = [...e, ...rg(t, `remindersGlobal`)])
             }
             ),
             this.npcs.forEach(t => {
                 var n;
-                (n = t.reminders) != null && n.length && (e = [...e, ...ng(t)])
+                (n = t.reminders) != null && n.length && (e = [...e, ...rg(t)])
             }
             ),
             e = e.filter( (e, t, n) => {
                 var r;
-                return n.findIndex(tg(e)) === t && (!this.modal.params.filter || e.name.toLocaleLowerCase() === this.modal.params.filter.toLocaleLowerCase()) && !this.userReminders.some(tg(e)) && (this.isStoryteller || !((r = e.flags) != null && r.includes(`public`)))
+                return n.findIndex(ng(e)) === t && (!this.modal.params.filter || e.name.toLocaleLowerCase() === this.modal.params.filter.toLocaleLowerCase()) && !this.userReminders.some(ng(e)) && (this.isStoryteller || !((r = e.flags) != null && r.includes(`public`)))
             }
             ),
             this.modal.params.filter || (e.push({
@@ -5150,11 +5138,11 @@ var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
                 t = new RegExp(this.search.trim(),`i`)
             } catch {}
             return this.roles.forEach(t => {
-                this.players.some(e => e.role === t) || this.storytellers.some(e => e.role === t) || this.bluffs.some(e => e === t) || Array.isArray(t.reminders) && (e = [...e, ...ng(t)])
+                this.players.some(e => e.role === t) || this.storytellers.some(e => e.role === t) || this.bluffs.some(e => e === t) || Array.isArray(t.reminders) && (e = [...e, ...rg(t)])
             }
             ),
             this.userReminders.length && (e = [...e, ...this.userReminders.filter(e => [...this.roles].some( ([t]) => t === e.role) || this.npcs.some( ({id: t}) => t === e.role))]),
-            e = e.filter( (e, n, r) => r.findIndex(tg(e)) === n && (!t || this.tab === 0 || (e.name + ` ` + e.role).match(t))),
+            e = e.filter( (e, n, r) => r.findIndex(ng(e)) === n && (!t || this.tab === 0 || (e.name + ` ` + e.role).match(t))),
             e.sort( (e, t) => {
                 var n, r;
                 return this.sort.indexOf((n = this.roles.get(t.role)) == null ? void 0 : n.team) - this.sort.indexOf((r = this.roles.get(e.role)) == null ? void 0 : r.team)
@@ -5233,17 +5221,17 @@ var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
                 var r, i;
                 let t = [...this.players.filter(t => {
                     var n;
-                    return (n = t.reminders) == null ? void 0 : n.some(tg(e))
+                    return (n = t.reminders) == null ? void 0 : n.some(ng(e))
                 }
                 ), ...this.storytellers.filter(t => {
                     var n;
-                    return (n = t.reminders) == null ? void 0 : n.some(tg(e))
+                    return (n = t.reminders) == null ? void 0 : n.some(ng(e))
                 }
                 )]
                   , o = this.roles.get(e.role) || this.npcs.find(t => t.id === e.role) || this.rolesAvailable.get(e.role) || {}
                   , s = ((r = o.reminders) == null ? void 0 : r.filter(t => t === e.name).length) || ((i = o.remindersGlobal) == null ? void 0 : i.filter(t => t === e.name).length) || 1
                   , c = this.players.filter(e => e.role === o).length || 1;
-                if (t.map(e => e.reminders).flat().filter(tg(e)).length >= s * c && (this.isStoryteller || !this.settings.game.isPlayerDuplicates) && ![`good`, `evil`].includes(e.role)) {
+                if (t.map(e => e.reminders).flat().filter(ng(e)).length >= s * c && (this.isStoryteller || !this.settings.game.isPlayerDuplicates) && ![`good`, `evil`].includes(e.role)) {
                     let r = t[0] === n && t[1] ? t[1] : t[0];
                     this.removeReminder({
                         user: r,
@@ -5285,30 +5273,30 @@ var eg = B(Wh, [[`render`, $h], [`__scopeId`, `data-v-8629d379`]])
         }
     }
 }
-  , ig = [`placeholder`]
-  , ag = {
-    class: `reminders`
-}
+  , ag = [`placeholder`]
   , og = {
-    key: 0,
-    class: `paging left`
+    class: `reminders`
 }
   , sg = {
     key: 0,
-    class: `paging right`
+    class: `paging left`
 }
   , cg = {
-    class: `reminders`
+    key: 0,
+    class: `paging right`
 }
   , lg = {
-    key: 0,
-    class: `paging left`
+    class: `reminders`
 }
   , ug = {
     key: 0,
+    class: `paging left`
+}
+  , dg = {
+    key: 0,
     class: `paging right`
 };
-function dg(e, t, n, i, a, o) {
+function fg(e, t, n, i, a, o) {
     let s = c(`i18n-t`)
       , l = c(`font-awesome-icon`)
       , u = c(`Reminder`)
@@ -5339,13 +5327,13 @@ function dg(e, t, n, i, a, o) {
                 "onUpdate:modelValue": t[0] || (t[0] = e => a.search = e),
                 placeholder: e.$t(`common.button_search`),
                 onKeydown: t[1] || (t[1] = L( (...e) => o.keydown && o.keydown(...e), [`stop`]))
-            }, null, 40, ig), [[P, a.search]])]),
-            "tab-0": m( () => [I(`ul`, ag, [(d(!0),
+            }, null, 40, ag), [[P, a.search]])]),
+            "tab-0": m( () => [I(`ul`, og, [(d(!0),
             F(S, null, p(o.currentRemindersSlice, (e, n) => (d(),
             F(S, {
                 key: n
             }, [o.currentReminders.length > o.currentRemindersSlice.length && n === o.currentRemindersSlice.length - o.currentRemindersSlice.length % 7 ? (d(),
-            F(`li`, og, [a.page ? (d(),
+            F(`li`, sg, [a.page ? (d(),
             h(l, {
                 key: 0,
                 icon: `arrow-circle-left`,
@@ -5355,18 +5343,18 @@ function dg(e, t, n, i, a, o) {
                 class: v(e.flags),
                 onClick: t => o.toggleReminder(e)
             }, null, 8, [`reminder`, `class`, `onClick`])])], 64))), 128)), o.currentReminders.length > o.currentRemindersSlice.length ? (d(),
-            F(`li`, sg, [a.page < Math.floor((o.currentReminders.length - 1) / 47) ? (d(),
+            F(`li`, cg, [a.page < Math.floor((o.currentReminders.length - 1) / 47) ? (d(),
             h(l, {
                 key: 0,
                 onClick: t[3] || (t[3] = e => a.page += 1),
                 icon: `arrow-circle-right`
             })) : r(``, !0)])) : r(``, !0)])]),
-            "tab-1": m( () => [I(`ul`, cg, [(d(!0),
+            "tab-1": m( () => [I(`ul`, lg, [(d(!0),
             F(S, null, p(o.otherRemindersSlice, (e, n) => (d(),
             F(S, {
                 key: n
             }, [o.otherReminders.length > o.otherRemindersSlice.length && n === o.otherRemindersSlice.length - o.otherRemindersSlice.length % 7 ? (d(),
-            F(`li`, lg, [a.pageOther ? (d(),
+            F(`li`, ug, [a.pageOther ? (d(),
             h(l, {
                 key: 0,
                 icon: `arrow-circle-left`,
@@ -5376,7 +5364,7 @@ function dg(e, t, n, i, a, o) {
                 class: v(e.flags),
                 onClick: t => o.toggleReminder(e)
             }, null, 8, [`reminder`, `class`, `onClick`])])], 64))), 128)), o.otherReminders.length > o.otherRemindersSlice.length ? (d(),
-            F(`li`, ug, [a.pageOther < Math.floor((o.otherReminders.length - 1) / 47) ? (d(),
+            F(`li`, dg, [a.pageOther < Math.floor((o.otherReminders.length - 1) / 47) ? (d(),
             h(l, {
                 key: 0,
                 onClick: t[5] || (t[5] = e => a.pageOther += 1),
@@ -5387,19 +5375,19 @@ function dg(e, t, n, i, a, o) {
         _: 1
     })
 }
-var fg = B(rg, [[`render`, dg], [`__scopeId`, `data-v-65e9705c`]])
-  , pg = `/assets/card-ability-kX4HjSAD.webp`
-  , mg = `/assets/card-bluffs-BlNMxv_e.webp`
-  , hg = `/assets/card-choice-DVpXheLk.webp`
-  , gg = `/assets/card-claim-Dxgc2vOa.webp`
-  , _g = `/assets/card-demon-C2p1QXYu.webp`
-  , vg = `/assets/card-minions-CQx0IJE3.webp`
-  , yg = `/assets/card-selected-DQML9A6z.webp`
-  , bg = `/assets/card-special-BYfhRwYM.webp`
-  , xg = `/assets/card-you-qog5FTO7.webp`
-  , Sg = {
+var pg = B(ig, [[`render`, fg], [`__scopeId`, `data-v-65e9705c`]])
+  , mg = `/assets/card-ability-kX4HjSAD.webp`
+  , hg = `/assets/card-bluffs-BlNMxv_e.webp`
+  , gg = `/assets/card-choice-DVpXheLk.webp`
+  , _g = `/assets/card-claim-Dxgc2vOa.webp`
+  , vg = `/assets/card-demon-C2p1QXYu.webp`
+  , yg = `/assets/card-minions-CQx0IJE3.webp`
+  , bg = `/assets/card-selected-DQML9A6z.webp`
+  , xg = `/assets/card-special-BYfhRwYM.webp`
+  , Sg = `/assets/card-you-qog5FTO7.webp`
+  , Cg = {
     components: {
-        Reminder: Lm,
+        Reminder: Rm,
         Token: G,
         Modal: U
     },
@@ -5578,15 +5566,15 @@ var fg = B(rg, [[`render`, dg], [`__scopeId`, `data-v-65e9705c`]])
         getCardBackground(e) {
             return {
                 backgroundImage: `url(${new URL(Object.assign({
-                    "/src/assets/icons/card-ability.webp": pg,
-                    "/src/assets/icons/card-bluffs.webp": mg,
-                    "/src/assets/icons/card-choice.webp": hg,
-                    "/src/assets/icons/card-claim.webp": gg,
-                    "/src/assets/icons/card-demon.webp": _g,
-                    "/src/assets/icons/card-minions.webp": vg,
-                    "/src/assets/icons/card-selected.webp": yg,
-                    "/src/assets/icons/card-special.webp": bg,
-                    "/src/assets/icons/card-you.webp": xg
+                    "/src/assets/icons/card-ability.webp": mg,
+                    "/src/assets/icons/card-bluffs.webp": hg,
+                    "/src/assets/icons/card-choice.webp": gg,
+                    "/src/assets/icons/card-claim.webp": _g,
+                    "/src/assets/icons/card-demon.webp": vg,
+                    "/src/assets/icons/card-minions.webp": yg,
+                    "/src/assets/icons/card-selected.webp": bg,
+                    "/src/assets/icons/card-special.webp": xg,
+                    "/src/assets/icons/card-you.webp": Sg
                 })[`/src/assets/icons/card-${e}.webp`],import.meta.url).href})`
             }
         },
@@ -5852,90 +5840,90 @@ var fg = B(rg, [[`render`, dg], [`__scopeId`, `data-v-65e9705c`]])
         }
     }
 }
-  , Cg = {
+  , wg = {
     key: 0,
     class: `recipients`
 }
-  , wg = [`onClick`]
-  , Tg = {
+  , Tg = [`onClick`]
+  , Eg = {
     key: 0,
     class: `log`
 }
-  , Eg = {
+  , Dg = {
     key: 0
 }
-  , Dg = [`onClick`]
-  , Og = {
+  , Og = [`onClick`]
+  , kg = {
     key: 0,
     class: `new message`
 }
-  , kg = {
+  , Ag = {
     key: 0
 }
-  , Ag = [`onClick`]
-  , jg = {
+  , jg = [`onClick`]
+  , Mg = {
     class: `trash`
 }
-  , Mg = {
+  , Ng = {
     key: 1,
     class: `signals`
 }
-  , Ng = [`innerHTML`]
-  , Pg = {
+  , Pg = [`innerHTML`]
+  , Fg = {
     key: 1,
     class: `warning`
 }
-  , Fg = [`onClick`]
   , Ig = [`onClick`]
   , Lg = [`onClick`]
   , Rg = [`onClick`]
   , zg = [`onClick`]
-  , Bg = {
+  , Bg = [`onClick`]
+  , Vg = {
     class: `short`
 }
-  , Vg = {
+  , Hg = {
     key: 0,
     class: `players`
 }
-  , Hg = {
+  , Ug = {
     class: `button-group`
 }
-  , Ug = {
+  , Wg = {
     class: `roles`
 }
-  , Wg = {
+  , Gg = {
     key: 0,
     class: `break`
 }
-  , Gg = [`onClick`]
-  , Kg = {
+  , Kg = [`onClick`]
+  , qg = {
     class: `name`
 }
-  , qg = {
+  , Jg = {
     class: `button-group`
 }
-  , Jg = {
+  , Yg = {
     class: `center`
 }
-  , Yg = {
+  , Xg = {
     key: 0,
     class: `bluffs`
 }
-  , Xg = {
+  , Zg = {
     key: 1,
     class: `storytellers`
 }
-  , Zg = {
-    class: `reminders`
-}
   , Qg = {
-    key: 0,
     class: `reminders`
 }
   , $g = {
+    key: 0,
+    class: `reminders`
+}
+  , e_ = {
     class: `button-group`
 };
-function e_(e, t, n, a, o, s) {
+function t_(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`font-awesome-icon`)
       , g = c(`Token`)
@@ -5954,7 +5942,7 @@ function e_(e, t, n, a, o, s) {
             header: m( () => {
                 var n;
                 return [o.panel === `signal` && e.isStoryteller && e.modal.params.player ? (d(),
-                F(`div`, Cg, [f(l, {
+                F(`div`, wg, [f(l, {
                     keypath: `modals.signal.title`,
                     scope: `global`
                 }, {
@@ -5968,7 +5956,7 @@ function e_(e, t, n, a, o, s) {
                         class: `recipient`,
                         key: t,
                         onClick: e => o.recipients.splice(n, 1)
-                    }, y(((r = e.session.users.get(t)) == null ? void 0 : r.username) || t), 9, wg)
+                    }, y(((r = e.session.users.get(t)) == null ? void 0 : r.username) || t), 9, Tg)
                 }
                 ), 128)), f(u, {
                     onClick: t[0] || (t[0] = e => s.selectPlayer(`recipient`)),
@@ -5995,7 +5983,7 @@ function e_(e, t, n, a, o, s) {
             F(S, {
                 key: 0
             }, [s.messageLog.length || o.message.length ? (d(),
-            F(`ul`, Tg, [f(T, {
+            F(`ul`, Eg, [f(T, {
                 name: `list`
             }, {
                 default: m( () => [(d(!0),
@@ -6024,7 +6012,7 @@ function e_(e, t, n, a, o, s) {
                         F(S, {
                             key: n
                         }, [!t.icon && n > 0 && ![`custom`, `role`, `player`, `seen`].includes(t.id) ? (d(),
-                        F(`hr`, Eg)) : r(``, !0), I(`div`, {
+                        F(`hr`, Dg)) : r(``, !0), I(`div`, {
                             class: v(t.icon ? `icon` : `card-` + t.id),
                             onClick: e => s.showSignal(t)
                         }, [t.id === `player` ? (d(),
@@ -6079,12 +6067,12 @@ function e_(e, t, n, a, o, s) {
                             key: 1,
                             class: `icon`,
                             style: _(s.getCardBackground(t.id))
-                        }, null, 4)), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 64))], 10, Dg)], 64)
+                        }, null, 4)), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 64))], 10, Og)], 64)
                     }
                     ), 128))])])
                 }
                 ), 128)), o.message.length ? (d(),
-                F(`li`, Og, [I(`b`, null, [f(u, {
+                F(`li`, kg, [I(`b`, null, [f(u, {
                     icon: `circle-plus`
                 }), i(` ` + y(e.isStoryteller ? e.$t(`modals.signal.message`) : e.$t(`modals.signal.response`)), 1)]), I(`p`, null, [(d(!0),
                 F(S, null, p(o.message, (t, n) => {
@@ -6093,7 +6081,7 @@ function e_(e, t, n, a, o, s) {
                     F(S, {
                         key: n
                     }, [!t.icon && n > 0 && ![`custom`, `role`, `player`, `seen`].includes(t.id) ? (d(),
-                    F(`hr`, kg)) : r(``, !0), I(`div`, {
+                    F(`hr`, Ag)) : r(``, !0), I(`div`, {
                         class: v(t.icon ? `icon` : `card-` + t.id),
                         onClick: e => s.messageRemove(n)
                     }, [t.id === `player` ? (d(),
@@ -6140,21 +6128,21 @@ function e_(e, t, n, a, o, s) {
                         key: 1,
                         class: `icon`,
                         style: _(s.getCardBackground(t.id))
-                    }, null, 4)), i(` ` + y(t.role ? t.role + `:` : ``) + ` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 64))], 10, Ag)], 64)
+                    }, null, 4)), i(` ` + y(t.role ? t.role + `:` : ``) + ` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 64))], 10, jg)], 64)
                 }
-                ), 128))]), I(`div`, jg, [f(u, {
+                ), 128))]), I(`div`, Mg, [f(u, {
                     onClick: t[1] || (t[1] = e => s.messageClear()),
                     icon: `trash-alt`
                 })])])) : r(``, !0)]),
                 _: 1
             })])) : r(``, !0), e.isStoryteller || s.canSignal ? (d(),
-            F(`ul`, Mg, [s.nightReminder ? (d(),
+            F(`ul`, Ng, [s.nightReminder ? (d(),
             F(`li`, {
                 key: 0,
                 class: `reminder`,
                 innerHTML: s.renderReminderHTML(s.nightReminder)
-            }, null, 8, Ng)) : r(``, !0), s.warning ? (d(),
-            F(`li`, Pg, [f(u, {
+            }, null, 8, Pg)) : r(``, !0), s.warning ? (d(),
+            F(`li`, Fg, [f(u, {
                 icon: `exclamation-triangle`
             }), i(` ` + y(s.warning), 1)])) : r(``, !0), (d(!0),
             F(S, null, p(s.specialSignals.player, ({ability: t, role: n}, r) => (d(),
@@ -6169,7 +6157,7 @@ function e_(e, t, n, a, o, s) {
                 })
             }, [f(u, {
                 icon: `star`
-            }), i(` ` + y(e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name) + `: ` + y(t.value), 1)], 8, Fg))), 128)), (d(!0),
+            }), i(` ` + y(e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name) + `: ` + y(t.value), 1)], 8, Ig))), 128)), (d(!0),
             F(S, null, p(o.signals.filter(t => {
                 var n;
                 return !t.limit || t.limit === ((n = e.modal.params.player) == null ? void 0 : n.role.id)
@@ -6184,7 +6172,7 @@ function e_(e, t, n, a, o, s) {
                 onClick: e => s.messageAdd(t)
             }, [f(u, {
                 icon: t.icon
-            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 10, Ig))), 128)), t[13] || (t[13] = I(`li`, {
+            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 10, Lg))), 128)), t[13] || (t[13] = I(`li`, {
                 class: `break`
             }, null, -1)), I(`li`, {
                 class: `signal player player-usable`,
@@ -6211,7 +6199,7 @@ function e_(e, t, n, a, o, s) {
                 onClick: e => s.useAbility(t)
             }, [f(u, {
                 icon: `star`
-            }), i(` ` + y(e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name) + `: ` + y(e.$t(`grimoire.abilities.${t.name}`)), 1)], 8, Lg))), 128)) : r(``, !0), t[14] || (t[14] = I(`li`, {
+            }), i(` ` + y(e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name) + `: ` + y(e.$t(`grimoire.abilities.${t.name}`)), 1)], 8, Rg))), 128)) : r(``, !0), t[14] || (t[14] = I(`li`, {
                 class: `break`
             }, null, -1)), (d(!0),
             F(S, null, p(s.specialSignals.card, ({role: t, ability: n}, r) => (d(),
@@ -6228,7 +6216,7 @@ function e_(e, t, n, a, o, s) {
             }, [I(`span`, {
                 class: `icon`,
                 style: _(s.getCardBackground(`special`))
-            }, null, 4), i(` ` + y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name) + `: ` + y(n.value), 1)], 10, Rg))), 128)), (d(!0),
+            }, null, 4), i(` ` + y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name) + `: ` + y(n.value), 1)], 10, zg))), 128)), (d(!0),
             F(S, null, p(o.cards, t => (d(),
             F(`li`, {
                 key: t.id,
@@ -6241,7 +6229,7 @@ function e_(e, t, n, a, o, s) {
             }, [I(`span`, {
                 class: `icon`,
                 style: _(s.getCardBackground(t.id))
-            }, null, 4), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 10, zg))), 128))])) : r(``, !0), I(`div`, {
+            }, null, 4), i(` ` + y(e.$t(`modals.signal.cards.${t.id}`)), 1)], 10, Bg))), 128))])) : r(``, !0), I(`div`, {
                 class: v([`button-group send`, {
                     enabled: o.message.length
                 }])
@@ -6253,12 +6241,12 @@ function e_(e, t, n, a, o, s) {
             }, y(e.$t(`common.button_send`)), 3)], 2)], 64)) : o.panel === `player` || o.panel === `recipient` ? (d(),
             F(S, {
                 key: 1
-            }, [I(`p`, Bg, y(e.$t(`modals.signal.player_text`)), 1), o.selectedPlayers.size ? (d(),
-            F(`div`, Vg, [I(`b`, null, y(e.$t(`modals.signal.selected_players`)) + `:`, 1), t[15] || (t[15] = i(`\xA0 `, -1)), (d(!0),
+            }, [I(`p`, Vg, y(e.$t(`modals.signal.player_text`)), 1), o.selectedPlayers.size ? (d(),
+            F(`div`, Hg, [I(`b`, null, y(e.$t(`modals.signal.selected_players`)) + `:`, 1), t[15] || (t[15] = i(`\xA0 `, -1)), (d(!0),
             F(S, null, p(o.selectedPlayers, ([t]) => (d(),
             F(`span`, {
                 key: t
-            }, y(e.$t(...e.playerName(e.players[t]))), 1))), 128))])) : r(``, !0), I(`div`, Hg, [o.panel === `recipient` ? (d(),
+            }, y(e.$t(...e.playerName(e.players[t]))), 1))), 128))])) : r(``, !0), I(`div`, Ug, [o.panel === `recipient` ? (d(),
             F(`span`, {
                 key: 0,
                 class: `button primary`,
@@ -6269,12 +6257,12 @@ function e_(e, t, n, a, o, s) {
             }, y(e.$t(`common.button_cancel`)), 1)])], 64)) : o.panel === `role` ? (d(),
             F(S, {
                 key: 2
-            }, [I(`ul`, Ug, [(d(!0),
+            }, [I(`ul`, Wg, [(d(!0),
             F(S, null, p(s.availableRoles, (t, n) => (d(),
             F(S, {
                 key: t.id
             }, [n && s.availableRoles[n - 1].team !== t.team ? (d(),
-            F(`li`, Wg)) : r(``, !0), I(`li`, {
+            F(`li`, Gg)) : r(``, !0), I(`li`, {
                 class: v({
                     [t.team]: !0,
                     selected: o.selectedRoles.has(t.id)
@@ -6285,7 +6273,7 @@ function e_(e, t, n, a, o, s) {
                 key: 0,
                 class: `icon`,
                 style: _(e.roleIconCSS(t))
-            }, null, 4)) : r(``, !0), I(`span`, Kg, y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1)], 10, Gg)], 64))), 128))]), I(`div`, qg, [I(`span`, {
+            }, null, 4)) : r(``, !0), I(`span`, qg, y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1)], 10, Kg)], 64))), 128))]), I(`div`, Jg, [I(`span`, {
                 class: `button`,
                 onClick: t[8] || (t[8] = e => s.addRole())
             }, y(e.$t(`common.button_cancel`)), 1)])], 64)) : o.panel === `show` ? (d(),
@@ -6295,21 +6283,21 @@ function e_(e, t, n, a, o, s) {
                 class: v([`grimoire`, {
                     static: !o.isEditable
                 }])
-            }, [I(`div`, Jg, [s.bluffsVisible ? (d(),
-            F(`div`, Yg, [I(`span`, null, y(e.$t(`modals.signal.bluffs`)), 1), (d(!0),
+            }, [I(`div`, Yg, [s.bluffsVisible ? (d(),
+            F(`div`, Xg, [I(`span`, null, y(e.$t(`modals.signal.bluffs`)), 1), (d(!0),
             F(S, null, p(o.bluffsCopy, (e, t) => (d(),
             h(g, {
                 key: t,
                 role: s.allRoles.get(e)
             }, null, 8, [`role`]))), 128))])) : r(``, !0), o.storytellersCopy.length ? (d(),
-            F(`div`, Xg, [I(`span`, null, y(e.$t(`modals.signal.storyteller`, o.storytellersCopy.length)) + `: `, 1), I(`ul`, null, [(d(!0),
+            F(`div`, Zg, [I(`span`, null, y(e.$t(`modals.signal.storyteller`, o.storytellersCopy.length)) + `: `, 1), I(`ul`, null, [(d(!0),
             F(S, null, p(o.storytellersCopy, (e, t) => (d(),
             F(`li`, {
                 key: t
             }, [f(g, {
                 role: s.allRoles.get(e.role),
                 alignment: e.alignment
-            }, null, 8, [`role`, `alignment`]), I(`div`, Zg, [(d(!0),
+            }, null, 8, [`role`, `alignment`]), I(`div`, Qg, [(d(!0),
             F(S, null, p(e.reminders, (e, t) => (d(),
             h(b, {
                 key: t,
@@ -6328,13 +6316,13 @@ function e_(e, t, n, a, o, s) {
                 role: s.allRoles.get(e.role),
                 alignment: e.alignment
             }, null, 8, [`onClick`, `role`, `alignment`]), e.reminders ? (d(),
-            F(`div`, Qg, [(d(!0),
+            F(`div`, $g, [(d(!0),
             F(S, null, p(e.reminders, (t, n) => (d(),
             h(b, {
                 key: n,
                 reminder: t,
                 onClick: t => s.removeReminder(e, n)
-            }, null, 8, [`reminder`, `onClick`]))), 128))])) : r(``, !0)], 4))), 128))], 2)], 2), I(`div`, $g, [o.isEditable ? (d(),
+            }, null, 8, [`reminder`, `onClick`]))), 128))])) : r(``, !0)], 4))), 128))], 2)], 2), I(`div`, e_, [o.isEditable ? (d(),
             F(`span`, {
                 key: 0,
                 class: `button primary`,
@@ -6348,8 +6336,8 @@ function e_(e, t, n, a, o, s) {
         _: 1
     })
 }
-var t_ = B(Sg, [[`render`, e_], [`__scopeId`, `data-v-159bb5ef`]])
-  , n_ = {
+var n_ = B(Cg, [[`render`, t_], [`__scopeId`, `data-v-159bb5ef`]])
+  , r_ = {
     components: {
         Modal: U
     },
@@ -6442,71 +6430,71 @@ var t_ = B(Sg, [[`render`, e_], [`__scopeId`, `data-v-159bb5ef`]])
         }
     }
 }
-  , r_ = {
+  , i_ = {
     key: 0
 }
-  , i_ = {
+  , a_ = {
     key: 1
 }
-  , a_ = [`type`, `required`, `placeholder`, `maxlength`, `minlength`]
-  , o_ = [`required`, `placeholder`, `maxlength`, `minlength`]
-  , s_ = {
+  , o_ = [`type`, `required`, `placeholder`, `maxlength`, `minlength`]
+  , s_ = [`required`, `placeholder`, `maxlength`, `minlength`]
+  , c_ = {
     key: 2
 }
-  , c_ = [`required`]
-  , l_ = {
-    class: `button-group`
-}
+  , l_ = [`required`]
   , u_ = {
-    type: `submit`,
-    ref: `button2`,
-    class: `button primary`
+    class: `button-group`
 }
   , d_ = {
-    class: `input`
-}
-  , f_ = [`step`, `min`, `max`]
-  , p_ = [`placeholder`]
-  , m_ = {
-    class: `button-group`
-}
-  , h_ = {
     type: `submit`,
     ref: `button2`,
     class: `button primary`
 }
+  , f_ = {
+    class: `input`
+}
+  , p_ = [`step`, `min`, `max`]
+  , m_ = [`placeholder`]
+  , h_ = {
+    class: `button-group`
+}
   , g_ = {
+    type: `submit`,
+    ref: `button2`,
+    class: `button primary`
+}
+  , __ = {
     href: `https://bloodontheclocktower.com/terms-of-use`,
     target: `_blank`
 }
-  , __ = {
+  , v_ = {
     href: `https://bloodontheclocktower.com/privacy-policy`,
     target: `_blank`
 }
-  , v_ = {
+  , y_ = {
     href: `https://bloodontheclocktower.com/cookie-policy`,
     target: `_blank`
 }
-  , y_ = {
+  , b_ = {
     class: `button-group`
 }
-  , b_ = [`disabled`]
-  , x_ = {
+  , x_ = [`disabled`]
+  , S_ = {
     key: 0,
     class: `timer`
 }
-  , S_ = {
-    class: `button-group`
-}
   , C_ = {
-    key: 6,
     class: `button-group`
 }
   , w_ = {
+    key: 6,
+    class: `button-group`
+}
+  , T_ = {
     key: 7,
     class: `button-group`
 };
-function T_(e, t, n, a, o, s) {
+function E_(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Modal`);
     return d(),
@@ -6521,8 +6509,8 @@ function T_(e, t, n, a, o, s) {
             onKeydown: L(s.keydown, [`stop`])
         }, g({
             default: m( () => [e.modal.params.text ? (d(),
-            F(`p`, r_, y(Array.isArray(e.modal.params.text) ? e.$t(...e.modal.params.text) : e.$te(e.modal.params.text) ? e.$t(e.modal.params.text) : e.modal.params.text), 1)) : r(``, !0), e.modal.params.pre ? (d(),
-            F(`pre`, i_, y(e.modal.params.pre), 1)) : r(``, !0), e.modal.params.type === `prompt` ? (d(),
+            F(`p`, i_, y(Array.isArray(e.modal.params.text) ? e.$t(...e.modal.params.text) : e.$te(e.modal.params.text) ? e.$t(e.modal.params.text) : e.modal.params.text), 1)) : r(``, !0), e.modal.params.pre ? (d(),
+            F(`pre`, a_, y(e.modal.params.pre), 1)) : r(``, !0), e.modal.params.type === `prompt` ? (d(),
             F(`form`, {
                 key: 2,
                 onSubmit: t[4] || (t[4] = L(e => s.submit(), [`prevent`]))
@@ -6535,7 +6523,7 @@ function T_(e, t, n, a, o, s) {
                 placeholder: e.modal.params.placeholder && (Array.isArray(e.modal.params.placeholder) ? e.$t(...e.modal.params.placeholder) : e.$t(e.modal.params.placeholder)),
                 maxlength: e.modal.params.maxlength,
                 minlength: e.modal.params.minlength
-            }, null, 8, o_)), [[P, o.input]]) : R((d(),
+            }, null, 8, s_)), [[P, o.input]]) : R((d(),
             F(`input`, {
                 key: 0,
                 type: e.modal.params.input || `text`,
@@ -6546,15 +6534,15 @@ function T_(e, t, n, a, o, s) {
                 placeholder: e.modal.params.placeholder && (Array.isArray(e.modal.params.placeholder) ? e.$t(...e.modal.params.placeholder) : e.$t(e.modal.params.placeholder)),
                 maxlength: e.modal.params.maxlength,
                 minlength: e.modal.params.minlength
-            }, null, 8, a_)), [[E, o.input]]), e.modal.params.checkbox ? (d(),
-            F(`label`, s_, [R(I(`input`, {
+            }, null, 8, o_)), [[E, o.input]]), e.modal.params.checkbox ? (d(),
+            F(`label`, c_, [R(I(`input`, {
                 type: `checkbox`,
                 name: `checkbox`,
                 "onUpdate:modelValue": t[2] || (t[2] = e => o.checkbox = e),
                 required: e.modal.params.checkbox.required
-            }, null, 8, c_), [[D, o.checkbox]]), f(l, {
+            }, null, 8, l_), [[D, o.checkbox]]), f(l, {
                 icon: o.checkbox ? `check-circle` : `circle`
-            }, null, 8, [`icon`]), i(` ` + y(e.$t(e.modal.params.checkbox.label)), 1)])) : r(``, !0), I(`div`, l_, [I(`button`, u_, [f(l, {
+            }, null, 8, [`icon`]), i(` ` + y(e.$t(e.modal.params.checkbox.label)), 1)])) : r(``, !0), I(`div`, u_, [I(`button`, d_, [f(l, {
                 icon: `thumbs-up`
             }), i(` ` + y(e.$t(`common.button_confirm`)), 1)], 512), I(`button`, {
                 type: `button`,
@@ -6567,7 +6555,7 @@ function T_(e, t, n, a, o, s) {
             F(`form`, {
                 key: 3,
                 onSubmit: t[12] || (t[12] = L(e => s.submit(), [`prevent`]))
-            }, [I(`div`, d_, [R(I(`input`, {
+            }, [I(`div`, f_, [R(I(`input`, {
                 type: `number`,
                 step: o.unit === `minutes` ? .1 : 1,
                 min: o.unit === `minutes` ? .1 : 3,
@@ -6576,7 +6564,7 @@ function T_(e, t, n, a, o, s) {
                 onKeydown: t[5] || (t[5] = L( (...e) => s.keydown && s.keydown(...e), [`stop`])),
                 "onUpdate:modelValue": t[6] || (t[6] = e => o.input = e),
                 placeholder: `10`
-            }, null, 40, f_), [[P, o.input]]), I(`button`, {
+            }, null, 40, p_), [[P, o.input]]), I(`button`, {
                 type: `button`,
                 class: `button`,
                 onClick: t[7] || (t[7] = (...e) => s.toggleUnit && s.toggleUnit(...e))
@@ -6586,13 +6574,13 @@ function T_(e, t, n, a, o, s) {
                 "onUpdate:modelValue": t[9] || (t[9] = e => o.title = e),
                 placeholder: e.$t(`modals.dialogue.timer_title`),
                 maxlength: `50`
-            }, null, 40, p_), [[P, o.title]]), I(`label`, null, [R(I(`input`, {
+            }, null, 40, m_), [[P, o.title]]), I(`label`, null, [R(I(`input`, {
                 type: `checkbox`,
                 name: `checkbox`,
                 "onUpdate:modelValue": t[10] || (t[10] = e => o.checkbox = e)
             }, null, 512), [[D, o.checkbox]]), f(l, {
                 icon: o.checkbox ? `check-circle` : `circle`
-            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.dialogue.timer_paused`)), 1)]), I(`div`, m_, [I(`button`, h_, [f(l, {
+            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.dialogue.timer_paused`)), 1)]), I(`div`, h_, [I(`button`, g_, [f(l, {
                 icon: `hourglass-half`
             }), i(` ` + y(e.$t(`modals.dialogue.timer_start`)), 1)], 512), I(`button`, {
                 type: `button`,
@@ -6604,19 +6592,19 @@ function T_(e, t, n, a, o, s) {
             }), i(` ` + y(e.$t(`common.button_cancel`)), 1)], 512)])], 32)) : e.modal.params.type === `terms` ? (d(),
             F(S, {
                 key: 4
-            }, [i(y(e.$t(`modals.dialogue.terms`)) + ` `, 1), I(`ul`, null, [I(`li`, null, [I(`a`, g_, y(e.$t(`common.terms_of_use`)), 1)]), I(`li`, null, [I(`a`, __, y(e.$t(`common.privacy_policy`)), 1)]), I(`li`, null, [I(`a`, v_, y(e.$t(`common.cookie_policy`)), 1)])]), I(`label`, null, [R(I(`input`, {
+            }, [i(y(e.$t(`modals.dialogue.terms`)) + ` `, 1), I(`ul`, null, [I(`li`, null, [I(`a`, __, y(e.$t(`common.terms_of_use`)), 1)]), I(`li`, null, [I(`a`, v_, y(e.$t(`common.privacy_policy`)), 1)]), I(`li`, null, [I(`a`, y_, y(e.$t(`common.cookie_policy`)), 1)])]), I(`label`, null, [R(I(`input`, {
                 type: `checkbox`,
                 "onUpdate:modelValue": t[13] || (t[13] = e => o.checkbox = e)
             }, null, 512), [[D, o.checkbox]]), f(l, {
                 icon: o.checkbox ? `check-circle` : `circle`
-            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.dialogue.terms_confirm`)), 1)]), I(`div`, y_, [I(`button`, {
+            }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.dialogue.terms_confirm`)), 1)]), I(`div`, b_, [I(`button`, {
                 class: `button primary`,
                 ref: `button`,
                 disabled: !o.checkbox,
                 onClick: t[14] || (t[14] = e => s.confirm(!0))
             }, [f(l, {
                 icon: `thumbs-up`
-            }), i(` ` + y(e.$t(`common.button_continue`)), 1)], 8, b_), I(`button`, {
+            }), i(` ` + y(e.$t(`common.button_continue`)), 1)], 8, x_), I(`button`, {
                 class: `button secondary`,
                 ref: `button2`,
                 onClick: t[15] || (t[15] = e => s.confirm(!1))
@@ -6626,11 +6614,11 @@ function T_(e, t, n, a, o, s) {
             F(S, {
                 key: 5
             }, [o.confirmTimer ? (d(),
-            F(`div`, x_, [f(l, {
+            F(`div`, S_, [f(l, {
                 icon: `exclamation-triangle`
             }), i(` ` + y(e.$t(`modals.dialogue.close_timer`, {
                 n: o.confirmTimer
-            })), 1)])) : r(``, !0), I(`div`, S_, [I(`button`, {
+            })), 1)])) : r(``, !0), I(`div`, C_, [I(`button`, {
                 class: `button primary`,
                 ref: `button`,
                 onClick: t[16] || (t[16] = e => s.confirm(!0))
@@ -6643,7 +6631,7 @@ function T_(e, t, n, a, o, s) {
             }, [f(l, {
                 icon: `times-circle`
             }), i(` ` + y(e.$t(`modals.dialogue.button_no`)), 1)], 512)])], 64)) : e.modal.params.type === `reveal` ? (d(),
-            F(`div`, C_, [I(`button`, {
+            F(`div`, w_, [I(`button`, {
                 class: `button primary`,
                 ref: `button`,
                 onClick: t[18] || (t[18] = e => s.confirm(!0))
@@ -6662,7 +6650,7 @@ function T_(e, t, n, a, o, s) {
             }, [f(l, {
                 icon: `times-circle`
             }), i(` ` + y(e.$t(`common.button_cancel`)), 1)], 512)])) : (d(),
-            F(`div`, w_, [I(`button`, {
+            F(`div`, T_, [I(`button`, {
                 class: `button primary`,
                 ref: `button`,
                 onClick: t[21] || (t[21] = e => s.confirm())
@@ -6678,8 +6666,8 @@ function T_(e, t, n, a, o, s) {
         _: 1
     })
 }
-var E_ = B(n_, [[`render`, T_], [`__scopeId`, `data-v-52a9d761`]])
-  , D_ = {
+var D_ = B(r_, [[`render`, E_], [`__scopeId`, `data-v-52a9d761`]])
+  , O_ = {
     components: {
         Modal: U
     },
@@ -6691,7 +6679,7 @@ var E_ = B(n_, [[`render`, T_], [`__scopeId`, `data-v-52a9d761`]])
         ...C([`toggleModal`])
     }
 };
-function O_(e, t, n, a, o, s) {
+function k_(e, t, n, a, o, s) {
     let l = c(`Modal`);
     return d(),
     h(w, {
@@ -6712,8 +6700,8 @@ function O_(e, t, n, a, o, s) {
         _: 1
     })
 }
-var k_ = B(D_, [[`render`, O_], [`__scopeId`, `data-v-8d244a72`]])
-  , A_ = {
+var A_ = B(O_, [[`render`, k_], [`__scopeId`, `data-v-8d244a72`]])
+  , j_ = {
     components: {
         Modal: U
     },
@@ -6734,16 +6722,16 @@ var k_ = B(D_, [[`render`, O_], [`__scopeId`, `data-v-8d244a72`]])
         ...C(`vote`, [`clearHistory`])
     }
 }
-  , j_ = {
+  , M_ = {
     key: 0
 }
-  , M_ = {
+  , N_ = {
     class: `phase`
 }
-  , N_ = {
+  , P_ = {
     class: `voters`
 };
-function P_(e, t, n, a, o, s) {
+function F_(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Modal`);
     return d(),
@@ -6771,7 +6759,7 @@ function P_(e, t, n, a, o, s) {
             F(S, {
                 key: a
             }, [!a || n.phase !== e.vote.history[a - 1].phase ? (d(),
-            F(`tr`, j_, [I(`td`, M_, [n.phase ? (d(),
+            F(`tr`, M_, [I(`td`, N_, [n.phase ? (d(),
             F(S, {
                 key: 1
             }, [i(y(e.$t(`grimoire.phases.${n.phase % 2 ? `night` : `day`}`, Math.ceil(n.phase / 2))), 1)], 64)) : (d(),
@@ -6781,7 +6769,7 @@ function P_(e, t, n, a, o, s) {
                 colspan: `6`
             }, null, -1))])) : r(``, !0), I(`tr`, null, [I(`td`, null, y(o.dtFormat.format(n.timestamp)), 1), I(`td`, null, y(Array.isArray(n.nominator) ? e.$t(...n.nominator) : n.nominator), 1), I(`td`, null, y(Array.isArray(n.nominee) ? e.$t(...n.nominee) : n.nominee), 1), I(`td`, null, y(e.$t(`modals.votehistory.${n.type}`)), 1), I(`td`, null, y(n.votes), 1), I(`td`, null, [i(y(n.majority) + ` `, 1), f(l, {
                 icon: n.votes >= n.majority ? `check-circle` : `circle`
-            }, null, 8, [`icon`])]), I(`td`, N_, [(d(!0),
+            }, null, 8, [`icon`])]), I(`td`, P_, [(d(!0),
             F(S, null, p(n.voters, ([t,n], a) => (d(),
             F(`span`, {
                 key: a
@@ -6794,8 +6782,8 @@ function P_(e, t, n, a, o, s) {
         _: 1
     })
 }
-var F_ = B(A_, [[`render`, P_], [`__scopeId`, `data-v-0d0c9d0c`]])
-  , I_ = {
+var I_ = B(j_, [[`render`, F_], [`__scopeId`, `data-v-0d0c9d0c`]])
+  , L_ = {
     components: {
         Token: G,
         Modal: U
@@ -6835,15 +6823,15 @@ var F_ = B(A_, [[`render`, P_], [`__scopeId`, `data-v-0d0c9d0c`]])
         ...C([`toggleModal`, `setTab`])
     }
 }
-  , L_ = {
+  , R_ = {
     class: `tokens`
 }
-  , R_ = [`onClick`]
-  , z_ = {
+  , z_ = [`onClick`]
+  , B_ = {
     class: `tokens`
 }
-  , B_ = [`onClick`];
-function V_(e, t, n, a, o, s) {
+  , V_ = [`onClick`];
+function H_(e, t, n, a, o, s) {
     let l = c(`Token`)
       , u = c(`Modal`);
     return d(),
@@ -6858,7 +6846,7 @@ function V_(e, t, n, a, o, s) {
             tabs: s.availableTabs.map(t => e.$t(`grimoire.${t}`, 2))
         }, {
             header: m( () => [i(y(e.$t(`modals.npc.title`)), 1)]),
-            "tab-0": m( () => [I(`ul`, L_, [(d(!0),
+            "tab-0": m( () => [I(`ul`, R_, [(d(!0),
             F(S, null, p(s.filteredNPCs[s.availableTabs[0]], e => (d(),
             F(`li`, {
                 key: e.id,
@@ -6866,8 +6854,8 @@ function V_(e, t, n, a, o, s) {
             }, [f(l, {
                 role: e,
                 class: `top`
-            }, null, 8, [`role`])], 8, R_))), 128))])]),
-            "tab-1": m( () => [I(`ul`, z_, [(d(!0),
+            }, null, 8, [`role`])], 8, z_))), 128))])]),
+            "tab-1": m( () => [I(`ul`, B_, [(d(!0),
             F(S, null, p(s.filteredNPCs[s.availableTabs[1]], e => (d(),
             F(`li`, {
                 key: e.id,
@@ -6875,32 +6863,32 @@ function V_(e, t, n, a, o, s) {
             }, [f(l, {
                 role: e,
                 class: `top`
-            }, null, 8, [`role`])], 8, B_))), 128))])]),
+            }, null, 8, [`role`])], 8, V_))), 128))])]),
             _: 1
         }, 8, [`tabs`])) : r(``, !0)]),
         _: 1
     })
 }
-var H_ = B(I_, [[`render`, V_], [`__scopeId`, `data-v-a1a182db`]])
-  , U_ = `/assets/logo-active-vWSLSz2M.webp`
-  , W_ = `/assets/logo-sheet-sczFT2x6.webp`
-  , G_ = `/assets/logo-Cvk6rQBD.webp`
-  , K_ = `/assets/logo-active-DFblTCBY.webp`
-  , q_ = `/assets/logo-label-q983_f8F.webp`
-  , J_ = `/assets/logo-sheet-B0nzVvhl.webp`
-  , Y_ = `/assets/logo-Dh6MJCdH.webp`
-  , X_ = `/assets/logo-label-q983_f8F.webp`
-  , Z_ = `/assets/logo-sheet-B0nzVvhl.webp`
-  , Q_ = `/assets/logo-active-C9GcuLvL.webp`
-  , $_ = `/assets/logo-sheet-D4VPR8cb.webp`
-  , ev = `/assets/logo-n5SKFmif.webp`
-  , tv = `/assets/logo-KB4tGbUB.webp`
-  , nv = `/assets/logo-active-BuHUu0O7.webp`
-  , rv = `/assets/logo-sheet-Bp7C3A9N.webp`
-  , iv = `/assets/logo-C9OJVjpP.webp`
-  , av = e(zn())
-  , ov = e(Bn())
-  , sv = {
+var U_ = B(L_, [[`render`, H_], [`__scopeId`, `data-v-a1a182db`]])
+  , W_ = `/assets/logo-active-vWSLSz2M.webp`
+  , G_ = `/assets/logo-sheet-sczFT2x6.webp`
+  , K_ = `/assets/logo-Cvk6rQBD.webp`
+  , q_ = `/assets/logo-active-DFblTCBY.webp`
+  , J_ = `/assets/logo-label-q983_f8F.webp`
+  , Y_ = `/assets/logo-sheet-B0nzVvhl.webp`
+  , X_ = `/assets/logo-Dh6MJCdH.webp`
+  , Z_ = `/assets/logo-label-q983_f8F.webp`
+  , Q_ = `/assets/logo-sheet-B0nzVvhl.webp`
+  , $_ = `/assets/logo-active-C9GcuLvL.webp`
+  , ev = `/assets/logo-sheet-D4VPR8cb.webp`
+  , tv = `/assets/logo-n5SKFmif.webp`
+  , nv = `/assets/logo-KB4tGbUB.webp`
+  , rv = `/assets/logo-active-BuHUu0O7.webp`
+  , iv = `/assets/logo-sheet-Bp7C3A9N.webp`
+  , av = `/assets/logo-C9OJVjpP.webp`
+  , ov = e(zn())
+  , sv = e(Bn())
+  , cv = {
     $schema: `https://json-schema.org/draft/2020-12/schema`,
     $id: `https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/main/script-schema.json`,
     type: `array`,
@@ -6910,11 +6898,11 @@ var H_ = B(I_, [[`render`, V_], [`__scopeId`, `data-v-a1a182db`]])
     maxItems: 201,
     items: JSON.parse(`{"oneOf":[{"type":"object","title":"Script Character","required":["id","name","team","ability"],"additionalProperties":false,"properties":{"id":{"type":"string","title":"Character ID, alphanumeric lowercase","maxLength":50,"examples":["washerwoman","lilmonsta","fanggu","alhadikhia"]},"name":{"type":"string","title":"Character name","maxLength":30,"examples":["Washerwoman","Lil' Monsta","Fang Gu","Al-Hadikhia"]},"image":{"oneOf":[{"type":"string","format":"uri","title":"Character icon","examples":["https://i.imgur.com/character-icon.png"]},{"type":"array","title":"Set of character icon URLs","description":"For non-traveller characters, the icons should be regular alignment and flipped alignment, for travellers they should be unaligned, good alignment and evil alignment","minItems":1,"maxItems":3,"items":{"type":"string","format":"uri"},"examples":[["https://imgur.com/townsfolk.png","https://imgur.com/townsfolk_evil.png"],["https://imgur.com/minion.png","https://imgur.com/minion_good.png"],["https://imgur.com/traveller.png","https://imgur.com/traveller_good.png","https://imgur.com/traveller_evil.png"]]}]},"team":{"type":"string","title":"Character team","enum":["townsfolk","outsider","minion","demon","traveller","fabled","loric"]},"edition":{"type":"string","title":"The edition ID","maxLength":50,"examples":["tb","bmr","snv","fallofrome"]},"ability":{"type":"string","title":"Character ability","maxLength":250,"examples":["You start knowing that 1 of 2 players is a particular Townsfolk.","Each night, Minions choose who babysits Lil' Monsta's token & \\"is the Demon\\". A player dies each night*. [+1 Minion]","Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"]},"flavor":{"type":"string","title":"Character flavor text","maxLength":500,"examples":["Bloodstains on a dinner jacket? No, this is cooking sherry. How careless.","Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member.","It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"]},"firstNight":{"type":"number","title":"First night wake-up priority. 0 means this character doesn't wake during the first night.","examples":[37,0,15]},"firstNightReminder":{"type":"string","title":"First night Storyteller reminder","maxLength":500,"examples":["Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.","Wake all Minions, allow them to choose a babysitter :reminder:",""]},"otherNight":{"type":"number","title":"Other nights wake-up priority. 0 means this character doesn't wake during other nights.","examples":[0,10,15]},"otherNightReminder":{"type":"string","title":"Other nights Storyteller reminder","maxLength":500,"examples":["","Wake all Minions, allow them to choose a babysitter :reminder: A player might die :reminder:","The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:"]},"reminders":{"type":"array","maxItems":20,"default":[],"title":"Character reminder tokens","items":{"type":"string","maxLength":30,"examples":["Townsfolk","Wrong","Dead","Is The Demon"]}},"remindersGlobal":{"type":"array","maxItems":20,"default":[],"title":"Global character reminder tokens, which will be selectable even when the character is not in play.","items":{"type":"string","maxLength":25,"examples":["Drunk","Is The Philosopher"]}},"setup":{"type":"boolean","title":"Whether this character has a ability that is relevant for the game setup.","default":false},"jinxes":{"type":"array","title":"Jinxes with other characters on this script","items":{"type":"object","title":"An individual Jinx pair","required":["id","reason"],"properties":{"id":{"type":"string","title":"The ID of the other character this one is jinxed with.","maxLength":50,"examples":["spy","fanggu","lilmonsta"]},"reason":{"type":"string","title":"The Jinx explanation","maxLength":500,"examples":["If the Cannibal gains the Butler ability, the Cannibal learns this.","The Mathematician learns if the Lunatic attacks a different player(s) than the real Demon attacked."]}}}},"special":{"type":"array","title":"Special app integration features for this character","items":{"type":"object","title":"A special app integration feature","required":["name","type"],"properties":{"type":{"type":"string","title":"The integration type, where the feature will be used.","description":"Currently supported values are:\\n selection - during character selection,\\n signal - during night signaling,\\n ability - when clicking on the character token,\\n vote - during a vote,\\n reveal - at the end of the game, before characters are revealed,\\n player - an ability that can be initiated by the player","enum":["selection","ability","signal","vote","reveal","player","reminder"]},"name":{"type":"string","title":"The feature name reference","description":"This is a list of the currently implemented special features and will be growing over time.","enum":["grimoire","pointing","ghost-votes","distribute-roles","bag-disabled","bag-duplicate","evil-duplicate","good-duplicate","multiplier","hidden","replace-character","player","card","open-eyes","public"]},"value":{"oneOf":[{"type":"string","title":"Special ability text value","maxLength":50,"description":"The text value that will be used by the special ability."},{"type":"number","title":"Special ability number value","description":"The numeric value that will be used by the special ability."}]},"time":{"type":"string","title":"At which point during the game can the ability be used","enum":["pregame","day","night","firstNight","firstDay","otherNight","otherDay"]},"global":{"type":"string","title":"Global ability scope","description":"If it's a global ability that can be used without the character being in play, this property defines on which characters it can be used. This does not work on non-player characters, because they are not considered to be on the Script.","enum":["townsfolk","outsider","minion","demon","traveller","dead"]}},"examples":[{"type":"player","name":"open-eyes","time":"night"},{"type":"signal","name":"card","value":"This is a Custom ST Card"},{"type":"ability","name":"pointing","time":"night","global":"minion"},{"type":"vote","name":"multiplier","value":"3"}]}}},"examples":[{"id":"washerwoman","name":"Washerwoman","edition":"tb","team":"townsfolk","firstNightReminder":"Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.","otherNightReminder":"","reminders":["Townsfolk","Wrong"],"setup":false,"ability":"You start knowing that 1 of 2 players is a particular Townsfolk.","flavor":"Bloodstains on a dinner jacket? No, this is cooking sherry. How careless.","firstNight":37,"otherNight":0}]},{"type":"string","title":"Official character ID","maxLength":20,"description":"If you want to include official characters in the script, it is sufficient to provide their ID as a string","examples":["soldier","imp","washerwoman"]},{"type":"object","title":"Script Metadata","required":["id","name"],"properties":{"id":{"type":"string","title":"The ID property must be called '_meta' for the Script metadata object.","enum":["_meta"]},"name":{"type":"string","title":"The script name","maxLength":50,"examples":["Fall of Rome","My Custom Homebrew"]},"author":{"type":"string","title":"The script author","maxLength":50,"examples":["The Pandemonium Institute","Your Name"]},"logo":{"type":"string","format":"uri","maxLength":250,"title":"The script logo image","examples":["https://imgur.com/logo.png"]},"hideTitle":{"type":"boolean","title":"Whether the script title / author should be hidden on the app"},"background":{"type":"string","format":"uri","maxLength":250,"title":"The script background image","examples":["https://imgur.com/background.jpg"]},"almanac":{"type":"string","format":"uri","maxLength":250,"title":"A link to the script's almanac page","examples":["https://beardytas.com/garden-of-djinn/the-ballad-of-seat-7/"]},"bootlegger":{"type":"array","title":"A list of homebrew rules that are to be used for this script","description":"Any (optional) homebrew rules that should be shown on the character sheet can be listed here, up to a limit of 10.","maxItems":10,"items":{"type":"string","title":"A homebrew rule","examples":["If the Snake Charmer swaps with the Demon on the first night, they learn their Minions and Bluffs instead of the original Demon."]}},"firstNight":{"type":"array","title":"The relative First Night order of characters on this script.","description":"A custom first night order for this script can be provided in the form of an array here, with optional special entries for 'dusk', 'minioninfo', 'demoninfo' and 'dawn'.","maxItems":200,"items":{"type":"string","title":"Character ID of an on-script character in the first night order"},"examples":[["dusk","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator","chef","empath","fortuneteller","butler","dawn"]]},"otherNight":{"type":"array","title":"The relative Other Nights order of characters on this script.","description":"A custom other night order for this script can be provided in the form of an array here, with optional special entries for 'dusk' and 'dawn'.","maxItems":200,"items":{"type":"string","title":"Character ID of an on-script character in the other night order"},"examples":[["dusk","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath","fortuneteller","butler","dawn"]]}},"examples":[{"id":"_meta","name":"Deadly Penance Day","author":"TPI","logo":"https://url.to/your/logo.png"}]},{"type":"object","title":"Official Character (deprecated)","deprecated":true,"required":["id"],"additionalProperties":false,"properties":{"id":{"type":"string","maxLength":20,"title":"Official character ID","examples":["soldier","imp","washerwoman"]}}}]}`)
 }
-  , cv = new av.default;
+  , lv = new ov.default;
 (0,
-ov.default)(cv);
-var lv = cv.compile(sv)
-  , uv = {
+sv.default)(lv);
+var uv = lv.compile(cv)
+  , dv = {
     components: {
         Modal: U
     },
@@ -6955,59 +6943,59 @@ var lv = cv.compile(sv)
         },
         getEditionLogo(e) {
             return new URL(Object.assign({
-                "/src/assets/editions/bmr/logo-active.webp": U_,
-                "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                "/src/assets/editions/bmr/logo.webp": G_,
-                "/src/assets/editions/custom/logo-active.webp": K_,
-                "/src/assets/editions/custom/logo-label.webp": q_,
-                "/src/assets/editions/custom/logo-sheet.webp": J_,
-                "/src/assets/editions/custom/logo.webp": Y_,
-                "/src/assets/editions/homebrew/logo-label.webp": X_,
-                "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                "/src/assets/editions/snv/logo-active.webp": Q_,
-                "/src/assets/editions/snv/logo-sheet.webp": $_,
-                "/src/assets/editions/snv/logo.webp": ev,
-                "/src/assets/editions/taf/logo.webp": tv,
-                "/src/assets/editions/tb/logo-active.webp": nv,
-                "/src/assets/editions/tb/logo-sheet.webp": rv,
-                "/src/assets/editions/tb/logo.webp": iv
+                "/src/assets/editions/bmr/logo-active.webp": W_,
+                "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                "/src/assets/editions/bmr/logo.webp": K_,
+                "/src/assets/editions/custom/logo-active.webp": q_,
+                "/src/assets/editions/custom/logo-label.webp": J_,
+                "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                "/src/assets/editions/custom/logo.webp": X_,
+                "/src/assets/editions/homebrew/logo-label.webp": Z_,
+                "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                "/src/assets/editions/snv/logo-active.webp": $_,
+                "/src/assets/editions/snv/logo-sheet.webp": ev,
+                "/src/assets/editions/snv/logo.webp": tv,
+                "/src/assets/editions/taf/logo.webp": nv,
+                "/src/assets/editions/tb/logo-active.webp": rv,
+                "/src/assets/editions/tb/logo-sheet.webp": iv,
+                "/src/assets/editions/tb/logo.webp": av
             })[`/src/assets/editions/${e}/logo${this.currentEditionId === e ? `-active` : ``}.webp`],import.meta.url).href
         },
         getEditionTheme(e, t) {
             return new URL(Object.assign({
-                "/src/assets/editions/bmr/background1t.webp": Af,
-                "/src/assets/editions/bmr/background2t.webp": Mf,
-                "/src/assets/editions/bmr/background3t.webp": Pf,
-                "/src/assets/editions/bmr/background4t.webp": If,
-                "/src/assets/editions/bmr/background5t.webp": Rf,
-                "/src/assets/editions/bmr/background6t.webp": Bf,
-                "/src/assets/editions/custom/background1t.webp": Hf,
-                "/src/assets/editions/custom/background2t.webp": Wf,
-                "/src/assets/editions/custom/background3t.webp": Kf,
-                "/src/assets/editions/custom/background4t.webp": Jf,
-                "/src/assets/editions/custom/background5t.webp": Xf,
-                "/src/assets/editions/custom/background6t.webp": Qf,
-                "/src/assets/editions/custom/background7t.webp": ep,
-                "/src/assets/editions/custom/background8t.webp": np,
-                "/src/assets/editions/snv/background1t.webp": ip,
-                "/src/assets/editions/snv/background2t.webp": op,
-                "/src/assets/editions/snv/background3t.webp": cp,
-                "/src/assets/editions/snv/background4t.webp": up,
-                "/src/assets/editions/snv/background5t.webp": fp,
-                "/src/assets/editions/snv/background6t.webp": mp,
-                "/src/assets/editions/tb/background1t.webp": gp,
-                "/src/assets/editions/tb/background2t.webp": vp,
-                "/src/assets/editions/tb/background3t.webp": bp,
-                "/src/assets/editions/tb/background4t.webp": Sp,
-                "/src/assets/editions/tb/background5t.webp": wp,
-                "/src/assets/editions/tb/background6t.webp": Ep
+                "/src/assets/editions/bmr/background1t.webp": jf,
+                "/src/assets/editions/bmr/background2t.webp": Nf,
+                "/src/assets/editions/bmr/background3t.webp": Ff,
+                "/src/assets/editions/bmr/background4t.webp": Lf,
+                "/src/assets/editions/bmr/background5t.webp": zf,
+                "/src/assets/editions/bmr/background6t.webp": Vf,
+                "/src/assets/editions/custom/background1t.webp": Uf,
+                "/src/assets/editions/custom/background2t.webp": Gf,
+                "/src/assets/editions/custom/background3t.webp": qf,
+                "/src/assets/editions/custom/background4t.webp": Yf,
+                "/src/assets/editions/custom/background5t.webp": Zf,
+                "/src/assets/editions/custom/background6t.webp": $f,
+                "/src/assets/editions/custom/background7t.webp": tp,
+                "/src/assets/editions/custom/background8t.webp": rp,
+                "/src/assets/editions/snv/background1t.webp": ap,
+                "/src/assets/editions/snv/background2t.webp": sp,
+                "/src/assets/editions/snv/background3t.webp": lp,
+                "/src/assets/editions/snv/background4t.webp": dp,
+                "/src/assets/editions/snv/background5t.webp": pp,
+                "/src/assets/editions/snv/background6t.webp": hp,
+                "/src/assets/editions/tb/background1t.webp": _p,
+                "/src/assets/editions/tb/background2t.webp": yp,
+                "/src/assets/editions/tb/background3t.webp": xp,
+                "/src/assets/editions/tb/background4t.webp": Cp,
+                "/src/assets/editions/tb/background5t.webp": Tp,
+                "/src/assets/editions/tb/background6t.webp": Dp
             })[`/src/assets/editions/${e}/background${t}t.webp`],import.meta.url).href
         },
         getGenericTheme(e) {
             return new URL(Object.assign({
-                "/src/assets/background1t.webp": kp,
-                "/src/assets/background2t.webp": jp,
-                "/src/assets/background3t.webp": Np
+                "/src/assets/background1t.webp": Ap,
+                "/src/assets/background2t.webp": Mp,
+                "/src/assets/background3t.webp": Pp
             })[`/src/assets/background${e}t.webp`],import.meta.url).href
         },
         async checkNPCs(e=[]) {
@@ -7181,13 +7169,13 @@ var lv = cv.compile(sv)
                 );
                 return
             }
-            if (!lv(e))
+            if (!uv(e))
                 try {
                     await this.$store.dispatch(`openDialogue`, {
                         type: `alert`,
                         title: `modals.edition.error_script`,
                         text: `modals.edition.error_script_text`,
-                        pre: lv.errors.map( ({instancePath: e, message: t, params: n}) => `${e} ${t} (${Object.values(n).join(`, `)})`).join(`
+                        pre: uv.errors.map( ({instancePath: e, message: t, params: n}) => `${e} ${t} (${Object.values(n).join(`, `)})`).join(`
 `)
                     })
                 } catch {}
@@ -7283,18 +7271,18 @@ var lv = cv.compile(sv)
         this.bindShortcut(`paste`, this.handlePaste.bind(this));
         try {
             let e = await Xn(Object.assign({
-                "../../data/scripts/2026-01.json": () => V( () => import(`./2026-01-BQQQQIx1.js`), []),
-                "../../data/scripts/2026-02.json": () => V( () => import(`./2026-02-JEuBH_JI.js`), []),
-                "../../data/scripts/2026-03.json": () => V( () => import(`./2026-03-Bs_Y0GPU.js`), []),
-                "../../data/scripts/2026-04.json": () => V( () => import(`./2026-04-D0eyoGhq.js`), []),
-                "../../data/scripts/2026-05.json": () => V( () => import(`./2026-05-Bq2y7Zx6.js`), []),
-                "../../data/scripts/2026-06.json": () => V( () => import(`./2026-06-CAYmhoT_.js`), []),
-                "../../data/scripts/2026-07.json": () => V( () => import(`./2026-07-DfaYKESo.js`), []),
-                "../../data/scripts/2026-08.json": () => V( () => import(`./2026-08-Ki6pd93l.js`), []),
-                "../../data/scripts/2026-09.json": () => V( () => import(`./2026-09-DCKHDE78.js`), []),
-                "../../data/scripts/2026-10.json": () => V( () => import(`./2026-10-Ctuegfr5.js`), []),
-                "../../data/scripts/2026-11.json": () => V( () => import(`./2026-11-Di-yjAaV.js`), []),
-                "../../data/scripts/2026-12.json": () => V( () => import(`./2026-12-CYyg8xma.js`), [])
+                "../../data/scripts/2026-01.json": () => V( () => import(`./2026-01-CQtILes5.js`), []),
+                "../../data/scripts/2026-02.json": () => V( () => import(`./2026-02-GA7EvZ16.js`), []),
+                "../../data/scripts/2026-03.json": () => V( () => import(`./2026-03-R_7O_v70.js`), []),
+                "../../data/scripts/2026-04.json": () => V( () => import(`./2026-04-kvV_ufh0.js`), []),
+                "../../data/scripts/2026-05.json": () => V( () => import(`./2026-05-CHrx_hBK.js`), []),
+                "../../data/scripts/2026-06.json": () => V( () => import(`./2026-06-DF5ZdAGK.js`), []),
+                "../../data/scripts/2026-07.json": () => V( () => import(`./2026-07-BHeV2iji.js`), []),
+                "../../data/scripts/2026-08.json": () => V( () => import(`./2026-08-DIYGwLFr.js`), []),
+                "../../data/scripts/2026-09.json": () => V( () => import(`./2026-09-XBnrzEds.js`), []),
+                "../../data/scripts/2026-10.json": () => V( () => import(`./2026-10-DLWoAZo4.js`), []),
+                "../../data/scripts/2026-11.json": () => V( () => import(`./2026-11-DFPGwDtk.js`), []),
+                "../../data/scripts/2026-12.json": () => V( () => import(`./2026-12-CPALUwqW.js`), [])
             }), `../../data/scripts/2026-${String(new Date().getMonth() + 1).padStart(2, `0`)}.json`, 5);
             this.monthlyScript = e.default
         } catch {}
@@ -7303,40 +7291,40 @@ var lv = cv.compile(sv)
         this.unbindShortcut(`paste`)
     }
 }
-  , dv = [`onClick`]
-  , fv = [`src`]
-  , pv = {
+  , fv = [`onClick`]
+  , pv = [`src`]
+  , mv = {
     class: `description`
 }
-  , mv = {
+  , hv = {
     class: `footer`
 }
-  , hv = {
+  , gv = {
     key: 1,
     class: `button-group`
 }
-  , gv = {
+  , _v = {
     class: `button`
 }
-  , _v = {
+  , vv = {
     key: 2,
     class: `themes`
 }
-  , vv = [`src`, `onClick`]
-  , yv = {
+  , yv = [`src`, `onClick`]
+  , bv = {
     class: `generic`
 }
-  , bv = {
+  , xv = {
     class: `scripts`
 }
-  , xv = {
+  , Sv = {
     key: 0
 }
-  , Sv = {
+  , Cv = {
     class: `right`
 }
-  , Cv = [`src`, `onClick`];
-function wv(e, t, n, a, o, s) {
+  , wv = [`src`, `onClick`];
+function Tv(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Modal`);
     return d(),
@@ -7387,15 +7375,15 @@ function wv(e, t, n, a, o, s) {
                     class: `logo`,
                     onDragstart: t[2] || (t[2] = L( () => {}
                     , [`prevent`]))
-                }, null, 40, fv), I(`div`, pv, [I(`h4`, {
+                }, null, 40, pv), I(`div`, mv, [I(`h4`, {
                     style: _({
                         color: a.color
                     })
-                }, y(e.$t(`editions.${a.id}.name`)), 5), I(`p`, null, y(e.$t(`editions.${a.id}.description`)), 1), I(`div`, mv, [a.id !== `custom` || !o.isCustomEdition ? (d(),
+                }, y(e.$t(`editions.${a.id}.name`)), 5), I(`p`, null, y(e.$t(`editions.${a.id}.description`)), 1), I(`div`, hv, [a.id !== `custom` || !o.isCustomEdition ? (d(),
                 F(S, {
                     key: 0
                 }, [I(`b`, null, y(e.$t(`modals.edition.difficulty`)), 1), i(` ` + y(e.$t(`modals.edition.difficulty_${a.level}`)), 1)], 64)) : (d(),
-                F(`div`, hv, [I(`div`, gv, [f(l, {
+                F(`div`, gv, [I(`div`, _v, [f(l, {
                     icon: `file-upload`
                 }), i(` ` + y(e.$t(`modals.edition.button_upload`)), 1)]), I(`div`, {
                     class: `paste button`,
@@ -7408,7 +7396,7 @@ function wv(e, t, n, a, o, s) {
                 }, [f(l, {
                     icon: `link`
                 }), i(` ` + y(e.$t(`modals.edition.button_url`)), 1)])])), a.themes ? (d(),
-                F(`div`, _v, [I(`b`, null, y(e.$t(`modals.edition.theme`)), 1), (d(!0),
+                F(`div`, vv, [I(`b`, null, y(e.$t(`modals.edition.theme`)), 1), (d(!0),
                 F(S, null, p(a.themes, e => (d(),
                 F(`img`, {
                     class: v({
@@ -7421,13 +7409,13 @@ function wv(e, t, n, a, o, s) {
                     onClick: L(t => s.selectTheme(a, e), [`stop`]),
                     onDragstart: t[5] || (t[5] = L( () => {}
                     , [`prevent`]))
-                }, null, 42, vv))), 128))])) : r(``, !0)])])], 10, dv))), 128))], 32), I(`input`, {
+                }, null, 42, yv))), 128))])) : r(``, !0)])])], 10, fv))), 128))], 32), I(`input`, {
                     type: `file`,
                     ref: `upload`,
                     accept: `application/json`,
                     onChange: t[7] || (t[7] = e => s.handleUpload())
-                }, null, 544), I(`div`, yv, [I(`ul`, bv, [o.monthlyScript ? (d(),
-                F(`li`, xv, [I(`b`, null, y(e.$t(`modals.edition.monthly_script`)), 1), I(`div`, {
+                }, null, 544), I(`div`, bv, [I(`ul`, xv, [o.monthlyScript ? (d(),
+                F(`li`, Sv, [I(`b`, null, y(e.$t(`modals.edition.monthly_script`)), 1), I(`div`, {
                     class: `button primary`,
                     onClick: t[8] || (t[8] = e => s.parseRoles(o.monthlyScript, Math.round(Math.random() * 11) - 3))
                 }, y((n = o.monthlyScript.find( ({id: e}) => e === `_meta`)) == null ? void 0 : n.name), 1)])) : r(``, !0)]), I(`div`, {
@@ -7435,7 +7423,7 @@ function wv(e, t, n, a, o, s) {
                     onClick: t[9] || (t[9] = e => s.clearGrimoire())
                 }, [f(l, {
                     icon: `trash-alt`
-                }), i(` ` + y(e.$t(`modals.edition.button_clear`)), 1)]), I(`div`, Sv, [I(`div`, null, [I(`b`, null, y(e.$t(`modals.edition.theme_generic`)), 1), (d(),
+                }), i(` ` + y(e.$t(`modals.edition.button_clear`)), 1)]), I(`div`, Cv, [I(`div`, null, [I(`b`, null, y(e.$t(`modals.edition.theme_generic`)), 1), (d(),
                 F(S, null, p(3, e => I(`img`, {
                     class: v({
                         selected: o.theme.generic === -e,
@@ -7447,7 +7435,7 @@ function wv(e, t, n, a, o, s) {
                     onClick: t => s.selectTheme({
                         id: `generic`
                     }, -e)
-                }, null, 10, Cv)), 64))])])])]
+                }, null, 10, wv)), 64))])])])]
             }
             ),
             _: 1
@@ -7455,8 +7443,8 @@ function wv(e, t, n, a, o, s) {
         _: 1
     })
 }
-var Tv = B(uv, [[`render`, wv], [`__scopeId`, `data-v-5d42d547`]])
-  , Ev = {
+var Ev = B(dv, [[`render`, Tv], [`__scopeId`, `data-v-5d42d547`]])
+  , Dv = {
     components: {
         Token: G,
         Modal: U
@@ -7577,25 +7565,25 @@ var Tv = B(uv, [[`render`, wv], [`__scopeId`, `data-v-5d42d547`]])
         }
     }
 }
-  , Dv = [`onClick`]
-  , Ov = [`data-tooltip`]
-  , kv = [`onClick`]
+  , Ov = [`onClick`]
+  , kv = [`data-tooltip`]
   , Av = [`onClick`]
-  , jv = {
+  , jv = [`onClick`]
+  , Mv = {
     key: 1,
     class: `buttons`
 }
-  , Mv = {
+  , Nv = {
     key: 0
 }
-  , Nv = {
+  , Pv = {
     class: `button-group`
 }
-  , Pv = {
+  , Fv = {
     key: 0,
     class: `warning`
 };
-function Fv(e, t, n, a, o, s) {
+function Iv(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`font-awesome-icon`)
       , g = c(`Token`)
@@ -7638,12 +7626,12 @@ function Fv(e, t, n, a, o, s) {
                     onClick: e => --o.pages[n]
                 }, [f(u, {
                     icon: `arrow-circle-up`
-                })], 8, Dv)) : r(``, !0), I(`li`, {
+                })], 8, Ov)) : r(``, !0), I(`li`, {
                     class: v([`count`, {
                         done: e.rolesSelected.filter(e => t.some(t => t.id === e)).length === o.game[e.nonTravellers][n]
                     }]),
                     "data-tooltip": e.$t(`grimoire.${n}`, (i = o.game[e.nonTravellers][n]) == null ? 0 : i)
-                }, y(e.rolesSelected.filter(e => t.some(t => t.id === e)).length) + ` / ` + y((a = o.game[e.nonTravellers][n]) == null ? `?` : a), 11, Ov), ((c = o.pages[n]) == null ? 0 : c) < Math.floor((t.length - 1) / 7) - 1 ? (d(),
+                }, y(e.rolesSelected.filter(e => t.some(t => t.id === e)).length) + ` / ` + y((a = o.game[e.nonTravellers][n]) == null ? `?` : a), 11, kv), ((c = o.pages[n]) == null ? 0 : c) < Math.floor((t.length - 1) / 7) - 1 ? (d(),
                 F(`li`, {
                     key: 1,
                     class: `paging down`,
@@ -7653,7 +7641,7 @@ function Fv(e, t, n, a, o, s) {
                     }
                 }, [f(u, {
                     icon: `arrow-circle-down`
-                })], 8, kv)) : r(``, !0), (d(!0),
+                })], 8, Av)) : r(``, !0), (d(!0),
                 F(S, null, p(t.slice(((l = o.pages[n]) == null ? 0 : l) * 7, ((m = o.pages[n]) == null ? 0 : m) * 7 + 14), t => {
                     var n, i;
                     return d(),
@@ -7673,18 +7661,18 @@ function Fv(e, t, n, a, o, s) {
                         class: `warning`,
                         icon: `exclamation-triangle`
                     })) : r(``, !0), (i = t.special) != null && i.some(e => e.type === `selection` && e.name === `bag-duplicate`) || o.good.includes(t.team) && s.hasDuplicateGood || o.evil.includes(t.team) && s.hasDuplicateEvil ? (d(),
-                    F(`div`, jv, [f(u, {
+                    F(`div`, Mv, [f(u, {
                         icon: `minus-circle`,
                         onClick: L(e => s.selectRole(t), [`stop`])
                     }, null, 8, [`onClick`]), e.rolesSelected.filter(e => t.id === e).length > 1 ? (d(),
-                    F(`span`, Mv, y(e.rolesSelected.filter(e => t.id === e).length), 1)) : r(``, !0), f(u, {
+                    F(`span`, Nv, y(e.rolesSelected.filter(e => t.id === e).length), 1)) : r(``, !0), f(u, {
                         icon: `plus-circle`,
                         onClick: L(e => s.selectRole(t, !0), [`stop`])
-                    }, null, 8, [`onClick`])])) : r(``, !0)], 10, Av)
+                    }, null, 8, [`onClick`])])) : r(``, !0)], 10, jv)
                 }
                 ), 128))], 2)
             }
-            ), 128)), I(`div`, Nv, [I(`div`, {
+            ), 128)), I(`div`, Pv, [I(`div`, {
                 class: v([`button primary`, {
                     disabled: e.rolesSelected.length !== e.nonTravellers || e.session.hook.name
                 }]),
@@ -7710,7 +7698,7 @@ function Fv(e, t, n, a, o, s) {
             }, [f(u, {
                 icon: `undo`
             }), i(` ` + y(e.$t(`modals.roles.button_sort`)), 1)], 2)]), s.hasSelectedSetupRoles ? (d(),
-            F(`div`, Pv, [f(u, {
+            F(`div`, Fv, [f(u, {
                 icon: `exclamation-triangle`
             }), I(`span`, null, y(e.$t(`modals.roles.warning`)), 1)])) : r(``, !0)]),
             _: 1
@@ -7718,8 +7706,8 @@ function Fv(e, t, n, a, o, s) {
         _: 1
     })
 }
-var Iv = B(Ev, [[`render`, Fv], [`__scopeId`, `data-v-30990083`]])
-  , Lv = {
+var Lv = B(Dv, [[`render`, Iv], [`__scopeId`, `data-v-30990083`]])
+  , Rv = {
     toggleWhisper: [`enter`],
     acceptChat1: [`1`],
     acceptChat2: [`2`],
@@ -7751,15 +7739,15 @@ var Iv = B(Ev, [[`render`, Fv], [`__scopeId`, `data-v-30990083`]])
     toggleRoles: [`5`],
     reloadApp: []
 }
-  , Rv = `/assets/skull-BRKlHZep.webp`
-  , zv = `/assets/skull-DUUKiCc5.webp`
-  , Bv = `/assets/skull-DHMkfNj5.webp`
-  , Vv = `/assets/skull-DFNKB9VY.webp`
-  , Hv = `/assets/skull-DINexilz.webp`
-  , Uv = {
+  , zv = `/assets/skull-BRKlHZep.webp`
+  , Bv = `/assets/skull-DUUKiCc5.webp`
+  , Vv = `/assets/skull-HpVLE8-v.webp`
+  , Hv = `/assets/skull-DFNKB9VY.webp`
+  , Uv = `/assets/skull-DINexilz.webp`
+  , Wv = {
     name: `User`,
     components: {
-        PlayerAvatar: wh
+        PlayerAvatar: Th
     },
     props: {
         user: {
@@ -7837,11 +7825,11 @@ var Iv = B(Ev, [[`render`, Fv], [`__scopeId`, `data-v-30990083`]])
                 edition: (e = f[this.edition % f.length]) == null ? void 0 : e.id,
                 editionTooltip: f.length ? [(t = f[this.edition % f.length]) == null ? void 0 : t.id, (n = f[this.edition % f.length]) == null ? void 0 : n.value] : void 0,
                 editionIcon: new URL(Object.assign({
-                    "/src/assets/editions/bmr/skull.webp": Rv,
-                    "/src/assets/editions/custom/skull.webp": zv,
-                    "/src/assets/editions/homebrew/skull.webp": Bv,
-                    "/src/assets/editions/snv/skull.webp": Vv,
-                    "/src/assets/editions/tb/skull.webp": Hv
+                    "/src/assets/editions/bmr/skull.webp": zv,
+                    "/src/assets/editions/custom/skull.webp": Bv,
+                    "/src/assets/editions/homebrew/skull.webp": Vv,
+                    "/src/assets/editions/snv/skull.webp": Hv,
+                    "/src/assets/editions/tb/skull.webp": Uv
                 })[`/src/assets/editions/${(r = (i = f[this.edition % f.length]) == null ? void 0 : i.id) == null ? `custom` : r}/skull.webp`],import.meta.url).href,
                 role: (a = p[this.role % p.length]) == null ? void 0 : a.id,
                 roleTooltip: p.length ? [this.role % p.length + 1, this.rolesAvailable.get((o = p[this.role % p.length]) == null ? void 0 : o.id), (s = p[this.role % p.length]) == null ? void 0 : s.value] : void 0
@@ -7976,76 +7964,76 @@ var Iv = B(Ev, [[`render`, Fv], [`__scopeId`, `data-v-30990083`]])
         }
     }
 }
-  , Wv = {
+  , Gv = {
     class: `preview`
 }
-  , Gv = [`title`]
-  , Kv = {
+  , Kv = [`title`]
+  , qv = {
     class: `profile`
 }
-  , qv = {
+  , Jv = {
     class: `id`
 }
-  , Jv = {
+  , Yv = {
     key: 0,
     class: `block`
 }
-  , Yv = {
-    key: 0
-}
   , Xv = {
-    key: 1
+    key: 0
 }
   , Zv = {
-    key: 0
-}
-  , Qv = {
     key: 1
 }
-  , $v = [`aria-checked`]
-  , ey = [`aria-checked`]
-  , ty = {
+  , Qv = {
     key: 0
 }
+  , $v = {
+    key: 1
+}
+  , ey = [`aria-checked`]
+  , ty = [`aria-checked`]
   , ny = {
     key: 0
 }
-  , ry = [`data-tooltip`]
-  , iy = {
+  , ry = {
     key: 0
 }
+  , iy = [`data-tooltip`]
   , ay = {
+    key: 0
+}
+  , oy = {
     key: 1,
     class: `edition`
 }
-  , oy = [`src`]
-  , sy = [`data-tooltip`]
-  , cy = {
+  , sy = [`src`]
+  , cy = [`data-tooltip`]
+  , ly = {
     key: 0
 }
-  , ly = {
+  , uy = {
     key: 1,
     class: `role`
 }
-  , uy = {
+  , dy = {
     key: 2,
     class: `loading`
 }
-  , dy = {
+  , fy = {
     key: 3,
     class: `warning`
 }
-  , fy = {
+  , py = {
     key: 1,
     class: `avatars`
 };
-function py(e, t, n, a, o, s) {
+function my(e, t, n, a, o, s) {
     var l, u, g, b, x, C, w, T, E, D, O;
     let ee = c(`PlayerAvatar`)
       , k = c(`font-awesome-icon`)
       , A = c(`i18n-t`);
     return o.isAvatarSelection ? (d(),
-    F(`div`, fy, [e.localUser.id === n.user.id && e.localUser.level ? (d(),
+    F(`div`, py, [e.localUser.id === n.user.id && e.localUser.level ? (d(),
     F(`div`, {
         key: 0,
         class: v([`custom avatar`, {
@@ -8081,7 +8069,7 @@ function py(e, t, n, a, o, s) {
             edit: s.isEditable,
             [`relation-` + ((l = s.relation) == null ? void 0 : l.type)]: s.relation
         }])
-    }, [I(`div`, Wv, [f(ee, {
+    }, [I(`div`, Gv, [f(ee, {
         class: `avatar`,
         user: n.user,
         override: o.newAvatar,
@@ -8115,7 +8103,7 @@ function py(e, t, n, a, o, s) {
         onClick: t[3] || (t[3] = L(e => s.setCustomBorder(1), [`stop`]))
     }, [f(k, {
         icon: `arrow-circle-right`
-    })])) : r(``, !0)], 10, Gv)]), I(`ul`, Kv, [I(`li`, qv, [I(`span`, null, y(e.$t(`user.id`)) + `:`, 1), i(` ` + y(n.user.id) + ` `, 1), n.user.logins ? (d(!0),
+    })])) : r(``, !0)], 10, Kv)]), I(`ul`, qv, [I(`li`, Jv, [I(`span`, null, y(e.$t(`user.id`)) + `:`, 1), i(` ` + y(n.user.id) + ` `, 1), n.user.logins ? (d(!0),
     F(S, {
         key: 0
     }, p(n.user.logins, t => (d(),
@@ -8124,21 +8112,21 @@ function py(e, t, n, a, o, s) {
         icon: [`fab`, t],
         title: e.$t(`pages.login.social.status`, [t])
     }, null, 8, [`icon`, `title`]))), 128)) : r(``, !0)]), ((E = s.relation) == null ? void 0 : E.type) === `block` ? (d(),
-    F(`li`, Jv, [I(`span`, null, y(e.$t(`user.blocked`)) + `:`, 1), f(A, {
+    F(`li`, Yv, [I(`span`, null, y(e.$t(`user.blocked`)) + `:`, 1), f(A, {
         keypath: `user.blocked_on_date_as_name`,
         scope: `global`
     }, {
         default: m( () => {
             var t;
             return [s.relation.createdAt ? (d(),
-            F(`b`, Yv, y(e.$d(new Date(s.relation.createdAt), {
+            F(`b`, Xv, y(e.$d(new Date(s.relation.createdAt), {
                 dateStyle: `short`
             })), 1)) : r(``, !0), I(`b`, null, y((t = s.relation.meta) == null ? void 0 : t.username), 1)]
         }
         ),
         _: 1
     })])) : r(``, !0), n.user.createdAt ? (d(),
-    F(`li`, Xv, [I(`span`, null, y(e.$t(`user.registration`)) + `:`, 1), i(` ` + y(e.$d(new Date(n.user.createdAt), {
+    F(`li`, Zv, [I(`span`, null, y(e.$t(`user.registration`)) + `:`, 1), i(` ` + y(e.$d(new Date(n.user.createdAt), {
         dateStyle: `short`,
         timeStyle: `short`
     })) + ` `, 1), n.user.flags.includes(`verified-phone`) ? (d(),
@@ -8166,8 +8154,8 @@ function py(e, t, n, a, o, s) {
         class: `toggle`,
         onClick: t[7] || (t[7] = e => s.setAudioVolume(n.user, o.volume > 0 ? 0 : 1))
     }, [e.localUser.id === n.user.id ? (d(),
-    F(`span`, Zv, y(e.$t(`user.gain`)) + `:`, 1)) : (d(),
-    F(`span`, Qv, y(e.$t(`user.mic_volume`)) + `:`, 1)), R(I(`input`, {
+    F(`span`, Qv, y(e.$t(`user.gain`)) + `:`, 1)) : (d(),
+    F(`span`, $v, y(e.$t(`user.mic_volume`)) + `:`, 1)), R(I(`input`, {
         type: `range`,
         onChange: t[4] || (t[4] = e => s.setAudioVolume(n.user)),
         onClick: t[5] || (t[5] = L( () => {}
@@ -8203,7 +8191,7 @@ function py(e, t, n, a, o, s) {
         "aria-checked": !e.userOverrides.has(`novideo-` + n.user.id)
     }, [f(k, {
         icon: e.userOverrides.has(`novideo-` + n.user.id) ? `video-slash` : `video`
-    }, null, 8, [`icon`])], 10, $v)]))], 64)) : r(``, !0), n.user.id === e.localUser.id ? r(``, !0) : (d(),
+    }, null, 8, [`icon`])], 10, ey)]))], 64)) : r(``, !0), n.user.id === e.localUser.id ? r(``, !0) : (d(),
     F(`li`, {
         key: 3,
         onClick: t[9] || (t[9] = t => e.setUserOverride({
@@ -8218,7 +8206,7 @@ function py(e, t, n, a, o, s) {
         "aria-checked": !e.userOverrides.has(`noavatar-` + n.user.id)
     }, [f(k, {
         icon: e.userOverrides.has(`noavatar-` + n.user.id) ? `user-slash` : `user`
-    }, null, 8, [`icon`])], 10, ey)])), I(`li`, null, [I(`span`, null, y(e.$t(`user.statistics`)) + `:`, 1), s.isEditable ? (d(),
+    }, null, 8, [`icon`])], 10, ty)])), I(`li`, null, [I(`span`, null, y(e.$t(`user.statistics`)) + `:`, 1), s.isEditable ? (d(),
     F(`button`, {
         key: 0,
         class: v([`button`, [s.statsLabel.class]]),
@@ -8235,39 +8223,39 @@ function py(e, t, n, a, o, s) {
     }, [I(`span`, {
         onClick: t[11] || (t[11] = e => o.showStorytellerWR = !o.showStorytellerWR)
     }, [o.showStorytellerWR && s.statsCalculated.stEvilWins !== void 0 ? (d(),
-    F(`small`, ty, y(e.$t(`user.stats.st_evil_wins`, [s.statsCalculated.stEvilWins])), 1)) : r(``, !0), I(`b`, null, y(s.statsCalculated.storyteller), 1), i(` ` + y(e.$t(`user.stats.storyteller`)), 1)]), I(`span`, {
+    F(`small`, ny, y(e.$t(`user.stats.st_evil_wins`, [s.statsCalculated.stEvilWins])), 1)) : r(``, !0), I(`b`, null, y(s.statsCalculated.storyteller), 1), i(` ` + y(e.$t(`user.stats.storyteller`)), 1)]), I(`span`, {
         onClick: t[12] || (t[12] = e => o.showPlayerWR = !o.showPlayerWR)
     }, [o.showPlayerWR && s.statsCalculated.playerWins !== void 0 ? (d(),
-    F(`small`, ny, y(e.$t(`user.stats.player_wins`, [s.statsCalculated.playerWins])), 1)) : r(``, !0), I(`b`, null, y(s.statsCalculated.player), 1), i(` ` + y(e.$t(`user.stats.player`)), 1)]), I(`span`, {
+    F(`small`, ry, y(e.$t(`user.stats.player_wins`, [s.statsCalculated.playerWins])), 1)) : r(``, !0), I(`b`, null, y(s.statsCalculated.player), 1), i(` ` + y(e.$t(`user.stats.player`)), 1)]), I(`span`, {
         "data-tooltip": s.statsCalculated.editionTooltip ? `${o.edition % n.stats.editions.length + 1}. ${e.$t(`editions.${s.statsCalculated.editionTooltip[0]}.name`)} x ${s.statsCalculated.editionTooltip[1]}` : void 0,
         class: `toggle`,
         onClick: t[13] || (t[13] = e => o.edition++)
     }, [s.statsCalculated.edition ? (d(),
-    F(`b`, ay, [I(`img`, {
+    F(`b`, oy, [I(`img`, {
         src: s.statsCalculated.editionIcon,
         alt: ``
-    }, null, 8, oy)])) : (d(),
-    F(`b`, iy, y(e.$t(`user.stats.none`)), 1)), i(` ` + y(e.$t(`user.stats.edition`)), 1)], 8, ry), I(`span`, {
+    }, null, 8, sy)])) : (d(),
+    F(`b`, ay, y(e.$t(`user.stats.none`)), 1)), i(` ` + y(e.$t(`user.stats.edition`)), 1)], 8, iy), I(`span`, {
         "data-tooltip": s.statsCalculated.roleTooltip ? `${s.statsCalculated.roleTooltip[0]}. ${s.statsCalculated.roleTooltip[1] ? e.$t(`roles.${s.statsCalculated.roleTooltip[1].id}.name`) : e.$t(`user.stats.homebrew`)} x ${s.statsCalculated.roleTooltip[2]}` : void 0,
         class: `toggle`,
         onClick: t[14] || (t[14] = e => o.role++)
     }, [s.statsCalculated.role ? (d(),
-    F(`b`, ly, [I(`span`, {
+    F(`b`, uy, [I(`span`, {
         class: `icon`,
         style: _(e.roleIconCSS({
             id: s.statsCalculated.role
         }))
     }, null, 4)])) : (d(),
-    F(`b`, cy, y(e.$t(`user.stats.none`)), 1)), i(` ` + y(e.$t(`user.stats.role`)), 1)], 8, sy)], 2)) : n.stats.loading ? (d(),
-    F(`div`, uy, y(e.$t(`user.stats.loading`)), 1)) : (d(),
-    F(`div`, dy, y(e.$t(`user.stats.warning`)), 1))])])], 2))
+    F(`b`, ly, y(e.$t(`user.stats.none`)), 1)), i(` ` + y(e.$t(`user.stats.role`)), 1)], 8, cy)], 2)) : n.stats.loading ? (d(),
+    F(`div`, dy, y(e.$t(`user.stats.loading`)), 1)) : (d(),
+    F(`div`, fy, y(e.$t(`user.stats.warning`)), 1))])])], 2))
 }
-var my = B(Uv, [[`render`, py], [`__scopeId`, `data-v-971a6996`]])
-  , hy = {
+var hy = B(Wv, [[`render`, my], [`__scopeId`, `data-v-971a6996`]])
+  , gy = {
     staging: `https://${window.location.host}:8081/`,
     production: `https://botc.app/backend/`
 }.production || `http://localhost:8081/`
-  , gy = async e => {
+  , _y = async e => {
     if (!e.ok) {
         let t = e.body
           , n = e.headers.get(`content-type`);
@@ -8283,7 +8271,7 @@ var my = B(Uv, [[`render`, py], [`__scopeId`, `data-v-971a6996`]])
   , K = async (e=``, t={}, n, r={}) => {
     try {
         var i;
-        return await gy(await fetch(hy + e, {
+        return await _y(await fetch(gy + e, {
             method: (i = r.method) == null ? `POST` : i,
             headers: {
                 ...r.isFormData ? {} : {
@@ -8302,9 +8290,9 @@ var my = B(Uv, [[`render`, py], [`__scopeId`, `data-v-971a6996`]])
         }
     }
 }
-  , _y = async (e=``, t) => {
+  , vy = async (e=``, t) => {
     try {
-        return await gy(await fetch(hy + e, {
+        return await _y(await fetch(gy + e, {
             headers: {
                 Authorization: t ? `Bearer ` + t : null,
                 "x-app-version": H.version
@@ -8320,7 +8308,7 @@ var my = B(Uv, [[`render`, py], [`__scopeId`, `data-v-971a6996`]])
     r != null && (r.value === !0 || r.value === !1) ? t && n[t] ? n[t][e] = r.value : n[e] = r.value : r === !0 || r === !1 ? t && n[t] ? n[t][e] = r : n[e] = r : t && n[t] ? n[t][e] = !n[t][e] : n[e] = !n[e]
 }
 ;
-function vy() {
+function yy() {
     let e = null
       , t = null
       , r = n(null)
@@ -8384,7 +8372,7 @@ function vy() {
         data: r
     }
 }
-var yy = {
+var by = {
     name: `LoginGoogle`,
     components: {
         FontAwesomeIcon: Kn
@@ -8398,7 +8386,7 @@ var yy = {
     emits: [`success`, `error`],
     inject: [`isApp`],
     setup() {
-        let {startServer: e, getWindowProps: t, data: n} = vy();
+        let {startServer: e, getWindowProps: t, data: n} = yy();
         return {
             startServer: e,
             getWindowProps: t,
@@ -8420,12 +8408,20 @@ var yy = {
     },
     methods: {
         ...M(`user`, [`redirectUser`, `refresh`, `setupRefresh`]),
-        async loginGoogle() {
+        async login() {
             if (this.payload)
                 return;
             this.nonce = btoa(String.fromCharCode(...window.crypto.getRandomValues(new Uint8Array(32)))),
             localStorage.setItem(`nonce-google`, this.nonce);
-            let e = `https://accounts.google.com/o/oauth2/v2/auth?scope=https%3A//www.googleapis.com/auth/userinfo.email%20https%3A//www.googleapis.com/auth/userinfo.profile&include_granted_scopes=true&response_type=code&state=${encodeURIComponent(this.nonce)}&redirect_uri=${encodeURIComponent(this.oauthURI)}/login/google&client_id=501306950345-h1mgu379je6ei0paq3pgdqfos83f3qsc.apps.googleusercontent.com&access_type=online`;
+            let e = `https://accounts.google.com/o/oauth2/v2/auth?` + new URLSearchParams({
+                response_type: `code`,
+                client_id: `501306950345-h1mgu379je6ei0paq3pgdqfos83f3qsc.apps.googleusercontent.com`,
+                redirect_uri: this.oauthURI + `/login/google`,
+                state: this.nonce,
+                scope: `https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile`,
+                include_granted_scopes: !0,
+                access_type: `online`
+            });
             if (this.isApp)
                 await this.startServer(e);
             else {
@@ -8479,7 +8475,7 @@ var yy = {
         }) {
             (e == null ? void 0 : e.data.service) === `google` && (this.nonce = ``,
             window.removeEventListener(`message`, this.popupListener),
-            (e == null ? void 0 : e.origin) === this.oauthURI ? e != null && e.data.success ? this.$emit(`success`) : e != null && e.data.refreshToken && (await this.setupRefresh(e.data),
+            (e == null ? void 0 : e.origin) === this.oauthURI ? e != null && e.data.success ? this.$emit(`success`, e.data) : e != null && e.data.refreshToken && (await this.setupRefresh(e.data),
             await this.redirectUser()) : localStorage.getItem(`token`) && !this.accessToken ? (this.$store.commit(`user/setRefreshToken`, localStorage.getItem(`token`)),
             await this.refresh(),
             await this.redirectUser()) : this.$emit(`success`))
@@ -8499,18 +8495,18 @@ var yy = {
         this.popupListener && window.removeEventListener(`message`, this.popupListener)
     }
 };
-function by(e, t, n, r, i, a) {
+function xy(e, t, n, r, i, a) {
     let s = c(`font-awesome-icon`);
     return d(),
     F(`div`, {
         class: `google`,
-        onClick: t[0] || (t[0] = (...e) => a.loginGoogle && a.loginGoogle(...e))
+        onClick: t[0] || (t[0] = (...e) => a.login && a.login(...e))
     }, [f(s, {
         icon: [`fab`, `google`]
     }), o(e.$slots, `default`, {}, void 0, !0)])
 }
-var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
-  , Sy = {
+var Sy = B(by, [[`render`, xy], [`__scopeId`, `data-v-ea426213`]])
+  , Cy = {
     name: `LoginPatreon`,
     components: {
         FontAwesomeIcon: Kn
@@ -8524,7 +8520,7 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
     emits: [`success`, `error`],
     inject: [`isApp`],
     setup() {
-        let {startServer: e, getWindowProps: t, data: n} = vy();
+        let {startServer: e, getWindowProps: t, data: n} = yy();
         return {
             startServer: e,
             getWindowProps: t,
@@ -8546,12 +8542,18 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
     },
     methods: {
         ...M(`user`, [`redirectUser`, `refresh`, `setupRefresh`]),
-        async loginPatreon() {
+        async login() {
             if (this.payload)
                 return;
             this.nonce = btoa(String.fromCharCode(...window.crypto.getRandomValues(new Uint8Array(32)))),
             localStorage.setItem(`nonce-patreon`, this.nonce);
-            let e = `https://www.patreon.com/oauth2/authorize?response_type=code&client_id=b1XNd9IVV8Qn7Z5eXx3a2cEz0W8aaZq6UBM8y8L4vryXBTmdw15zA0ly1xCUIMdW&redirect_uri=${encodeURIComponent(this.oauthURI)}/login/patreon&state=${encodeURIComponent(this.nonce)}`;
+            let e = `https://www.patreon.com/oauth2/authorize?` + new URLSearchParams({
+                response_type: `code`,
+                client_id: `b1XNd9IVV8Qn7Z5eXx3a2cEz0W8aaZq6UBM8y8L4vryXBTmdw15zA0ly1xCUIMdW`,
+                redirect_uri: this.oauthURI + `/login/patreon`,
+                state: this.nonce,
+                scope: `identity identity.memberships identity[email]`
+            });
             if (this.isApp)
                 await this.startServer(e);
             else {
@@ -8560,9 +8562,9 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
                 this.popupListener = this.handleSocialLogin.bind(this),
                 window.addEventListener(`message`, this.popupListener),
                 clearInterval(this.popupCheck),
-                this.popupCheck = setInterval( () => {
+                this.popupCheck = setInterval(async () => {
                     (!t || t.closed) && (clearInterval(this.popupCheck),
-                    this.handleSocialLogin())
+                    await this.handleSocialLogin())
                 }
                 , 500)
             }
@@ -8583,16 +8585,13 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
                     token: this.refreshToken,
                     version: H.version + (this.isApp ? `-app` : ``) + `-` + document.documentElement.lang
                 });
-                if (!t.error)
-                    t.refreshToken && localStorage.setItem(`token`, t.refreshToken),
-                    window.opener && (t.service = `patreon`,
-                    window.opener.postMessage(t, window.location.origin)),
-                    this.$emit(`success`),
-                    this.isApp && await this.handleSocialLogin();
-                else
-                    return this.$emit(`error`, t.error)
+                t.error ? this.$emit(`error`, t.error) : (t.refreshToken && localStorage.setItem(`token`, t.refreshToken),
+                window.opener && (t.service = `patreon`,
+                window.opener.postMessage(t, window.location.origin)),
+                this.$emit(`success`),
+                this.isApp && await this.handleSocialLogin())
             } catch (e) {
-                return this.$emit(`error`, e)
+                this.$emit(`error`, e)
             }
         },
         async handleSocialLogin(e={
@@ -8602,10 +8601,10 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
         }) {
             (e == null ? void 0 : e.data.service) === `patreon` && (this.nonce = ``,
             window.removeEventListener(`message`, this.popupListener),
-            (e == null ? void 0 : e.origin) === this.oauthURI ? e != null && e.data.success ? this.$emit(`success`) : e != null && e.data.refreshToken && (await this.setupRefresh(e.data),
-            await this.redirectUser()) : localStorage.getItem(`token`) && (this.$store.commit(`user/setRefreshToken`, localStorage.getItem(`token`)),
+            (e == null ? void 0 : e.origin) === this.oauthURI ? e != null && e.data.success ? this.$emit(`success`, e.data) : e != null && e.data.refreshToken && (await this.setupRefresh(e.data),
+            await this.redirectUser()) : localStorage.getItem(`token`) && !this.accessToken ? (this.$store.commit(`user/setRefreshToken`, localStorage.getItem(`token`)),
             await this.refresh(),
-            await this.redirectUser()))
+            await this.redirectUser()) : this.$emit(`success`))
         }
     },
     watch: {
@@ -8622,24 +8621,152 @@ var xy = B(yy, [[`render`, by], [`__scopeId`, `data-v-4678354d`]])
         this.popupListener && window.removeEventListener(`message`, this.popupListener)
     }
 };
-function Cy(e, t, n, r, i, a) {
+function wy(e, t, n, r, i, a) {
     let s = c(`font-awesome-icon`);
     return d(),
     F(`div`, {
         class: `patreon`,
-        onClick: t[0] || (t[0] = (...e) => a.loginPatreon && a.loginPatreon(...e))
+        onClick: t[0] || (t[0] = (...e) => a.login && a.login(...e))
     }, [f(s, {
         icon: [`fab`, `patreon`]
     }), o(e.$slots, `default`, {}, void 0, !0)])
 }
-var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
-  , Ty = {
+var Ty = B(Cy, [[`render`, wy], [`__scopeId`, `data-v-026e1ff2`]])
+  , Ey = {
+    name: `LoginDiscord`,
+    components: {
+        FontAwesomeIcon: Kn
+    },
+    props: {
+        payload: {
+            type: Object,
+            default: null
+        }
+    },
+    emits: [`success`, `error`],
+    inject: [`isApp`],
+    setup() {
+        let {startServer: e, getWindowProps: t, data: n} = yy();
+        return {
+            startServer: e,
+            getWindowProps: t,
+            data: n
+        }
+    },
+    computed: {
+        ...A(`user`, [`refreshToken`, `accessToken`]),
+        oauthURI() {
+            return this.isApp ? `http://localhost:8042` : window.location.origin
+        }
+    },
+    data() {
+        return {
+            nonce: ``,
+            popupCheck: null,
+            popupListener: null
+        }
+    },
+    methods: {
+        ...M(`user`, [`redirectUser`, `refresh`, `setupRefresh`]),
+        async login() {
+            if (this.payload)
+                return;
+            this.nonce = btoa(String.fromCharCode(...window.crypto.getRandomValues(new Uint8Array(32)))),
+            localStorage.setItem(`nonce-discord`, this.nonce);
+            let e = `https://discord.com/oauth2/authorize?` + new URLSearchParams({
+                response_type: `code`,
+                client_id: `1521836097137803404`,
+                redirect_uri: this.oauthURI + `/login/discord`,
+                state: this.nonce,
+                scope: `identify email`,
+                prompt: `none`
+            });
+            if (this.isApp)
+                await this.startServer(e);
+            else {
+                let t = window.open(e, `discord`, this.getWindowProps(480, 530));
+                this.popupListener && window.removeEventListener(`message`, this.popupListener),
+                this.popupListener = this.handleSocialLogin.bind(this),
+                window.addEventListener(`message`, this.popupListener),
+                clearInterval(this.popupCheck),
+                this.popupCheck = setInterval(async () => {
+                    (!t || t.closed) && (clearInterval(this.popupCheck),
+                    await this.handleSocialLogin())
+                }
+                , 500)
+            }
+        },
+        async signIn(e) {
+            if (!e.code)
+                return this.$emit(`error`, `code_missing`);
+            if (!localStorage.getItem(`nonce-discord`))
+                return this.$emit(`error`, `nonce_missing`);
+            let t = localStorage.getItem(`nonce-discord`);
+            if (localStorage.removeItem(`nonce-discord`),
+            e.state !== t)
+                return this.$emit(`error`, `nonce_invalid`);
+            try {
+                let t = await K(`login/discord`, {
+                    code: e.code,
+                    host: this.oauthURI,
+                    token: this.refreshToken,
+                    version: H.version + (this.isApp ? `-app` : ``) + `-` + document.documentElement.lang
+                });
+                t.error ? this.$emit(`error`, t.error) : (t.refreshToken && localStorage.setItem(`token`, t.refreshToken),
+                window.opener && (t.service = `discord`,
+                window.opener.postMessage(t, window.location.origin)),
+                this.$emit(`success`),
+                this.isApp && await this.handleSocialLogin())
+            } catch (e) {
+                this.$emit(`error`, e)
+            }
+        },
+        async handleSocialLogin(e={
+            data: {
+                service: `discord`
+            }
+        }) {
+            (e == null ? void 0 : e.data.service) === `discord` && (this.nonce = ``,
+            window.removeEventListener(`message`, this.popupListener),
+            (e == null ? void 0 : e.origin) === this.oauthURI ? e != null && e.data.success ? this.$emit(`success`, e.data) : e != null && e.data.refreshToken && (await this.setupRefresh(e.data),
+            await this.redirectUser()) : localStorage.getItem(`token`) && !this.accessToken ? (this.$store.commit(`user/setRefreshToken`, localStorage.getItem(`token`)),
+            await this.refresh(),
+            await this.redirectUser()) : this.$emit(`success`))
+        }
+    },
+    watch: {
+        data() {
+            var e;
+            (e = this.data) != null && e.code && this.signIn(this.data)
+        }
+    },
+    mounted() {
+        this.payload && this.signIn(this.payload)
+    },
+    beforeUnmount() {
+        clearInterval(this.popupCheck),
+        this.popupListener && window.removeEventListener(`message`, this.popupListener)
+    }
+};
+function Dy(e, t, n, r, i, a) {
+    let s = c(`font-awesome-icon`);
+    return d(),
+    F(`div`, {
+        class: `discord`,
+        onClick: t[0] || (t[0] = (...e) => a.login && a.login(...e))
+    }, [f(s, {
+        icon: [`fab`, `discord`]
+    }), o(e.$slots, `default`, {}, void 0, !0)])
+}
+var Oy = B(Ey, [[`render`, Dy], [`__scopeId`, `data-v-c6f1d806`]])
+  , ky = {
     name: `SettingsModal`,
     components: {
-        LoginPatreon: wy,
-        LoginGoogle: xy,
+        LoginPatreon: Ty,
+        LoginGoogle: Sy,
+        LoginDiscord: Oy,
         FontAwesomeIcon: Kn,
-        User: my,
+        User: hy,
         Modal: U
     },
     inject: [`isTouchDevice`, `isApp`],
@@ -8665,6 +8792,11 @@ var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
             patreonEventHandler: !1,
             patreonWindow: !1,
             showLogins: !1,
+            supportedLogins: {
+                google: `Google`,
+                patreon: `Patreon`,
+                discord: `Discord`
+            },
             currentTab: 0,
             isLoading: !1,
             audioSelection: null,
@@ -8708,22 +8840,31 @@ var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
             this.listDevices().catch( () => {}
             ))
         },
-        async loadUser() {
+        async loadUser(e) {
+            (e == null ? void 0 : e.service) === `patreon` && (e == null ? void 0 : e.level) !== void 0 && this.$store.commit(`user/updateUser`, {
+                level: e.level
+            });
             try {
-                let {stats: e, user: t} = await _y(`user/${this.user.id}`, this.accessToken);
+                let {stats: e, user: t} = await vy(`user/${this.user.id}`, this.accessToken);
                 t && (this.stats = e,
                 this.localUser = t)
             } catch {}
         },
         async removeLogin(e) {
             try {
-                await this.$store.dispatch(`openDialogue`, {
+                if (await this.$store.dispatch(`openDialogue`, {
                     type: `confirm`,
                     title: `modals.settings.unlink_title`,
-                    text: [`modals.settings.unlink_text`, [e]]
-                }) && (await K(`login/${e}`, {}, this.accessToken, {
-                    method: `DELETE`
-                })).success && this.localUser.logins.length && (this.localUser.logins = this.localUser.logins.filter(t => t !== e))
+                    text: [`modals.settings.unlink_text`, [this.supportedLogins[e]]]
+                })) {
+                    let t = await K(`login/${e}`, {}, this.accessToken, {
+                        method: `DELETE`
+                    });
+                    t.success && this.localUser.logins.length && (this.localUser.logins = this.localUser.logins.filter(t => t !== e),
+                    t.level !== void 0 && this.$store.commit(`user/updateUser`, {
+                        level: t.level
+                    }))
+                }
             } catch {} finally {
                 this.toggleModal({
                     name: `settings`
@@ -8949,7 +9090,7 @@ var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
                     type: `confirm`,
                     title: `modals.settings.shortcut_reset`,
                     text: `modals.settings.shortcut_reset_confirm`
-                }) && this.$store.commit(`setKeybindings`, structuredClone(Lv))
+                }) && this.$store.commit(`setKeybindings`, structuredClone(Rv))
             } catch {}
             this.toggleModal({
                 name: `settings`
@@ -8968,7 +9109,7 @@ var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
                     } else
                         this.keybindings[this.isRecording] = [r];
                 else
-                    this.keybindings[this.isRecording] = [...Lv[this.isRecording]];
+                    this.keybindings[this.isRecording] = [...Rv[this.isRecording]];
                 this.$store.commit(`setKeybindings`, this.keybindings),
                 this.cancelShortcut()
             }
@@ -8995,272 +9136,270 @@ var wy = B(Sy, [[`render`, Cy], [`__scopeId`, `data-v-584a5a85`]])
         }
     }
 }
-  , Ey = {
-    key: 0
-}
-  , Dy = {
-    key: 0
-}
-  , Oy = {
-    id: `general-avatar`
-}
-  , ky = {
-    class: `right`
-}
   , Ay = {
-    id: `general-token`
+    key: 0
 }
   , jy = {
-    class: `right`
+    key: 0
 }
   , My = {
-    id: `general-reminder`
+    id: `general-avatar`
 }
   , Ny = {
     class: `right`
 }
   , Py = {
-    id: `general-offset`
+    id: `general-token`
 }
   , Fy = {
     class: `right`
 }
   , Iy = {
-    id: `general-colorblind`
+    id: `general-reminder`
 }
   , Ly = {
-    class: `button-group`
+    class: `right`
 }
   , Ry = {
-    id: `general-background`
+    id: `general-offset`
 }
   , zy = {
-    id: `general-cosmetics`
+    class: `right`
 }
-  , By = [`aria-pressed`]
+  , By = {
+    id: `general-colorblind`
+}
   , Vy = {
-    id: `general-animations`
+    class: `button-group`
 }
-  , Hy = [`aria-pressed`]
+  , Hy = {
+    id: `general-background`
+}
   , Uy = {
-    id: `general-custom`
+    id: `general-cosmetics`
 }
   , Wy = [`aria-pressed`]
   , Gy = {
-    id: `general-tabs`
+    id: `general-animations`
 }
   , Ky = [`aria-pressed`]
   , qy = {
+    id: `general-custom`
+}
+  , Jy = [`aria-pressed`]
+  , Yy = {
+    id: `general-tabs`
+}
+  , Xy = [`aria-pressed`]
+  , Zy = {
     id: `general-sound`
 }
-  , Jy = {
+  , Qy = {
     class: `right`
 }
-  , Yy = {
+  , $y = {
     key: 1
 }
-  , Xy = {
+  , eb = {
     id: `sound-general`
 }
-  , Zy = {
-    class: `right`
-}
-  , Qy = [`id`]
-  , $y = [`onUpdate:modelValue`, `onChange`, `aria-labelledby`]
-  , eb = {
-    class: `right`
-}
   , tb = {
+    class: `right`
+}
+  , nb = [`id`]
+  , rb = [`onUpdate:modelValue`, `onChange`, `aria-labelledby`]
+  , ib = {
+    class: `right`
+}
+  , ab = {
     href: `https://www.patreon.com/botconline`,
     target: `_blank`
 }
-  , nb = {
+  , ob = {
     class: `button-group`
 }
-  , rb = {
+  , sb = {
     key: 1,
     class: `logins`
 }
-  , ib = [`data-tooltip`]
-  , ab = [`data-tooltip`]
-  , ob = {
+  , cb = [`data-tooltip`]
+  , lb = [`onClick`]
+  , ub = {
     id: `chat-microphone`
 }
-  , sb = {
+  , db = {
     value: ``
 }
-  , cb = [`value`]
-  , lb = [`aria-label`, `aria-pressed`]
-  , ub = {
+  , fb = [`value`]
+  , pb = [`aria-label`, `aria-pressed`]
+  , mb = {
     id: `chat-gain`
 }
-  , db = {
+  , hb = {
     class: `right`
 }
-  , fb = {
-    id: `chat-autogain`
-}
-  , pb = [`aria-pressed`]
-  , mb = {
-    id: `chat-noise`
-}
-  , hb = [`aria-pressed`]
   , gb = {
-    id: `chat-echo`
+    id: `chat-autogain`
 }
   , _b = [`aria-pressed`]
   , vb = {
-    id: `chat-ptt`
+    id: `chat-noise`
 }
   , yb = [`aria-pressed`]
   , bb = {
-    id: `chat-deafen`
+    id: `chat-echo`
 }
   , xb = [`aria-pressed`]
   , Sb = {
+    id: `chat-ptt`
+}
+  , Cb = [`aria-pressed`]
+  , wb = {
+    id: `chat-deafen`
+}
+  , Tb = [`aria-pressed`]
+  , Eb = {
     id: `chat-volume`
 }
-  , Cb = {
+  , Db = {
     class: `right`
 }
-  , wb = {
+  , Ob = {
     id: `chat-camera`
 }
-  , Tb = {
+  , kb = {
     value: ``
 }
-  , Eb = [`value`]
-  , Db = [`disabled`]
-  , Ob = [`aria-label`, `aria-pressed`]
-  , kb = {
-    id: `chat-camfeeds`
-}
-  , Ab = [`aria-pressed`]
-  , jb = {
-    id: `chat-hide`
-}
-  , Mb = [`aria-pressed`]
+  , Ab = [`value`]
+  , jb = [`disabled`]
+  , Mb = [`aria-label`, `aria-pressed`]
   , Nb = {
-    id: `chat-mirror`
+    id: `chat-camfeeds`
 }
   , Pb = [`aria-pressed`]
   , Fb = {
-    id: `game-tutorial`
+    id: `chat-hide`
 }
   , Ib = [`aria-pressed`]
   , Lb = {
-    id: `game-english`
+    id: `chat-mirror`
 }
   , Rb = [`aria-pressed`]
   , zb = {
-    id: `game-stack`
+    id: `game-tutorial`
 }
   , Bb = [`aria-pressed`]
   , Vb = {
-    id: `game-nightorder`
+    id: `game-english`
 }
   , Hb = [`aria-pressed`]
   , Ub = {
-    id: `game-bluffs`
+    id: `game-stack`
 }
   , Wb = [`aria-pressed`]
   , Gb = {
-    id: `game-duplicate`
+    id: `game-nightorder`
 }
   , Kb = [`aria-pressed`]
   , qb = {
-    id: `game-chatsound`
+    id: `game-bluffs`
 }
   , Jb = [`aria-pressed`]
   , Yb = {
-    id: `game-waking`
+    id: `game-duplicate`
 }
   , Xb = [`aria-pressed`]
   , Zb = {
+    id: `game-chatsound`
+}
+  , Qb = [`aria-pressed`]
+  , $b = {
+    id: `game-waking`
+}
+  , ex = [`aria-pressed`]
+  , tx = {
     key: 0
 }
-  , Qb = {
+  , nx = {
     id: `game-votetime`
 }
-  , $b = {
+  , rx = {
     class: `right`
 }
-  , ex = [`data-tooltip`]
-  , tx = {
+  , ix = [`data-tooltip`]
+  , ax = {
     id: `game-nomination`
 }
-  , nx = {
+  , ox = {
     id: `game-whisper`
 }
-  , rx = [`aria-pressed`]
-  , ix = {
+  , sx = [`aria-pressed`]
+  , cx = {
     class: `shortcuts`
 }
-  , ax = [`onClick`]
-  , ox = [`id`]
-  , sx = [`aria-labelledby`]
-  , cx = [`data-tooltip`]
-  , lx = {
+  , lx = [`onClick`]
+  , ux = [`id`]
+  , dx = [`aria-labelledby`]
+  , fx = [`data-tooltip`]
+  , px = {
     class: `button secondary`,
     role: `button`
 }
-  , ux = {
+  , mx = {
     key: 0,
     class: `overlay`
 }
-  , dx = {
-    id: `advanced-clouds`
-}
-  , fx = [`aria-pressed`]
-  , px = {
-    id: `advanced-alignment`
-}
-  , mx = [`aria-pressed`]
   , hx = {
-    id: `advanced-avatars`
+    id: `advanced-clouds`
 }
   , gx = [`aria-pressed`]
   , _x = {
-    id: `advanced-chatcams`
+    id: `advanced-alignment`
 }
   , vx = [`aria-pressed`]
   , yx = {
-    id: `advanced-grimcams`
+    id: `advanced-avatars`
 }
   , bx = [`aria-pressed`]
   , xx = {
-    class: `toggle`
+    id: `advanced-chatcams`
 }
-  , Sx = {
-    for: `chroma`
+  , Sx = [`aria-pressed`]
+  , Cx = {
+    id: `advanced-grimcams`
 }
-  , Cx = [`aria-label`]
   , wx = [`aria-pressed`]
   , Tx = {
     class: `toggle`
 }
   , Ex = {
-    for: `css`
+    for: `chroma`
 }
   , Dx = [`aria-label`]
-  , Ox = [`aria-pressed`];
-function kx(e, t, n, a, o, s) {
-    let l = c(`font-awesome-icon`)
-      , u = c(`User`)
-      , g = c(`i18n-t`)
-      , _ = c(`LoginGoogle`)
-      , x = c(`LoginPatreon`)
-      , C = c(`Modal`);
+  , Ox = [`aria-pressed`]
+  , kx = {
+    class: `toggle`
+}
+  , Ax = {
+    for: `css`
+}
+  , jx = [`aria-label`]
+  , Mx = [`aria-pressed`];
+function Nx(e, t, n, a, o, s) {
+    let u = c(`font-awesome-icon`)
+      , g = c(`User`)
+      , _ = c(`i18n-t`)
+      , x = c(`Modal`);
     return d(),
     h(w, {
         name: `fade`
     }, {
         default: m( () => [e.modal.name === `settings` ? (d(),
-        h(C, {
+        h(x, {
             key: 0,
             id: `settings`,
             name: `settings`,
-            onClose: t[72] || (t[72] = t => e.toggleModal(e.modal)),
+            onClose: t[71] || (t[71] = t => e.toggleModal(e.modal)),
             onTabChange: s.updateTab,
             tabs: [e.$t(`modals.settings.tab_general`), e.$t(`modals.settings.tab_user`), e.$t(`modals.settings.tab_chat`), e.$t(`modals.settings.tab_game`), e.$t(`modals.settings.tab_shortcuts`), e.$t(`modals.settings.tab_advanced`)]
         }, {
@@ -9275,7 +9414,7 @@ function kx(e, t, n, a, o, s) {
                 key: 2
             }, [i(y(e.$t(`modals.settings.title`)), 1)], 64))]),
             "tab-0": m( () => [o.isSoundSettings ? (d(),
-            F(`ul`, Yy, [I(`li`, null, [I(`span`, Xy, y(e.$t(`modals.settings.setting_general_volume`)), 1), R(I(`input`, {
+            F(`ul`, $y, [I(`li`, null, [I(`span`, eb, y(e.$t(`modals.settings.setting_general_volume`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[19] || (t[19] = e => o.soundVolume = e),
                 onChange: t[20] || (t[20] = e => s.setSoundVolume()),
@@ -9285,13 +9424,13 @@ function kx(e, t, n, a, o, s) {
                 "aria-label": `sound-general`
             }, null, 544), [[P, o.soundVolume, void 0, {
                 number: !0
-            }]]), I(`span`, Zy, y(Math.round(o.soundVolume * 100)) + `%`, 1)]), (d(!0),
+            }]]), I(`span`, tb, y(Math.round(o.soundVolume * 100)) + `%`, 1)]), (d(!0),
             F(S, null, p(o.sounds, t => (d(),
             F(`li`, {
                 key: t
             }, [I(`span`, {
                 id: `sound-` + t
-            }, y(e.$t(`modals.settings.sounds.${t}`)), 9, Qy), R(I(`input`, {
+            }, y(e.$t(`modals.settings.sounds.${t}`)), 9, nb), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": e => o.soundEffectVolume[t] = e,
                 onChange: e => s.setSoundVolume(t),
@@ -9299,14 +9438,14 @@ function kx(e, t, n, a, o, s) {
                 max: `1`,
                 step: `0.1`,
                 "aria-labelledby": `sound-` + t
-            }, null, 40, $y), [[P, o.soundEffectVolume[t], void 0, {
+            }, null, 40, rb), [[P, o.soundEffectVolume[t], void 0, {
                 number: !0
-            }]]), I(`span`, eb, y(Math.round(o.soundEffectVolume[t] * 100)) + `%`, 1)]))), 128)), I(`li`, null, [I(`div`, {
+            }]]), I(`span`, ib, y(Math.round(o.soundEffectVolume[t] * 100)) + `%`, 1)]))), 128)), I(`li`, null, [I(`div`, {
                 class: `button`,
                 onClick: t[21] || (t[21] = e => o.isSoundSettings = !1)
             }, y(e.$t(`common.button_close`)), 1)])])) : (d(),
-            F(`ul`, Ey, [e.session.sessionId ? (d(),
-            F(`li`, Dy, [I(`span`, Oy, y(e.$t(`modals.settings.setting_avatar_size`)), 1), R(I(`input`, {
+            F(`ul`, Ay, [e.session.sessionId ? (d(),
+            F(`li`, jy, [I(`span`, My, y(e.$t(`modals.settings.setting_avatar_size`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[0] || (t[0] = e => o.avatarZoom = e),
                 onChange: t[1] || (t[1] = t => e.setAvatarZoom(o.avatarZoom)),
@@ -9316,7 +9455,7 @@ function kx(e, t, n, a, o, s) {
                 "aria-labelledby": `general-avatar`
             }, null, 544), [[P, o.avatarZoom, void 0, {
                 number: !0
-            }]]), I(`span`, ky, y(Math.round(o.avatarZoom * 100)) + `%`, 1)])) : r(``, !0), I(`li`, null, [I(`span`, Ay, y(e.$t(`modals.settings.setting_zoom`)), 1), R(I(`input`, {
+            }]]), I(`span`, Ny, y(Math.round(o.avatarZoom * 100)) + `%`, 1)])) : r(``, !0), I(`li`, null, [I(`span`, Py, y(e.$t(`modals.settings.setting_zoom`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[2] || (t[2] = e => o.zoom = e),
                 onChange: t[3] || (t[3] = t => e.setTokenZoom(o.zoom)),
@@ -9326,7 +9465,7 @@ function kx(e, t, n, a, o, s) {
                 "aria-labelledby": `general-token`
             }, null, 544), [[P, o.zoom, void 0, {
                 number: !0
-            }]]), I(`span`, jy, y(Math.round(100 + o.zoom * 10)) + `%`, 1)]), I(`li`, null, [I(`span`, My, y(e.$t(`modals.settings.setting_reminder_zoom`)), 1), R(I(`input`, {
+            }]]), I(`span`, Fy, y(Math.round(100 + o.zoom * 10)) + `%`, 1)]), I(`li`, null, [I(`span`, Iy, y(e.$t(`modals.settings.setting_reminder_zoom`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[4] || (t[4] = e => o.reminderZoom = e),
                 onChange: t[5] || (t[5] = t => e.setReminderZoom(o.reminderZoom)),
@@ -9336,7 +9475,7 @@ function kx(e, t, n, a, o, s) {
                 "aria-labelledby": `general-reminder`
             }, null, 544), [[P, o.reminderZoom, void 0, {
                 number: !0
-            }]]), I(`span`, Ny, y(Math.round(o.reminderZoom * 100)) + `%`, 1)]), I(`li`, null, [I(`span`, Py, y(e.$t(`modals.settings.setting_grimoire_offset`)), 1), R(I(`input`, {
+            }]]), I(`span`, Ly, y(Math.round(o.reminderZoom * 100)) + `%`, 1)]), I(`li`, null, [I(`span`, Ry, y(e.$t(`modals.settings.setting_grimoire_offset`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[6] || (t[6] = e => o.grimoireOffset = e),
                 onChange: t[7] || (t[7] = t => e.setGrimoireOffset(o.grimoireOffset)),
@@ -9346,76 +9485,76 @@ function kx(e, t, n, a, o, s) {
                 "aria-labelledby": `general-offset`
             }, null, 544), [[P, o.grimoireOffset, void 0, {
                 number: !0
-            }]]), I(`span`, Fy, y(o.grimoireOffset) + `%`, 1)]), I(`li`, null, [I(`span`, Iy, y(e.$t(`modals.settings.setting_colorblind`, [e.settings.general.colorblind])), 1), I(`div`, Ly, [I(`button`, {
+            }]]), I(`span`, zy, y(o.grimoireOffset) + `%`, 1)]), I(`li`, null, [I(`span`, By, y(e.$t(`modals.settings.setting_colorblind`, [e.settings.general.colorblind])), 1), I(`div`, Vy, [I(`button`, {
                 class: `button`,
                 onClick: t[8] || (t[8] = L(e => s.setColorblindMode(-1), [`stop`])),
                 "aria-labelledby": `general-colorblind`
-            }, [f(l, {
+            }, [f(u, {
                 icon: `arrow-circle-left`
             })]), I(`button`, {
                 class: `button`,
                 onClick: t[9] || (t[9] = L(e => s.setColorblindMode(1), [`stop`])),
                 "aria-labelledby": `general-colorblind`
-            }, [f(l, {
+            }, [f(u, {
                 icon: `arrow-circle-right`
             })])])]), I(`li`, {
                 class: `toggle`,
                 onClick: t[10] || (t[10] = (...e) => s.setBackground && s.setBackground(...e))
-            }, [I(`span`, Ry, y(e.$t(`modals.settings.setting_background`)), 1), I(`button`, {
+            }, [I(`span`, Hy, y(e.$t(`modals.settings.setting_background`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.grimoire.background
                 }]),
                 "aria-labelledby": `general-background`
-            }, [f(l, {
+            }, [f(u, {
                 icon: `image`
             })], 2)]), I(`li`, {
                 class: `toggle`,
                 onClick: t[11] || (t[11] = (...t) => e.toggleCosmeticsDisabled && e.toggleCosmeticsDisabled(...t))
-            }, [I(`span`, zy, y(e.$t(`modals.settings.setting_cosmetics`)), 1), I(`button`, {
+            }, [I(`span`, Uy, y(e.$t(`modals.settings.setting_cosmetics`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.general.isCosmeticsDisabled
                 }]),
                 "aria-labelledby": `general-cosmetics`,
                 "aria-pressed": !e.settings.general.isCosmeticsDisabled
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.general.isCosmeticsDisabled ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, By)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Wy)]), I(`li`, {
                 class: `toggle`,
                 onClick: t[12] || (t[12] = (...t) => e.toggleAnimationsDisabled && e.toggleAnimationsDisabled(...t))
-            }, [I(`span`, Vy, y(e.$t(`modals.settings.setting_animations`)), 1), I(`button`, {
+            }, [I(`span`, Gy, y(e.$t(`modals.settings.setting_animations`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.general.isAnimationsDisabled
                 }]),
                 "aria-labelledby": `general-animations`,
                 "aria-pressed": !e.settings.general.isAnimationsDisabled
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.general.isAnimationsDisabled ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, Hy)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Ky)]), I(`li`, {
                 class: `toggle`,
                 onClick: t[13] || (t[13] = (...e) => s.imageOptIn && s.imageOptIn(...e))
-            }, [I(`span`, Uy, y(e.$t(`modals.settings.setting_homebrew`)), 1), I(`button`, {
+            }, [I(`span`, qy, y(e.$t(`modals.settings.setting_homebrew`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.general.isImageOptIn
                 }]),
                 "aria-pressed": e.settings.general.isImageOptIn,
                 "aria-labelledby": `general-custom`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.general.isImageOptIn ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Wy)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Jy)]), I(`li`, {
                 class: `toggle`,
                 onClick: t[14] || (t[14] = (...t) => e.togglePositioningDisabled && e.togglePositioningDisabled(...t))
-            }, [I(`span`, Gy, y(e.$t(`modals.settings.setting_positioning`)), 1), I(`button`, {
+            }, [I(`span`, Yy, y(e.$t(`modals.settings.setting_positioning`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.general.isPositioningDisabled
                 }]),
                 "aria-pressed": !e.settings.general.isPositioningDisabled,
                 "aria-labelledby": `general-tabs`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.general.isPositioningDisabled ? `circle` : `arrows-alt`
-            }, null, 8, [`icon`])], 10, Ky)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Xy)]), I(`li`, {
                 class: `toggle`,
                 onClick: t[18] || (t[18] = e => o.isSoundSettings = !0)
-            }, [I(`span`, qy, y(e.$t(`modals.settings.setting_volume`)), 1), R(I(`input`, {
+            }, [I(`span`, Zy, y(e.$t(`modals.settings.setting_volume`)), 1), R(I(`input`, {
                 type: `range`,
                 "onUpdate:modelValue": t[15] || (t[15] = e => o.soundVolume = e),
                 onClick: t[16] || (t[16] = L( () => {}
@@ -9427,29 +9566,29 @@ function kx(e, t, n, a, o, s) {
                 "aria-labelledby": `general-sound`
             }, null, 544), [[P, o.soundVolume, void 0, {
                 number: !0
-            }]]), I(`span`, Jy, y(Math.round(o.soundVolume * 100)) + `%`, 1), I(`button`, {
+            }]]), I(`span`, Qy, y(Math.round(o.soundVolume * 100)) + `%`, 1), I(`button`, {
                 class: v([`button`, {
                     primary: [...e.settings.sounds].some( ([,e]) => e !== 1)
                 }]),
                 "aria-label": `Individual Sound Effects`
-            }, [f(l, {
+            }, [f(u, {
                 icon: `cog`
             })], 2)])]))]),
             "tab-1": m( () => {
-                var n, a, c, p, b;
-                return [f(u, {
+                var n;
+                return [f(g, {
                     user: o.localUser,
                     stats: o.stats
                 }, null, 8, [`user`, `stats`]), e.user.level ? r(``, !0) : (d(),
-                h(g, {
+                h(_, {
                     key: 0,
                     tag: `p`,
                     keypath: `modals.settings.patreon_perks`,
                     scope: `global`
                 }, {
-                    default: m( () => [I(`a`, tb, y(e.$t(`modals.settings.patreon_perks2`)), 1)]),
+                    default: m( () => [I(`a`, ab, y(e.$t(`modals.settings.patreon_perks2`)), 1)]),
                     _: 1
-                })), I(`div`, nb, [I(`a`, {
+                })), I(`div`, ob, [I(`a`, {
                     class: v([`button`, {
                         primary: !o.showLogins
                     }]),
@@ -9465,50 +9604,47 @@ function kx(e, t, n, a, o, s) {
                     class: `button secondary`,
                     onClick: t[24] || (t[24] = (...e) => s.logout && s.logout(...e))
                 }, y(e.$t(`common.button_logout`)), 1)]), o.showLogins ? (d(),
-                F(`div`, rb, [I(`div`, {
-                    class: `button-group`,
-                    "data-tooltip": (a = o.localUser.logins) != null && a.includes(`google`) ? e.$t(`modals.settings.linked_to`, [`Google`]) : e.$t(`modals.settings.link_to`, [`Google`])
-                }, [f(_, {
-                    class: v([`button`, {
-                        primary: (c = o.localUser.logins) == null ? void 0 : c.includes(`google`)
-                    }]),
-                    payload: (p = o.localUser.logins) != null && p.includes(`google`) ? {} : null,
-                    onSuccess: s.loadUser
-                }, {
-                    default: m( () => [...t[73] || (t[73] = [i(` Google `, -1)])]),
-                    _: 1
-                }, 8, [`payload`, `class`, `onSuccess`]), (b = o.localUser.logins) != null && b.includes(`google`) ? (d(),
-                F(`div`, {
-                    key: 0,
-                    class: `button`,
-                    onClick: t[25] || (t[25] = e => s.removeLogin(`google`))
-                }, [f(l, {
-                    icon: `trash-alt`
-                })])) : r(``, !0)], 8, ib), I(`div`, {
-                    class: `button-group`,
-                    "data-tooltip": e.user.patreonId ? e.$t(`modals.settings.patreon_update`) : e.$t(`modals.settings.link_to`, [`Patreon`])
-                }, [f(x, {
-                    class: v([`button`, {
-                        primary: e.user.patreonId
-                    }]),
-                    onSuccess: e.refresh
-                }, {
-                    default: m( () => [...t[74] || (t[74] = [i(` Patreon `, -1)])]),
-                    _: 1
-                }, 8, [`class`, `onSuccess`])], 8, ab)])) : r(``, !0)]
+                F(`div`, sb, [(d(!0),
+                F(S, null, p(o.supportedLogins, (t, n) => {
+                    var a, c, p, g;
+                    return d(),
+                    F(`div`, {
+                        key: n,
+                        class: `button-group`,
+                        "data-tooltip": (a = o.localUser.logins) != null && a.includes(n) ? e.$t(`modals.settings.linked_to`, [t]) : e.$t(`modals.settings.link_to`, [t])
+                    }, [(d(),
+                    h(l(`Login${t}`), {
+                        class: v([`button`, {
+                            primary: (c = o.localUser.logins) == null ? void 0 : c.includes(n)
+                        }]),
+                        payload: (p = o.localUser.logins) != null && p.includes(n) ? {} : null,
+                        onSuccess: s.loadUser
+                    }, {
+                        default: m( () => [i(` \xA0` + y(t), 1)]),
+                        _: 2
+                    }, 1064, [`payload`, `class`, `onSuccess`])), (g = o.localUser.logins) != null && g.includes(n) ? (d(),
+                    F(`div`, {
+                        key: 0,
+                        class: `button`,
+                        onClick: e => s.removeLogin(n)
+                    }, [f(u, {
+                        icon: `trash-alt`
+                    })], 8, lb)) : r(``, !0)], 8, cb)
+                }
+                ), 128))])) : r(``, !0)]
             }
             ),
-            "tab-2": m( () => [I(`ul`, null, [I(`li`, null, [I(`span`, ob, [I(`b`, null, y(e.$t(`modals.settings.setting_microphone`)), 1)]), R(I(`select`, {
-                "onUpdate:modelValue": t[26] || (t[26] = e => o.audioSelection = e),
-                onChange: t[27] || (t[27] = e => s.changePreference(`audio`)),
+            "tab-2": m( () => [I(`ul`, null, [I(`li`, null, [I(`span`, ub, [I(`b`, null, y(e.$t(`modals.settings.setting_microphone`)), 1)]), R(I(`select`, {
+                "onUpdate:modelValue": t[25] || (t[25] = e => o.audioSelection = e),
+                onChange: t[26] || (t[26] = e => s.changePreference(`audio`)),
                 "aria-labelledby": `chat-microphone`
-            }, [I(`option`, sb, y(e.$t(`modals.settings.option_disabled`)), 1), (d(!0),
+            }, [I(`option`, db, y(e.$t(`modals.settings.option_disabled`)), 1), (d(!0),
             F(S, null, p(o.audioList, (t, n) => (d(),
             F(`option`, {
                 key: n,
                 value: t.deviceId
-            }, y(t.label || e.$t(`modals.settings.setting_audio_unnamed`) + ` ` + n), 9, cb))), 128))], 544), [[b, o.audioSelection]]), I(`button`, {
-                onClick: t[28] || (t[28] = e => s.toggleAudioMuted()),
+            }, y(t.label || e.$t(`modals.settings.setting_audio_unnamed`) + ` ` + n), 9, fb))), 128))], 544), [[b, o.audioSelection]]), I(`button`, {
+                onClick: t[27] || (t[27] = e => s.toggleAudioMuted()),
                 class: v([`button`, {
                     secondary: e.chat.audio.device && e.chat.audio.isMuted,
                     primary: e.chat.audio.device && !e.chat.audio.isMuted,
@@ -9516,180 +9652,180 @@ function kx(e, t, n, a, o, s) {
                 }]),
                 "aria-label": e.$t(`modals.settings.setting_mute_audio`),
                 "aria-pressed": e.chat.audio.isMuted
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isMuted ? `microphone-slash` : `microphone`
-            }, null, 8, [`icon`])], 10, lb)]), I(`li`, null, [I(`span`, ub, y(e.$t(`modals.settings.setting_gain`)), 1), R(I(`input`, {
+            }, null, 8, [`icon`])], 10, pb)]), I(`li`, null, [I(`span`, mb, y(e.$t(`modals.settings.setting_gain`)), 1), R(I(`input`, {
                 type: `range`,
-                "onUpdate:modelValue": t[29] || (t[29] = e => o.gain = e),
-                onChange: t[30] || (t[30] = (...e) => s.setAudioGain && s.setAudioGain(...e)),
+                "onUpdate:modelValue": t[28] || (t[28] = e => o.gain = e),
+                onChange: t[29] || (t[29] = (...e) => s.setAudioGain && s.setAudioGain(...e)),
                 min: `0`,
                 max: `2`,
                 step: `0.1`,
                 "aria-labelledby": `chat-gain`
             }, null, 544), [[P, o.gain, void 0, {
                 number: !0
-            }]]), I(`span`, db, y(Math.round(o.gain * 100)) + `%`, 1)]), I(`li`, {
+            }]]), I(`span`, hb, y(Math.round(o.gain * 100)) + `%`, 1)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[31] || (t[31] = t => e.toggleAutoGainControl())
-            }, [I(`span`, fb, y(e.$t(`modals.settings.setting_auto_gain`)), 1), I(`button`, {
+                onClick: t[30] || (t[30] = t => e.toggleAutoGainControl())
+            }, [I(`span`, gb, y(e.$t(`modals.settings.setting_auto_gain`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.chat.audio.isAutoGainControl
                 }]),
                 "aria-pressed": e.chat.audio.isAutoGainControl,
                 "aria-labelledby": `chat-autogain`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isAutoGainControl ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, pb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, _b)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[32] || (t[32] = t => e.toggleNoiseSuppression())
-            }, [I(`span`, mb, y(e.$t(`modals.settings.setting_noise_suppression`)), 1), I(`button`, {
+                onClick: t[31] || (t[31] = t => e.toggleNoiseSuppression())
+            }, [I(`span`, vb, y(e.$t(`modals.settings.setting_noise_suppression`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.chat.audio.isNoiseSuppression
                 }]),
                 "aria-pressed": e.chat.audio.isNoiseSuppression,
                 "aria-labelledby": `chat-noise`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isNoiseSuppression ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, hb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, yb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[33] || (t[33] = t => e.toggleEchoCancellation())
-            }, [I(`span`, gb, y(e.$t(`modals.settings.setting_echo_cancellation`)), 1), I(`button`, {
+                onClick: t[32] || (t[32] = t => e.toggleEchoCancellation())
+            }, [I(`span`, bb, y(e.$t(`modals.settings.setting_echo_cancellation`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.chat.audio.isEchoCancellation
                 }]),
                 "aria-pressed": e.chat.audio.isEchoCancellation,
                 "aria-labelledby": `chat-echo`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isEchoCancellation ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, _b)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, xb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[34] || (t[34] = e => s.togglePushToTalk())
-            }, [I(`span`, vb, y(e.$t(`modals.settings.setting_ptt`)), 1), I(`button`, {
+                onClick: t[33] || (t[33] = e => s.togglePushToTalk())
+            }, [I(`span`, Sb, y(e.$t(`modals.settings.setting_ptt`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.chat.audio.isPushToTalk
                 }]),
                 "aria-pressed": e.chat.audio.isPushToTalk,
                 "aria-labelledby": `chat-ptt`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isPushToTalk ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, yb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Cb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[35] || (t[35] = e => s.deafen(`audio`))
-            }, [I(`span`, bb, y(e.$t(`modals.settings.setting_audio_deafen`)), 1), I(`button`, {
+                onClick: t[34] || (t[34] = e => s.deafen(`audio`))
+            }, [I(`span`, wb, y(e.$t(`modals.settings.setting_audio_deafen`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.chat.audio.isDeafened
                 }]),
                 "aria-pressed": !e.chat.audio.isDeafened,
                 "aria-labelledby": `chat-deafen`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.audio.isDeafened ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, xb)]), I(`li`, null, [I(`span`, Sb, y(e.$t(`modals.settings.setting_chat_volume`)), 1), R(I(`input`, {
+            }, null, 8, [`icon`])], 10, Tb)]), I(`li`, null, [I(`span`, Eb, y(e.$t(`modals.settings.setting_chat_volume`)), 1), R(I(`input`, {
                 type: `range`,
-                "onUpdate:modelValue": t[36] || (t[36] = e => o.globalVolume = e),
-                onChange: t[37] || (t[37] = (...e) => s.setAudioVolume && s.setAudioVolume(...e)),
+                "onUpdate:modelValue": t[35] || (t[35] = e => o.globalVolume = e),
+                onChange: t[36] || (t[36] = (...e) => s.setAudioVolume && s.setAudioVolume(...e)),
                 min: `0`,
                 max: `2`,
                 step: `0.1`,
                 "aria-labelledby": `chat-volume`
             }, null, 544), [[P, o.globalVolume, void 0, {
                 number: !0
-            }]]), I(`span`, Cb, y(Math.round(o.globalVolume * 100)) + `%`, 1)]), I(`li`, null, [I(`span`, wb, [I(`b`, null, y(e.$t(`modals.settings.setting_camera`)), 1)]), R(I(`select`, {
-                "onUpdate:modelValue": t[38] || (t[38] = e => o.videoSelection = e),
-                onChange: t[39] || (t[39] = e => s.changePreference(`video`)),
+            }]]), I(`span`, Db, y(Math.round(o.globalVolume * 100)) + `%`, 1)]), I(`li`, null, [I(`span`, Ob, [I(`b`, null, y(e.$t(`modals.settings.setting_camera`)), 1)]), R(I(`select`, {
+                "onUpdate:modelValue": t[37] || (t[37] = e => o.videoSelection = e),
+                onChange: t[38] || (t[38] = e => s.changePreference(`video`)),
                 "aria-labelledby": `chat-camera`
-            }, [I(`option`, Tb, y(e.$t(`modals.settings.option_disabled`)), 1), (d(!0),
+            }, [I(`option`, kb, y(e.$t(`modals.settings.option_disabled`)), 1), (d(!0),
             F(S, null, p(o.videoList, (t, n) => (d(),
             F(`option`, {
                 key: n,
                 value: t.deviceId
-            }, y(t.label || e.$t(`modals.settings.setting_video_unnamed`) + ` ` + n), 9, Eb))), 128))], 544), [[b, o.videoSelection]]), e.chat.video.device ? (d(),
+            }, y(t.label || e.$t(`modals.settings.setting_video_unnamed`) + ` ` + n), 9, Ab))), 128))], 544), [[b, o.videoSelection]]), e.chat.video.device ? (d(),
             F(`button`, {
                 key: 1,
                 class: v([`button`, e.chat.video.isMuted ? `secondary` : `primary`]),
                 "aria-label": e.$t(`modals.settings.setting_mute_video`),
                 "aria-pressed": e.chat.video.isMuted,
-                onClick: t[41] || (t[41] = t => e.toggleVideoMuted())
-            }, [f(l, {
+                onClick: t[40] || (t[40] = t => e.toggleVideoMuted())
+            }, [f(u, {
                 icon: e.chat.video.isMuted ? `video-slash` : `video`
-            }, null, 8, [`icon`])], 10, Ob)) : (d(),
+            }, null, 8, [`icon`])], 10, Mb)) : (d(),
             F(`button`, {
                 key: 0,
                 class: `button`,
-                onClick: t[40] || (t[40] = e => s.changePreference(`video`)),
+                onClick: t[39] || (t[39] = e => s.changePreference(`video`)),
                 disabled: !s.canChat || !o.videoList.length || !o.videoSelection
-            }, [f(l, {
+            }, [f(u, {
                 icon: `video`
-            })], 8, Db))]), I(`li`, {
+            })], 8, jb))]), I(`li`, {
                 class: `toggle`,
-                onClick: t[42] || (t[42] = e => s.deafen(`video`))
-            }, [I(`span`, kb, y(e.$t(`modals.settings.setting_video_deafen`)), 1), I(`button`, {
+                onClick: t[41] || (t[41] = e => s.deafen(`video`))
+            }, [I(`span`, Nb, y(e.$t(`modals.settings.setting_video_deafen`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.chat.video.isDeafened
                 }]),
                 "aria-pressed": !e.chat.video.isDeafened,
                 "aria-labelledby": `chat-camfeeds`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.video.isDeafened ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, Ab)]), e.chat.video.isDeafened ? r(``, !0) : (d(),
+            }, null, 8, [`icon`])], 10, Pb)]), e.chat.video.isDeafened ? r(``, !0) : (d(),
             F(`li`, {
                 key: 0,
                 class: `toggle`,
-                onClick: t[43] || (t[43] = t => e.toggleVideoHidden())
-            }, [I(`span`, jb, y(e.$t(`modals.settings.setting_video_hidden`)), 1), I(`button`, {
+                onClick: t[42] || (t[42] = t => e.toggleVideoHidden())
+            }, [I(`span`, Fb, y(e.$t(`modals.settings.setting_video_hidden`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.chat.video.isHidden
                 }]),
                 "aria-pressed": e.chat.video.isHidden,
                 "aria-labelledby": `chat-hide`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.video.isHidden ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Mb)])), !e.chat.video.isDeafened && !e.chat.video.isHidden ? (d(),
+            }, null, 8, [`icon`])], 10, Ib)])), !e.chat.video.isDeafened && !e.chat.video.isHidden ? (d(),
             F(`li`, {
                 key: 1,
                 class: `toggle`,
-                onClick: t[44] || (t[44] = t => e.toggleVideoUnmirrored())
-            }, [I(`span`, Nb, y(e.$t(`modals.settings.setting_video_mirrored`)), 1), I(`button`, {
+                onClick: t[43] || (t[43] = t => e.toggleVideoUnmirrored())
+            }, [I(`span`, Lb, y(e.$t(`modals.settings.setting_video_mirrored`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.chat.video.isUnmirrored
                 }]),
                 "aria-pressed": !e.chat.video.isUnmirrored,
                 "aria-labelledby": `chat-mirror`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.chat.video.isUnmirrored ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, Pb)])) : r(``, !0), I(`li`, null, [I(`span`, null, [I(`b`, null, y(e.$t(`modals.settings.setup`)), 1)]), I(`div`, {
+            }, null, 8, [`icon`])], 10, Rb)])) : r(``, !0), I(`li`, null, [I(`span`, null, [I(`b`, null, y(e.$t(`modals.settings.setup`)), 1)]), I(`div`, {
                 class: `button secondary`,
-                onClick: t[45] || (t[45] = (...e) => s.toggleSetup && s.toggleSetup(...e)),
+                onClick: t[44] || (t[44] = (...e) => s.toggleSetup && s.toggleSetup(...e)),
                 role: `button`,
                 "aria-label": `Run Chat Setup`
             }, y(e.$t(`modals.settings.button_setup`)), 1)])])]),
             "tab-3": m( () => [I(`ul`, null, [I(`li`, {
                 class: `toggle`,
-                onClick: t[46] || (t[46] = (...t) => e.toggleTutorialDisabled && e.toggleTutorialDisabled(...t))
-            }, [I(`span`, Fb, y(e.$t(`modals.settings.setting_tutorial`)), 1), I(`button`, {
+                onClick: t[45] || (t[45] = (...t) => e.toggleTutorialDisabled && e.toggleTutorialDisabled(...t))
+            }, [I(`span`, zb, y(e.$t(`modals.settings.setting_tutorial`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.game.isTutorialDisabled
                 }]),
                 "aria-pressed": !e.settings.game.isTutorialDisabled,
                 "aria-labelledby": `game-tutorial`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isTutorialDisabled ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, Ib)]), e.$i18n.locale === o.defaultLocale ? r(``, !0) : (d(),
+            }, null, 8, [`icon`])], 10, Bb)]), e.$i18n.locale === o.defaultLocale ? r(``, !0) : (d(),
             F(`li`, {
                 key: 0,
                 class: `toggle`,
-                onClick: t[47] || (t[47] = t => e.toggleEnglishNames())
-            }, [I(`span`, Lb, y(e.$t(`modals.settings.setting_english`)), 1), I(`button`, {
+                onClick: t[46] || (t[46] = t => e.toggleEnglishNames())
+            }, [I(`span`, Vb, y(e.$t(`modals.settings.setting_english`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isEnglishNames
                 }]),
                 "aria-pressed": e.settings.game.isEnglishNames,
                 "aria-labelledby": `game-english`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isEnglishNames ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Rb)])), I(`li`, {
+            }, null, 8, [`icon`])], 10, Hb)])), I(`li`, {
                 class: `toggle`,
-                onClick: t[48] || (t[48] = t => e.toggleStackReminderTokens())
-            }, [I(`span`, zb, y(e.$t(`modals.settings.setting_reminders`)), 1), I(`button`, {
+                onClick: t[47] || (t[47] = t => e.toggleStackReminderTokens())
+            }, [I(`span`, Ub, y(e.$t(`modals.settings.setting_reminders`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.stackReminderTokens !== null
                 }]),
@@ -9704,132 +9840,132 @@ function kx(e, t, n, a, o, s) {
             }, [i(y(e.$t(`modals.settings.setting_reminders_never`)), 1)], 64)) : (d(),
             F(S, {
                 key: 2
-            }, [i(y(e.$t(`modals.settings.setting_reminders_auto`)), 1)], 64))], 10, Bb)]), e.isStoryteller ? (d(),
+            }, [i(y(e.$t(`modals.settings.setting_reminders_auto`)), 1)], 64))], 10, Wb)]), e.isStoryteller ? (d(),
             F(S, {
                 key: 2
             }, [I(`li`, {
                 class: `toggle`,
-                onClick: t[53] || (t[53] = (...t) => e.toggleNightOrder && e.toggleNightOrder(...t))
-            }, [I(`span`, Yb, y(e.$t(`modals.settings.setting_st_night`)), 1), I(`button`, {
+                onClick: t[52] || (t[52] = (...t) => e.toggleNightOrder && e.toggleNightOrder(...t))
+            }, [I(`span`, $b, y(e.$t(`modals.settings.setting_st_night`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isNightOrder
                 }]),
                 "aria-pressed": e.settings.game.isNightOrder,
                 "aria-labelledby": `game-waking`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isNightOrder ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Xb)]), e.vote.locked <= 0 && !e.vote.isInProgress ? (d(),
-            F(`li`, Zb, [I(`span`, Qb, y(e.$t(`modals.settings.setting_st_vote`)), 1), R(I(`input`, {
+            }, null, 8, [`icon`])], 10, ex)]), e.vote.locked <= 0 && !e.vote.isInProgress ? (d(),
+            F(`li`, tx, [I(`span`, nx, y(e.$t(`modals.settings.setting_st_vote`)), 1), R(I(`input`, {
                 type: `range`,
-                "onUpdate:modelValue": t[54] || (t[54] = e => o.voteSpeed = e),
-                onChange: t[55] || (t[55] = (...e) => s.setVotingSpeed && s.setVotingSpeed(...e)),
+                "onUpdate:modelValue": t[53] || (t[53] = e => o.voteSpeed = e),
+                onChange: t[54] || (t[54] = (...e) => s.setVotingSpeed && s.setVotingSpeed(...e)),
                 min: `500`,
                 max: `4000`,
                 step: `100`,
                 "aria-labelledby": `game-votetime`
             }, null, 544), [[P, o.voteSpeed, void 0, {
                 number: !0
-            }]]), I(`span`, $b, y((o.voteSpeed / 1e3).toFixed(2)) + `s`, 1)])) : r(``, !0), e.vote.locked <= 0 && !e.vote.isInProgress ? (d(),
+            }]]), I(`span`, rx, y((o.voteSpeed / 1e3).toFixed(2)) + `s`, 1)])) : r(``, !0), e.vote.locked <= 0 && !e.vote.isInProgress ? (d(),
             F(`li`, {
                 key: 1,
                 class: `toggle`,
                 "data-tooltip": e.$t(`modals.settings.nomination.${e.vote.nominationType}.text`),
-                onClick: t[56] || (t[56] = (...e) => s.toggleNominationType && s.toggleNominationType(...e))
-            }, [I(`span`, tx, y(e.$t(`modals.settings.setting_st_nomination`)), 1), I(`button`, {
+                onClick: t[55] || (t[55] = (...e) => s.toggleNominationType && s.toggleNominationType(...e))
+            }, [I(`span`, ax, y(e.$t(`modals.settings.setting_st_nomination`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.vote.nominationType !== `regular`
                 }]),
                 "aria-labelledby": `game-nomination`
-            }, y(e.$t(`modals.settings.nomination.${e.vote.nominationType}.title`)), 3)], 8, ex)) : r(``, !0), I(`li`, {
-                onClick: t[57] || (t[57] = (...e) => s.toggleWhispers && s.toggleWhispers(...e))
-            }, [I(`span`, nx, y(e.$t(`modals.settings.setting_st_whisper`)), 1), I(`button`, {
+            }, y(e.$t(`modals.settings.nomination.${e.vote.nominationType}.title`)), 3)], 8, ix)) : r(``, !0), I(`li`, {
+                onClick: t[56] || (t[56] = (...e) => s.toggleWhispers && s.toggleWhispers(...e))
+            }, [I(`span`, ox, y(e.$t(`modals.settings.setting_st_whisper`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.session.isWhispersDisabled,
                     disabled: !e.isStoryteller
                 }]),
                 "aria-pressed": !e.session.isWhispersDisabled,
                 "aria-labelledby": `game-whisper`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.session.isWhispersDisabled ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, rx)])], 64)) : (d(),
+            }, null, 8, [`icon`])], 10, sx)])], 64)) : (d(),
             F(S, {
                 key: 1
             }, [I(`li`, {
                 class: `toggle`,
-                onClick: t[49] || (t[49] = (...t) => e.togglePlayerNightOrder && e.togglePlayerNightOrder(...t))
-            }, [I(`span`, Vb, y(e.$t(`modals.settings.setting_player_night`)), 1), I(`button`, {
+                onClick: t[48] || (t[48] = (...t) => e.togglePlayerNightOrder && e.togglePlayerNightOrder(...t))
+            }, [I(`span`, Gb, y(e.$t(`modals.settings.setting_player_night`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isPlayerNightOrder
                 }]),
                 "aria-pressed": e.settings.game.isPlayerNightOrder,
                 "aria-labelledby": `game-nightorder`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isPlayerNightOrder ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Hb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Kb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[50] || (t[50] = (...t) => e.togglePlayerBluffs && e.togglePlayerBluffs(...t))
-            }, [I(`span`, Ub, y(e.$t(`modals.settings.setting_player_bluffs`)), 1), I(`button`, {
+                onClick: t[49] || (t[49] = (...t) => e.togglePlayerBluffs && e.togglePlayerBluffs(...t))
+            }, [I(`span`, qb, y(e.$t(`modals.settings.setting_player_bluffs`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isPlayerBluffs
                 }]),
                 "aria-pressed": e.settings.game.isPlayerBluffs,
                 "aria-labelledby": `game-bluffs`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isPlayerBluffs ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Wb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Jb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[51] || (t[51] = (...t) => e.togglePlayerDuplicates && e.togglePlayerDuplicates(...t))
-            }, [I(`span`, Gb, y(e.$t(`modals.settings.setting_player_reminders`)), 1), I(`button`, {
+                onClick: t[50] || (t[50] = (...t) => e.togglePlayerDuplicates && e.togglePlayerDuplicates(...t))
+            }, [I(`span`, Yb, y(e.$t(`modals.settings.setting_player_reminders`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isPlayerDuplicates
                 }]),
                 "aria-pressed": e.settings.game.isPlayerDuplicates,
                 "aria-labelledby": `game-duplicate`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isPlayerDuplicates ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Kb)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, Xb)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[52] || (t[52] = (...t) => e.toggleNightRequestPing && e.toggleNightRequestPing(...t))
-            }, [I(`span`, qb, y(e.$t(`modals.settings.setting_player_sound`)), 1), I(`button`, {
+                onClick: t[51] || (t[51] = (...t) => e.toggleNightRequestPing && e.toggleNightRequestPing(...t))
+            }, [I(`span`, Zb, y(e.$t(`modals.settings.setting_player_sound`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.game.isNightRequestPing
                 }]),
                 "aria-pressed": e.settings.game.isNightRequestPing,
                 "aria-labelledby": `game-chatsound`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.game.isNightRequestPing ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Jb)])], 64))])]),
-            "tab-4": m( () => [I(`ul`, ix, [(d(!0),
+            }, null, 8, [`icon`])], 10, Qb)])], 64))])]),
+            "tab-4": m( () => [I(`ul`, cx, [(d(!0),
             F(S, null, p(e.keybindings, (t, n) => (d(),
             F(`li`, {
                 key: n,
                 onClick: e => s.recordShortcut(n)
             }, [I(`span`, {
                 id: `shortcut-` + n
-            }, y(e.$t(`modals.settings.shortcuts.${n}`)), 9, ox), (d(!0),
+            }, y(e.$t(`modals.settings.shortcuts.${n}`)), 9, ux), (d(!0),
             F(S, null, p(t, e => (d(),
             F(`em`, {
                 role: `button`,
                 "aria-labelledby": `shortcut-` + n,
                 key: e
-            }, y(e.trim()), 9, sx))), 128)), f(l, {
+            }, y(e.trim()), 9, dx))), 128)), f(u, {
                 onClick: L(e => s.recordShortcut(n, !0), [`stop`]),
                 icon: `plus-circle`,
                 role: `button`,
                 "aria-label": e.$t(`modals.settings.shortcut_add`)
-            }, null, 8, [`onClick`, `aria-label`])], 8, ax))), 128)), s.isTouchDevice ? (d(),
+            }, null, 8, [`onClick`, `aria-label`])], 8, lx))), 128)), s.isTouchDevice ? (d(),
             F(`li`, {
                 key: 0,
-                onClick: t[58] || (t[58] = t => e.toggleTouchSupport()),
+                onClick: t[57] || (t[57] = t => e.toggleTouchSupport()),
                 "data-tooltip": e.$t(`modals.settings.shortcut_touch_text`)
-            }, [I(`span`, null, y(e.$t(`modals.settings.shortcut_touch`)), 1), f(l, {
+            }, [I(`span`, null, y(e.$t(`modals.settings.shortcut_touch`)), 1), f(u, {
                 icon: e.settings.game.isTouchSupport ? `check-circle` : `circle`,
                 role: `checkbox`,
                 "aria-pressed": e.settings.game.isTouchSupport
-            }, null, 8, [`icon`, `aria-pressed`])], 8, cx)) : r(``, !0), I(`li`, {
-                onClick: t[59] || (t[59] = e => s.resetShortcuts())
-            }, [I(`div`, lx, y(e.$t(`modals.settings.shortcut_reset`)), 1)])]), o.isRecording ? (d(),
-            F(`div`, ux, [f(g, {
+            }, null, 8, [`icon`, `aria-pressed`])], 8, fx)) : r(``, !0), I(`li`, {
+                onClick: t[58] || (t[58] = e => s.resetShortcuts())
+            }, [I(`div`, px, y(e.$t(`modals.settings.shortcut_reset`)), 1)])]), o.isRecording ? (d(),
+            F(`div`, mx, [f(_, {
                 keypath: `modals.settings.shortcut_record`,
                 scope: `global`
             }, {
@@ -9838,109 +9974,109 @@ function kx(e, t, n, a, o, s) {
             }), I(`input`, {
                 ref: `shortcut`,
                 type: `text`,
-                onKeyup: t[60] || (t[60] = L( (...e) => s.keyup && s.keyup(...e), [`stop`])),
-                onBlur: t[61] || (t[61] = (...e) => s.cancelShortcut && s.cancelShortcut(...e))
+                onKeyup: t[59] || (t[59] = L( (...e) => s.keyup && s.keyup(...e), [`stop`])),
+                onBlur: t[60] || (t[60] = (...e) => s.cancelShortcut && s.cancelShortcut(...e))
             }, null, 544), I(`small`, null, y(e.$t(`modals.settings.shortcut_escape`)), 1)])) : r(``, !0)]),
             "tab-5": m( () => [I(`ul`, null, [I(`li`, {
                 class: `toggle`,
-                onClick: t[62] || (t[62] = (...t) => e.toggleNightStatic && e.toggleNightStatic(...t))
-            }, [I(`span`, dx, y(e.$t(`modals.settings.setting_clouds`)), 1), I(`button`, {
+                onClick: t[61] || (t[61] = (...t) => e.toggleNightStatic && e.toggleNightStatic(...t))
+            }, [I(`span`, hx, y(e.$t(`modals.settings.setting_clouds`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.advanced.hasNightStatic
                 }]),
                 "aria-pressed": !e.settings.advanced.hasNightStatic,
                 "aria-labelledby": `advanced-clouds`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.advanced.hasNightStatic ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, fx)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, gx)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[63] || (t[63] = (...t) => e.togglePublicTownSquare && e.togglePublicTownSquare(...t))
-            }, [I(`span`, px, y(e.$t(`modals.settings.setting_alignment`)), 1), I(`button`, {
+                onClick: t[62] || (t[62] = (...t) => e.togglePublicTownSquare && e.togglePublicTownSquare(...t))
+            }, [I(`span`, _x, y(e.$t(`modals.settings.setting_alignment`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.advanced.hasPublicTownSquare
                 }]),
                 "aria-pressed": !e.settings.advanced.hasPublicTownSquare,
                 "aria-labelledby": `advanced-alignment`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.advanced.hasPublicTownSquare ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, mx)]), I(`li`, {
+            }, null, 8, [`icon`])], 10, vx)]), I(`li`, {
                 class: `toggle`,
-                onClick: t[64] || (t[64] = (...t) => e.toggleHiddenTownSquareCams && e.toggleHiddenTownSquareCams(...t))
-            }, [I(`span`, hx, y(e.$t(`modals.settings.setting_avatars`)), 1), I(`button`, {
+                onClick: t[63] || (t[63] = (...t) => e.toggleHiddenTownSquareCams && e.toggleHiddenTownSquareCams(...t))
+            }, [I(`span`, yx, y(e.$t(`modals.settings.setting_avatars`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.advanced.hasHiddenTownSquareCams
                 }]),
                 "aria-pressed": !e.settings.advanced.hasHiddenTownSquareCams,
                 "aria-labelledby": `advanced-avatars`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.advanced.hasHiddenTownSquareCams ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, gx)]), e.isStoryteller ? (d(),
+            }, null, 8, [`icon`])], 10, bx)]), e.isStoryteller ? (d(),
             F(`li`, {
                 key: 0,
                 class: `toggle`,
-                onClick: t[65] || (t[65] = (...t) => e.toggleHiddenPrivateCams && e.toggleHiddenPrivateCams(...t))
-            }, [I(`span`, _x, y(e.$t(`modals.settings.setting_private_cams`)), 1), I(`button`, {
+                onClick: t[64] || (t[64] = (...t) => e.toggleHiddenPrivateCams && e.toggleHiddenPrivateCams(...t))
+            }, [I(`span`, xx, y(e.$t(`modals.settings.setting_private_cams`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.advanced.hasHiddenPrivateCams
                 }]),
                 "aria-pressed": !e.settings.advanced.hasHiddenPrivateCams,
                 "aria-labelledby": `advanced-chatcams`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.advanced.hasHiddenPrivateCams ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, vx)])) : r(``, !0), I(`li`, {
+            }, null, 8, [`icon`])], 10, Sx)])) : r(``, !0), I(`li`, {
                 class: `toggle`,
-                onClick: t[66] || (t[66] = (...t) => e.toggleHiddenRevealCams && e.toggleHiddenRevealCams(...t))
-            }, [I(`span`, yx, y(e.$t(`modals.settings.setting_reveal`)), 1), I(`button`, {
+                onClick: t[65] || (t[65] = (...t) => e.toggleHiddenRevealCams && e.toggleHiddenRevealCams(...t))
+            }, [I(`span`, Cx, y(e.$t(`modals.settings.setting_reveal`)), 1), I(`button`, {
                 class: v([`button`, {
                     primary: !e.settings.advanced.hasHiddenRevealCams
                 }]),
                 "aria-pressed": !e.settings.advanced.hasHiddenRevealCams,
                 "aria-labelledby": `advanced-grimcams`
-            }, [f(l, {
+            }, [f(u, {
                 icon: e.settings.advanced.hasHiddenRevealCams ? `circle` : `check-circle`
-            }, null, 8, [`icon`])], 10, bx)]), I(`li`, xx, [I(`label`, Sx, y(e.$t(`modals.settings.setting_chroma`)), 1), R(I(`input`, {
-                onChange: t[67] || (t[67] = e => s.setChroma()),
+            }, null, 8, [`icon`])], 10, wx)]), I(`li`, Tx, [I(`label`, Ex, y(e.$t(`modals.settings.setting_chroma`)), 1), R(I(`input`, {
+                onChange: t[66] || (t[66] = e => s.setChroma()),
                 type: `color`,
                 class: `button`,
-                "onUpdate:modelValue": t[68] || (t[68] = e => o.chroma = e),
+                "onUpdate:modelValue": t[67] || (t[67] = e => o.chroma = e),
                 "aria-label": e.$t(`modals.settings.setting_chroma_label`)
-            }, null, 40, Cx), [[P, o.chroma]]), I(`button`, {
+            }, null, 40, Dx), [[P, o.chroma]]), I(`button`, {
                 id: `chroma`,
                 class: v([`button`, {
                     primary: e.settings.advanced.chromaKey
                 }]),
                 "aria-pressed": e.settings.advanced.chromaKey,
-                onClick: t[69] || (t[69] = e => s.setChroma(!0))
-            }, [f(l, {
+                onClick: t[68] || (t[68] = e => s.setChroma(!0))
+            }, [f(u, {
                 icon: e.settings.advanced.chromaKey ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, wx)]), I(`li`, Tx, [I(`label`, Ex, y(e.$t(`modals.settings.setting_css`)), 1), I(`button`, {
+            }, null, 8, [`icon`])], 10, Ox)]), I(`li`, kx, [I(`label`, Ax, y(e.$t(`modals.settings.setting_css`)), 1), I(`button`, {
                 id: `css`,
                 class: v([`button`, {
                     primary: e.settings.advanced.customCSS
                 }]),
-                onClick: t[70] || (t[70] = L(e => s.setCustomCSS(), [`stop`])),
+                onClick: t[69] || (t[69] = L(e => s.setCustomCSS(), [`stop`])),
                 "aria-label": e.$t(`modals.settings.setting_css_label`)
-            }, [f(l, {
+            }, [f(u, {
                 icon: `file-code`
-            })], 10, Dx), I(`button`, {
+            })], 10, jx), I(`button`, {
                 class: v([`button`, {
                     primary: e.settings.advanced.customCSSEnabled
                 }]),
                 "aria-pressed": e.settings.advanced.customCSSEnabled,
-                onClick: t[71] || (t[71] = e => s.toggleCustomCSS())
-            }, [f(l, {
+                onClick: t[70] || (t[70] = e => s.toggleCustomCSS())
+            }, [f(u, {
                 icon: e.settings.advanced.customCSSEnabled ? `check-circle` : `circle`
-            }, null, 8, [`icon`])], 10, Ox)])])]),
+            }, null, 8, [`icon`])], 10, Mx)])])]),
             _: 1
         }, 8, [`onTabChange`, `tabs`])) : r(``, !0)]),
         _: 1
     })
 }
-var Ax = B(Ty, [[`render`, kx], [`__scopeId`, `data-v-55bc862a`]])
-  , jx = {
+var Px = B(ky, [[`render`, Nx], [`__scopeId`, `data-v-f3ab1a03`]])
+  , Fx = {
     name: `StorytellerOverlay`,
     components: {
-        Emote: sm
+        Emote: cm
     },
     props: {
         storyteller: {
@@ -9960,14 +10096,14 @@ var Ax = B(Ty, [[`render`, kx], [`__scopeId`, `data-v-55bc862a`]])
         ...M(`chat`, [`requestWhisper`, `showTextTab`])
     }
 }
-  , Mx = {
+  , Ix = {
     class: `overlay`
 };
-function Nx(e, t, n, i, a, o) {
+function Lx(e, t, n, i, a, o) {
     let s = c(`Emote`)
       , l = c(`font-awesome-icon`);
     return d(),
-    F(`div`, Mx, [n.storyteller.id ? (d(),
+    F(`div`, Ix, [n.storyteller.id ? (d(),
     h(s, {
         key: 0,
         "player-id": n.storyteller.id
@@ -9997,14 +10133,14 @@ function Nx(e, t, n, i, a, o) {
         _: 1
     })])
 }
-var Px = {
+var Rx = {
     name: `Storyteller`,
     inject: [`renderReminderHTML`],
     components: {
-        StorytellerOverlay: B(jx, [[`render`, Nx], [`__scopeId`, `data-v-22a1bd6b`]]),
-        ChatAudio: bm,
-        ChatVideo: Oh,
-        PlayerReminders: Hm,
+        StorytellerOverlay: B(Fx, [[`render`, Lx], [`__scopeId`, `data-v-22a1bd6b`]]),
+        ChatAudio: xm,
+        ChatVideo: kh,
+        PlayerReminders: Um,
         Token: G
     },
     computed: {
@@ -10049,53 +10185,53 @@ var Px = {
         }
     }
 }
-  , Fx = () => {
+  , zx = () => {
     j(e => ({
         f838bd7a: e.avatarZoom
     }))
 }
-  , Ix = Px.setup;
-Px.setup = Ix ? (e, t) => (Fx(),
-Ix(e, t)) : Fx;
-var Lx = [`onClick`]
-  , Rx = {
+  , Bx = Rx.setup;
+Rx.setup = Bx ? (e, t) => (zx(),
+Bx(e, t)) : zx;
+var Vx = [`onClick`]
+  , Hx = {
     key: 0,
     class: `night-order first`
 }
-  , zx = {
+  , Ux = {
     key: 0
 }
-  , Bx = [`innerHTML`]
-  , Vx = {
+  , Wx = [`innerHTML`]
+  , Gx = {
     key: 0,
     class: `night-order other`
 }
-  , Hx = {
+  , Kx = {
     key: 0
 }
-  , Ux = [`innerHTML`]
-  , Wx = [`title`]
-  , Gx = {
+  , qx = [`innerHTML`]
+  , Jx = [`title`]
+  , Yx = {
     class: `name`
 }
-  , Kx = {
+  , Xx = {
     key: 1
 }
-  , qx = {
+  , Zx = {
     key: 0,
     class: `pronouns`
 }
-  , Jx = {
+  , Qx = {
     key: 0,
     class: `menu`
 }
-  , Yx = [`onClick`]
-  , Xx = [`onClick`]
-  , Zx = [`onClick`]
-  , Qx = [`onClick`]
   , $x = [`onClick`]
-  , eS = [`onClick`];
-function tS(e, t, n, a, o, s) {
+  , eS = [`onClick`]
+  , tS = [`onClick`]
+  , nS = [`onClick`]
+  , rS = [`onClick`]
+  , iS = [`onClick`];
+function aS(e, t, n, a, o, s) {
     let l = c(`ChatVideo`)
       , u = c(`Token`)
       , g = c(`PlayerReminders`)
@@ -10137,11 +10273,11 @@ function tS(e, t, n, a, o, s) {
                 default: m( () => {
                     var t, i, a, o;
                     return [(t = e.nightOrder.get((i = n.role) == null ? void 0 : i.id)) != null && t.first && e.settings.game.isNightOrder && e.isNight && e.hasGrimoireAccess ? (d(),
-                    F(`div`, Rx, [I(`em`, null, y((a = e.nightOrder.get((o = n.role) == null ? void 0 : o.id)) == null ? void 0 : a.first), 1), n.role.firstNightReminder ? (d(),
-                    F(`div`, zx, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
+                    F(`div`, Hx, [I(`em`, null, y((a = e.nightOrder.get((o = n.role) == null ? void 0 : o.id)) == null ? void 0 : a.first), 1), n.role.firstNightReminder ? (d(),
+                    F(`div`, Ux, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
                         class: `reminder`,
                         innerHTML: s.renderReminderHTML(e.$te(`roles.${n.role.id}.first`) ? e.$t(`roles.${n.role.id}.first`) : n.role.firstNightReminder)
-                    }, null, 8, Bx)])) : r(``, !0)])) : r(``, !0)]
+                    }, null, 8, Wx)])) : r(``, !0)])) : r(``, !0)]
                 }
                 ),
                 _: 2
@@ -10151,11 +10287,11 @@ function tS(e, t, n, a, o, s) {
                 default: m( () => {
                     var t, i, a, o;
                     return [(t = e.nightOrder.get((i = n.role) == null ? void 0 : i.id)) != null && t.other && e.settings.game.isNightOrder && e.isNight && e.hasGrimoireAccess ? (d(),
-                    F(`div`, Vx, [I(`em`, null, y((a = e.nightOrder.get((o = n.role) == null ? void 0 : o.id)) == null ? void 0 : a.other), 1), n.role.otherNightReminder ? (d(),
-                    F(`div`, Hx, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
+                    F(`div`, Gx, [I(`em`, null, y((a = e.nightOrder.get((o = n.role) == null ? void 0 : o.id)) == null ? void 0 : a.other), 1), n.role.otherNightReminder ? (d(),
+                    F(`div`, Kx, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
                         class: `reminder`,
                         innerHTML: s.renderReminderHTML(e.$te(`roles.${n.role.id}.other`) ? e.$t(`roles.${n.role.id}.other`) : n.role.otherNightReminder)
-                    }, null, 8, Ux)])) : r(``, !0)])) : r(``, !0)]
+                    }, null, 8, qx)])) : r(``, !0)])) : r(``, !0)]
                 }
                 ),
                 _: 2
@@ -10172,7 +10308,7 @@ function tS(e, t, n, a, o, s) {
                 style: _({
                     "--speaking": `var(--speaking${n.id})`
                 })
-            }, [I(`div`, Gx, [e.session.sessionId ? (d(),
+            }, [I(`div`, Yx, [e.session.sessionId ? (d(),
             F(S, {
                 key: 0
             }, [e.chat.following === n.id && e.hasGrimoireAccess ? (d(),
@@ -10193,7 +10329,7 @@ function tS(e, t, n, a, o, s) {
                 class: `offline`,
                 title: e.$t(`storyteller.offline`)
             }, null, 8, [`title`]))], 64)) : r(``, !0), !e.isNight && e.chat.video.streams.get(n.id) && (te = e.chat.usersMuted[n.id]) != null && te.video ? (d(),
-            F(`div`, Kx, [f(x, {
+            F(`div`, Xx, [f(x, {
                 class: v([`video muted`, {
                     silenced: e.chat.userOverrides.get(`novideo-` + n.id) === 0
                 }]),
@@ -10207,13 +10343,13 @@ function tS(e, t, n, a, o, s) {
                 icon: `user-xmark`,
                 title: e.$t(`player.name.blocked`)
             }, null, 8, [`title`])) : r(``, !0)]), (ne = e.session.users.get(n.id)) != null && ne.pronouns ? (d(),
-            F(`div`, qx, y((re = e.session.users.get(n.id)) == null ? void 0 : re.pronouns), 1)) : r(``, !0)], 14, Wx), f(w, {
+            F(`div`, Zx, y((re = e.session.users.get(n.id)) == null ? void 0 : re.pronouns), 1)) : r(``, !0)], 14, Jx), f(w, {
                 name: `fold`
             }, {
                 default: m( () => {
                     var o, c;
                     return [e.grimoire.menuOpen === `s` + a ? (d(),
-                    F(`ul`, Jx, [I(`li`, {
+                    F(`ul`, Qx, [I(`li`, {
                         onClick: t => e.toggleModal({
                             name: `role`,
                             params: {
@@ -10222,7 +10358,7 @@ function tS(e, t, n, a, o, s) {
                         })
                     }, [f(x, {
                         icon: `theater-masks`
-                    }), i(` ` + y(e.$t(`player.menu.character`)), 1)], 8, Yx), I(`li`, {
+                    }), i(` ` + y(e.$t(`player.menu.character`)), 1)], 8, $x), I(`li`, {
                         onClick: t => e.toggleModal({
                             name: `reminder`,
                             params: {
@@ -10231,25 +10367,25 @@ function tS(e, t, n, a, o, s) {
                         })
                     }, [f(x, {
                         icon: `plus-circle`
-                    }), i(` ` + y(e.$t(`player.reminders.add`)), 1)], 8, Xx), e.whispersAvailable.has(n.id) ? (d(),
+                    }), i(` ` + y(e.$t(`player.reminders.add`)), 1)], 8, eS), e.whispersAvailable.has(n.id) ? (d(),
                     F(`li`, {
                         key: 0,
                         onClick: t => e.requestWhisper(n)
                     }, [f(x, {
                         icon: `comments`
-                    }), i(` ` + y(e.$t(`player.menu.chat`)), 1)], 8, Zx)) : r(``, !0), e.textsAvailable.has(n.id) ? (d(),
+                    }), i(` ` + y(e.$t(`player.menu.chat`)), 1)], 8, tS)) : r(``, !0), e.textsAvailable.has(n.id) ? (d(),
                     F(`li`, {
                         key: 1,
                         onClick: t => e.showTextTab(n.id)
                     }, [f(x, {
                         icon: `envelope`
-                    }), i(` ` + y(e.$t(`player.menu.whisper`)), 1)], 8, Qx)) : r(``, !0), e.isStoryteller && e.session.sessionId ? (d(),
+                    }), i(` ` + y(e.$t(`player.menu.whisper`)), 1)], 8, nS)) : r(``, !0), e.isStoryteller && e.session.sessionId ? (d(),
                     F(`li`, {
                         key: 2,
                         onClick: L(e => s.removeStoryteller(n), [`stop`])
                     }, [f(x, {
                         icon: `times-circle`
-                    }), i(` ` + y(e.$t(`storyteller.remove`)), 1)], 8, $x)) : r(``, !0), e.isSpectator ? (d(),
+                    }), i(` ` + y(e.$t(`storyteller.remove`)), 1)], 8, rS)) : r(``, !0), e.isSpectator ? (d(),
                     F(`li`, {
                         key: 3,
                         class: v({
@@ -10272,18 +10408,18 @@ function tS(e, t, n, a, o, s) {
                         key: 0
                     }, [f(x, {
                         icon: `link`
-                    }), i(` ` + y(e.$t(`storyteller.follow`)), 1)], 64))], 8, eS)) : r(``, !0)])) : r(``, !0)]
+                    }), i(` ` + y(e.$t(`storyteller.follow`)), 1)], 64))], 8, iS)) : r(``, !0)])) : r(``, !0)]
                 }
                 ),
                 _: 2
-            }, 1024)], 10, Lx)
+            }, 1024)], 10, Vx)
         }
         ), 128))]),
         _: 1
     })) : r(``, !0)], 64)
 }
-var nS = B(Px, [[`render`, tS], [`__scopeId`, `data-v-51a89baf`]])
-  , rS = {
+var oS = B(Rx, [[`render`, aS], [`__scopeId`, `data-v-51a89baf`]])
+  , sS = {
     props: {
         name: {
             type: String,
@@ -10359,8 +10495,12 @@ var nS = B(Px, [[`render`, tS], [`__scopeId`, `data-v-51a89baf`]])
         },
         stopDrag(e) {
             var t, n;
-            if (!this.draggable || !this.dragging || !this.positions[this.name] && Math.abs(this.dragging.startX - e.x) < 30)
+            if (!this.draggable || !this.dragging)
                 return;
+            if (!this.positions[this.name] && Math.abs(this.dragging.startX - e.x) < 30) {
+                this.dragging = !1;
+                return
+            }
             let r = this.positions[this.name] || {};
             r.x = Math.min(Math.max(2, Math.round(this.dragging.x + e.x)), window.innerWidth - this.dragging.offsetWidth - 2) + `px`,
             r.y = Math.min(Math.max(0, Math.round(this.dragging.y + e.y)), window.innerHeight - this.dragging.offsetHeight) + `px`,
@@ -10388,20 +10528,20 @@ var nS = B(Px, [[`render`, tS], [`__scopeId`, `data-v-51a89baf`]])
         this.isObserving = !1
     }
 }
-  , iS = () => {
+  , cS = () => {
     j(e => ({
-        v285c0b38: e.left,
-        v53e1b150: e.top
+        v5ecc3d85: e.left,
+        v451f7c17: e.top
     }))
 }
-  , aS = rS.setup;
-rS.setup = aS ? (e, t) => (iS(),
-aS(e, t)) : iS;
-var oS = [`id`, `draggable`]
-  , sS = {
+  , lS = sS.setup;
+sS.setup = lS ? (e, t) => (cS(),
+lS(e, t)) : cS;
+var uS = [`id`, `draggable`]
+  , dS = {
     key: 0
 };
-function cS(e, t, n, i, a, s) {
+function fS(e, t, n, i, a, s) {
     var c, l, u, f, p;
     return d(),
     F(`div`, {
@@ -10430,13 +10570,13 @@ function cS(e, t, n, i, a, s) {
         }),
         tabindex: `-1`
     }, [I(`section`, null, [o(e.$slots, `default`, {}, void 0, !0)]), e.$slots.footer ? (d(),
-    F(`footer`, sS, [o(e.$slots, `footer`, {}, void 0, !0)])) : r(``, !0)], 46, oS)
+    F(`footer`, dS, [o(e.$slots, `footer`, {}, void 0, !0)])) : r(``, !0)], 46, uS)
 }
-var lS = B(rS, [[`render`, cS], [`__scopeId`, `data-v-02585436`]])
-  , uS = {
+var pS = B(sS, [[`render`, fS], [`__scopeId`, `data-v-a78c04cf`]])
+  , mS = {
     name: `ChatTab`,
     components: {
-        Tab: lS
+        Tab: pS
     },
     inject: [`bindShortcut`, `unbindShortcut`],
     computed: {
@@ -10500,7 +10640,7 @@ var lS = B(rS, [[`render`, cS], [`__scopeId`, `data-v-02585436`]])
         whisperQueue() {
             let e = [];
             return this.isSpectator ? e : (this.chat.whisperTo.forEach( (t, n) => {
-                this.seatedPlayerMap.has(n) && e.push({
+                this.isNight && !this.isStoryteller && !this.storytellerMap.has(n) || this.seatedPlayerMap.has(n) && e.push({
                     isIncoming: !1,
                     id: n,
                     channel: t
@@ -10508,7 +10648,7 @@ var lS = B(rS, [[`render`, cS], [`__scopeId`, `data-v-02585436`]])
             }
             ),
             this.chat.whisperFrom.forEach( (t, n) => {
-                this.seatedPlayerMap.has(n) && e.push({
+                this.isNight && !this.isStoryteller && !this.storytellerMap.has(n) || this.seatedPlayerMap.has(n) && e.push({
                     isIncoming: !0,
                     id: n,
                     channel: t
@@ -10600,44 +10740,44 @@ var lS = B(rS, [[`render`, cS], [`__scopeId`, `data-v-02585436`]])
         this.unbindShortcut(`acceptChat3`)
     }
 }
-  , dS = {
+  , hS = {
     role: `list`
 }
-  , fS = {
+  , gS = {
     class: `title`
 }
-  , pS = [`aria-label`, `onClick`]
-  , mS = {
+  , _S = [`aria-label`, `onClick`]
+  , vS = {
     class: `name`
 }
-  , hS = {
+  , yS = {
     key: 0,
     class: `shortcut`
 }
-  , gS = [`aria-label`]
-  , _S = {
+  , bS = [`aria-label`]
+  , xS = {
     class: `title`
 }
-  , vS = [`onClick`]
-  , yS = [`onClick`, `aria-label`]
-  , bS = {
+  , SS = [`onClick`]
+  , CS = [`onClick`, `aria-label`]
+  , wS = {
     class: `title`
 }
-  , xS = [`title`]
-  , SS = [`title`]
-  , CS = {
+  , TS = [`title`]
+  , ES = [`title`]
+  , DS = {
     key: 0,
     class: `info`
 }
-  , wS = {
+  , OS = {
     key: 1,
     class: `info`
 }
-  , TS = {
+  , kS = {
     key: 2,
     class: `prompt`
 };
-function ES(e, t, n, a, o, s) {
+function AS(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Tab`);
     return d(),
@@ -10696,7 +10836,7 @@ function ES(e, t, n, a, o, s) {
                     }, y(e.$t(`tabs.chat.request_private`)), 1)) : r(``, !0)]),
                     _: 1
                 })]),
-                default: m( () => [I(`ul`, dS, [f(T, {
+                default: m( () => [I(`ul`, hS, [f(T, {
                     name: `whisper`
                 }, {
                     default: m( () => [s.whisperQueue.length ? (d(),
@@ -10705,7 +10845,7 @@ function ES(e, t, n, a, o, s) {
                         class: v([`whisper requests`, {
                             incoming: s.whisperQueue.some( ({isIncoming: e}) => e)
                         }])
-                    }, [I(`div`, fS, [I(`b`, null, y(e.$t(`tabs.chat.requests`)), 1)]), (d(!0),
+                    }, [I(`div`, gS, [I(`b`, null, y(e.$t(`tabs.chat.requests`)), 1)]), (d(!0),
                     F(S, null, p(s.whisperQueue, (t, n) => (d(),
                     F(`div`, {
                         key: n,
@@ -10719,8 +10859,8 @@ function ES(e, t, n, a, o, s) {
                         class: v({
                             incoming: t.isIncoming
                         })
-                    }, null, 8, [`icon`, `title`, `class`]), I(`span`, mS, y(e.$t(...e.playerName(t.user))), 1), t.isIncoming && n < 3 ? (d(),
-                    F(`em`, hS, y(e.keybindings[`acceptChat` + (n + 1)][0]), 1)) : r(``, !0), t.isIncoming ? (d(),
+                    }, null, 8, [`icon`, `title`, `class`]), I(`span`, vS, y(e.$t(...e.playerName(t.user))), 1), t.isIncoming && n < 3 ? (d(),
+                    F(`em`, yS, y(e.keybindings[`acceptChat` + (n + 1)][0]), 1)) : r(``, !0), t.isIncoming ? (d(),
                     h(l, {
                         key: 1,
                         icon: `check-circle`,
@@ -10733,7 +10873,7 @@ function ES(e, t, n, a, o, s) {
                         "aria-label": e.$t(`tabs.chat.cancel`),
                         role: `button`,
                         onClick: L(e => s.cancelRequest(n), [`stop`])
-                    }, null, 8, [`aria-label`, `onClick`])], 8, pS))), 128))], 2)) : r(``, !0), s.playersInWhispers.length || e.isPrivateChat(e.chat.channel) ? (d(),
+                    }, null, 8, [`aria-label`, `onClick`])], 8, _S))), 128))], 2)) : r(``, !0), s.playersInWhispers.length || e.isPrivateChat(e.chat.channel) ? (d(),
                     F(`li`, {
                         key: 1,
                         class: v([`whisper list`, {
@@ -10742,7 +10882,7 @@ function ES(e, t, n, a, o, s) {
                         }]),
                         onClick: t[1] || (t[1] = L(e => s.toggleChannel(), [`stop`])),
                         "aria-label": e.$t(`tabs.chat.leave_private`)
-                    }, [I(`div`, _S, [I(`b`, null, y(e.$t(`tabs.chat.chats`)), 1), f(l, {
+                    }, [I(`div`, xS, [I(`b`, null, y(e.$t(`tabs.chat.chats`)), 1), f(l, {
                         icon: `sign-out-alt`,
                         class: `leave`,
                         title: `Leave room`,
@@ -10778,7 +10918,7 @@ function ES(e, t, n, a, o, s) {
                         key: 0,
                         icon: `eye`,
                         title: s.isPlayer ? e.$t(`tabs.chat.spectator`) : e.$t(...e.playerName(t))
-                    }, null, 8, [`title`]))], 2))), 128))], 10, vS))), 128))], 10, gS)) : r(``, !0), !e.isNight && !e.vote.nomination ? (d(!0),
+                    }, null, 8, [`title`]))], 2))), 128))], 10, SS))), 128))], 10, bS)) : r(``, !0), !e.isNight && !e.vote.nomination ? (d(!0),
                     F(S, {
                         key: 2
                     }, p(s.channels, (t, n) => (d(),
@@ -10789,7 +10929,7 @@ function ES(e, t, n, a, o, s) {
                         class: v([`channel`, {
                             active: e.chat.channel === `public-${n}`
                         }])
-                    }, [I(`div`, bS, [I(`b`, null, y(t), 1), f(l, {
+                    }, [I(`div`, wS, [I(`b`, null, y(t), 1), f(l, {
                         icon: `sign-out-alt`,
                         class: `leave`,
                         title: e.$t(`tabs.chat.leave_room`),
@@ -10812,19 +10952,19 @@ function ES(e, t, n, a, o, s) {
                         title: e.$t(`tabs.chat.following`)
                     }, [f(l, {
                         icon: `link`
-                    })], 8, SS)) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 64)) : (d(),
+                    })], 8, ES)) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 64)) : (d(),
                     F(`span`, {
                         key: 0,
                         title: s.isPlayer ? e.$t(`tabs.chat.spectator`) : e.$t(...e.playerName(t))
                     }, [f(l, {
                         icon: `eye`
-                    })], 8, xS))], 2))), 128))], 10, yS))), 128)) : (d(),
+                    })], 8, TS))], 2))), 128))], 10, CS))), 128)) : (d(),
                     F(S, {
                         key: 3
                     }, [e.vote.nomination ? (d(),
-                    F(`li`, CS, y(e.$t(`tabs.chat.nomination`)), 1)) : (d(),
-                    F(`li`, wS, y(e.$t(`tabs.chat.night`)), 1)), e.isPublicChat(e.chat.channel) ? (d(),
-                    F(`li`, TS, [I(`div`, {
+                    F(`li`, DS, y(e.$t(`tabs.chat.nomination`)), 1)) : (d(),
+                    F(`li`, OS, y(e.$t(`tabs.chat.night`)), 1)), e.isPublicChat(e.chat.channel) ? (d(),
+                    F(`li`, kS, [I(`div`, {
                         class: `button`,
                         onClick: t[2] || (t[2] = L(e => s.toggleChannel(), [`stop`]))
                     }, [f(l, {
@@ -10842,11 +10982,11 @@ function ES(e, t, n, a, o, s) {
         _: 1
     })
 }
-var DS = B(uS, [[`render`, ES], [`__scopeId`, `data-v-e1d44bfb`]])
-  , OS = {
+var jS = B(mS, [[`render`, AS], [`__scopeId`, `data-v-94373dce`]])
+  , MS = {
     name: `NPCsTab`,
     components: {
-        Tab: lS,
+        Tab: pS,
         Token: G
     },
     computed: {
@@ -10967,24 +11107,24 @@ var DS = B(uS, [[`render`, ES], [`__scopeId`, `data-v-e1d44bfb`]])
         this.checkScreenSide()
     }
 }
-  , kS = {
+  , NS = {
     class: `tokens`
 }
-  , AS = {
-    key: 0
-}
-  , jS = [`innerHTML`]
-  , MS = {
-    key: 0
-}
-  , NS = [`innerHTML`]
   , PS = {
+    key: 0
+}
+  , FS = [`innerHTML`]
+  , IS = {
+    key: 0
+}
+  , LS = [`innerHTML`]
+  , RS = {
     key: 0,
     class: `menu`
 }
-  , FS = [`onClick`]
-  , IS = [`onClick`];
-function LS(e, t, n, a, o, s) {
+  , zS = [`onClick`]
+  , BS = [`onClick`];
+function VS(e, t, n, a, o, s) {
     let l = c(`Token`)
       , u = c(`font-awesome-icon`)
       , g = c(`Tab`);
@@ -11010,7 +11150,7 @@ function LS(e, t, n, a, o, s) {
             draggable: !e.settings.general.isPositioningDisabled && (e.grimoire.tabs.npcs || !!e.positions.npcs),
             onDragged: t[3] || (t[3] = e => s.checkScreenSide())
         }, {
-            default: m( () => [I(`ul`, kS, [(d(!0),
+            default: m( () => [I(`ul`, NS, [(d(!0),
             F(S, null, p(s.npcSorted, (n, a) => (d(),
             F(`li`, {
                 key: n.id,
@@ -11035,10 +11175,10 @@ function LS(e, t, n, a, o, s) {
                             right: o.isRightSide
                         }])
                     }, [I(`em`, null, y((i = e.nightOrder.get(n.id)) == null ? void 0 : i.first), 1), n.firstNightReminder ? (d(),
-                    F(`div`, AS, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
+                    F(`div`, PS, [I(`aside`, null, y(e.$t(`grimoire.phases.first_night`)), 1), I(`span`, {
                         class: `reminder`,
                         innerHTML: s.renderReminderHTML(e.$te(`roles.${n.id}.first`) ? e.$t(`roles.${n.id}.first`) : n.firstNightReminder)
-                    }, null, 8, jS)])) : r(``, !0)], 2)) : r(``, !0)]
+                    }, null, 8, FS)])) : r(``, !0)], 2)) : r(``, !0)]
                 }
                 ),
                 _: 2
@@ -11054,10 +11194,10 @@ function LS(e, t, n, a, o, s) {
                             right: o.isRightSide
                         }])
                     }, [I(`em`, null, y((i = e.nightOrder.get(n.id)) == null ? void 0 : i.other), 1), n.otherNightReminder ? (d(),
-                    F(`div`, MS, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
+                    F(`div`, IS, [I(`aside`, null, y(e.$t(`grimoire.phases.other_nights`)), 1), I(`span`, {
                         class: `reminder`,
                         innerHTML: s.renderReminderHTML(e.$te(`roles.${n.id}.other`) ? e.$t(`roles.${n.id}.other`) : n.otherNightReminder)
-                    }, null, 8, NS)])) : r(``, !0)], 2)) : r(``, !0)]
+                    }, null, 8, LS)])) : r(``, !0)], 2)) : r(``, !0)]
                 }
                 ),
                 _: 2
@@ -11067,7 +11207,7 @@ function LS(e, t, n, a, o, s) {
                 default: m( () => {
                     var o;
                     return [e.grimoire.menuOpen === `n` + a ? (d(),
-                    F(`ul`, PS, [(d(!0),
+                    F(`ul`, RS, [(d(!0),
                     F(S, null, p(e.filterAbilities({
                         role: n
                     }, `ability`), (n, r) => (d(),
@@ -11077,14 +11217,14 @@ function LS(e, t, n, a, o, s) {
                         class: `special`
                     }, [f(u, {
                         icon: `star`
-                    }), I(`span`, null, [i(y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name) + `:`, 1), t[4] || (t[4] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`grimoire.abilities.${n.ability.name}`)), 1)])], 8, FS))), 128)), I(`li`, {
+                    }), I(`span`, null, [i(y(e.$te(`roles.${n.role.id}.name`) ? e.$t(`roles.${n.role.id}.name`) : n.role.name) + `:`, 1), t[4] || (t[4] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`grimoire.abilities.${n.ability.name}`)), 1)])], 8, zS))), 128)), I(`li`, {
                         onClick: L(e => s.removeNPC(a), [`stop`]),
                         class: v({
                             disabled: (o = s.npcClasses[a]) == null ? void 0 : o.disabled
                         })
                     }, [f(u, {
                         icon: `trash-alt`
-                    }), i(` ` + y(e.$t(`tabs.npcs.remove_${n.team}`)), 1)], 10, IS)])) : r(``, !0)]
+                    }), i(` ` + y(e.$t(`tabs.npcs.remove_${n.team}`)), 1)], 10, BS)])) : r(``, !0)]
                 }
                 ),
                 _: 2
@@ -11094,11 +11234,11 @@ function LS(e, t, n, a, o, s) {
         _: 1
     })
 }
-var RS = B(OS, [[`render`, LS], [`__scopeId`, `data-v-c7d24630`]])
-  , zS = {
+var HS = B(MS, [[`render`, VS], [`__scopeId`, `data-v-c7d24630`]])
+  , US = {
     name: `BluffsTab`,
     components: {
-        Tab: lS,
+        Tab: pS,
         Token: G
     },
     inject: [`setDropHandler`],
@@ -11109,12 +11249,13 @@ var RS = B(OS, [[`render`, LS], [`__scopeId`, `data-v-c7d24630`]])
         ...N(`user`, [`isStoryteller`, `hasGrimoireAccess`]),
         ...N(`players`, [`seatedPlayerMap`]),
         bluffsVisible() {
-            var e;
+            var e, t;
+            let n = this.players.find(e => e.id === this.user.id);
             return this.seatedPlayerMap.has(this.user.id) && this.settings.game.isPlayerBluffs && !this.isStoryteller || this.isStoryteller && this.players.length <= 7 && this.players.find(e => {
                 var t;
                 return [`snitch`, `summoner`].includes((t = e.role) == null ? void 0 : t.id)
             }
-            ) ? !0 : (this.players.length > 6 || this.npcs.some( ({id: e}) => e === `toymaker`)) && (this.isStoryteller || this.hasGrimoireAccess || ((e = this.players.find(e => e.id === this.user.id)) == null || (e = e.role) == null ? void 0 : e.team) === `demon`)
+            ) ? !0 : (this.players.length > 6 || this.npcs.some( ({id: e}) => e === `toymaker`)) && (this.isStoryteller || this.hasGrimoireAccess || (n == null || (e = n.role) == null ? void 0 : e.team) === `demon` || (n == null || (t = n.role) == null ? void 0 : t.id) === `summoner`)
         }
     },
     data() {
@@ -11153,7 +11294,7 @@ var RS = B(OS, [[`render`, LS], [`__scopeId`, `data-v-c7d24630`]])
         this.checkScreenSide()
     }
 };
-function BS(e, t, n, i, a, o) {
+function WS(e, t, n, i, a, o) {
     let s = c(`Token`)
       , l = c(`Tab`);
     return d(),
@@ -11200,124 +11341,124 @@ function BS(e, t, n, i, a, o) {
         _: 1
     })
 }
-var VS = B(zS, [[`render`, BS], [`__scopeId`, `data-v-0217398b`]])
-  , HS = `/assets/firstnight-CQnGctKP.webp`
-  , US = `data:image/webp;base64,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`
-  , WS = `/assets/leaf-orange-418HATSf.webp`
-  , GS = `data:image/webp;base64,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`
-  , KS = `data:image/webp;base64,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`
-  , qS = `data:image/webp;base64,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`
-  , JS = `data:image/webp;base64,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`
-  , YS = `/assets/leaf-top4-DaH0V5hE.webp`
-  , XS = `/assets/leaf-top5-DyrDgGGV.webp`
-  , ZS = `/assets/othernight-UoZCooCu.webp`
-  , QS = `/assets/sheet-bottom-B8o9Qwul.webp`
-  , $S = `/assets/sheet-ZV_08gY3.webp`
-  , eC = `/assets/token-BqDQdWeO.webp`
-  , tC = `/assets/firstnight-741QXSRJ.webp`
-  , nC = `data:image/webp;base64,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`
-  , rC = `/assets/leaf-orange-418HATSf.webp`
-  , iC = `data:image/webp;base64,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`
-  , aC = `data:image/webp;base64,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`
-  , oC = `data:image/webp;base64,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`
-  , sC = `/assets/leaf-top3-C9BTCwAz.webp`
-  , cC = `/assets/leaf-top4-BUjlPdzY.webp`
-  , lC = `/assets/leaf-top5-BEXNsf9Y.webp`
-  , uC = `/assets/leaf-top6-rjk2XTrD.webp`
-  , dC = `/assets/othernight-D0NIKU2A.webp`
-  , fC = `/assets/sheet-bottom-DPvgolac.webp`
-  , pC = `/assets/sheet-CXPnUsUN.webp`
-  , mC = `/assets/token-VPG3jS-a.webp`
-  , hC = `/assets/firstnight-741QXSRJ.webp`
-  , gC = `data:image/webp;base64,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`
-  , _C = `/assets/leaf-orange-418HATSf.webp`
-  , vC = `data:image/webp;base64,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`
-  , yC = `data:image/webp;base64,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`
-  , bC = `data:image/webp;base64,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`
-  , xC = `/assets/leaf-top3-C9BTCwAz.webp`
-  , SC = `/assets/leaf-top4-BUjlPdzY.webp`
-  , CC = `/assets/leaf-top5-BEXNsf9Y.webp`
-  , wC = `/assets/leaf-top6-rjk2XTrD.webp`
-  , TC = `/assets/othernight-D0NIKU2A.webp`
-  , EC = `/assets/sheet-bottom-DPvgolac.webp`
-  , DC = `/assets/sheet-CXPnUsUN.webp`
-  , OC = `/assets/token-CTCszbdB.webp`
-  , kC = `/assets/firstnight-CN7yUWuG.webp`
-  , AC = `data:image/webp;base64,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`
-  , jC = `/assets/leaf-orange-418HATSf.webp`
-  , MC = `data:image/webp;base64,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`
-  , NC = `data:image/webp;base64,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`
-  , PC = `/assets/leaf-top2-sRAyOA8-.webp`
-  , FC = `/assets/leaf-top3-CBtDOqhc.webp`
-  , IC = `/assets/leaf-top4-2k84E7uc.webp`
-  , LC = `/assets/leaf-top5-Bc-Gdmm0.webp`
-  , RC = `/assets/leaf-top6-CJMCb2p8.webp`
-  , zC = `/assets/leaf-top7-BwX55vT7.webp`
-  , BC = `/assets/othernight-D1vk2275.webp`
-  , VC = `/assets/sheet-bottom-BpeJZ1aT.webp`
-  , HC = `/assets/sheet-DG3cIEIJ.webp`
-  , UC = `/assets/token-DRfx6YVD.webp`
-  , WC = `data:image/webp;base64,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`
-  , GC = `/assets/leaf-orange-418HATSf.webp`
-  , KC = `data:image/webp;base64,UklGRvILAABXRUJQVlA4WAoAAAAwAAAAZQIAZQIASUNDUDACAAAAAAIwQURCRQIQAABtbnRyUkdCIFhZWiAHzwAGAAMAAAAAAABhY3NwQVBQTAAAAABub25lAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLUFEQkUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApjcHJ0AAAA/AAAADJkZXNjAAABMAAAAGt3dHB0AAABnAAAABRia3B0AAABsAAAABRyVFJDAAABxAAAAA5nVFJDAAAB1AAAAA5iVFJDAAAB5AAAAA5yWFlaAAAB9AAAABRnWFlaAAACCAAAABRiWFlaAAACHAAAABR0ZXh0AAAAAENvcHlyaWdodCAxOTk5IEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkAAAAZGVzYwAAAAAAAAARQWRvYmUgUkdCICgxOTk4KQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAGN1cnYAAAAAAAAAAQIzAABjdXJ2AAAAAAAAAAECMwAAY3VydgAAAAAAAAABAjMAAFhZWiAAAAAAAACcGAAAT6UAAAT8WFlaIAAAAAAAADSNAACgLAAAD5VYWVogAAAAAAAAJjEAABAvAAC+nEFMUEjfAgAAAaBF27YpSTrvvVDZtm3btm3btm3btm3btm2E45Qr4uZXnaruHRETQPA//A//w//wP/wP/8P/8D/8D//D//A//A//w//wP/wP/8P/8D/8D//D//A//A//w//wP/wP/8P/8D/8D//D//A//A//w//wP/z/v0VDxdAlTKgmZ6d0KJwlWRSLZDHbZrzlHz7eNChTVKmi5zjCv+7YOqNGUnmiV9rDv+9+d3RstbhkMuSIVuME+/3h5sk9a6QUIrXe+vzH7GPmz8PLFM4QLWx4myY4LI0+s4pOZn61a8qg1nnjmg2JEammgxW3H5veMIlJWsSb9JqD5Id3yzqlMcuJZNvec9B9t75EeBkROut5DtquGxMlRMhO1znoywdr7F0OVtUnOEI2PM3K3piXZpLQCB5z/ktWdl/WEETJ3QIjjGnUMVb205po9MOt4iL4yEvsU+bVrAj006bPRIWp8H4vq/t8eAz6xXgr5YQ15qjrrPCrhtHol42mQiJMxNGHWeHHq4vQb2eSEKFTHjrK6tqfTk5Lfj0rHVJV3HqF1X17sWVK8ncNyaAnzH3Fzso6z2yrGYkC2UAqmAqPvfyeVfV8XNEstKFRgGdIBCNnVzsr63ncswBppGDorh5+8sp+aLoUMChrD4+LFfV+3tk5P2mkaqFMSUKQRQboWtuJ7x2s6K17UyuYSSeJWXIh+1jNN5dGJA9LGonMpBM/eFjNy+sKxiKhqUVqvIPVvDazV2oTSU2jwwZW8dmhwbVik+RMaedAez7sXVs9ZWSSnk8C8+nZipGZjOAkQTf5x+51nT6ytU3lZGSQFI289sqj82+Y2cvs+/zu7PHzmzvUbZLRGpHEqS1s1HozFvetkr94kdRkiaIRaQT/w//wP/wP/8P/8D/8D//D//A//A//w//wP/wP/8P/8D/8D//D//A//A//w//wP/wP/8P/8D/8D//D//A//A//w//wP/wP/8P/8D/8/ycUAFZQOCC0BgAAEGUAnQEqZgJmAj5tNphJpCMiISA7aBiADYlpbuF3YR51j0p27XPgeiL/2Xy7fkG3DYQtIjTZYGkCmfeMfUH6UH7Vex5+zoC4Q6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQ6qk2TEOqpNkxDqqTZMQYZyxkk3P9lCb1QWVYjeevRl4jnr0ZeI569GXe0TsqzyTyYOFcrQkIWTiyvi5LzliNjPe7vADL174o9nQ6s6/Pgy8Rz16MvEc9ejLxHKFVwARsxeeuGzfoKmL6Bcf5cNic2VvL4rO1fxpI+HjaEXCHVQatU3HXoy8Rz16MvEc9ejLedeNeNeNeNePgNeMpp7789ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEc9ejLxHPXoy8Rz16MvEcoAD+/+yaAAAAAAAAAAAAAAAAAAAAAAAue7aCxGPwVZpShzZCcmRKD9b1BDSeb63sJ/oxv6TlvpIhrMKvO2MZ+aPax1lyy9y8+rYqJ25FalOoCaUJSvN48KqJwwEtVIrmsV+2BQgiQxhuTIafX9n47g2RG/OYGBDkdZ97XzjmAlF2yjNlQCahU/rZ59o66wGqfw6zszK3hojtFY2Q/0n/sKEByiT/a0zJ4mt2FOd4PXZEokhx9hG/BM994r4JcE8B0VcZbB8ocozFfN8NoSuIzqsst9Ad2JIWneo/6MjpYvO+dl2+5feRJtGA1dIAyu8bouT/29ufe50FrJucdhJRwC7xJlEnXMuPheVU6XHy9IfrrHuBD/349zm3TYeUA7xl0mTdmd7Vzpt01+dSb6WXbYSrjzF9BOv7/XQARB2se+fOpBCs26skZFCLZ97p47E5LQXBzTPOnsHx2PlpqD7t7dRDRKeUy7sdj0l4Ui3prwdb/hO6RdmbtxzF/gOiHgX9sLA4Ps903y5bC8luCjDTajsUQOlHduLbELjl8J31ZSqykvni3GakBRV5VS1JzgdRsl+QFs+jreLG7dH2uzCA6wm+yKHr+TjZ5R1p+Yp3JT+XZN5zbLYB7F1qaNN8tzJjzjO2ikF0iGw95jCQY9vAlCeeLWR28b6nynJYwYCUhLMnPfgDN/Lp3+toGZdmk/X3Hj9NYP4kLuXSfTOlqhwC7RLNDOYXA9ih4R8jud5HMtkJxWhiXSdvoC05UGRuIYViTC3UhM9hrTPXPblHv4sxFCjPXUf6I/v9D2xjM4mfA5siVkeIIMfoWwPdf3wjGIvPLFnRhmDRLCiKX5AmLXk1O9WvJV0qth2QJMtFpZryWfY4V2XB2qjfSuVD/lgiu+hhFVEeq7Tb0U28vw8ttwHjBUTf9QZeH5OEpRHpGTVkctzxYhy+hccm2z4HwS7vBfxObZbYlHnEaxhirA05JCc8VQlgd0giZYxcmmy1ef0ljk1dEQ/Qvd3LM8W8LWfmV4GOnQ4EDhK0KlUTNThQtJttrKga6tXfdg1cTL2PuTKsRARWqdpf81H+16QL6zHhQ2aCAfh/QiCX2H09g2XLSn5cG6KeGhKpxU/6j3lOyRCKExXq8Pa4pB2tQgnMiAu/7GMg8WurUKvH5PvEPb7e9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
-  , qC = `data:image/webp;base64,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`
-  , JC = `/assets/leaf-top2-Brn4XVVn.webp`
-  , YC = `/assets/leaf-top3-D8scAOLC.webp`
-  , XC = `/assets/leaf-top4-O8IBBccu.webp`
-  , ZC = `/assets/token-BeVpitSA.webp`
-  , QC = `/assets/firstnight-CCAxafk_.webp`
-  , $C = `data:image/webp;base64,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`
-  , ew = `/assets/leaf-orange-418HATSf.webp`
-  , tw = `data:image/webp;base64,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`
-  , nw = `data:image/webp;base64,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`
-  , rw = `/assets/leaf-top2-CSOaDkz9.webp`
-  , iw = `/assets/leaf-top3-BygOvTRs.webp`
-  , aw = `/assets/leaf-top4-Barq9aua.webp`
-  , ow = `/assets/leaf-top5-Bg2URR_T.webp`
-  , sw = `/assets/othernight-CEystKCV.webp`
-  , cw = `/assets/sheet-bottom-UbaLRZcD.webp`
-  , lw = `/assets/sheet-C8MRSCHO.webp`
-  , uw = `/assets/token-D8iljfum.webp`
-  , dw = `/assets/app-icon-CG9GQKA7.webp`
-  , fw = `/assets/bigwig-3vDwfauH.webp`
-  , pw = `/assets/butterfly-EBqpuH6L.webp`
-  , mw = `/assets/card-blue-kXD022m_.webp`
-  , hw = `/assets/card-brown-COX7dS9S.webp`
-  , gw = `/assets/card-green-CZ3QqHJ-.webp`
-  , _w = `/assets/card-orange-CCQqfh88.webp`
-  , vw = `/assets/card-purple-BzGRM6Av.webp`
-  , yw = `/assets/card-red-DumJ01TW.webp`
-  , bw = `/assets/clock-hour-4OZZ2IsM.webp`
-  , xw = `/assets/clock-minute-C8-oSdzR.webp`
-  , Sw = `/assets/clock-second-DxRb4kLT.webp`
-  , Cw = `/assets/clock_back-DYcKUv9A.webp`
-  , ww = `/assets/clock_circle-D9aDMLwo.webp`
-  , Tw = `/assets/clock_cog1-BFsWJmN-.webp`
-  , Ew = `/assets/clock_cog2-CDec-14_.webp`
-  , Dw = `data:image/webp;base64,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`
-  , Ow = `/assets/clouds-CpjqM-gf.webp`
-  , kw = `/assets/death-BHZe2Aua.webp`
-  , Aw = `data:image/webp;base64,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`
-  , jw = `/assets/godofug-DX7eA1Js.webp`
-  , Mw = `/assets/gossip-DY4wKAxk.webp`
-  , Nw = `/assets/life-BUG528sL.webp`
-  , Pw = `data:image/webp;base64,UklGRt4EAABXRUJQVlA4WAoAAAAQAAAAHwMADAAAQUxQSMUBAAABGTVtGzDKH/6IOyhE9D8J5QpJkiQptpPVgx92/y9J0opWfBCdUsfQaZhZ86ar8kHTtJgjJsCB20iKlGW4uzTdIxD+1760rrnjyKADjvI8T61MJiszz1OeUsrzlAIQQgCJS04c6vRCvAnABwBvTLa8srLFvEBbJm8EqBBFW8L7MwAg2kFpA0FbBBBASqmIGdVInFOIUr+IaNxzlwNfyJKAAGYmgLZ8RBFEFGEIhKD4vcBkhyniI68CPVGKV4PZOw888CVhjPk8CFKmCqSoSuiKRP2wG6K2k2g4VOAiGkYV5aqsEsZQmeCXAImGk1chQ8YYMN5uUZOXnnjlmdp07rtuD3yLFgoalqIKxj9QJiI+ULmZjhR6g7RpqLtMoqhZCOq4UD0/RUU9mhcURIoWN21+kIXJqxpVoE4LRnlxBxizcNapwkwZQ5UCImNoccK95d1asogo9IYAEK1PXnmFoPZywWUXHOsANEb79o0GvU6v1+o4ouHk2slxRLKQnlKzj8B84AX/CmQMKUOxAIRXHpEiCgRAGQr2ZidtVFhKZWDnEAkYolQdTHLsQo/i/BOIfJpJLEm8IRAJvxymrHHKzGv5Efx3cQEAVlA4IPICAAAQEwCdASogAw0APm0sj0YkJ6EktRF6WPANiWdAnuBSO64FrLg0L2oDJVfEAVIP+Y91j6fqv3dAH/Hej/eK5Q8gsAhAPg+C8nSRKwHI0K9BWdDAvFqDGYW1u7+g2WF81jMf164jxu22D7T+Jj1hPzk64jxlnuDfuqxDTCuS2Fdhr0oeCvf6IRYOe4774r4my376fIsnB9QVUfW9+hgObl+3wAD+/K0cAZ48H9n6W90/oViGFeecg8fE1wINLD3TmpeFLm/teiUiOYrXpoP0kvbiic0gB7r5FI70iQdHMuRBqCMcqa2fHc63LEwwW7ZxoPKLFsHtRx5DG83eh0cBffizHo1YQ8nWRRDgYJsbkWGVkMdoRaUsjvc9x5xqSbUtjUlQxF3NIyqzAv4Fx9nOaRQfDBOxeTx7O+W1/cxM1oyDOXhdrPartSGvqbKZnmBSA6rfiO31lILB0CY0Xi8hxU/vo4Hgu+5ZuTHvynv6fW2vvANNEOwNBH4vN4n0gNbxj4ZJWZMUd84MkhtdrjXLubN5Vr0mDB12EidZG3JeU3e/6AhvTc/8ejrOeMaD9PBz9M6bgNHlwmIUjIl10iJe/2OJ8OYBn+31HFTJfKHNMG4c5M2uVsE3QTgreizE1ZplfXicfEz0RAE6ur/rkdolP0jOiCrk0XmUEUBuIu+j/ycGU95H76J2y0b6mrWq4mVYNZrb9fDHl6n0S9S9GfPCCN3afRfBxIuKwNoyKRWeXa+BVB/z/L9Ay8ltFHZPWvp+Bj1FlEP99y1cu55gKvqeNSd/iJC0TEv3+FfkxpC8qlbrSn/fQ09DlhNrkXBDsk3F1cTi84nr0LM2Kx2JrCnG9cL2oRRHKoL5Ec5w4wlHuSyNo2wrRC8S3zwA5ON8uv2BzMP9Q5MbLmR9UQjODHsVRDSsQeAS1sdWgTvSnPVXQCuFC7TtA9SWJu3sTOTlgBUwFYXDdOag5SoLYKZDhStE6BzjW+wTBpWKII5nGgguP/e2B+wA`
-  , Fw = `/assets/loading-dSz7mDOD.webp`
-  , Iw = `/assets/logo-B1iScA0C.webp`
-  , Lw = `/assets/night-wkWV6s70.webp`
-  , Rw = `/assets/play-nice-BbJ1NOrT.webp`
-  , zw = `data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='762'%20viewBox='0%200%206000%203810'%3e%3cpath%20fill='%236d2380'%20d='M0%200h6000v3810H0z'/%3e%3cpath%20fill='%232c58a4'%20d='M0%200h6000v3175H0z'/%3e%3cpath%20fill='%2378b82a'%20d='M0%200h6000v2540H0z'/%3e%3cpath%20fill='%23efe524'%20d='M0%200h6000v1905H0z'/%3e%3cpath%20fill='%23f28917'%20d='M0%200h6000v1270H0z'/%3e%3cpath%20fill='%23e22016'%20d='M0%200h6000v635H0z'/%3e%3cpath%20d='M0%200h1577l1764%201905-1764%201905H0z'/%3e%3cpath%20fill='%23945516'%20d='M0%200h1209l1764%201905-1764%201905H0z'/%3e%3cpath%20fill='%237bcce5'%20d='M0%200h844l1764%201905L844%203810H0z'/%3e%3cpath%20fill='%23f4aec8'%20d='M0%200h477l1764%201905L477%203810H0z'/%3e%3cpath%20fill='%23fff'%20d='M0%200h111l1763%201905L111%203810H0z'/%3e%3cpath%20fill='%23fdd817'%20d='m0%20278%201507%201627L0%203532z'/%3e%3ccircle%20cx='556'%20cy='1905'%20r='404'%20fill='none'%20stroke='%2366338b'%20stroke-width='95'/%3e%3c/svg%3e`
-  , Bw = `data:image/webp;base64,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`
-  , Vw = `/assets/sb-DN76BlRu.webp`
-  , Hw = `/assets/separator-C8dSsdUC.webp`
-  , Uw = `/assets/shroud-VicSzD1a.webp`
-  , Ww = `/assets/towninfo-DYodGRbv.webp`
-  , Gw = `/assets/tpi-CjLIf2nx.webp`
-  , Kw = `/assets/traveller-cKw3P72F.webp`
-  , qw = `/assets/vote-CIIY1W5t.webp`
-  , Jw = {
+var GS = B(US, [[`render`, WS], [`__scopeId`, `data-v-f653ae9e`]])
+  , KS = `/assets/firstnight-CQnGctKP.webp`
+  , qS = `data:image/webp;base64,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`
+  , JS = `/assets/leaf-orange-418HATSf.webp`
+  , YS = `data:image/webp;base64,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`
+  , XS = `data:image/webp;base64,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`
+  , ZS = `data:image/webp;base64,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`
+  , QS = `data:image/webp;base64,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`
+  , $S = `/assets/leaf-top4-DaH0V5hE.webp`
+  , eC = `/assets/leaf-top5-DyrDgGGV.webp`
+  , tC = `/assets/othernight-UoZCooCu.webp`
+  , nC = `/assets/sheet-bottom-B8o9Qwul.webp`
+  , rC = `/assets/sheet-ZV_08gY3.webp`
+  , iC = `/assets/token-BqDQdWeO.webp`
+  , aC = `/assets/firstnight-741QXSRJ.webp`
+  , oC = `data:image/webp;base64,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`
+  , sC = `/assets/leaf-orange-418HATSf.webp`
+  , cC = `data:image/webp;base64,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`
+  , lC = `data:image/webp;base64,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`
+  , uC = `data:image/webp;base64,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`
+  , dC = `/assets/leaf-top3-C9BTCwAz.webp`
+  , fC = `/assets/leaf-top4-BUjlPdzY.webp`
+  , pC = `/assets/leaf-top5-BEXNsf9Y.webp`
+  , mC = `/assets/leaf-top6-rjk2XTrD.webp`
+  , hC = `/assets/othernight-D0NIKU2A.webp`
+  , gC = `/assets/sheet-bottom-DPvgolac.webp`
+  , _C = `/assets/sheet-CXPnUsUN.webp`
+  , vC = `/assets/token-VPG3jS-a.webp`
+  , yC = `/assets/firstnight-741QXSRJ.webp`
+  , bC = `data:image/webp;base64,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`
+  , xC = `/assets/leaf-orange-418HATSf.webp`
+  , SC = `data:image/webp;base64,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`
+  , CC = `data:image/webp;base64,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`
+  , wC = `data:image/webp;base64,UklGRloNAABXRUJQVlA4WAoAAAAQAAAAGgIAGgIAQUxQSAQGAAABoAUAjCFLSvV4bdu2bdu2bZ5t27Zt21gbx5lnjLvzMVOp6TmmfyoiJgD+w/vrNWhQf8KZC7Zv3/I2onV6GTgHvVNyk4lEEk3TNC3EnPVe54Bo9zyST1wYgKz2VTA4q/ptMVL+mvKQza5ue6/b0a6OwVVlL8hB8t3VIZs9Q9+zEN/oxlViwikk/zYOstnV72MT0Xq9CjB1u1fjpORtVbPJ6PR+AhGDAwym8mwNIjmyCbLY6PBFHBFxRQCYutGrFg1vKJM9osO+JCLi6TbA1fN+RcX322VP44+SmHp3NbY6P6mSPzFrGj8ewdT4ch9XeS5Vwk2eLCl7cwzThkcLrhKXofKLDbNk8llMf7oXcLWRgaJ+2dHkZZS+25Kt4AI1XOvPBveiYtmtVflqU4naV/WzodGzKN8k+GrySbVIZ2FfYFWhLLkY+Lr8s2q42WebaPgByn/qx1hwfrHaaxVt88xPEp5pwFld9qmdrW5bubdRXnqOm7MqfqYW6ShsEkMihFNTgLPd71hK8SUum7x3JQiftGQt2F6gZL7mtanJd5YscX8Z3mp4Qgl/q27TgjyU5+0QvOV6JalUvNKmO6OE3xcCcy8sVkq+LmxxfWYSTozirsp/KuGR2rY0P4py6/Om3FXmeVPp94m2rMwhRO/zcpcxIKZUuNuWRxKE4guBu0XTsFLyWVveRGLhVvaCGgeU8AO/DRXep5wdyV/l71Y72NeGAfsJ1tGG/OVbqXZ2hg2rQwQ87OYv0SWhFFxpw5UxgvmB4C9ouk8pfEnmPHdbhPAlHOZfp2Tdlbn6LyIx1BM4fGBYBZ+vnLFuX1JyK7NYp31KP/TN2JQzBOtzP4s1eUUpd0nGVuYTkjd6Wcy/RwnPyVSFK+OEyCQXi8GCuNINgcyIYYeR+FFt4PGRp5VuK5+ZytcgdZmPyTp+rPRqs4yIPicpobbA5BXvUvqmR0Yq3YLUh2twGeyKqwTHZ0J0L6aEJrjYbOpplaKpmaj4IBJjt9UENq/zhkpiQQa815USzLe7Cj6D+1SsZULJsz0XifsmuIHRzy1WwFVKvq2/WTLr5EIvcPqU0wqReaDo3hG0UGqdnO0FVh90RKF0hoJv7jEkHlpoAK/X/krh7Ciad9phJP450QBufzZJOzqY5B70HRLzz/UDu59fRDs4gCIavonE0J5KwO/zQrQDpMANCULi4nLA8B3P0L7tSTAm5yLxyXrA8YF9FunFxoQqhy2Z9XkvYHnxSpL0aC3ChhKUml/1EDwHt0RJT9WXVf3UlJg/TQGmF08lSNeXkc0PovSrQcB298co1oWGpNbDEckPwwTbwYoSCl7tkQw5hOmjczzA973zSdcEJHN/TVdyUWVg/CpB0hVuyaXhdE81BM73PW8SYnuNdDVewLTHxwrWM4ZFCeHNkL7rl+mu9gHv18snHBgmmXImxfp+MDB/9R8J7zaTzP8jpWAHcL9voyWxHi2XTqwtSNnfg/1ExxOS0GqQnGciYvzpAP91CUp+6CrxXouImLsC+K99ieSTKpJqD6QcreUEKEgXf0RI2ryLiOanwgmQl65wL0i7f4OIkcvAAdjkQLrQYtngI4gYmugEKLc33clesmm5iNYXtZwA/rVprB+ryWbFEJMP+pwArimJlMQrIJ+HiIkNbicAdD2WEr5YSIz5pYiFgwxHQLM3U/I6g9S9Mol4pLlwBFS/ExHNlyrKYDEi/lwNHIGBcxAxvNAlM5aZiN9XcQa41iLivvZCBgviiHeVcwaI5RbiU+WBONdCXOJ1BsDMCFoXBigTgoj9DIfAuN/Rmu2hDD+DsQ7CITAxiDntBaXbV/hjc6fAiFP4Vl2gVn8AL60IDsHmr0XPKU+CC/OHCqeAmHZ5a4O2+J0O4Bh0+wyg113V1DmQQQHa/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/9r/2v/a/zrMVlA4IDAHAACwVgCdASobAhsCPm02mEmkIqIhIHJIIIANiWlu4Xf+ABncr9CU82e6nu5X0AOmAwBb+jdrnfX5KAz5/MaJY1+Y8y9JfoAfnr0Uc9GoZ0t/KAAr42oqvlgGg0gEAj/OlpUBkFW5AiqEmMw8YgQlbhszZwyq+WAe6n+jaiq+V3DLRqA0Vfmo3JrC9immVTq+qgOSTRifISj0bUVXywD3U/0bUVTqHwNMnrQymAs0HHTOFy0+A4FmTVvCYaarsXZMjuEI/0bUVXywD3U/0bS6XPNCAl7A3LbvSIbfJolo3AN8/VPuY0RHwyq+WAe6n+jaiq+V/q13iUBBy/AR8ocmor42oqvlgHup/o2oqvld1KNrAj3NCxZtuycPdT/RtRVfLAPdT/RsTKNOIn+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6n+jaiq+WAe6ZAAA/v8fWxUlhLAVPQwMesieP+ym2fWrXWnmGO7rgH16klzMPZvLJEYYkNo340rL+5Glkns/tMZMjq7/aZ2c6CTY6cK/CgtCr9nQXwWMsenKOJgQaoQFHDdlu65nNpZf47mAM7sg7qBmVxLpEhT+oMm41X1qO0/8STsfu1QspTRrdbrwMFxH2gPPQnGj6k1m3+rpRmtUc95lPfBSVkkbioClUmyRLaG96N4N7bi6YO+4ePJs0aQBA1PmJx5u3KFH++/YPW5vgWn2+mBgCvz/P/yg9zhFvAfppS1gUi3rNhtrChgZ8AvPlWI8sKxfjYxq77W521bzLBahVjNW1ksF/k+AgQOADB+tsLiUZwh05UlmAf+ja2rfiqMsuWqnxWbrHiZ6RnJZ66C2ODpBTA3AOhfI0o3X5f8Q6Zx+x9n/suHB9huOr+/UA9vc5atb0iEvc1DIsFi215cYQW/KtWX9o3qsai61ni7HJBhhsUPyHWX2fSg8QRG0zsDubh9s+MuVN/qqmJ7nmwHIplwbfN1WLoUz7patGX5QBok4HLEFKcmow8UV5/ydydjsVzA1uJ4sZ41K1nP/FWemZMUsJOh4v0u/VR/3miL2DX2CQ4BAsPoRlOFLCjemihScIq+ZWfggqeQR7Wutfc9mB6ZOpxCrVDCzMND4/+/+YijkXpXRZyPNwO2/Nu5P+nmepFTDsRDdxYq2fC0r0RgwjlFhLWyWmJIBFv6XXtm65p8MZdxWxIl4WX//PqC5uaQbt4Qwr1kgyRwH3JQBIyATVLxxlvbDtL1zdSqIwG6S38JUMZbL/PCwH/xqASKeVZ7EAoJpBdK1dk5WL2mp9lNoJjklyyI1jvviNQefHgOHjONLcphyH6NmrcyDh24qb7OaKeD0zRzqBHQIFw4Mu7QQxdVdWdzYMt1uuvdnXND7vBYYD3b2BHjjn4xNJTw3EbCGPcRf+WuTKgXy27zfMnXL8MhumrlbFvzWOCGsqDyTWKxm6f+7sIiEbkspmOIr/yzNdO11J3FMV8yqNlYRHQane+lugDYxYj+Abt5RIWPaPAtaddbk2WrwSi0N9QPyziO7wzzln7o0qCxRNQKCWOAoRR5S/+HrVowC2b1+JkLfIuzOu5fpA4kOecBPB4sfpiJ+wsh0ZRnOor/0v/Dyp+hQkRkAH7+6zjYconRosR0SK/77L9Uft4HsUfJ5odhwlMUbakSsWLwACyZE/MeaTAoBm30gxgz9AupHmdoNk3sf8nfq0Nmy/mUBiEglRLrhbg76pXbZSQx0lVWfktih57QdJLcrpEz8eqHYkoHDkeVzZP05KW0MhswzfMzRKX/QcfnNf4Na23/Lge/R/nfo9Sta690CoOl/fKwAQFYaE0dvRD78JJIyrOtjcbFQSsQcWQdFNwRbSrYcfqujUjMHR8KB39WY0TYsSKexWvgzNzz3MB52EiJmOf6Uc7/VzRBfPbbEgyzYowOGTd3IkHUrf/K4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+  , TC = `/assets/leaf-top3-C9BTCwAz.webp`
+  , EC = `/assets/leaf-top4-BUjlPdzY.webp`
+  , DC = `/assets/leaf-top5-BEXNsf9Y.webp`
+  , OC = `/assets/leaf-top6-rjk2XTrD.webp`
+  , kC = `/assets/othernight-D0NIKU2A.webp`
+  , AC = `/assets/sheet-bottom-DPvgolac.webp`
+  , jC = `/assets/sheet-CXPnUsUN.webp`
+  , MC = `/assets/token-CTCszbdB.webp`
+  , NC = `/assets/firstnight-CN7yUWuG.webp`
+  , PC = `data:image/webp;base64,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`
+  , FC = `/assets/leaf-orange-418HATSf.webp`
+  , IC = `data:image/webp;base64,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`
+  , LC = `data:image/webp;base64,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`
+  , RC = `/assets/leaf-top2-sRAyOA8-.webp`
+  , zC = `/assets/leaf-top3-CBtDOqhc.webp`
+  , BC = `/assets/leaf-top4-2k84E7uc.webp`
+  , VC = `/assets/leaf-top5-Bc-Gdmm0.webp`
+  , HC = `/assets/leaf-top6-CJMCb2p8.webp`
+  , UC = `/assets/leaf-top7-BwX55vT7.webp`
+  , WC = `/assets/othernight-D1vk2275.webp`
+  , GC = `/assets/sheet-bottom-BpeJZ1aT.webp`
+  , KC = `/assets/sheet-DG3cIEIJ.webp`
+  , qC = `/assets/token-DRfx6YVD.webp`
+  , JC = `data:image/webp;base64,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`
+  , YC = `/assets/leaf-orange-418HATSf.webp`
+  , XC = `data:image/webp;base64,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`
+  , ZC = `data:image/webp;base64,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`
+  , QC = `/assets/leaf-top2-Brn4XVVn.webp`
+  , $C = `/assets/leaf-top3-D8scAOLC.webp`
+  , ew = `/assets/leaf-top4-O8IBBccu.webp`
+  , tw = `/assets/token-BeVpitSA.webp`
+  , nw = `/assets/firstnight-CCAxafk_.webp`
+  , rw = `data:image/webp;base64,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`
+  , iw = `/assets/leaf-orange-418HATSf.webp`
+  , aw = `data:image/webp;base64,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`
+  , ow = `data:image/webp;base64,UklGRroPAABXRUJQVlA4WAoAAAAwAAAAZQIAZQIASUNDUDACAAAAAAIwQURCRQIQAABtbnRyUkdCIFhZWiAHzwAGAAMAAAAAAABhY3NwQVBQTAAAAABub25lAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLUFEQkUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApjcHJ0AAAA/AAAADJkZXNjAAABMAAAAGt3dHB0AAABnAAAABRia3B0AAABsAAAABRyVFJDAAABxAAAAA5nVFJDAAAB1AAAAA5iVFJDAAAB5AAAAA5yWFlaAAAB9AAAABRnWFlaAAACCAAAABRiWFlaAAACHAAAABR0ZXh0AAAAAENvcHlyaWdodCAxOTk5IEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkAAAAZGVzYwAAAAAAAAARQWRvYmUgUkdCICgxOTk4KQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAGN1cnYAAAAAAAAAAQIzAABjdXJ2AAAAAAAAAAECMwAAY3VydgAAAAAAAAABAjMAAFhZWiAAAAAAAACcGAAAT6UAAAT8WFlaIAAAAAAAADSNAACgLAAAD5VYWVogAAAAAAAAJjEAABAvAAC+nEFMUEhNAwAAAaAFSbZp2xrXtm3btm3btm3bNr9s27af/d617469xtPaZ63x2Q8dERMgdGkm/fsjkbBlsMuq8Niy02W8YOshl+Hgoq6dweX7v3udB1tS6t+/yIEtTVxeF8CWPS4nwkNL4m9d9uWFlthfuWhwHbLM/eSmztLosNI9oCFfL4Mp0bs7GsbfUgFK2jKXNexnYsNJvIfq6ZWEWJJy4Rfq8RIoyXJDvc8MJPGvqY9bgaSr+vmpFYxkV3+foEjkez7pahAZqH47XSAk0jPf9A6ENFaDCxHkpoVAFfxooSYPRUKPKCdsaEH0KB008gN6/KpWU2NHOzVbATu22pkXHjq+t6MpkaPQW0MNgCPcDMfQZuCI8osafggcrdR0Kdz40VYP2KiotvuiRuQ9xkajRvKvjW2JCBopvzF2NipoZH9m7AxqpPvR2HfRUeMnYz9GBY2Mvxj7JQpoJPrW2LOIoBHpqbFfw4OGPDL2haDmQ2M/wMYRY+dhY6SxUbAxzlhz2Bhr61kO2KiujqXn2WEjvK11EWBDAmp5kODmLVOTgeOIKQHOKZbWIEdvQ1+kR45qn8wE6glyFv9gZptAZ4b3Vm5Hxw55a+S3wgKeH4xMEPR8buOOwOceE5fT4sc8C7+lEvzsaaGSAGhF/5zpkRAkm38/pxMEjRP0KzBAIDT2O78GCIbGV58PxwKRxD59yC4gmsTxp5XAyGs/nM0Co4l/9ONUdBxJ89mHI1EFR1M+8+67DAKk6V579kVpQdIMr7y6k0WgNO2vHn2XSbA08ytPAo9rCpgWdzzZmUzQtKl6OU/wtLEHzuzIgNLCg0GCqJ3CNkUgtVuYzkTBlI7qhHYloWBqnaCGPDWKgGrlTyF1Elgt/T6E4CjB1dTPQzgfE1ii/eZ2Pbog6zGXk9kFWmMf+MvPg6IKuMbYrLotneBr5Hq1Iwj9/2/j4SNgTLhwGEP/0//0P/1P/9P/9D/9T//T//Q//U//0//0P/1P/9P/9D/9T//T//Q//U//0//0P/1P/9P/9D/9T//T//Q//U//0//0P/1P/9P/9D/9T//T//Q//U//0//0P/1P/9P/9D/9T//T//Q//U//0//0P/1P/9P/9D/9T//T//Q//U//0///XxYAVlA4IA4KAACQeACdASpmAmYCPm02lkmkIqGhIHn4eIANiWlu4XbbEBM3pa7YzkQPdFvHfoO9KZ+5GEYfyjbZ8m3uuTGST6BexOVYwH+tXQl3rX2X1APzb/vv6H7H//J5Vvp7/z+4T/MP7f6XPsU9DP9dQY2IXG+pqAmMHJ+uFIkNpfMeOq3bcdr2i8fibqagJjELjfTZmYV5kMgMB+GP0Xs2h5O2uM4YMQzIAglI1nM5nM5YBMYhcb6mn/5yM/ez9kWwUWg5CzDzhxdG9jzQsvemctTv1ax5G+pqAmMQuN9TUBMYhTeLYw0uDrMWzaEV/0VpQf2X8KO3fkhyYr4q6Wl2MuXiFxvqagJjELjfU1AS8d644AF70ViDzR+jkDXlOzw6GlQFTAi38WOsWscjzbRtG0bRtG0bRtG0bRtG0bRtFLTbTO6moCYqbnxWtlYoeyFfYMFGbfCCVGTcjL+2X9vNtGQXloyC8kHfQMgvEtNtM7qagJipgOoFOGTFK/Hgp5aNo2jaNoyC8qq0bRtG0bRtG0bRtG0UtNtM7qagJipuTBXfEd9YXkebaNo2jaNo2jaNo2jaNo2jaNo2ilptpndTUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC431NQExiFxvqagJjELjfU1ATGIXG+pqAmMQuN9TUBMYhcb6moCYxC43xAAAP7/3DhA0A0wEsom7UKCq5uP7/6we19C+Cb/3rX1bazhsRXqGTjjl0WXGBGG99OfAZuWwSItsa1p0Z2oBYJ9tb1TIj2DRJTaMhj6EcVP160BlTe7Yjt/8V3UO2cWw4KUljbTjtBYdzTj+uBPpCOXFq4OB8yfGkhV5dwFZuMdGH8R6WJNrmG2QiFHX2LPf/wI9VzcppfTxHvF5VeRUAC8g1XS68AfCxIAJEWbv2QH/Z0J668bLKroQjAZR8j6Edi71Ubl0bdxxR+PV4cTsaXiuJDK95IhFLuGRDs72fUNGUftHj0+kz8gFEfAxltE4qjKWdL8nQolzrSSyWgNSj8cWBkhg5hMwhEKpgnxuI1iY+YsEinhehRIg0rq5qi6VmlvzWGn2Q7ENTTzPRnFEvwT74Y1/gMhT0cdmmIPBflFlfdmlkdQHxSsjPvEWfMLoYqcuFRziVRG/VAH22dqAF1b4iVj8Va1D/0EcBrPfEIjERNfLx07DNckwwbKvQM+xjLr8xd36GhbX7LqXgEdpRkQJYbKSjfK5IRUp/16qBu/XA5XjeKcDFg1nvSZtwXFrsVx5p7diD2uRs7ot6ylRv5hRsTgH8dqx1FQHT8WrgHjA7sYewtts/EOoq0BKn+e6ci/yo3CXljlL1WAH/wjAEpZ+Fpq0y741EeZBJlMkWL0jRqGpVtHKFtrvfb/HYgcMOy3zMnromZAYDHe33+fWhHcq6wx/FnfLBX8yvhH4cX0vwDZMz88BT8oiRJXVUbDJlJ2fBmPT451ZxP/rDmbYvdAsRaHVtTLyewmCzz2wIcaFPjnoOlmvca3wdVz6wRpSO9XZEo27oyK7o5N36E9y+J5oYFK/czZYDvIFuIEtUnbTJ9sEccT0Mx3+WCzmMsOmygEK1urQuGwW3JV311YrRwOmARr/Pyvf+mXCgCyi7x/0Lpvfa39iPIK6jLviMKukP5pTISuSOhs2h8JmnR2f/K5iT2Ue4cUqIbULVEX+z1KHbRFBRC+XXSDwiHmXVelAVn/1aA9IFtCOdkbqiERFM/2J6ak8cDdTPjeo+SWr1Z3kaEdaxt4Yn1E4SO2SwlPbS1FiLRymfVSbsVzI6xwOGdkMjtDRjuM2zzeeodpV1LNxwP662px76hdTmAUHLomv7Pa2U3/sTGMCRnnurNtqPPeSRu87rq3Ip3D/D38qTZ7hWpGWqU0Ft7NaqM3+FJ8BWK/vGG83v1tDchbR63tziPC2grsqqoAgf/Ym5XoHyxKhyAJ3M5ElazOPnTo6UDwSYf8qkwMuy4r1j21tHrnrJZXHUEeJseniTIMezuVPjixA6mm1jfRq/AmBVd9wFbbukitKpt1Q1m6XAXNosU7itOWSDe7/HO+N8bXvl8fuVXZv1NIhhp4dzxP16BRp792WxP90/JOt5uGQrdJ9d8Z4eqRY5T03/iAAAJpt2sviyCCcs0qyGBnROql4mShcT6cdGIGZd7vnHE9kZBR9Cuhk3w2pAD0Rouxlb9FYi/szC8UHvlC7ZUhCA3Cz+YRXf4l7B6EfoIWVUpkA/AA3deNwuDaVt9dSxu/DzfkMpqP0PV3+Rpf/0GMjPf4qdmW+KnZlvip2Zb4qdmW+KnZlvip2Zb4qdmW+KltoKUgELVYF5+T1RXzKgMWHKa+2pMY6hjX0FcWWIPDsNs00zO1WkoUvHCCk+j4hkt+tWID805BENj6GrL37q7t2yQFthIJenLT6MTDk/Pb5O+mfVXk7OBkpx797xijy3yZDSFec+DdAT7AJ2yRTNqpiV2wK0RBreYbJ7bGOtydYWPPVrkoqaBCQPTeFewfxhqhE7Dii2Nh5Dr/4X59O6tBmH67ShJvWRRE3WC7WnCD3gp6T+kW/51v68bPKHK284hA3TQLkrCufbTX3indM+5psm69Q+BUf36YgT1eofAqP79MQJ6CIH101xbkwQaWmPFgUsZy93yCmoWIWg+6ByAjooKL/8wnOU0KWFy3XcowqFOyKKqDqmKrTZ41/2fP419qxZrLtMe5XSkoZ8Tz7J+hr/8wI786o+7pNJqusad5g5asrNgKXGv4aPvBMW9bx9l8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=`
+  , sw = `/assets/leaf-top2-CSOaDkz9.webp`
+  , cw = `/assets/leaf-top3-BygOvTRs.webp`
+  , lw = `/assets/leaf-top4-Barq9aua.webp`
+  , uw = `/assets/leaf-top5-Bg2URR_T.webp`
+  , dw = `/assets/othernight-CEystKCV.webp`
+  , fw = `/assets/sheet-bottom-UbaLRZcD.webp`
+  , pw = `/assets/sheet-C8MRSCHO.webp`
+  , mw = `/assets/token-D8iljfum.webp`
+  , hw = `/assets/app-icon-CG9GQKA7.webp`
+  , gw = `/assets/bigwig-3vDwfauH.webp`
+  , _w = `/assets/butterfly-EBqpuH6L.webp`
+  , vw = `/assets/card-blue-kXD022m_.webp`
+  , yw = `/assets/card-brown-COX7dS9S.webp`
+  , bw = `/assets/card-green-CZ3QqHJ-.webp`
+  , xw = `/assets/card-orange-CCQqfh88.webp`
+  , Sw = `/assets/card-purple-BzGRM6Av.webp`
+  , Cw = `/assets/card-red-DumJ01TW.webp`
+  , ww = `/assets/clock-hour-4OZZ2IsM.webp`
+  , Tw = `/assets/clock-minute-C8-oSdzR.webp`
+  , Ew = `/assets/clock-second-DxRb4kLT.webp`
+  , Dw = `/assets/clock_back-DYcKUv9A.webp`
+  , Ow = `/assets/clock_circle-D9aDMLwo.webp`
+  , kw = `/assets/clock_cog1-BFsWJmN-.webp`
+  , Aw = `/assets/clock_cog2-CDec-14_.webp`
+  , jw = `data:image/webp;base64,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`
+  , Mw = `/assets/clouds-CpjqM-gf.webp`
+  , Nw = `/assets/death-BHZe2Aua.webp`
+  , Pw = `data:image/webp;base64,UklGRnAKAABXRUJQVlA4WAoAAAAwAAAAYwAAQwAAQUxQSNUDAAABoC0AkCFJishCc23btm1bZ9u2bdvm2rZt294dT1dFPDQqKys/ICImABTEWNkYgubNV3ed3vX/PTWEzvAJYmai/InDw6gt478kZqbsiYPDusJ30jBT7gdVUU8lXuGM9ww3dGRNczPjrJcjGqpB7NX9K6odHM3e3Z+LaEbcfkUCu79EtGJdd5GlOtcZOhl9hiWvK6+R7qdYdmE/fUQ3sfTEYG2It0kazSurjSYXWfb/d1dDXRjTWTa1Q9Bm83xZtLksaNP4gWRNboH6qHqBZX9kgD4nuLJookbwB5LFf2nE3sbSl1RAXZR+15FHuzqjHvCVBPu5v0+F0iJ4kdGb2d/TO9feiUGrs4DY//y2GLCJxCoevqsoBil+jtWko4+UxOCUzlaE2dn1UAyDgt+6qjDTprtLYzCg+hJJ5z97dqvjhTl/zY0lMBDY/LCMQz8PjJp1XlhS4IW5YN7QcBAA229xPRWOtgAAsNJKb8zO/F6xAABW+4s80LQYpDSGXyFvzPnrRoZROYD4M5cz+7UGpBXVrz8mgTmx7NqwehDqv6ggA3rOSAcg2k1PSGDOmdw/rBxgqUcPumkK7xaZAJT9JEsGc853HUzVALDck9sLkxJvxMGjdeMBKUyFf7S2VAMQpUZPPJgo/CQCnkWDha4MZrr0Uy2hGgAYkaq1bJBZ/J0cKcyc/Us9QzkfQ0PPSGI+/2M11AWIOlMcSUwX3qklNAFQ7tUrkpjd3a83MDQB1q17ZTG7B54qi3oAbDLbkcVMJ+8qj1oALPZmljRm9+CtcdQBgNnvNEljdg49UM7QAYhmi3xgdo78WlwHAMVevugDM/1jaQEio3eRD3y2mh5AtJqW8MHprQmA4q9dluf21wZYw45Iu1jbCyIKIQwzahtCCEQAVAaw4jxH0rpYKkSjZKvRL3/yw89/TZwxc+6yvevnzZw68e/ffvjinfvaV7YRVQAo/XKBFPpKpKjz9PRtWUTMREScnpKZqHD//Hd6mCqANWSrjJzWkFzzgEvsL9GFR4QKIFr973iiiaEk4zViBS81UAKw1PtXvZzpAQBY670sVpH+LKkEgDl4N2XkvmUDQI9zxGq6M4urAaLmHDeTWZUBwF7OytLDqAZA5PmcNLS9CgBAeK1CTygDoWF7KIkWtcQkGHpBFXdrdVAXqz+/MY+yvi6PkFIMnHSBFHBOfF5PKARgVehxQ7c4pMdot9cXn0wwkyRizts7+cmWNgQdQ+U63vfTlLWHTp27lJtB7sWzJw8vn/jx2BYlbNAkGmbR8tXrNOx6zU13Jt96bef6taqVj5kGBB8AVlA4IHQGAACwHgCdASpkAEQAPm0wk0ekIqGhJntsAIANiWkNsDiAAKo7/pvaN/X/x084/Ed5n9t8ow+d8ru8/32fznkk/0W9t5r/Q/QC9X/of+o4zuMD/CeDt4f7AH8n/uv/O9kv+J/4f+M82X5p/d/+L/hvgE/kf86/2X9y/ez/OfNf6z/2Y9i39fGhsZQ54c28wzyRD7Z4ANHE6xfBunjMRvEHIESjHhE8ksQehvVR3wifRqAnlIm3Nawuul7TcsEc9vpWL02lR7w6NDs3RoLwtBBjsgcH2BDhUG2wRzuuWppGLhQdXxzZQB5sA6q6qLteBY1DjnFpZ7sltfgg/KKhn4eMwAD+5Cpyw0DiV851NGyJdUGU/Zlgfg/gv7szTl1E2/hWVPs74kSOCcZ4e+z97f8jhlP5N3EliBI0zUn6GrfvAz0UOHZttWclNpZkOs1//ilcHxMHhSwtYSIdzZvXl4qFPAtZREB5T2eL3vciX9isVgo22RgZ0nrbCpruGn+FpEzENgHEekrJpV/VeX/cmT+l6/+WbtkD4jW6w1+1nVe/nL633p41Upc9fTYCxptQsBDmERHZlej27fsZRqd0RbUn8Gtsa7nyZ7r/vig1kt8I/iibx5x9Y4D+fq7IFNRQs8cDpbJ7+E4+h8HpuhELhTb0RE3y4g5nnhVIW1WFY2MVOPuWOWmjhtWIfcenYBBhO8WVLzP2+wroblTU+2k/tKwjIVj8gFswT5K+m4fGIDqm4SkUprshMvigQeoV6VKisvagVQZloPg/A2O0x1BKR9lQ1Rp+uj78nBjLH1/bwsNmDcBVllVrmaGfGQlmH5jdtZHN46v4xpTsl5itevwlO4fBgSSF0TLS5oSya7GVr/jhuqZrSSew1hAaHQVjotAVJzQZoLmRwhIcNt82tj4oTw3TM4rA+8q5P22K4bGc+xftAJ9M+6T9ZtFhHXb0kYamA1Sr6XfHY2WvHsbBdQN5s0L33lEm9+NPXzcVhu+2GlWYtOuf+yzA+Wr14EhvJlZ9jROH1MZ6Vs6qdWSLkdW4NglcDRNcsSTA27A0AOZHDp+7MHycoulqgnrHMf3FoABC3eWBbJP9pfH18Wv9j3/TcmepqHU5YILcZDcn0jccwVBG8R0g9Sx3piVl3+uD2S3BaOxdCr/zsCpbMcyROcGsqmIFE3y/avDX9t32TMFE9mQMnr3GzjkfUG1ffduUY40tIrMyqLaeID3tZi9bylL+hAyAEGIiMvnLbwdTlCcckawh1FCThPylezjOf0vnnC57zD4OFng6NRT7arSVg6mfOws7DpeDAuNhrP0ACrOa74wj3kl4qi+up8enaHfVYoEcXQBISFrLSrCM/bjR4F0dR7aW2e2Q5PD1b2eUrI8lspRy/erurIw+8VKBKlU3U/bxDlr/T2Qf1t54TnD8qvgNcABW7tXRaiZ9ilU81hT7GWevS46bzbEswb6Lhg5orfLpBVNqHJ///NF36u50C/S4/9v5mESDFSbk6Fa3s3DP7TgWqzMinv1gwyY4Sgi5Tlrtwf1hX08mJNzc/tvWsNRhliBmG4WpSKxQpZTv/zliwbcAW61xXeCoplkVNjTv6OUsgh3286JV8YfAFBW99D2SMLRd2vjUMyvUGBsfRcHydfFNuUby+VMlkGGWo1WPjwAxydj9WH8kz4oakyXX4qXZxvd6n5cbHvalgM2XEvdiLFXknmm9dUtinLwgyU6O+y9h1XYKeG940hTug7NyX7Ra+3wBpXpy6evL6HtrBKqOAsOACUFTsUqndjcyT/cD4wPvuIW4BUsIH6BuY08xGBn6VMxcgXrmzcz+f7HRBDXi6/x4hjv3BQoLd3Nt7tlJ6RlREg8rSZE9Cw0e1bEH+jo9bSx2eY0+89WHH98D+x3E2Zj43lmSEpSIGq1lQBJE6P9FsIl3qRRusy/N51R0kbYFGlSpt7lOZpn8+wC8l2UgOMf6s3mJtbiX8xzkQrW6ywZOeaHvBlGxsLDSOekw/2vtEeRnxbUh878h8vH4SYGUPmK1Kcr2sNqUNl04+iHRY6yUvonOU53fXRV/ca0lXRu21+nD5f7PlUPvbBogtA/hrX21LxSnsXX1oTs/01LtMpMCRg+KmQbD2+YR+J4LfSstzgC/XbLLHjUYtLw9DDdqsTf1f5j43LODQdqanilAdlNG//3e+k2K64u2fGIalHRetQMX8A/7kCAAAA==`
+  , Fw = `/assets/godofug-DX7eA1Js.webp`
+  , Iw = `/assets/gossip-DY4wKAxk.webp`
+  , Lw = `/assets/life-BUG528sL.webp`
+  , Rw = `data:image/webp;base64,UklGRt4EAABXRUJQVlA4WAoAAAAQAAAAHwMADAAAQUxQSMUBAAABGTVtGzDKH/6IOyhE9D8J5QpJkiQptpPVgx92/y9J0opWfBCdUsfQaZhZ86ar8kHTtJgjJsCB20iKlGW4uzTdIxD+1760rrnjyKADjvI8T61MJiszz1OeUsrzlAIQQgCJS04c6vRCvAnABwBvTLa8srLFvEBbJm8EqBBFW8L7MwAg2kFpA0FbBBBASqmIGdVInFOIUr+IaNxzlwNfyJKAAGYmgLZ8RBFEFGEIhKD4vcBkhyniI68CPVGKV4PZOw888CVhjPk8CFKmCqSoSuiKRP2wG6K2k2g4VOAiGkYV5aqsEsZQmeCXAImGk1chQ8YYMN5uUZOXnnjlmdp07rtuD3yLFgoalqIKxj9QJiI+ULmZjhR6g7RpqLtMoqhZCOq4UD0/RUU9mhcURIoWN21+kIXJqxpVoE4LRnlxBxizcNapwkwZQ5UCImNoccK95d1asogo9IYAEK1PXnmFoPZywWUXHOsANEb79o0GvU6v1+o4ouHk2slxRLKQnlKzj8B84AX/CmQMKUOxAIRXHpEiCgRAGQr2ZidtVFhKZWDnEAkYolQdTHLsQo/i/BOIfJpJLEm8IRAJvxymrHHKzGv5Efx3cQEAVlA4IPICAAAQEwCdASogAw0APm0sj0YkJ6EktRF6WPANiWdAnuBSO64FrLg0L2oDJVfEAVIP+Y91j6fqv3dAH/Hej/eK5Q8gsAhAPg+C8nSRKwHI0K9BWdDAvFqDGYW1u7+g2WF81jMf164jxu22D7T+Jj1hPzk64jxlnuDfuqxDTCuS2Fdhr0oeCvf6IRYOe4774r4my376fIsnB9QVUfW9+hgObl+3wAD+/K0cAZ48H9n6W90/oViGFeecg8fE1wINLD3TmpeFLm/teiUiOYrXpoP0kvbiic0gB7r5FI70iQdHMuRBqCMcqa2fHc63LEwwW7ZxoPKLFsHtRx5DG83eh0cBffizHo1YQ8nWRRDgYJsbkWGVkMdoRaUsjvc9x5xqSbUtjUlQxF3NIyqzAv4Fx9nOaRQfDBOxeTx7O+W1/cxM1oyDOXhdrPartSGvqbKZnmBSA6rfiO31lILB0CY0Xi8hxU/vo4Hgu+5ZuTHvynv6fW2vvANNEOwNBH4vN4n0gNbxj4ZJWZMUd84MkhtdrjXLubN5Vr0mDB12EidZG3JeU3e/6AhvTc/8ejrOeMaD9PBz9M6bgNHlwmIUjIl10iJe/2OJ8OYBn+31HFTJfKHNMG4c5M2uVsE3QTgreizE1ZplfXicfEz0RAE6ur/rkdolP0jOiCrk0XmUEUBuIu+j/ycGU95H76J2y0b6mrWq4mVYNZrb9fDHl6n0S9S9GfPCCN3afRfBxIuKwNoyKRWeXa+BVB/z/L9Ay8ltFHZPWvp+Bj1FlEP99y1cu55gKvqeNSd/iJC0TEv3+FfkxpC8qlbrSn/fQ09DlhNrkXBDsk3F1cTi84nr0LM2Kx2JrCnG9cL2oRRHKoL5Ec5w4wlHuSyNo2wrRC8S3zwA5ON8uv2BzMP9Q5MbLmR9UQjODHsVRDSsQeAS1sdWgTvSnPVXQCuFC7TtA9SWJu3sTOTlgBUwFYXDdOag5SoLYKZDhStE6BzjW+wTBpWKII5nGgguP/e2B+wA`
+  , zw = `/assets/loading-dSz7mDOD.webp`
+  , Bw = `/assets/logo-B1iScA0C.webp`
+  , Vw = `/assets/night-wkWV6s70.webp`
+  , Hw = `/assets/play-nice-BbJ1NOrT.webp`
+  , Uw = `data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='762'%20viewBox='0%200%206000%203810'%3e%3cpath%20fill='%236d2380'%20d='M0%200h6000v3810H0z'/%3e%3cpath%20fill='%232c58a4'%20d='M0%200h6000v3175H0z'/%3e%3cpath%20fill='%2378b82a'%20d='M0%200h6000v2540H0z'/%3e%3cpath%20fill='%23efe524'%20d='M0%200h6000v1905H0z'/%3e%3cpath%20fill='%23f28917'%20d='M0%200h6000v1270H0z'/%3e%3cpath%20fill='%23e22016'%20d='M0%200h6000v635H0z'/%3e%3cpath%20d='M0%200h1577l1764%201905-1764%201905H0z'/%3e%3cpath%20fill='%23945516'%20d='M0%200h1209l1764%201905-1764%201905H0z'/%3e%3cpath%20fill='%237bcce5'%20d='M0%200h844l1764%201905L844%203810H0z'/%3e%3cpath%20fill='%23f4aec8'%20d='M0%200h477l1764%201905L477%203810H0z'/%3e%3cpath%20fill='%23fff'%20d='M0%200h111l1763%201905L111%203810H0z'/%3e%3cpath%20fill='%23fdd817'%20d='m0%20278%201507%201627L0%203532z'/%3e%3ccircle%20cx='556'%20cy='1905'%20r='404'%20fill='none'%20stroke='%2366338b'%20stroke-width='95'/%3e%3c/svg%3e`
+  , Ww = `data:image/webp;base64,UklGRtIMAABXRUJQVlA4WAoAAAAQAAAAjAAAjAAAQUxQSC4FAAABoP7/n+I0+s3tLu5UQu+wuru7u7sA9b8BDVSx1+vc5ZnVvSVI3d3d29QCyb4uKVmI7MwJsd2ZeRwREwC6FQ1txxcaS8xWq9zodjmUBlm2Ws0lxsJxbQwSsFSIShuyqezJy8eYqCRQleBHLx6XbRqSFiUwQTQMKz1gkUmoZcuB0mEGkXJi8rQ/riky0aasXPtjSrJIr6heS8+5MNEybj63tFcUlVDieuMDB9G+44FxfSKiDWqXdV4hem26mN0O0QQlZVVZMNEvtlRlJSFaoOj52+qJ3uu3zY9GVBD7fGUnNLR/1UfSH0ovu+UmdHTfKstAOoucbFIIPRXT1EhdpVVcxYSm+Gplmn7EMVdshLa2K2NFncTl1mFCX1yXG6eLVKOT0NlpTNVBN5OZ0Nps6oY0Joy8TGh+aZSgKXGWSaWaapopaihs7SEvobv34JowzUhLdrgI7V07lkkakdbs9BD6e3aukTQhzDvoIix0HZwnaGF0rZew0Vs7BoWu6yVMWIkvdg3ZpzWEpTWfhSimyMwUc1FMSMQ8hbBVKRBDMbKOsLZuVAjanMLMwSfbBC2ixErYa90QESQ08Qph8dVJKDjpVZhJuCo9KFJpI2FzY6kUBNT/NmH1nZEosLhfXcxy7UwKCGUrhN1Na1AgyXsIy/e0CgBl1zOtPhv5Z9hH2L4/xS+09APjPixF/sTWYcbh2jh/shyE9fZsP2I2YubhDTG+hj4i7H80xIe40sEBjhyxpaSLmAPIxeSWxiqEB5VxLQg/qFygfi/8z3CB8OEFw/8GOTnBOQgAhHwrJ1jzBIDIbYQX/4oEaG/jBrk9wDSFG5TpAL8RfvwNpM854nMp08IRlvYdHBzhaD/5OUe4lxRgjiCFRYQnjSUqR6jFbwlPvm3kCpuLL+xcITdyxUcPV3iaucLt4IpGmSvcVq7w8MVHO1fIbq6wOfniLVe8LVE5Qi02Ep40FmCeKJz8nCPcSzo4OMLRvr2FIyztpc854nMJfuOI3wCmKdygTAdob+MGuT1A5DZu2BYJIOTZOMGaLwDA0CZOcA4CADBc5IQLhv8JP6lcoP4g/A8mNHFB03hoMfkC5gB8PqklaZWDAxyrpJZg2CMOeDQUfMZuxMzDG2N8QbadefZs8DOuFjMO18T6g5Z9YNyHpcgfaHeAcftTwG+UXc+0hhzkH7Tex7S9rSFAlKMwzJmDAoH4X13Mcv0aDwGj/reZdXsACgykskZGNVZKEMwME2YSNmVAUNGUy0y6PAUFByKKrQyyFkdAsNuewszBp9pC8EfVMaduNIRQLFAYo+SJoYCYYjNTzMUxENrUKqZUpUKoM2pVZqh1GRByNKzGywhv1WAUOhAWHHIxwXVwoQBalNbt8jDAs2tdGGhTWrbTRT3XjuUSaDVs/SEv5byH1oWBdsU5JpVqqmmeCFoWhh6n2omhAmi8w0EztcwHO4D200qclHKWpIEe43JrMYVwbV4c6FMce8VGHduVsSLoNq3yKqYKvlqZBnqOnFKlUMRpmhIJ+v4ko+ymmxLum6UZCHQv9v7qbyr8/XUfEWiIYhZsr9ddw86FMQgoiZKyDluwjrDlcFYyAoqilBXnFd0o51ekIKAsSlxnvGfXgf2ecX0iAhpH9Vh4rhlrCjefW9gjCqgtJk/9/aoia0RWrv4+NVkEuouGYeUHbI6Q2a0HyocZRGChEJU58fPSJy8fYaIGhAl+8Pxx6ecTM6MEYKloaDs2v2jDO6tV/ujx2Jqtstxge7fJmD+mdVsJdAtWUDggfgcAADAtAJ0BKo0AjQA+bTKSRqQ/oaEqUn0T8A2JZ2xHwACHfvoU4NuYXA5OX2DsJ/XP3G/nOC9yP8P/+6HYNGueaF56n//8Jj/+io/mM5XnhOlcZm/BqTSHA5LpqrU/kAYcTtTKmR6Yf2rb4GGdxjVs1KdmHTNGlsjBMu6TJm+sUsvry6oh1oh0DAFlYPvFTHEvUYwWGzoZwieeZXuP6ToRijWw6ArFK5qs8cyK5mQ89TwAt45DyGlIMoEetofq/iVvgLq8yts/nSUG2rjVtRBpS00IR0diwhjcHhzQA/rSnnlrTeWSOHkaTsZ/OnkKpaTAso6/cFdJr7qu85IFO64a+u76FGz/r82t0qNc/0yrziA/O6f+0ca0DjSf9z52tkPelkn499+tierzbd2DRT1PFlw248UIGcfhL12Nvnru35J9j+1GLZTontACAbEWGZlrdMYyQMp9r2UagBNZZ53tTBf5+IQ6gCtQXk1X80JSdIH0e4AA/s1wIb3MnjXX8YqCYr6LBAgWGzpRl7CUBn18ZbtOAqrVyGyfX2AvzIKUGYt9z+mkc3t2WinN50JBq5QXAB4NmwWDKswfnyA+HNTfX6ZYTG3llc7SEOOgcc8HW4KDSEJd/7hELvEo7+oJHQj0xJHPUfG48wQyGhnZVdQicd3AnK/RBjhAbO/RlU8WuIazlQ/CG67ws+1ZWkOsVmwUYVXkXFDFqzfCxYT4CqmftLDOeDPXctxRbEiRyaWUobQUVqd6z0I0XwI2cDTLHuNKomh40LevemZm8V4ptFf0p3S2dGSyIhZ8kcatBNMeOYUtojkGJI1I/024rvz9mZ2OSqVkvbLcBdWppVOQRipXEkxPQ/M6WM525zzog9DfRb8xgUSJjZ3FRE8HRkxrU5gjDB54yfOsre4DMDqMOvl+l325P0Qb8lWAjNjy6/I7W6ZqsQlveLYGKC44XmeRzb1JH9r9tMAHyQeJ06ZYkePuUvHenGVDviGwWsbPNoT8KP6rxGIdgySoyKGWUWedMSeglGuD7AtQno+boW2Od8PymCXxAKaV3HeHx3vHyRcWoWCYDlrhVTLrVFbJ0KsZhNvAecOpiGgSnoFNIVZDhyryLHZnNMU0lHZGo3EreKvwEPSHYfBe8HUaf1ZHE2howdc1pg1CMzXCKmDagg6kC8tuFxWTT4Ol+vKra0ekie6CtAL53xGXtBgXYes4RHr7qESIlJ7wfmbdKz06lnadRGuACEnn14ee3qRTcEZmK7HZKj2SqGsuxFsyyWd8iV/CgmEZSnhNL/K+hs9jihDVfC2qJWeVfHU2Lb+IzjGfp1L+tnv7ocmWV4p5tOdFGNsuM08xYBY825UZG/gh+SW070JT+L6hJPcNf/aSIj9IanPNOaLPuR4DvoPFbx3Rm/PIwxUhdS0NaEzuJrJhZGkpYlegK1PCPmFO5KyPXuOsvZJobPj5atKIcKph9Qj+P14jobgb07Yx6uAI7MbXMvj4XgLLLpZdwnLzQfVfnutpAYkc1+9DHqINuwgKb2B/Nt2wfmOva2O5CegWBA0NwEErCtY8wdjR1iYo7AXDyFn7ZnQ60g9w9+ldCMtS2d+7/Ts99sByV1Lv7Gzlsq8zg6zhyI57DjeqH4zLsVtRJTwfinHRkyLNPLyRiVLgWU8J1bhcWqzET7WmJfbtxMXeItG6ZJAkL5zoEl5bHz8lpk+n9789g6ZBPwv2JQ+Lgy4IE2jEo8ReXFvixCu08BhoVOosshmSM1+WqPbRDy8oJeI9pgEXHFhmU0mR38CRt72odAHZoBSNZnq599kX5o7SsXx/cTwKU4UAF293RGsM9LUkNuqhWoipToHi6zI8e7ET1P+o/D9cPg6auvXecyV+7qfHwPLb+lkME06jgxtUfoamWwzNcZmZRdIyQmKOPD2gBS8hUV7awKNfp5vCxls5wVZgSMJuoiRfocdwMjrSTdnsHvgVh2ueIIhSm54ChiLimbQkl7MJ8zqrg50jRYP5iBWHESCLfJzVoZhm/aen+JfyBs+EOmL/rMlRCQ2D6J36kSHK4D7e7lbhE9/7H9f39Rlgg2Yd6AZKXtNnJ1+BR8mBPvU/cIzo3gqc2f8lhl/6/iitFv+lczI9RAZdAjDU114cqcKxqUiVZV+AjLjrjyIjPGb+I2E0nnvz+hvYOBPuZPk7AkfK0BDQFCAazVX/YhEAik+wF7xeKuanDqN+WvNVSpkNaio2qdG2CO0debWgHczU/3rnfn1IIsWjExdnBxU+ldM/vPsTcrLWTwocHs5GTy4T3yh7yHtJef/xDPN3mdYbSwELIzbGlTQyIqxkHNt+AZ04KAyvZZLiZipTBMct0YS4PV55ZA/WjIvK1NmrsbwdH5lumBLoN1H3+MLREKzgW9vsYOSN2g/yGT0zY7pjtxLmtvvtJeXZwct80L+5E5JxtmNKIfys5Fwig/yFl1IR8MIlCF88YIK6TR6W6TZR5a9W0fgAT4g/N9cb1CI6IjQIwkq4US77VANT9r72J1+fo8ArRWaDtJEu2wj0Qr/Vr99mx9oRGm2iQXamj+UDha8AAAA=`
+  , Gw = `/assets/sb-DN76BlRu.webp`
+  , Kw = `/assets/separator-C8dSsdUC.webp`
+  , qw = `/assets/shroud-VicSzD1a.webp`
+  , Jw = `/assets/towninfo-DYodGRbv.webp`
+  , Yw = `/assets/tpi-CjLIf2nx.webp`
+  , Xw = `/assets/traveller-cKw3P72F.webp`
+  , Zw = `/assets/vote-CIIY1W5t.webp`
+  , Qw = {
     components: {
-        Tab: lS
+        Tab: pS
     },
     inject: [`renderReminderHTML`],
     computed: {
@@ -11428,11 +11569,11 @@ var VS = B(zS, [[`render`, BS], [`__scopeId`, `data-v-0217398b`]])
         },
         sheetLogo() {
             return new URL(Object.assign({
-                "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                "/src/assets/editions/custom/logo-sheet.webp": J_,
-                "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                "/src/assets/editions/snv/logo-sheet.webp": $_,
-                "/src/assets/editions/tb/logo-sheet.webp": rv
+                "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                "/src/assets/editions/snv/logo-sheet.webp": ev,
+                "/src/assets/editions/tb/logo-sheet.webp": iv
             })[`/src/assets/editions/${this.edition.id}/logo-sheet.webp`],import.meta.url).href
         }
     },
@@ -11468,211 +11609,211 @@ var VS = B(zS, [[`render`, BS], [`__scopeId`, `data-v-0217398b`]])
         bgImage(e, t=!0) {
             if (this.edition.id)
                 return t ? `url(` + new URL(Object.assign({
-                    "/src/assets/editions/bmr/background1.webp": kf,
-                    "/src/assets/editions/bmr/background1t.webp": Af,
-                    "/src/assets/editions/bmr/background2.webp": jf,
-                    "/src/assets/editions/bmr/background2t.webp": Mf,
-                    "/src/assets/editions/bmr/background3.webp": Nf,
-                    "/src/assets/editions/bmr/background3t.webp": Pf,
-                    "/src/assets/editions/bmr/background4.webp": Ff,
-                    "/src/assets/editions/bmr/background4t.webp": If,
-                    "/src/assets/editions/bmr/background5.webp": Lf,
-                    "/src/assets/editions/bmr/background5t.webp": Rf,
-                    "/src/assets/editions/bmr/background6.webp": zf,
-                    "/src/assets/editions/bmr/background6t.webp": Bf,
-                    "/src/assets/editions/bmr/firstnight.webp": HS,
-                    "/src/assets/editions/bmr/leaf-left.webp": US,
-                    "/src/assets/editions/bmr/leaf-orange.webp": WS,
-                    "/src/assets/editions/bmr/leaf-right.webp": GS,
-                    "/src/assets/editions/bmr/leaf-top1.webp": KS,
-                    "/src/assets/editions/bmr/leaf-top2.webp": qS,
-                    "/src/assets/editions/bmr/leaf-top3.webp": JS,
-                    "/src/assets/editions/bmr/leaf-top4.webp": YS,
-                    "/src/assets/editions/bmr/leaf-top5.webp": XS,
-                    "/src/assets/editions/bmr/logo-active.webp": U_,
-                    "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                    "/src/assets/editions/bmr/logo.webp": G_,
-                    "/src/assets/editions/bmr/othernight.webp": ZS,
-                    "/src/assets/editions/bmr/sheet-bottom.webp": QS,
-                    "/src/assets/editions/bmr/sheet.webp": $S,
-                    "/src/assets/editions/bmr/skull.webp": Rv,
-                    "/src/assets/editions/bmr/token.webp": eC,
-                    "/src/assets/editions/custom/background1.webp": Vf,
-                    "/src/assets/editions/custom/background1t.webp": Hf,
-                    "/src/assets/editions/custom/background2.webp": Uf,
-                    "/src/assets/editions/custom/background2t.webp": Wf,
-                    "/src/assets/editions/custom/background3.webp": Gf,
-                    "/src/assets/editions/custom/background3t.webp": Kf,
-                    "/src/assets/editions/custom/background4.webp": qf,
-                    "/src/assets/editions/custom/background4t.webp": Jf,
-                    "/src/assets/editions/custom/background5.webp": Yf,
-                    "/src/assets/editions/custom/background5t.webp": Xf,
-                    "/src/assets/editions/custom/background6.webp": Zf,
-                    "/src/assets/editions/custom/background6t.webp": Qf,
-                    "/src/assets/editions/custom/background7.webp": $f,
-                    "/src/assets/editions/custom/background7t.webp": ep,
-                    "/src/assets/editions/custom/background8.webp": tp,
-                    "/src/assets/editions/custom/background8t.webp": np,
-                    "/src/assets/editions/custom/firstnight.webp": tC,
-                    "/src/assets/editions/custom/leaf-left.webp": nC,
-                    "/src/assets/editions/custom/leaf-orange.webp": rC,
-                    "/src/assets/editions/custom/leaf-right.webp": iC,
-                    "/src/assets/editions/custom/leaf-top1.webp": aC,
-                    "/src/assets/editions/custom/leaf-top2.webp": oC,
-                    "/src/assets/editions/custom/leaf-top3.webp": sC,
-                    "/src/assets/editions/custom/leaf-top4.webp": cC,
-                    "/src/assets/editions/custom/leaf-top5.webp": lC,
-                    "/src/assets/editions/custom/leaf-top6.webp": uC,
-                    "/src/assets/editions/custom/logo-active.webp": K_,
-                    "/src/assets/editions/custom/logo-label.webp": q_,
-                    "/src/assets/editions/custom/logo-sheet.webp": J_,
-                    "/src/assets/editions/custom/logo.webp": Y_,
-                    "/src/assets/editions/custom/othernight.webp": dC,
-                    "/src/assets/editions/custom/sheet-bottom.webp": fC,
-                    "/src/assets/editions/custom/sheet.webp": pC,
-                    "/src/assets/editions/custom/skull.webp": zv,
-                    "/src/assets/editions/custom/token.webp": mC,
-                    "/src/assets/editions/homebrew/firstnight.webp": hC,
-                    "/src/assets/editions/homebrew/leaf-left.webp": gC,
-                    "/src/assets/editions/homebrew/leaf-orange.webp": _C,
-                    "/src/assets/editions/homebrew/leaf-right.webp": vC,
-                    "/src/assets/editions/homebrew/leaf-top1.webp": yC,
-                    "/src/assets/editions/homebrew/leaf-top2.webp": bC,
-                    "/src/assets/editions/homebrew/leaf-top3.webp": xC,
-                    "/src/assets/editions/homebrew/leaf-top4.webp": SC,
-                    "/src/assets/editions/homebrew/leaf-top5.webp": CC,
-                    "/src/assets/editions/homebrew/leaf-top6.webp": wC,
-                    "/src/assets/editions/homebrew/logo-label.webp": X_,
-                    "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                    "/src/assets/editions/homebrew/othernight.webp": TC,
-                    "/src/assets/editions/homebrew/sheet-bottom.webp": EC,
-                    "/src/assets/editions/homebrew/sheet.webp": DC,
-                    "/src/assets/editions/homebrew/skull.webp": Bv,
-                    "/src/assets/editions/homebrew/token.webp": OC,
-                    "/src/assets/editions/snv/background1.webp": rp,
-                    "/src/assets/editions/snv/background1t.webp": ip,
-                    "/src/assets/editions/snv/background2.webp": ap,
-                    "/src/assets/editions/snv/background2t.webp": op,
-                    "/src/assets/editions/snv/background3.webp": sp,
-                    "/src/assets/editions/snv/background3t.webp": cp,
-                    "/src/assets/editions/snv/background4.webp": lp,
-                    "/src/assets/editions/snv/background4t.webp": up,
-                    "/src/assets/editions/snv/background5.webp": dp,
-                    "/src/assets/editions/snv/background5t.webp": fp,
-                    "/src/assets/editions/snv/background6.webp": pp,
-                    "/src/assets/editions/snv/background6t.webp": mp,
-                    "/src/assets/editions/snv/firstnight.webp": kC,
-                    "/src/assets/editions/snv/leaf-left.webp": AC,
-                    "/src/assets/editions/snv/leaf-orange.webp": jC,
-                    "/src/assets/editions/snv/leaf-right.webp": MC,
-                    "/src/assets/editions/snv/leaf-top1.webp": NC,
-                    "/src/assets/editions/snv/leaf-top2.webp": PC,
-                    "/src/assets/editions/snv/leaf-top3.webp": FC,
-                    "/src/assets/editions/snv/leaf-top4.webp": IC,
-                    "/src/assets/editions/snv/leaf-top5.webp": LC,
-                    "/src/assets/editions/snv/leaf-top6.webp": RC,
-                    "/src/assets/editions/snv/leaf-top7.webp": zC,
-                    "/src/assets/editions/snv/logo-active.webp": Q_,
-                    "/src/assets/editions/snv/logo-sheet.webp": $_,
-                    "/src/assets/editions/snv/logo.webp": ev,
-                    "/src/assets/editions/snv/othernight.webp": BC,
-                    "/src/assets/editions/snv/sheet-bottom.webp": VC,
-                    "/src/assets/editions/snv/sheet.webp": HC,
-                    "/src/assets/editions/snv/skull.webp": Vv,
-                    "/src/assets/editions/snv/token.webp": UC,
-                    "/src/assets/editions/taf/leaf-left.webp": WC,
-                    "/src/assets/editions/taf/leaf-orange.webp": GC,
-                    "/src/assets/editions/taf/leaf-right.webp": KC,
-                    "/src/assets/editions/taf/leaf-top1.webp": qC,
-                    "/src/assets/editions/taf/leaf-top2.webp": JC,
-                    "/src/assets/editions/taf/leaf-top3.webp": YC,
-                    "/src/assets/editions/taf/leaf-top4.webp": XC,
-                    "/src/assets/editions/taf/logo.webp": tv,
-                    "/src/assets/editions/taf/token.webp": ZC,
-                    "/src/assets/editions/tb/background1.webp": hp,
-                    "/src/assets/editions/tb/background1t.webp": gp,
-                    "/src/assets/editions/tb/background2.webp": _p,
-                    "/src/assets/editions/tb/background2t.webp": vp,
-                    "/src/assets/editions/tb/background3.webp": yp,
-                    "/src/assets/editions/tb/background3t.webp": bp,
-                    "/src/assets/editions/tb/background4.webp": xp,
-                    "/src/assets/editions/tb/background4t.webp": Sp,
-                    "/src/assets/editions/tb/background5.webp": Cp,
-                    "/src/assets/editions/tb/background5t.webp": wp,
-                    "/src/assets/editions/tb/background6.webp": Tp,
-                    "/src/assets/editions/tb/background6t.webp": Ep,
-                    "/src/assets/editions/tb/firstnight.webp": QC,
-                    "/src/assets/editions/tb/leaf-left.webp": $C,
-                    "/src/assets/editions/tb/leaf-orange.webp": ew,
-                    "/src/assets/editions/tb/leaf-right.webp": tw,
-                    "/src/assets/editions/tb/leaf-top1.webp": nw,
-                    "/src/assets/editions/tb/leaf-top2.webp": rw,
-                    "/src/assets/editions/tb/leaf-top3.webp": iw,
-                    "/src/assets/editions/tb/leaf-top4.webp": aw,
-                    "/src/assets/editions/tb/leaf-top5.webp": ow,
-                    "/src/assets/editions/tb/logo-active.webp": nv,
-                    "/src/assets/editions/tb/logo-sheet.webp": rv,
-                    "/src/assets/editions/tb/logo.webp": iv,
-                    "/src/assets/editions/tb/othernight.webp": sw,
-                    "/src/assets/editions/tb/sheet-bottom.webp": cw,
-                    "/src/assets/editions/tb/sheet.webp": lw,
-                    "/src/assets/editions/tb/skull.webp": Hv,
-                    "/src/assets/editions/tb/token.webp": uw
+                    "/src/assets/editions/bmr/background1.webp": Af,
+                    "/src/assets/editions/bmr/background1t.webp": jf,
+                    "/src/assets/editions/bmr/background2.webp": Mf,
+                    "/src/assets/editions/bmr/background2t.webp": Nf,
+                    "/src/assets/editions/bmr/background3.webp": Pf,
+                    "/src/assets/editions/bmr/background3t.webp": Ff,
+                    "/src/assets/editions/bmr/background4.webp": If,
+                    "/src/assets/editions/bmr/background4t.webp": Lf,
+                    "/src/assets/editions/bmr/background5.webp": Rf,
+                    "/src/assets/editions/bmr/background5t.webp": zf,
+                    "/src/assets/editions/bmr/background6.webp": Bf,
+                    "/src/assets/editions/bmr/background6t.webp": Vf,
+                    "/src/assets/editions/bmr/firstnight.webp": KS,
+                    "/src/assets/editions/bmr/leaf-left.webp": qS,
+                    "/src/assets/editions/bmr/leaf-orange.webp": JS,
+                    "/src/assets/editions/bmr/leaf-right.webp": YS,
+                    "/src/assets/editions/bmr/leaf-top1.webp": XS,
+                    "/src/assets/editions/bmr/leaf-top2.webp": ZS,
+                    "/src/assets/editions/bmr/leaf-top3.webp": QS,
+                    "/src/assets/editions/bmr/leaf-top4.webp": $S,
+                    "/src/assets/editions/bmr/leaf-top5.webp": eC,
+                    "/src/assets/editions/bmr/logo-active.webp": W_,
+                    "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                    "/src/assets/editions/bmr/logo.webp": K_,
+                    "/src/assets/editions/bmr/othernight.webp": tC,
+                    "/src/assets/editions/bmr/sheet-bottom.webp": nC,
+                    "/src/assets/editions/bmr/sheet.webp": rC,
+                    "/src/assets/editions/bmr/skull.webp": zv,
+                    "/src/assets/editions/bmr/token.webp": iC,
+                    "/src/assets/editions/custom/background1.webp": Hf,
+                    "/src/assets/editions/custom/background1t.webp": Uf,
+                    "/src/assets/editions/custom/background2.webp": Wf,
+                    "/src/assets/editions/custom/background2t.webp": Gf,
+                    "/src/assets/editions/custom/background3.webp": Kf,
+                    "/src/assets/editions/custom/background3t.webp": qf,
+                    "/src/assets/editions/custom/background4.webp": Jf,
+                    "/src/assets/editions/custom/background4t.webp": Yf,
+                    "/src/assets/editions/custom/background5.webp": Xf,
+                    "/src/assets/editions/custom/background5t.webp": Zf,
+                    "/src/assets/editions/custom/background6.webp": Qf,
+                    "/src/assets/editions/custom/background6t.webp": $f,
+                    "/src/assets/editions/custom/background7.webp": ep,
+                    "/src/assets/editions/custom/background7t.webp": tp,
+                    "/src/assets/editions/custom/background8.webp": np,
+                    "/src/assets/editions/custom/background8t.webp": rp,
+                    "/src/assets/editions/custom/firstnight.webp": aC,
+                    "/src/assets/editions/custom/leaf-left.webp": oC,
+                    "/src/assets/editions/custom/leaf-orange.webp": sC,
+                    "/src/assets/editions/custom/leaf-right.webp": cC,
+                    "/src/assets/editions/custom/leaf-top1.webp": lC,
+                    "/src/assets/editions/custom/leaf-top2.webp": uC,
+                    "/src/assets/editions/custom/leaf-top3.webp": dC,
+                    "/src/assets/editions/custom/leaf-top4.webp": fC,
+                    "/src/assets/editions/custom/leaf-top5.webp": pC,
+                    "/src/assets/editions/custom/leaf-top6.webp": mC,
+                    "/src/assets/editions/custom/logo-active.webp": q_,
+                    "/src/assets/editions/custom/logo-label.webp": J_,
+                    "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                    "/src/assets/editions/custom/logo.webp": X_,
+                    "/src/assets/editions/custom/othernight.webp": hC,
+                    "/src/assets/editions/custom/sheet-bottom.webp": gC,
+                    "/src/assets/editions/custom/sheet.webp": _C,
+                    "/src/assets/editions/custom/skull.webp": Bv,
+                    "/src/assets/editions/custom/token.webp": vC,
+                    "/src/assets/editions/homebrew/firstnight.webp": yC,
+                    "/src/assets/editions/homebrew/leaf-left.webp": bC,
+                    "/src/assets/editions/homebrew/leaf-orange.webp": xC,
+                    "/src/assets/editions/homebrew/leaf-right.webp": SC,
+                    "/src/assets/editions/homebrew/leaf-top1.webp": CC,
+                    "/src/assets/editions/homebrew/leaf-top2.webp": wC,
+                    "/src/assets/editions/homebrew/leaf-top3.webp": TC,
+                    "/src/assets/editions/homebrew/leaf-top4.webp": EC,
+                    "/src/assets/editions/homebrew/leaf-top5.webp": DC,
+                    "/src/assets/editions/homebrew/leaf-top6.webp": OC,
+                    "/src/assets/editions/homebrew/logo-label.webp": Z_,
+                    "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                    "/src/assets/editions/homebrew/othernight.webp": kC,
+                    "/src/assets/editions/homebrew/sheet-bottom.webp": AC,
+                    "/src/assets/editions/homebrew/sheet.webp": jC,
+                    "/src/assets/editions/homebrew/skull.webp": Vv,
+                    "/src/assets/editions/homebrew/token.webp": MC,
+                    "/src/assets/editions/snv/background1.webp": ip,
+                    "/src/assets/editions/snv/background1t.webp": ap,
+                    "/src/assets/editions/snv/background2.webp": op,
+                    "/src/assets/editions/snv/background2t.webp": sp,
+                    "/src/assets/editions/snv/background3.webp": cp,
+                    "/src/assets/editions/snv/background3t.webp": lp,
+                    "/src/assets/editions/snv/background4.webp": up,
+                    "/src/assets/editions/snv/background4t.webp": dp,
+                    "/src/assets/editions/snv/background5.webp": fp,
+                    "/src/assets/editions/snv/background5t.webp": pp,
+                    "/src/assets/editions/snv/background6.webp": mp,
+                    "/src/assets/editions/snv/background6t.webp": hp,
+                    "/src/assets/editions/snv/firstnight.webp": NC,
+                    "/src/assets/editions/snv/leaf-left.webp": PC,
+                    "/src/assets/editions/snv/leaf-orange.webp": FC,
+                    "/src/assets/editions/snv/leaf-right.webp": IC,
+                    "/src/assets/editions/snv/leaf-top1.webp": LC,
+                    "/src/assets/editions/snv/leaf-top2.webp": RC,
+                    "/src/assets/editions/snv/leaf-top3.webp": zC,
+                    "/src/assets/editions/snv/leaf-top4.webp": BC,
+                    "/src/assets/editions/snv/leaf-top5.webp": VC,
+                    "/src/assets/editions/snv/leaf-top6.webp": HC,
+                    "/src/assets/editions/snv/leaf-top7.webp": UC,
+                    "/src/assets/editions/snv/logo-active.webp": $_,
+                    "/src/assets/editions/snv/logo-sheet.webp": ev,
+                    "/src/assets/editions/snv/logo.webp": tv,
+                    "/src/assets/editions/snv/othernight.webp": WC,
+                    "/src/assets/editions/snv/sheet-bottom.webp": GC,
+                    "/src/assets/editions/snv/sheet.webp": KC,
+                    "/src/assets/editions/snv/skull.webp": Hv,
+                    "/src/assets/editions/snv/token.webp": qC,
+                    "/src/assets/editions/taf/leaf-left.webp": JC,
+                    "/src/assets/editions/taf/leaf-orange.webp": YC,
+                    "/src/assets/editions/taf/leaf-right.webp": XC,
+                    "/src/assets/editions/taf/leaf-top1.webp": ZC,
+                    "/src/assets/editions/taf/leaf-top2.webp": QC,
+                    "/src/assets/editions/taf/leaf-top3.webp": $C,
+                    "/src/assets/editions/taf/leaf-top4.webp": ew,
+                    "/src/assets/editions/taf/logo.webp": nv,
+                    "/src/assets/editions/taf/token.webp": tw,
+                    "/src/assets/editions/tb/background1.webp": gp,
+                    "/src/assets/editions/tb/background1t.webp": _p,
+                    "/src/assets/editions/tb/background2.webp": vp,
+                    "/src/assets/editions/tb/background2t.webp": yp,
+                    "/src/assets/editions/tb/background3.webp": bp,
+                    "/src/assets/editions/tb/background3t.webp": xp,
+                    "/src/assets/editions/tb/background4.webp": Sp,
+                    "/src/assets/editions/tb/background4t.webp": Cp,
+                    "/src/assets/editions/tb/background5.webp": wp,
+                    "/src/assets/editions/tb/background5t.webp": Tp,
+                    "/src/assets/editions/tb/background6.webp": Ep,
+                    "/src/assets/editions/tb/background6t.webp": Dp,
+                    "/src/assets/editions/tb/firstnight.webp": nw,
+                    "/src/assets/editions/tb/leaf-left.webp": rw,
+                    "/src/assets/editions/tb/leaf-orange.webp": iw,
+                    "/src/assets/editions/tb/leaf-right.webp": aw,
+                    "/src/assets/editions/tb/leaf-top1.webp": ow,
+                    "/src/assets/editions/tb/leaf-top2.webp": sw,
+                    "/src/assets/editions/tb/leaf-top3.webp": cw,
+                    "/src/assets/editions/tb/leaf-top4.webp": lw,
+                    "/src/assets/editions/tb/leaf-top5.webp": uw,
+                    "/src/assets/editions/tb/logo-active.webp": rv,
+                    "/src/assets/editions/tb/logo-sheet.webp": iv,
+                    "/src/assets/editions/tb/logo.webp": av,
+                    "/src/assets/editions/tb/othernight.webp": dw,
+                    "/src/assets/editions/tb/sheet-bottom.webp": fw,
+                    "/src/assets/editions/tb/sheet.webp": pw,
+                    "/src/assets/editions/tb/skull.webp": Uv,
+                    "/src/assets/editions/tb/token.webp": mw
                 })[`/src/assets/editions/${this.edition.id}/${e}`],import.meta.url).href + `)` : `url(` + new URL(Object.assign({
-                    "/src/assets/app-icon.webp": dw,
-                    "/src/assets/background.webp": Dp,
-                    "/src/assets/background1.webp": Op,
-                    "/src/assets/background1t.webp": kp,
-                    "/src/assets/background2.webp": Ap,
-                    "/src/assets/background2t.webp": jp,
-                    "/src/assets/background3.webp": Mp,
-                    "/src/assets/background3t.webp": Np,
-                    "/src/assets/bigwig.webp": fw,
-                    "/src/assets/butterfly.webp": pw,
-                    "/src/assets/card-blue.webp": mw,
-                    "/src/assets/card-brown.webp": hw,
-                    "/src/assets/card-green.webp": gw,
-                    "/src/assets/card-orange.webp": _w,
-                    "/src/assets/card-purple.webp": vw,
-                    "/src/assets/card-red.webp": yw,
-                    "/src/assets/clock-hour.webp": bw,
-                    "/src/assets/clock-minute.webp": xw,
-                    "/src/assets/clock-second.webp": Sw,
-                    "/src/assets/clock_back.webp": Cw,
-                    "/src/assets/clock_circle.webp": ww,
-                    "/src/assets/clock_cog1.webp": Tw,
-                    "/src/assets/clock_cog2.webp": Ew,
-                    "/src/assets/clock_cogcap.webp": Dw,
-                    "/src/assets/clouds.webp": Ow,
-                    "/src/assets/death.webp": kw,
-                    "/src/assets/gavel.webp": Aw,
-                    "/src/assets/godofug.webp": jw,
-                    "/src/assets/gossip.webp": Mw,
-                    "/src/assets/life.webp": Nw,
-                    "/src/assets/line.webp": Pw,
-                    "/src/assets/loading.webp": Fw,
-                    "/src/assets/logo.webp": Iw,
-                    "/src/assets/night.webp": Lw,
-                    "/src/assets/play-nice.webp": Rw,
-                    "/src/assets/progress.svg": zw,
-                    "/src/assets/reminder.webp": Bw,
-                    "/src/assets/sb.webp": Vw,
-                    "/src/assets/separator.webp": Hw,
-                    "/src/assets/shroud.webp": Uw,
-                    "/src/assets/towninfo.webp": Ww,
-                    "/src/assets/tpi.webp": Gw,
-                    "/src/assets/traveller.webp": Kw,
-                    "/src/assets/vote.webp": qw
+                    "/src/assets/app-icon.webp": hw,
+                    "/src/assets/background.webp": Op,
+                    "/src/assets/background1.webp": kp,
+                    "/src/assets/background1t.webp": Ap,
+                    "/src/assets/background2.webp": jp,
+                    "/src/assets/background2t.webp": Mp,
+                    "/src/assets/background3.webp": Np,
+                    "/src/assets/background3t.webp": Pp,
+                    "/src/assets/bigwig.webp": gw,
+                    "/src/assets/butterfly.webp": _w,
+                    "/src/assets/card-blue.webp": vw,
+                    "/src/assets/card-brown.webp": yw,
+                    "/src/assets/card-green.webp": bw,
+                    "/src/assets/card-orange.webp": xw,
+                    "/src/assets/card-purple.webp": Sw,
+                    "/src/assets/card-red.webp": Cw,
+                    "/src/assets/clock-hour.webp": ww,
+                    "/src/assets/clock-minute.webp": Tw,
+                    "/src/assets/clock-second.webp": Ew,
+                    "/src/assets/clock_back.webp": Dw,
+                    "/src/assets/clock_circle.webp": Ow,
+                    "/src/assets/clock_cog1.webp": kw,
+                    "/src/assets/clock_cog2.webp": Aw,
+                    "/src/assets/clock_cogcap.webp": jw,
+                    "/src/assets/clouds.webp": Mw,
+                    "/src/assets/death.webp": Nw,
+                    "/src/assets/gavel.webp": Pw,
+                    "/src/assets/godofug.webp": Fw,
+                    "/src/assets/gossip.webp": Iw,
+                    "/src/assets/life.webp": Lw,
+                    "/src/assets/line.webp": Rw,
+                    "/src/assets/loading.webp": zw,
+                    "/src/assets/logo.webp": Bw,
+                    "/src/assets/night.webp": Vw,
+                    "/src/assets/play-nice.webp": Hw,
+                    "/src/assets/progress.svg": Uw,
+                    "/src/assets/reminder.webp": Ww,
+                    "/src/assets/sb.webp": Gw,
+                    "/src/assets/separator.webp": Kw,
+                    "/src/assets/shroud.webp": qw,
+                    "/src/assets/towninfo.webp": Jw,
+                    "/src/assets/tpi.webp": Yw,
+                    "/src/assets/traveller.webp": Xw,
+                    "/src/assets/vote.webp": Zw
                 })[`/src/assets/${e}`],import.meta.url).href + `)`
         },
         sheetImage() {
             if (this.edition.id)
                 return new URL(Object.assign({
-                    "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                    "/src/assets/editions/custom/logo-sheet.webp": J_,
-                    "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                    "/src/assets/editions/snv/logo-sheet.webp": $_,
-                    "/src/assets/editions/tb/logo-sheet.webp": rv
+                    "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                    "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                    "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                    "/src/assets/editions/snv/logo-sheet.webp": ev,
+                    "/src/assets/editions/tb/logo-sheet.webp": iv
                 })[`/src/assets/editions/${this.edition.id}/logo-sheet.webp`],import.meta.url).href
         },
         toggleTab(e, t=!1) {
@@ -11728,39 +11869,39 @@ var VS = B(zS, [[`render`, BS], [`__scopeId`, `data-v-0217398b`]])
         }
     }
 }
-  , Yw = () => {
+  , $w = () => {
     j(e => ({
         v3a4a90b6: e.zoom
     }))
 }
-  , Xw = Jw.setup;
-Jw.setup = Xw ? (e, t) => (Yw(),
-Xw(e, t)) : Yw;
-var Zw = [`onClick`]
-  , Qw = {
-    class: `name`
-}
-  , $w = [`onClick`]
-  , eT = [`innerHTML`]
-  , tT = [`src`]
+  , eT = Qw.setup;
+Qw.setup = eT ? (e, t) => ($w(),
+eT(e, t)) : $w;
+var tT = [`onClick`]
   , nT = {
-    class: `button-group`
-}
-  , rT = [`title`]
-  , iT = [`title`]
-  , aT = [`onClick`]
-  , oT = {
     class: `name`
 }
-  , sT = [`onClick`]
-  , cT = [`innerHTML`]
-  , lT = [`src`]
-  , uT = {
+  , rT = [`onClick`]
+  , iT = [`innerHTML`]
+  , aT = [`src`]
+  , oT = {
     class: `button-group`
 }
-  , dT = [`title`]
-  , fT = [`title`];
-function pT(e, n, a, o, s, l) {
+  , sT = [`title`]
+  , cT = [`title`]
+  , lT = [`onClick`]
+  , uT = {
+    class: `name`
+}
+  , dT = [`onClick`]
+  , fT = [`innerHTML`]
+  , pT = [`src`]
+  , mT = {
+    class: `button-group`
+}
+  , hT = [`title`]
+  , gT = [`title`];
+function _T(e, n, a, o, s, l) {
     let u = c(`font-awesome-icon`)
       , g = c(`Tab`);
     return d(),
@@ -11787,7 +11928,7 @@ function pT(e, n, a, o, s, l) {
             backgroundImage: l.bgImage(`sheet.webp`)
         })
     }, {
-        footer: m( () => [I(`div`, nT, [e.positions.othernight ? (d(),
+        footer: m( () => [I(`div`, oT, [e.positions.othernight ? (d(),
         F(`div`, {
             key: 1,
             onClick: n[2] || (n[2] = L(e => l.toggleSheet(`othernight`), [`stop`])),
@@ -11795,7 +11936,7 @@ function pT(e, n, a, o, s, l) {
             title: e.$t(`tabs.night.toggle`)
         }, [i(y(e.$t(`grimoire.phases.other_nights`)) + ` `, 1), f(u, {
             icon: `cloud-moon`
-        })], 8, iT)) : (d(),
+        })], 8, cT)) : (d(),
         F(`div`, {
             key: 0,
             class: `button`,
@@ -11803,7 +11944,7 @@ function pT(e, n, a, o, s, l) {
             title: e.$t(`tabs.night.popout`)
         }, [f(u, {
             icon: `window-restore`
-        })], 8, rT)), e.positions.othernight ? (d(),
+        })], 8, sT)), e.positions.othernight ? (d(),
         F(S, {
             key: 2
         }, [I(`div`, {
@@ -11837,10 +11978,10 @@ function pT(e, n, a, o, s, l) {
                     visible: s.tokensOther[t.id] === void 0 ? a.length || e.definitions.NPC_TEAMS.includes(t.team) : s.tokensOther[t.id]
                 }]),
                 onClick: L(n => s.tokensOther[t.id] = s.tokensOther[t.id] === void 0 ? !(a.length || e.definitions.NPC_TEAMS.includes(t.team)) : !s.tokensOther[t.id], [`stop`])
-            }, null, 10, Zw), I(`span`, {
+            }, null, 10, tT), I(`span`, {
                 class: `icon`,
                 style: _(t.team ? e.roleIconCSS(t) : null)
-            }, null, 4), I(`span`, Qw, [i(y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1), n[14] || (n[14] = I(`br`, null, null, -1)), (d(!0),
+            }, null, 4), I(`span`, nT, [i(y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1), n[14] || (n[14] = I(`br`, null, null, -1)), (d(!0),
             F(S, null, p(a, (t, n) => (d(),
             F(`small`, {
                 key: n,
@@ -11852,18 +11993,18 @@ function pT(e, n, a, o, s, l) {
             h(u, {
                 key: 0,
                 icon: `eye`
-            })) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 10, $w))), 128))]), t.otherNightReminder ? (d(),
+            })) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 10, rT))), 128))]), t.otherNightReminder ? (d(),
             F(`span`, {
                 key: 0,
                 class: `reminder`,
                 innerHTML: l.renderReminderHTML(e.$te(`roles.${t.id}.other`) ? e.$t(`roles.${t.id}.other`) : t.otherNightReminder)
-            }, null, 8, eT)) : r(``, !0)], 2)
+            }, null, 8, iT)) : r(``, !0)], 2)
         }
         ), 128))], 4), I(`img`, {
             src: l.sheetLogo,
             alt: `Logo`,
             class: `logo`
-        }, null, 8, tT)]),
+        }, null, 8, aT)]),
         _: 1
     }, 8, [`is-draggable`, `style`])], 16)) : r(``, !0), (e.hasGrimoireAccess || e.settings.game.isPlayerNightOrder) && e.edition.id ? (d(),
     F(`aside`, t({
@@ -11888,7 +12029,7 @@ function pT(e, n, a, o, s, l) {
             backgroundImage: l.bgImage(`sheet.webp`)
         })
     }, {
-        footer: m( () => [I(`div`, uT, [e.positions.firstnight ? (d(),
+        footer: m( () => [I(`div`, mT, [e.positions.firstnight ? (d(),
         F(`div`, {
             key: 1,
             onClick: n[9] || (n[9] = L(e => l.toggleSheet(`firstnight`), [`stop`])),
@@ -11896,7 +12037,7 @@ function pT(e, n, a, o, s, l) {
             title: e.$t(`tabs.night.toggle`)
         }, [i(y(e.$t(`grimoire.phases.first_night`)) + ` `, 1), f(u, {
             icon: `cloud-moon`
-        })], 8, fT)) : (d(),
+        })], 8, gT)) : (d(),
         F(`div`, {
             key: 0,
             class: `button`,
@@ -11904,7 +12045,7 @@ function pT(e, n, a, o, s, l) {
             title: e.$t(`tabs.night.popout`)
         }, [f(u, {
             icon: `window-restore`
-        })], 8, dT)), e.positions.firstnight ? (d(),
+        })], 8, hT)), e.positions.firstnight ? (d(),
         F(S, {
             key: 2
         }, [I(`div`, {
@@ -11938,10 +12079,10 @@ function pT(e, n, a, o, s, l) {
                     visible: s.tokensFirst[t.id] === void 0 ? a.length || e.definitions.NPC_TEAMS.includes(t.team) : s.tokensFirst[t.id]
                 }]),
                 onClick: L(n => s.tokensFirst[t.id] = s.tokensFirst[t.id] === void 0 ? !(a.length || e.definitions.NPC_TEAMS.includes(t.team)) : !s.tokensFirst[t.id], [`stop`])
-            }, null, 10, aT), I(`span`, {
+            }, null, 10, lT), I(`span`, {
                 class: `icon`,
                 style: _(t.team ? e.roleIconCSS(t) : null)
-            }, null, 4), I(`span`, oT, [i(y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1), n[15] || (n[15] = I(`br`, null, null, -1)), (d(!0),
+            }, null, 4), I(`span`, uT, [i(y(e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t.name), 1), n[15] || (n[15] = I(`br`, null, null, -1)), (d(!0),
             F(S, null, p(a, (t, n) => (d(),
             F(`small`, {
                 key: n,
@@ -11953,25 +12094,25 @@ function pT(e, n, a, o, s, l) {
             h(u, {
                 key: 0,
                 icon: `eye`
-            })) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 10, sT))), 128))]), t.firstNightReminder ? (d(),
+            })) : r(``, !0), i(` ` + y(e.$t(...e.playerName(t))), 1)], 10, dT))), 128))]), t.firstNightReminder ? (d(),
             F(`span`, {
                 key: 0,
                 class: `reminder`,
                 innerHTML: l.renderReminderHTML(e.$te(`roles.${t.id}.first`) ? e.$t(`roles.${t.id}.first`) : t.firstNightReminder)
-            }, null, 8, cT)) : r(``, !0)], 2)
+            }, null, 8, fT)) : r(``, !0)], 2)
         }
         ), 128))], 4), I(`img`, {
             src: l.sheetImage(),
             alt: ``,
             class: `logo`
-        }, null, 8, lT)]),
+        }, null, 8, pT)]),
         _: 1
     }, 8, [`is-draggable`, `style`])], 16)) : r(``, !0)], 64)
 }
-var mT = B(Jw, [[`render`, pT], [`__scopeId`, `data-v-117ae6b4`]])
-  , hT = {
+var vT = B(Qw, [[`render`, _T], [`__scopeId`, `data-v-117ae6b4`]])
+  , yT = {
     components: {
-        Tab: lS
+        Tab: pS
     },
     inject: [`isApp`],
     computed: {
@@ -12006,21 +12147,21 @@ var mT = B(Jw, [[`render`, pT], [`__scopeId`, `data-v-117ae6b4`]])
         },
         sheetLogo() {
             return new URL(Object.assign({
-                "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                "/src/assets/editions/custom/logo-sheet.webp": J_,
-                "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                "/src/assets/editions/snv/logo-sheet.webp": $_,
-                "/src/assets/editions/tb/logo-sheet.webp": rv
+                "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                "/src/assets/editions/snv/logo-sheet.webp": ev,
+                "/src/assets/editions/tb/logo-sheet.webp": iv
             })[`/src/assets/editions/${this.edition.id}/logo-sheet.webp`],import.meta.url).href
         },
         sheetImage() {
             if (this.edition.id)
                 return new URL(Object.assign({
-                    "/src/assets/editions/bmr/sheet-bottom.webp": QS,
-                    "/src/assets/editions/custom/sheet-bottom.webp": fC,
-                    "/src/assets/editions/homebrew/sheet-bottom.webp": EC,
-                    "/src/assets/editions/snv/sheet-bottom.webp": VC,
-                    "/src/assets/editions/tb/sheet-bottom.webp": cw
+                    "/src/assets/editions/bmr/sheet-bottom.webp": nC,
+                    "/src/assets/editions/custom/sheet-bottom.webp": gC,
+                    "/src/assets/editions/homebrew/sheet-bottom.webp": AC,
+                    "/src/assets/editions/snv/sheet-bottom.webp": GC,
+                    "/src/assets/editions/tb/sheet-bottom.webp": fw
                 })[`/src/assets/editions/${this.edition.id}/sheet-bottom.webp`],import.meta.url).href
         }
     },
@@ -12051,7 +12192,7 @@ var mT = B(Jw, [[`render`, pT], [`__scopeId`, `data-v-117ae6b4`]])
             else {
                 let e = `https://script.bloodontheclocktower.com/?script=${encodeURIComponent(i)}`;
                 try {
-                    window.open(e, `_blank`)
+                    this.isApp ? await Rn(e) : window.open(e, `_blank`)
                 } catch (e) {
                     this.$store.dispatch(`showError`, [`tabs.character.error_save`, e])
                 }
@@ -12117,201 +12258,201 @@ var mT = B(Jw, [[`render`, pT], [`__scopeId`, `data-v-117ae6b4`]])
         },
         bgImage(e, t=!0) {
             return t ? `url(` + new URL(Object.assign({
-                "/src/assets/editions/bmr/background1.webp": kf,
-                "/src/assets/editions/bmr/background1t.webp": Af,
-                "/src/assets/editions/bmr/background2.webp": jf,
-                "/src/assets/editions/bmr/background2t.webp": Mf,
-                "/src/assets/editions/bmr/background3.webp": Nf,
-                "/src/assets/editions/bmr/background3t.webp": Pf,
-                "/src/assets/editions/bmr/background4.webp": Ff,
-                "/src/assets/editions/bmr/background4t.webp": If,
-                "/src/assets/editions/bmr/background5.webp": Lf,
-                "/src/assets/editions/bmr/background5t.webp": Rf,
-                "/src/assets/editions/bmr/background6.webp": zf,
-                "/src/assets/editions/bmr/background6t.webp": Bf,
-                "/src/assets/editions/bmr/firstnight.webp": HS,
-                "/src/assets/editions/bmr/leaf-left.webp": US,
-                "/src/assets/editions/bmr/leaf-orange.webp": WS,
-                "/src/assets/editions/bmr/leaf-right.webp": GS,
-                "/src/assets/editions/bmr/leaf-top1.webp": KS,
-                "/src/assets/editions/bmr/leaf-top2.webp": qS,
-                "/src/assets/editions/bmr/leaf-top3.webp": JS,
-                "/src/assets/editions/bmr/leaf-top4.webp": YS,
-                "/src/assets/editions/bmr/leaf-top5.webp": XS,
-                "/src/assets/editions/bmr/logo-active.webp": U_,
-                "/src/assets/editions/bmr/logo-sheet.webp": W_,
-                "/src/assets/editions/bmr/logo.webp": G_,
-                "/src/assets/editions/bmr/othernight.webp": ZS,
-                "/src/assets/editions/bmr/sheet-bottom.webp": QS,
-                "/src/assets/editions/bmr/sheet.webp": $S,
-                "/src/assets/editions/bmr/skull.webp": Rv,
-                "/src/assets/editions/bmr/token.webp": eC,
-                "/src/assets/editions/custom/background1.webp": Vf,
-                "/src/assets/editions/custom/background1t.webp": Hf,
-                "/src/assets/editions/custom/background2.webp": Uf,
-                "/src/assets/editions/custom/background2t.webp": Wf,
-                "/src/assets/editions/custom/background3.webp": Gf,
-                "/src/assets/editions/custom/background3t.webp": Kf,
-                "/src/assets/editions/custom/background4.webp": qf,
-                "/src/assets/editions/custom/background4t.webp": Jf,
-                "/src/assets/editions/custom/background5.webp": Yf,
-                "/src/assets/editions/custom/background5t.webp": Xf,
-                "/src/assets/editions/custom/background6.webp": Zf,
-                "/src/assets/editions/custom/background6t.webp": Qf,
-                "/src/assets/editions/custom/background7.webp": $f,
-                "/src/assets/editions/custom/background7t.webp": ep,
-                "/src/assets/editions/custom/background8.webp": tp,
-                "/src/assets/editions/custom/background8t.webp": np,
-                "/src/assets/editions/custom/firstnight.webp": tC,
-                "/src/assets/editions/custom/leaf-left.webp": nC,
-                "/src/assets/editions/custom/leaf-orange.webp": rC,
-                "/src/assets/editions/custom/leaf-right.webp": iC,
-                "/src/assets/editions/custom/leaf-top1.webp": aC,
-                "/src/assets/editions/custom/leaf-top2.webp": oC,
-                "/src/assets/editions/custom/leaf-top3.webp": sC,
-                "/src/assets/editions/custom/leaf-top4.webp": cC,
-                "/src/assets/editions/custom/leaf-top5.webp": lC,
-                "/src/assets/editions/custom/leaf-top6.webp": uC,
-                "/src/assets/editions/custom/logo-active.webp": K_,
-                "/src/assets/editions/custom/logo-label.webp": q_,
-                "/src/assets/editions/custom/logo-sheet.webp": J_,
-                "/src/assets/editions/custom/logo.webp": Y_,
-                "/src/assets/editions/custom/othernight.webp": dC,
-                "/src/assets/editions/custom/sheet-bottom.webp": fC,
-                "/src/assets/editions/custom/sheet.webp": pC,
-                "/src/assets/editions/custom/skull.webp": zv,
-                "/src/assets/editions/custom/token.webp": mC,
-                "/src/assets/editions/homebrew/firstnight.webp": hC,
-                "/src/assets/editions/homebrew/leaf-left.webp": gC,
-                "/src/assets/editions/homebrew/leaf-orange.webp": _C,
-                "/src/assets/editions/homebrew/leaf-right.webp": vC,
-                "/src/assets/editions/homebrew/leaf-top1.webp": yC,
-                "/src/assets/editions/homebrew/leaf-top2.webp": bC,
-                "/src/assets/editions/homebrew/leaf-top3.webp": xC,
-                "/src/assets/editions/homebrew/leaf-top4.webp": SC,
-                "/src/assets/editions/homebrew/leaf-top5.webp": CC,
-                "/src/assets/editions/homebrew/leaf-top6.webp": wC,
-                "/src/assets/editions/homebrew/logo-label.webp": X_,
-                "/src/assets/editions/homebrew/logo-sheet.webp": Z_,
-                "/src/assets/editions/homebrew/othernight.webp": TC,
-                "/src/assets/editions/homebrew/sheet-bottom.webp": EC,
-                "/src/assets/editions/homebrew/sheet.webp": DC,
-                "/src/assets/editions/homebrew/skull.webp": Bv,
-                "/src/assets/editions/homebrew/token.webp": OC,
-                "/src/assets/editions/snv/background1.webp": rp,
-                "/src/assets/editions/snv/background1t.webp": ip,
-                "/src/assets/editions/snv/background2.webp": ap,
-                "/src/assets/editions/snv/background2t.webp": op,
-                "/src/assets/editions/snv/background3.webp": sp,
-                "/src/assets/editions/snv/background3t.webp": cp,
-                "/src/assets/editions/snv/background4.webp": lp,
-                "/src/assets/editions/snv/background4t.webp": up,
-                "/src/assets/editions/snv/background5.webp": dp,
-                "/src/assets/editions/snv/background5t.webp": fp,
-                "/src/assets/editions/snv/background6.webp": pp,
-                "/src/assets/editions/snv/background6t.webp": mp,
-                "/src/assets/editions/snv/firstnight.webp": kC,
-                "/src/assets/editions/snv/leaf-left.webp": AC,
-                "/src/assets/editions/snv/leaf-orange.webp": jC,
-                "/src/assets/editions/snv/leaf-right.webp": MC,
-                "/src/assets/editions/snv/leaf-top1.webp": NC,
-                "/src/assets/editions/snv/leaf-top2.webp": PC,
-                "/src/assets/editions/snv/leaf-top3.webp": FC,
-                "/src/assets/editions/snv/leaf-top4.webp": IC,
-                "/src/assets/editions/snv/leaf-top5.webp": LC,
-                "/src/assets/editions/snv/leaf-top6.webp": RC,
-                "/src/assets/editions/snv/leaf-top7.webp": zC,
-                "/src/assets/editions/snv/logo-active.webp": Q_,
-                "/src/assets/editions/snv/logo-sheet.webp": $_,
-                "/src/assets/editions/snv/logo.webp": ev,
-                "/src/assets/editions/snv/othernight.webp": BC,
-                "/src/assets/editions/snv/sheet-bottom.webp": VC,
-                "/src/assets/editions/snv/sheet.webp": HC,
-                "/src/assets/editions/snv/skull.webp": Vv,
-                "/src/assets/editions/snv/token.webp": UC,
-                "/src/assets/editions/taf/leaf-left.webp": WC,
-                "/src/assets/editions/taf/leaf-orange.webp": GC,
-                "/src/assets/editions/taf/leaf-right.webp": KC,
-                "/src/assets/editions/taf/leaf-top1.webp": qC,
-                "/src/assets/editions/taf/leaf-top2.webp": JC,
-                "/src/assets/editions/taf/leaf-top3.webp": YC,
-                "/src/assets/editions/taf/leaf-top4.webp": XC,
-                "/src/assets/editions/taf/logo.webp": tv,
-                "/src/assets/editions/taf/token.webp": ZC,
-                "/src/assets/editions/tb/background1.webp": hp,
-                "/src/assets/editions/tb/background1t.webp": gp,
-                "/src/assets/editions/tb/background2.webp": _p,
-                "/src/assets/editions/tb/background2t.webp": vp,
-                "/src/assets/editions/tb/background3.webp": yp,
-                "/src/assets/editions/tb/background3t.webp": bp,
-                "/src/assets/editions/tb/background4.webp": xp,
-                "/src/assets/editions/tb/background4t.webp": Sp,
-                "/src/assets/editions/tb/background5.webp": Cp,
-                "/src/assets/editions/tb/background5t.webp": wp,
-                "/src/assets/editions/tb/background6.webp": Tp,
-                "/src/assets/editions/tb/background6t.webp": Ep,
-                "/src/assets/editions/tb/firstnight.webp": QC,
-                "/src/assets/editions/tb/leaf-left.webp": $C,
-                "/src/assets/editions/tb/leaf-orange.webp": ew,
-                "/src/assets/editions/tb/leaf-right.webp": tw,
-                "/src/assets/editions/tb/leaf-top1.webp": nw,
-                "/src/assets/editions/tb/leaf-top2.webp": rw,
-                "/src/assets/editions/tb/leaf-top3.webp": iw,
-                "/src/assets/editions/tb/leaf-top4.webp": aw,
-                "/src/assets/editions/tb/leaf-top5.webp": ow,
-                "/src/assets/editions/tb/logo-active.webp": nv,
-                "/src/assets/editions/tb/logo-sheet.webp": rv,
-                "/src/assets/editions/tb/logo.webp": iv,
-                "/src/assets/editions/tb/othernight.webp": sw,
-                "/src/assets/editions/tb/sheet-bottom.webp": cw,
-                "/src/assets/editions/tb/sheet.webp": lw,
-                "/src/assets/editions/tb/skull.webp": Hv,
-                "/src/assets/editions/tb/token.webp": uw
+                "/src/assets/editions/bmr/background1.webp": Af,
+                "/src/assets/editions/bmr/background1t.webp": jf,
+                "/src/assets/editions/bmr/background2.webp": Mf,
+                "/src/assets/editions/bmr/background2t.webp": Nf,
+                "/src/assets/editions/bmr/background3.webp": Pf,
+                "/src/assets/editions/bmr/background3t.webp": Ff,
+                "/src/assets/editions/bmr/background4.webp": If,
+                "/src/assets/editions/bmr/background4t.webp": Lf,
+                "/src/assets/editions/bmr/background5.webp": Rf,
+                "/src/assets/editions/bmr/background5t.webp": zf,
+                "/src/assets/editions/bmr/background6.webp": Bf,
+                "/src/assets/editions/bmr/background6t.webp": Vf,
+                "/src/assets/editions/bmr/firstnight.webp": KS,
+                "/src/assets/editions/bmr/leaf-left.webp": qS,
+                "/src/assets/editions/bmr/leaf-orange.webp": JS,
+                "/src/assets/editions/bmr/leaf-right.webp": YS,
+                "/src/assets/editions/bmr/leaf-top1.webp": XS,
+                "/src/assets/editions/bmr/leaf-top2.webp": ZS,
+                "/src/assets/editions/bmr/leaf-top3.webp": QS,
+                "/src/assets/editions/bmr/leaf-top4.webp": $S,
+                "/src/assets/editions/bmr/leaf-top5.webp": eC,
+                "/src/assets/editions/bmr/logo-active.webp": W_,
+                "/src/assets/editions/bmr/logo-sheet.webp": G_,
+                "/src/assets/editions/bmr/logo.webp": K_,
+                "/src/assets/editions/bmr/othernight.webp": tC,
+                "/src/assets/editions/bmr/sheet-bottom.webp": nC,
+                "/src/assets/editions/bmr/sheet.webp": rC,
+                "/src/assets/editions/bmr/skull.webp": zv,
+                "/src/assets/editions/bmr/token.webp": iC,
+                "/src/assets/editions/custom/background1.webp": Hf,
+                "/src/assets/editions/custom/background1t.webp": Uf,
+                "/src/assets/editions/custom/background2.webp": Wf,
+                "/src/assets/editions/custom/background2t.webp": Gf,
+                "/src/assets/editions/custom/background3.webp": Kf,
+                "/src/assets/editions/custom/background3t.webp": qf,
+                "/src/assets/editions/custom/background4.webp": Jf,
+                "/src/assets/editions/custom/background4t.webp": Yf,
+                "/src/assets/editions/custom/background5.webp": Xf,
+                "/src/assets/editions/custom/background5t.webp": Zf,
+                "/src/assets/editions/custom/background6.webp": Qf,
+                "/src/assets/editions/custom/background6t.webp": $f,
+                "/src/assets/editions/custom/background7.webp": ep,
+                "/src/assets/editions/custom/background7t.webp": tp,
+                "/src/assets/editions/custom/background8.webp": np,
+                "/src/assets/editions/custom/background8t.webp": rp,
+                "/src/assets/editions/custom/firstnight.webp": aC,
+                "/src/assets/editions/custom/leaf-left.webp": oC,
+                "/src/assets/editions/custom/leaf-orange.webp": sC,
+                "/src/assets/editions/custom/leaf-right.webp": cC,
+                "/src/assets/editions/custom/leaf-top1.webp": lC,
+                "/src/assets/editions/custom/leaf-top2.webp": uC,
+                "/src/assets/editions/custom/leaf-top3.webp": dC,
+                "/src/assets/editions/custom/leaf-top4.webp": fC,
+                "/src/assets/editions/custom/leaf-top5.webp": pC,
+                "/src/assets/editions/custom/leaf-top6.webp": mC,
+                "/src/assets/editions/custom/logo-active.webp": q_,
+                "/src/assets/editions/custom/logo-label.webp": J_,
+                "/src/assets/editions/custom/logo-sheet.webp": Y_,
+                "/src/assets/editions/custom/logo.webp": X_,
+                "/src/assets/editions/custom/othernight.webp": hC,
+                "/src/assets/editions/custom/sheet-bottom.webp": gC,
+                "/src/assets/editions/custom/sheet.webp": _C,
+                "/src/assets/editions/custom/skull.webp": Bv,
+                "/src/assets/editions/custom/token.webp": vC,
+                "/src/assets/editions/homebrew/firstnight.webp": yC,
+                "/src/assets/editions/homebrew/leaf-left.webp": bC,
+                "/src/assets/editions/homebrew/leaf-orange.webp": xC,
+                "/src/assets/editions/homebrew/leaf-right.webp": SC,
+                "/src/assets/editions/homebrew/leaf-top1.webp": CC,
+                "/src/assets/editions/homebrew/leaf-top2.webp": wC,
+                "/src/assets/editions/homebrew/leaf-top3.webp": TC,
+                "/src/assets/editions/homebrew/leaf-top4.webp": EC,
+                "/src/assets/editions/homebrew/leaf-top5.webp": DC,
+                "/src/assets/editions/homebrew/leaf-top6.webp": OC,
+                "/src/assets/editions/homebrew/logo-label.webp": Z_,
+                "/src/assets/editions/homebrew/logo-sheet.webp": Q_,
+                "/src/assets/editions/homebrew/othernight.webp": kC,
+                "/src/assets/editions/homebrew/sheet-bottom.webp": AC,
+                "/src/assets/editions/homebrew/sheet.webp": jC,
+                "/src/assets/editions/homebrew/skull.webp": Vv,
+                "/src/assets/editions/homebrew/token.webp": MC,
+                "/src/assets/editions/snv/background1.webp": ip,
+                "/src/assets/editions/snv/background1t.webp": ap,
+                "/src/assets/editions/snv/background2.webp": op,
+                "/src/assets/editions/snv/background2t.webp": sp,
+                "/src/assets/editions/snv/background3.webp": cp,
+                "/src/assets/editions/snv/background3t.webp": lp,
+                "/src/assets/editions/snv/background4.webp": up,
+                "/src/assets/editions/snv/background4t.webp": dp,
+                "/src/assets/editions/snv/background5.webp": fp,
+                "/src/assets/editions/snv/background5t.webp": pp,
+                "/src/assets/editions/snv/background6.webp": mp,
+                "/src/assets/editions/snv/background6t.webp": hp,
+                "/src/assets/editions/snv/firstnight.webp": NC,
+                "/src/assets/editions/snv/leaf-left.webp": PC,
+                "/src/assets/editions/snv/leaf-orange.webp": FC,
+                "/src/assets/editions/snv/leaf-right.webp": IC,
+                "/src/assets/editions/snv/leaf-top1.webp": LC,
+                "/src/assets/editions/snv/leaf-top2.webp": RC,
+                "/src/assets/editions/snv/leaf-top3.webp": zC,
+                "/src/assets/editions/snv/leaf-top4.webp": BC,
+                "/src/assets/editions/snv/leaf-top5.webp": VC,
+                "/src/assets/editions/snv/leaf-top6.webp": HC,
+                "/src/assets/editions/snv/leaf-top7.webp": UC,
+                "/src/assets/editions/snv/logo-active.webp": $_,
+                "/src/assets/editions/snv/logo-sheet.webp": ev,
+                "/src/assets/editions/snv/logo.webp": tv,
+                "/src/assets/editions/snv/othernight.webp": WC,
+                "/src/assets/editions/snv/sheet-bottom.webp": GC,
+                "/src/assets/editions/snv/sheet.webp": KC,
+                "/src/assets/editions/snv/skull.webp": Hv,
+                "/src/assets/editions/snv/token.webp": qC,
+                "/src/assets/editions/taf/leaf-left.webp": JC,
+                "/src/assets/editions/taf/leaf-orange.webp": YC,
+                "/src/assets/editions/taf/leaf-right.webp": XC,
+                "/src/assets/editions/taf/leaf-top1.webp": ZC,
+                "/src/assets/editions/taf/leaf-top2.webp": QC,
+                "/src/assets/editions/taf/leaf-top3.webp": $C,
+                "/src/assets/editions/taf/leaf-top4.webp": ew,
+                "/src/assets/editions/taf/logo.webp": nv,
+                "/src/assets/editions/taf/token.webp": tw,
+                "/src/assets/editions/tb/background1.webp": gp,
+                "/src/assets/editions/tb/background1t.webp": _p,
+                "/src/assets/editions/tb/background2.webp": vp,
+                "/src/assets/editions/tb/background2t.webp": yp,
+                "/src/assets/editions/tb/background3.webp": bp,
+                "/src/assets/editions/tb/background3t.webp": xp,
+                "/src/assets/editions/tb/background4.webp": Sp,
+                "/src/assets/editions/tb/background4t.webp": Cp,
+                "/src/assets/editions/tb/background5.webp": wp,
+                "/src/assets/editions/tb/background5t.webp": Tp,
+                "/src/assets/editions/tb/background6.webp": Ep,
+                "/src/assets/editions/tb/background6t.webp": Dp,
+                "/src/assets/editions/tb/firstnight.webp": nw,
+                "/src/assets/editions/tb/leaf-left.webp": rw,
+                "/src/assets/editions/tb/leaf-orange.webp": iw,
+                "/src/assets/editions/tb/leaf-right.webp": aw,
+                "/src/assets/editions/tb/leaf-top1.webp": ow,
+                "/src/assets/editions/tb/leaf-top2.webp": sw,
+                "/src/assets/editions/tb/leaf-top3.webp": cw,
+                "/src/assets/editions/tb/leaf-top4.webp": lw,
+                "/src/assets/editions/tb/leaf-top5.webp": uw,
+                "/src/assets/editions/tb/logo-active.webp": rv,
+                "/src/assets/editions/tb/logo-sheet.webp": iv,
+                "/src/assets/editions/tb/logo.webp": av,
+                "/src/assets/editions/tb/othernight.webp": dw,
+                "/src/assets/editions/tb/sheet-bottom.webp": fw,
+                "/src/assets/editions/tb/sheet.webp": pw,
+                "/src/assets/editions/tb/skull.webp": Uv,
+                "/src/assets/editions/tb/token.webp": mw
             })[`/src/assets/editions/${this.edition.id}/${e}`],import.meta.url).href + `)` : `url(` + new URL(Object.assign({
-                "/src/assets/app-icon.webp": dw,
-                "/src/assets/background.webp": Dp,
-                "/src/assets/background1.webp": Op,
-                "/src/assets/background1t.webp": kp,
-                "/src/assets/background2.webp": Ap,
-                "/src/assets/background2t.webp": jp,
-                "/src/assets/background3.webp": Mp,
-                "/src/assets/background3t.webp": Np,
-                "/src/assets/bigwig.webp": fw,
-                "/src/assets/butterfly.webp": pw,
-                "/src/assets/card-blue.webp": mw,
-                "/src/assets/card-brown.webp": hw,
-                "/src/assets/card-green.webp": gw,
-                "/src/assets/card-orange.webp": _w,
-                "/src/assets/card-purple.webp": vw,
-                "/src/assets/card-red.webp": yw,
-                "/src/assets/clock-hour.webp": bw,
-                "/src/assets/clock-minute.webp": xw,
-                "/src/assets/clock-second.webp": Sw,
-                "/src/assets/clock_back.webp": Cw,
-                "/src/assets/clock_circle.webp": ww,
-                "/src/assets/clock_cog1.webp": Tw,
-                "/src/assets/clock_cog2.webp": Ew,
-                "/src/assets/clock_cogcap.webp": Dw,
-                "/src/assets/clouds.webp": Ow,
-                "/src/assets/death.webp": kw,
-                "/src/assets/gavel.webp": Aw,
-                "/src/assets/godofug.webp": jw,
-                "/src/assets/gossip.webp": Mw,
-                "/src/assets/life.webp": Nw,
-                "/src/assets/line.webp": Pw,
-                "/src/assets/loading.webp": Fw,
-                "/src/assets/logo.webp": Iw,
-                "/src/assets/night.webp": Lw,
-                "/src/assets/play-nice.webp": Rw,
-                "/src/assets/progress.svg": zw,
-                "/src/assets/reminder.webp": Bw,
-                "/src/assets/sb.webp": Vw,
-                "/src/assets/separator.webp": Hw,
-                "/src/assets/shroud.webp": Uw,
-                "/src/assets/towninfo.webp": Ww,
-                "/src/assets/tpi.webp": Gw,
-                "/src/assets/traveller.webp": Kw,
-                "/src/assets/vote.webp": qw
+                "/src/assets/app-icon.webp": hw,
+                "/src/assets/background.webp": Op,
+                "/src/assets/background1.webp": kp,
+                "/src/assets/background1t.webp": Ap,
+                "/src/assets/background2.webp": jp,
+                "/src/assets/background2t.webp": Mp,
+                "/src/assets/background3.webp": Np,
+                "/src/assets/background3t.webp": Pp,
+                "/src/assets/bigwig.webp": gw,
+                "/src/assets/butterfly.webp": _w,
+                "/src/assets/card-blue.webp": vw,
+                "/src/assets/card-brown.webp": yw,
+                "/src/assets/card-green.webp": bw,
+                "/src/assets/card-orange.webp": xw,
+                "/src/assets/card-purple.webp": Sw,
+                "/src/assets/card-red.webp": Cw,
+                "/src/assets/clock-hour.webp": ww,
+                "/src/assets/clock-minute.webp": Tw,
+                "/src/assets/clock-second.webp": Ew,
+                "/src/assets/clock_back.webp": Dw,
+                "/src/assets/clock_circle.webp": Ow,
+                "/src/assets/clock_cog1.webp": kw,
+                "/src/assets/clock_cog2.webp": Aw,
+                "/src/assets/clock_cogcap.webp": jw,
+                "/src/assets/clouds.webp": Mw,
+                "/src/assets/death.webp": Nw,
+                "/src/assets/gavel.webp": Pw,
+                "/src/assets/godofug.webp": Fw,
+                "/src/assets/gossip.webp": Iw,
+                "/src/assets/life.webp": Lw,
+                "/src/assets/line.webp": Rw,
+                "/src/assets/loading.webp": zw,
+                "/src/assets/logo.webp": Bw,
+                "/src/assets/night.webp": Vw,
+                "/src/assets/play-nice.webp": Hw,
+                "/src/assets/progress.svg": Uw,
+                "/src/assets/reminder.webp": Ww,
+                "/src/assets/sb.webp": Gw,
+                "/src/assets/separator.webp": Kw,
+                "/src/assets/shroud.webp": qw,
+                "/src/assets/towninfo.webp": Jw,
+                "/src/assets/tpi.webp": Yw,
+                "/src/assets/traveller.webp": Xw,
+                "/src/assets/vote.webp": Zw
             })[`/src/assets/${e}`],import.meta.url).href + `)`
         },
         toggleTab(e) {
@@ -12353,64 +12494,64 @@ var mT = B(Jw, [[`render`, pT], [`__scopeId`, `data-v-117ae6b4`]])
         this.pipWindow = null)
     }
 }
-  , gT = () => {
+  , bT = () => {
     j(e => ({
-        v4d787e18: e.zoom
+        e57e0b66: e.zoom
     }))
 }
-  , _T = hT.setup;
-hT.setup = _T ? (e, t) => (gT(),
-_T(e, t)) : gT;
-var vT = [`src`]
-  , yT = [`href`]
-  , bT = {
+  , xT = yT.setup;
+yT.setup = xT ? (e, t) => (bT(),
+xT(e, t)) : bT;
+var ST = [`src`]
+  , CT = [`href`]
+  , wT = {
     key: 1,
     class: `team bootlegger`
 }
-  , xT = {
+  , TT = {
     class: `bootlegger`
 }
-  , ST = [`href`]
-  , CT = {
+  , ET = [`href`]
+  , DT = {
     class: `role`
 }
-  , wT = [`title`]
-  , TT = {
+  , OT = [`title`]
+  , kT = {
     key: 0,
     class: `alt-name`
 }
-  , ET = {
+  , AT = {
     key: 1,
     class: `jinxes`
 }
-  , DT = [`onClick`, `title`]
-  , OT = {
-    class: `ability`
-}
-  , kT = {
-    key: 2,
-    class: `team jinxes`
-}
-  , AT = {
-    class: `role`
-}
-  , jT = {
-    class: `name`
-}
+  , jT = [`onClick`, `title`]
   , MT = {
     class: `ability`
 }
   , NT = {
+    key: 2,
+    class: `team jinxes`
+}
+  , PT = {
+    class: `role`
+}
+  , FT = {
+    class: `name`
+}
+  , IT = {
+    class: `ability`
+}
+  , LT = {
     class: `hint`
 }
-  , PT = [`src`]
-  , FT = {
+  , RT = [`src`]
+  , zT = {
     class: `button-group`
 }
-  , IT = [`title`]
-  , LT = [`title`]
-  , RT = [`aria-label`, `title`];
-function zT(e, t, n, a, o, s) {
+  , BT = [`title`]
+  , VT = [`title`]
+  , HT = [`aria-label`, `title`];
+function UT(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Tab`);
     return e.edition.id ? (d(),
@@ -12439,7 +12580,7 @@ function zT(e, t, n, a, o, s) {
             backgroundImage: s.bgImage(`sheet.webp`)
         })
     }, {
-        footer: m( () => [I(`div`, FT, [!o.isPoppedOut && !e.positions.character ? (d(),
+        footer: m( () => [I(`div`, zT, [!o.isPoppedOut && !e.positions.character ? (d(),
         F(`div`, {
             key: 0,
             class: `button popout`,
@@ -12447,7 +12588,7 @@ function zT(e, t, n, a, o, s) {
             title: e.$t(`tabs.character.popout`)
         }, [f(l, {
             icon: `arrows-alt`
-        })], 8, IT)) : r(``, !0), !o.isPoppedOut && !e.positions.character && o.hasDPIPSupport ? (d(),
+        })], 8, BT)) : r(``, !0), !o.isPoppedOut && !e.positions.character && o.hasDPIPSupport ? (d(),
         F(`div`, {
             key: 1,
             class: `button popout`,
@@ -12455,7 +12596,7 @@ function zT(e, t, n, a, o, s) {
             title: e.$t(`tabs.character.popout_window`)
         }, [f(l, {
             icon: `window-restore`
-        })], 8, LT)) : r(``, !0), I(`div`, {
+        })], 8, VT)) : r(``, !0), I(`div`, {
             class: v([{
                 disabled: o.zoom <= -3
             }, `button`]),
@@ -12479,14 +12620,14 @@ function zT(e, t, n, a, o, s) {
             title: e.$t(`tabs.character.download`)
         }, [f(l, {
             icon: `download`
-        })], 8, RT))])]),
+        })], 8, HT))])]),
         default: m( () => {
             var n;
             return [I(`img`, {
                 src: s.sheetLogo,
                 alt: ``,
                 class: `logo`
-            }, null, 8, vT), !e.edition.isOfficial && e.edition.name ? (d(),
+            }, null, 8, ST), !e.edition.isOfficial && e.edition.name ? (d(),
             F(`a`, {
                 key: 0,
                 class: v([`title`, {
@@ -12499,8 +12640,8 @@ function zT(e, t, n, a, o, s) {
             h(l, {
                 key: 0,
                 icon: `book`
-            })) : r(``, !0)], 10, yT)) : r(``, !0), (n = e.edition.bootlegger) != null && n.length ? (d(),
-            F(`div`, bT, [t[8] || (t[8] = I(`aside`, null, null, -1)), I(`ul`, xT, [(d(!0),
+            })) : r(``, !0)], 10, CT)) : r(``, !0), (n = e.edition.bootlegger) != null && n.length ? (d(),
+            F(`div`, wT, [t[8] || (t[8] = I(`aside`, null, null, -1)), I(`ul`, TT, [(d(!0),
             F(S, null, p(e.edition.bootlegger, (t, n) => (d(),
             F(`li`, {
                 key: n
@@ -12533,12 +12674,12 @@ function zT(e, t, n, a, o, s) {
                 tabindex: `-1`
             }, [f(l, {
                 icon: `book`
-            })], 8, ST)), I(`div`, CT, [I(`div`, {
+            })], 8, ET)), I(`div`, DT, [I(`div`, {
                 class: `name`,
                 title: e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name
             }, [i(y(e.$te(`roles.${n.id}.name`) ? e.$t(`roles.${n.id}.name`) : n.name) + ` `, 1), e.settings.game.isEnglishNames && e.$te(`roles.${n.id}.name`) && e.$t(`roles.${n.id}.name`) !== n.name ? (d(),
-            F(`span`, TT, ` (` + y(n.name) + `) `, 1)) : r(``, !0), n.jinxes && n.jinxes.filter( ({id: t}) => e.roles.has(t)).length ? (d(),
-            F(`div`, ET, [(d(!0),
+            F(`span`, kT, ` (` + y(n.name) + `) `, 1)) : r(``, !0), n.jinxes && n.jinxes.filter( ({id: t}) => e.roles.has(t)).length ? (d(),
+            F(`div`, AT, [(d(!0),
             F(S, null, p(n.jinxes.filter( ({id: t}) => e.roles.has(t)), (t, r) => {
                 var i;
                 return d(),
@@ -12548,10 +12689,10 @@ function zT(e, t, n, a, o, s) {
                     class: `icon`,
                     title: e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : (i = e.roles.get(t.id)) == null ? void 0 : i.name,
                     style: _(e.roleIconCSS(t.id))
-                }, null, 12, DT)
+                }, null, 12, jT)
             }
-            ), 128))])) : r(``, !0)], 8, wT), I(`span`, OT, y(e.$te(`roles.${n.id}.ability`) ? e.$t(`roles.${n.id}.ability`) : n.ability), 1)])], 2))), 128))])], 2))), 128)), s.jinxes.length ? (d(),
-            F(`div`, kT, [I(`aside`, null, y(e.$t(`tabs.character.jinxes`)), 1), I(`ul`, null, [(d(!0),
+            ), 128))])) : r(``, !0)], 8, OT), I(`span`, MT, y(e.$te(`roles.${n.id}.ability`) ? e.$t(`roles.${n.id}.ability`) : n.ability), 1)])], 2))), 128))])], 2))), 128)), s.jinxes.length ? (d(),
+            F(`div`, NT, [I(`aside`, null, y(e.$t(`tabs.character.jinxes`)), 1), I(`ul`, null, [(d(!0),
             F(S, null, p(s.jinxes, (n, r) => (d(),
             F(`li`, {
                 class: v([`jinx`, {
@@ -12566,31 +12707,31 @@ function zT(e, t, n, a, o, s) {
             }, null, 4), I(`span`, {
                 class: `icon`,
                 style: _(e.roleIconCSS(n.second))
-            }, null, 4), I(`div`, AT, [I(`div`, jT, [I(`span`, {
+            }, null, 4), I(`div`, PT, [I(`div`, FT, [I(`span`, {
                 class: v(n.first.team)
             }, y(e.$te(`roles.${n.first.id}.name`) ? e.$t(`roles.${n.first.id}.name`) : n.first.name), 3), t[9] || (t[9] = i(` & `, -1)), I(`span`, {
                 class: v(n.second.team)
-            }, y(e.$te(`roles.${n.second.id}.name`) ? e.$t(`roles.${n.second.id}.name`) : n.second.name), 3)]), I(`span`, MT, y(e.$te(`jinxes.${n.id}`) ? e.$t(`jinxes.${n.id}`) : n.reason), 1)])], 2))), 128))])])) : r(``, !0), I(`div`, NT, [I(`img`, {
+            }, y(e.$te(`roles.${n.second.id}.name`) ? e.$t(`roles.${n.second.id}.name`) : n.second.name), 3)]), I(`span`, IT, y(e.$te(`jinxes.${n.id}`) ? e.$t(`jinxes.${n.id}`) : n.reason), 1)])], 2))), 128))])])) : r(``, !0), I(`div`, LT, [I(`img`, {
                 src: s.sheetImage,
                 alt: ``
-            }, null, 8, PT), I(`span`, null, `*` + y(e.$t(`tabs.character.other_nights`)), 1)])]
+            }, null, 8, RT), I(`span`, null, `*` + y(e.$t(`tabs.character.other_nights`)), 1)])]
         }
         ),
         _: 1
     }, 8, [`onClick`, `onDragged`, `is-draggable`, `style`])], 34)) : r(``, !0)
 }
-var BT = B(hT, [[`render`, zT], [`__scopeId`, `data-v-f0363346`]])
-  , VT = `/assets/orthodontist-BLviKcoi.webp`
-  , HT = `/assets/pumpkin-Cqud3yMV.webp`
-  , UT = `/assets/qutler-XdLeoz-G.webp`
-  , WT = `data:image/webp;base64,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TVAgQ29yZSA1LjYtYzE0NSA3OS4xNjM0OTksIDIwMTgvMDgvMTMtMTY6NDA6MjIiPgo8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgo8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpJcHRjNHhtcENvcmU9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBDb3JlLzEuMC94bWxucy8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIj4KPC9yZGY6RGVzY3JpcHRpb24+CjwvcmRmOlJERj4KPC94OnhtcG1ldGE+Cjw/eHBhY2tldCBlbmQ9InciPz4=`
-  , GT = `/assets/thebigbarnacle-Btw9LPGP.webp`
-  , KT = `/assets/token-rbJ6uNEl.webp`
-  , qT = `/assets/tpi-B0YlvvIZ.webp`
-  , JT = {
+var WT = B(yT, [[`render`, UT], [`__scopeId`, `data-v-8cdb27b8`]])
+  , GT = `/assets/orthodontist-BLviKcoi.webp`
+  , KT = `/assets/pumpkin-Cqud3yMV.webp`
+  , qT = `/assets/qutler-XdLeoz-G.webp`
+  , JT = `data:image/webp;base64,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TVAgQ29yZSA1LjYtYzE0NSA3OS4xNjM0OTksIDIwMTgvMDgvMTMtMTY6NDA6MjIiPgo8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgo8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpJcHRjNHhtcENvcmU9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBDb3JlLzEuMC94bWxucy8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIj4KPC9yZGY6RGVzY3JpcHRpb24+CjwvcmRmOlJERj4KPC94OnhtcG1ldGE+Cjw/eHBhY2tldCBlbmQ9InciPz4=`
+  , YT = `/assets/thebigbarnacle-Btw9LPGP.webp`
+  , XT = `/assets/token-rbJ6uNEl.webp`
+  , ZT = `/assets/tpi-B0YlvvIZ.webp`
+  , QT = {
     name: `TextTab`,
     components: {
-        Tab: lS
+        Tab: pS
     },
     computed: {
         ...A([`roles`]),
@@ -12716,13 +12857,13 @@ var BT = B(hT, [[`render`, zT], [`__scopeId`, `data-v-f0363346`]])
         return {
             isScrolled: !1,
             emojis: Object.fromEntries([`qutler`, `thebigbarnacle`, `orthodontist`, `pumpkin`, `tpi`, `reminder`, `token`].map(e => [e, new URL(Object.assign({
-                "/src/assets/cosmetics/emojis/orthodontist.webp": VT,
-                "/src/assets/cosmetics/emojis/pumpkin.webp": HT,
-                "/src/assets/cosmetics/emojis/qutler.webp": UT,
-                "/src/assets/cosmetics/emojis/reminder.webp": WT,
-                "/src/assets/cosmetics/emojis/thebigbarnacle.webp": GT,
-                "/src/assets/cosmetics/emojis/token.webp": KT,
-                "/src/assets/cosmetics/emojis/tpi.webp": qT
+                "/src/assets/cosmetics/emojis/orthodontist.webp": GT,
+                "/src/assets/cosmetics/emojis/pumpkin.webp": KT,
+                "/src/assets/cosmetics/emojis/qutler.webp": qT,
+                "/src/assets/cosmetics/emojis/reminder.webp": JT,
+                "/src/assets/cosmetics/emojis/thebigbarnacle.webp": YT,
+                "/src/assets/cosmetics/emojis/token.webp": XT,
+                "/src/assets/cosmetics/emojis/tpi.webp": ZT
             })[`/src/assets/cosmetics/emojis/${e}.webp`],import.meta.url).href])),
             lastRead: {
                 "": 0,
@@ -12776,7 +12917,7 @@ var BT = B(hT, [[`render`, zT], [`__scopeId`, `data-v-f0363346`]])
         sendMessage() {
             !this.message || this.isMessageDisabled || (this.$store.dispatch(`chat/textMessage`, {
                 recipientId: this.textRecipient,
-                message: this.message
+                message: this.message.replace(/\\:/g, `&#58;`)
             }),
             this.message = ``,
             this.$refs.chat.scrollTop = this.$refs.chat.scrollHeight)
@@ -12837,49 +12978,49 @@ var BT = B(hT, [[`render`, zT], [`__scopeId`, `data-v-f0363346`]])
         }
     }
 }
-  , YT = {
+  , $T = {
     key: 0
 }
-  , XT = {
+  , eE = {
     key: 1,
     class: `secondary`
 }
-  , ZT = {
+  , tE = {
     class: `tabs`,
     role: `list`
 }
-  , QT = [`onClick`, `aria-live`, `aria-label`]
-  , $T = [`checked`]
-  , eE = {
+  , nE = [`onClick`, `aria-live`, `aria-label`]
+  , rE = [`checked`]
+  , iE = {
     class: `name`
 }
-  , tE = [`onClick`, `title`]
-  , nE = {
+  , aE = [`onClick`, `title`]
+  , oE = {
     class: `to`
 }
-  , rE = [`onClick`, `title`]
-  , iE = {
+  , sE = [`onClick`, `title`]
+  , cE = {
     key: 1,
     class: `message`
 }
-  , aE = [`innerHTML`]
-  , oE = {
+  , lE = [`innerHTML`]
+  , uE = {
     key: 0,
     class: `hidden`
 }
-  , sE = {
+  , dE = {
     key: 1,
     class: `hidden`
 }
-  , cE = [`onClick`]
-  , lE = [`onClick`]
-  , uE = {
+  , fE = [`onClick`]
+  , pE = [`onClick`]
+  , mE = {
     key: 0
 }
-  , dE = [`onClick`]
-  , fE = [`placeholder`, `disabled`]
-  , pE = [`disabled`];
-function mE(e, t, n, a, o, s) {
+  , hE = [`onClick`]
+  , gE = [`placeholder`, `disabled`]
+  , _E = [`disabled`];
+function vE(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`i18n-t`)
       , g = c(`Tab`);
@@ -12900,15 +13041,15 @@ function mE(e, t, n, a, o, s) {
             role: `heading`,
             onClick: t[0] || (t[0] = (...e) => s.toggleText && s.toggleText(...e))
         }, [i(y(e.$t(`tabs.text.title`)) + ` `, 1), s.unreadWhispers ? (d(),
-        F(`em`, YT, y(s.unreadWhispers), 1)) : r(``, !0), s.unreadMessages ? (d(),
-        F(`em`, XT, y(s.unreadMessages), 1)) : r(``, !0)])) : r(``, !0), f(g, {
+        F(`em`, $T, y(s.unreadWhispers), 1)) : r(``, !0), s.unreadMessages ? (d(),
+        F(`em`, eE, y(s.unreadMessages), 1)) : r(``, !0)])) : r(``, !0), f(g, {
             name: `text`,
             "is-draggable": !e.settings.general.isPositioningDisabled && (!!e.grimoire.tabs.text || !!e.positions.text),
             onDragged: t[9] || (t[9] = t => e.setTab({
                 tab: `text`
             }))
         }, {
-            default: m( () => [I(`ul`, ZT, [(d(!0),
+            default: m( () => [I(`ul`, tE, [(d(!0),
             F(S, null, p([...s.recipients.keys()], t => {
                 var n, r;
                 return d(),
@@ -12948,7 +13089,7 @@ function mE(e, t, n, a, o, s) {
                     class: v({
                         system: [``, `private`, `spectator`, `system`].includes(t)
                     })
-                }, y(((r = e.session.users.get(t)) == null ? void 0 : r.username) || e.$t(`tabs.text.channels.${t || `public`}`, t)), 3), I(`em`, null, y(s.recipients.get(t) || ``), 1)], 10, QT)
+                }, y(((r = e.session.users.get(t)) == null ? void 0 : r.username) || e.$t(`tabs.text.channels.${t || `public`}`, t)), 3), I(`em`, null, y(s.recipients.get(t) || ``), 1)], 10, nE)
             }
             ), 128))]), t[10] || (t[10] = I(`div`, {
                 class: `spacer`
@@ -12982,7 +13123,7 @@ function mE(e, t, n, a, o, s) {
                     tabindex: `-1`,
                     "aria-hidden": `true`,
                     checked: !n.isBlocked
-                }, null, 8, $T)) : r(``, !0), I(`span`, eE, [n.isSystem ? (d(),
+                }, null, 8, rE)) : r(``, !0), I(`span`, iE, [n.isSystem ? (d(),
                 h(l, {
                     key: 0,
                     icon: `bullhorn`
@@ -13002,10 +13143,10 @@ function mE(e, t, n, a, o, s) {
                     }]),
                     onClick: e => s.setRecipient(n.senderId),
                     title: n.sender
-                }, y(n.sender), 11, tE)) : r(``, !0), e.textRecipient === `private` ? (d(),
+                }, y(n.sender), 11, aE)) : r(``, !0), e.textRecipient === `private` ? (d(),
                 F(S, {
                     key: 4
-                }, [I(`span`, nE, y(e.$t(`tabs.text.message_to`)), 1), e.storytellerMap.has(n.recipientId) ? (d(),
+                }, [I(`span`, oE, y(e.$t(`tabs.text.message_to`)), 1), e.storytellerMap.has(n.recipientId) ? (d(),
                 h(l, {
                     key: 0,
                     icon: `crown`
@@ -13013,7 +13154,7 @@ function mE(e, t, n, a, o, s) {
                     class: v([n.recipientTeam, n.recipientAlignment]),
                     onClick: e => s.setRecipient(n.recipientId),
                     title: n.recipient
-                }, y(n.recipient), 11, rE)], 64)) : r(``, !0), n.senderId ? (d(),
+                }, y(n.recipient), 11, sE)], 64)) : r(``, !0), n.senderId ? (d(),
                 F(S, {
                     key: 5
                 }, [i(`:`)], 64)) : r(``, !0)]), n.isSystem ? [`start`].includes(n.message.type) ? (d(),
@@ -13029,7 +13170,7 @@ function mE(e, t, n, a, o, s) {
                         var t;
                         return [I(`b`, {
                             onClick: e => s.toggleUser(n.message.data[0])
-                        }, y(((t = e.session.users.get(n.message.data[0])) == null ? void 0 : t.username) || n.message.data[0]), 9, cE), I(`b`, null, y(n.message.data[1]), 1)]
+                        }, y(((t = e.session.users.get(n.message.data[0])) == null ? void 0 : t.username) || n.message.data[0]), 9, fE), I(`b`, null, y(n.message.data[1]), 1)]
                     }
                     ),
                     _: 2
@@ -13043,7 +13184,7 @@ function mE(e, t, n, a, o, s) {
                         var t;
                         return [I(`b`, {
                             onClick: e => s.toggleUser(n.message.data[0])
-                        }, y(((t = e.session.users.get(n.message.data[0])) == null ? void 0 : t.username) || n.message.data[0]), 9, lE), I(`b`, null, y(n.message.data[1] === `storyteller` ? e.$t(`grimoire.storytellers`) : n.message.data[1]), 1)]
+                        }, y(((t = e.session.users.get(n.message.data[0])) == null ? void 0 : t.username) || n.message.data[0]), 9, pE), I(`b`, null, y(n.message.data[1] === `storyteller` ? e.$t(`grimoire.storytellers`) : n.message.data[1]), 1)]
                     }
                     ),
                     _: 2
@@ -13067,20 +13208,20 @@ function mE(e, t, n, a, o, s) {
                     default: m( () => {
                         var t;
                         return [n.message.data < 21 ? (d(),
-                        F(`b`, uE, y(e.$t(`grimoire.seat`, [n.message.data])), 1)) : (d(),
+                        F(`b`, mE, y(e.$t(`grimoire.seat`, [n.message.data])), 1)) : (d(),
                         F(`b`, {
                             key: 1,
                             onClick: e => s.toggleUser(n.message.data)
-                        }, y(((t = e.session.users.get(n.message.data)) == null ? void 0 : t.username) || n.message.data), 9, dE))]
+                        }, y(((t = e.session.users.get(n.message.data)) == null ? void 0 : t.username) || n.message.data), 9, hE))]
                     }
                     ),
                     _: 2
                 }, 1032, [`keypath`])) : (d(),
-                F(`span`, iE, [I(`span`, {
+                F(`span`, cE, [I(`span`, {
                     innerHTML: n.message
-                }, null, 8, aE), n.isHidden ? (d(),
-                F(`em`, oE, ` (` + y(e.$t(`tabs.text.message_blocked`)) + `) `, 1)) : r(``, !0), ((a = e.relations.get(n.senderId)) == null ? void 0 : a.type) === `block` ? (d(),
-                F(`em`, sE, ` (` + y(e.$t(`tabs.text.sender_blocked`)) + `) `, 1)) : r(``, !0)]))], 34)
+                }, null, 8, lE), n.isHidden ? (d(),
+                F(`em`, uE, ` (` + y(e.$t(`tabs.text.message_blocked`)) + `) `, 1)) : r(``, !0), ((a = e.relations.get(n.senderId)) == null ? void 0 : a.type) === `block` ? (d(),
+                F(`em`, dE, ` (` + y(e.$t(`tabs.text.sender_blocked`)) + `) `, 1)) : r(``, !0)]))], 34)
             }
             ), 128))], 34), I(`form`, {
                 class: `prompt`,
@@ -13104,7 +13245,7 @@ function mE(e, t, n, a, o, s) {
                 "data-lpignore": `true`,
                 onKeydown: t[5] || (t[5] = L( (...e) => s.keydown && s.keydown(...e), [`stop`])),
                 disabled: s.promptDisabled
-            }, null, 40, fE), [[P, o.message]]), I(`button`, {
+            }, null, 40, gE), [[P, o.message]]), I(`button`, {
                 class: v([`button`, {
                     primary: !s.isMessageDisabled
                 }]),
@@ -13112,7 +13253,7 @@ function mE(e, t, n, a, o, s) {
                 disabled: s.isMessageDisabled
             }, [f(l, {
                 icon: `paper-plane`
-            })], 10, pE), !s.defaultRecipients.includes(e.textRecipient) || o.pinnedTabs.has(e.textRecipient) ? (d(),
+            })], 10, _E), !s.defaultRecipients.includes(e.textRecipient) || o.pinnedTabs.has(e.textRecipient) ? (d(),
             F(`button`, {
                 key: 0,
                 class: v([`button`, {
@@ -13129,9 +13270,9 @@ function mE(e, t, n, a, o, s) {
         _: 1
     })
 }
-var hE = B(JT, [[`render`, mE], [`__scopeId`, `data-v-8c249ff1`]])
-  , gE = e(Sn())
-  , _E = {
+var yE = B(QT, [[`render`, vE], [`__scopeId`, `data-v-4bd8fbe1`]])
+  , bE = e(Sn())
+  , xE = {
     name: `SessionMeta`,
     components: {
         FontAwesomeIcon: Kn
@@ -13153,7 +13294,7 @@ var hE = B(JT, [[`render`, mE], [`__scopeId`, `data-v-8c249ff1`]])
     data() {
         return {
             serverDropdown: !1,
-            availableLanguages: gE.default.getAllCodes().map(e => [e, `${gE.default.getNativeName(e)} (${e.toUpperCase()})`]),
+            availableLanguages: bE.default.getAllCodes().map(e => [e, `${bE.default.getNativeName(e)} (${e.toUpperCase()})`]),
             sessionName: this.$store.state.session.sessionId || Math.round(Math.random() * 1e5).toString(),
             created: ``,
             createdTimer: null,
@@ -13257,77 +13398,78 @@ var hE = B(JT, [[`render`, mE], [`__scopeId`, `data-v-8c249ff1`]])
         }
     }
 }
-  , vE = {
+  , SE = {
     class: `meta`
 }
-  , yE = {
+  , CE = {
     class: `col`
 }
-  , bE = {
+  , wE = {
     key: 0
 }
-  , xE = {
+  , TE = {
     key: 1
 }
-  , SE = [`placeholder`, `disabled`, `title`]
-  , CE = {
+  , EE = [`placeholder`, `disabled`, `title`]
+  , DE = {
     for: `language`
 }
-  , wE = [`disabled`]
-  , TE = [`value`, `selected`]
-  , EE = {
+  , OE = [`disabled`]
+  , kE = [`value`, `selected`]
+  , AE = {
     class: `dropdown`
 }
-  , DE = [`title`]
-  , OE = {
+  , jE = [`title`]
+  , ME = {
     key: 0,
     class: `servers`
 }
-  , kE = [`onClick`]
-  , AE = [`title`]
-  , jE = [`value`, `disabled`]
-  , ME = [`value`, `disabled`]
-  , NE = [`title`]
+  , NE = [`onClick`]
   , PE = [`title`]
-  , FE = {
+  , FE = [`value`, `disabled`]
+  , IE = [`value`, `disabled`]
+  , LE = [`title`]
+  , RE = [`title`]
+  , zE = {
     href: `https://www.patreon.com/botconline`,
     target: `_blank`
 }
-  , IE = {
+  , BE = {
     class: `tags`
 }
-  , LE = [`title`, `onClick`]
-  , RE = [`aria-label`]
-  , zE = [`aria-valuetext`]
-  , BE = [`aria-valuetext`]
-  , VE = [`aria-valuetext`]
-  , HE = [`title`]
-  , UE = {
+  , VE = [`title`, `onClick`]
+  , HE = [`aria-label`]
+  , UE = [`aria-valuetext`]
+  , WE = [`aria-valuetext`]
+  , GE = [`aria-valuetext`]
+  , KE = [`title`]
+  , qE = {
     id: `streaming-check`
 }
-  , WE = {
+  , JE = {
     key: 0,
     "aria-pressed": `true`,
     "aria-labelledby": `streaming-check`
 }
-  , GE = {
+  , YE = {
     key: 1,
     "aria-pressed": `false`,
     "aria-labelledby": `streaming-check`
 };
-function KE(e, t, n, a, o, s) {
+function XE(e, t, n, a, o, s) {
     var u, g, b, x, C, T, E, D;
     let O = c(`font-awesome-icon`);
     return d(),
-    F(`div`, vE, [I(`div`, yE, [e.session.sessionId ? (d(),
-    F(`h4`, bE, y(e.$t(`session.title_current`)) + `:`, 1)) : (d(),
-    F(`h4`, xE, y(e.$t(`session.title_create`)) + `:`, 1)), (d(),
+    F(`div`, SE, [I(`div`, CE, [e.session.sessionId ? (d(),
+    F(`h4`, wE, y(e.$t(`session.title_current`)) + `:`, 1)) : (d(),
+    F(`h4`, TE, y(e.$t(`session.title_create`)) + `:`, 1)), (d(),
     h(l(e.session.sessionId ? `div` : `label`), {
         class: `label`
     }, {
         default: m( () => [I(`span`, null, y(e.$t(`session.session_name`)) + `:`, 1), R(I(`input`, {
             required: ``,
             name: `sessionName`,
+            ref: `sessionName`,
             minlength: `3`,
             maxlength: `20`,
             pattern: `^[^ ].*?[^ ]$`,
@@ -13335,7 +13477,7 @@ function KE(e, t, n, a, o, s) {
             "onUpdate:modelValue": t[0] || (t[0] = e => o.sessionName = e),
             disabled: !!e.session.sessionId,
             title: o.created ? e.$t(`session.created`, [o.created, e.session.meta.owner.username]) : ``
-        }, null, 8, SE), [[P, o.sessionName]]), e.session.sessionId ? (d(),
+        }, null, 8, EE), [[P, o.sessionName]]), e.session.sessionId ? (d(),
         h(O, {
             key: 0,
             icon: o.copied ? `check-circle` : `copy`,
@@ -13343,7 +13485,7 @@ function KE(e, t, n, a, o, s) {
             title: e.$t(`session.copy`)
         }, null, 8, [`icon`, `onClick`, `title`])) : r(``, !0)]),
         _: 1
-    })), I(`label`, CE, [I(`span`, null, y(e.$t(`session.language`)) + `:`, 1), I(`select`, {
+    })), I(`label`, DE, [I(`span`, null, y(e.$t(`session.language`)) + `:`, 1), I(`select`, {
         name: `language`,
         id: `language`,
         onChange: t[1] || (t[1] = t => e.updateMeta({
@@ -13356,22 +13498,22 @@ function KE(e, t, n, a, o, s) {
         key: t,
         value: t,
         selected: e.session.meta.language === t
-    }, y(n), 9, TE))), 128))], 40, wE), f(O, {
+    }, y(n), 9, kE))), 128))], 40, OE), f(O, {
         icon: `language`
     })]), I(`div`, {
         class: `label`,
         onClick: t[2] || (t[2] = e => o.serverDropdown = !o.serverDropdown)
-    }, [I(`span`, null, y(e.$t(`session.server`)), 1), I(`div`, EE, [i(y(((u = e.chat.servers.get(e.session.meta.chatServer)) == null ? void 0 : u.name) || e.session.meta.chatServer) + ` (` + y((g = (b = e.chat.servers.get(e.session.meta.chatServer)) == null || (b = b.health) == null ? void 0 : b.latency) == null ? `?` : g) + `ms) `, 1), I(`span`, {
+    }, [I(`span`, null, y(e.$t(`session.server`)), 1), I(`div`, AE, [i(y(((u = e.chat.servers.get(e.session.meta.chatServer)) == null ? void 0 : u.name) || e.session.meta.chatServer) + ` (` + y((g = (b = e.chat.servers.get(e.session.meta.chatServer)) == null || (b = b.health) == null ? void 0 : b.latency) == null ? `?` : g) + `ms) `, 1), I(`span`, {
         class: `status`,
         style: _({
             backgroundColor: (x = e.chat.servers.get(e.session.meta.chatServer)) == null || (x = x.health) == null ? void 0 : x.color
         }),
         title: e.$t(`session.server_stats`, [(C = (T = e.chat.servers.get(e.session.meta.chatServer)) == null || (T = T.health) == null ? void 0 : T.users) == null ? `?` : C, (E = (D = e.chat.servers.get(e.session.meta.chatServer)) == null || (D = D.health) == null ? void 0 : D.load) == null ? `?` : E])
-    }, null, 12, DE)]), f(w, {
+    }, null, 12, jE)]), f(w, {
         name: `fold`
     }, {
         default: m( () => [o.serverDropdown ? (d(),
-        F(`table`, OE, [I(`thead`, null, [I(`tr`, null, [I(`td`, null, y(e.$t(`session.server_name`)), 1), I(`td`, null, [f(O, {
+        F(`table`, ME, [I(`thead`, null, [I(`tr`, null, [I(`td`, null, y(e.$t(`session.server_name`)), 1), I(`td`, null, [f(O, {
             icon: `wifi`,
             title: `Server status`
         }), f(O, {
@@ -13399,7 +13541,7 @@ function KE(e, t, n, a, o, s) {
                     backgroundColor: t.health.color
                 }),
                 title: e.$t(`session.server_stats`, [(a = (o = t.health) == null ? void 0 : o.users) == null ? `?` : a, (c = t.health.load) == null ? `?` : c])
-            }, null, 12, AE)) : r(``, !0), i(` ` + y((l = (u = t.health) == null ? void 0 : u.latency) == null ? `?` : l) + `ms `, 1)]), I(`td`, null, y((f = (p = t.health) == null ? void 0 : p.users) == null ? `?` : f), 1)], 10, kE)
+            }, null, 12, PE)) : r(``, !0), i(` ` + y((l = (u = t.health) == null ? void 0 : u.latency) == null ? `?` : l) + `ms `, 1)]), I(`td`, null, y((f = (p = t.health) == null ? void 0 : p.users) == null ? `?` : f), 1)], 10, NE)
         }
         ), 128))])])) : r(``, !0)]),
         _: 1
@@ -13414,7 +13556,7 @@ function KE(e, t, n, a, o, s) {
         value: e.session.meta.isPublic,
         disabled: !!e.session.sessionId && !e.isStoryteller || s.hasForcedPrivateUsers,
         onChange: t[3] || (t[3] = (...e) => s.togglePublic && s.togglePublic(...e))
-    }, null, 40, jE), I(`em`, null, [i(y(e.session.meta.isPublic ? e.$t(`session.visibility_public`) : e.$t(`session.visibility_private`)) + ` `, 1), e.session.ping > 0 ? (d(),
+    }, null, 40, FE), I(`em`, null, [i(y(e.session.meta.isPublic ? e.$t(`session.visibility_public`) : e.$t(`session.visibility_private`)) + ` `, 1), e.session.ping > 0 ? (d(),
     F(S, {
         key: 0
     }, [i(` (` + y(e.session.ping) + `ms) `, 1)], 64)) : r(``, !0)]), f(O, {
@@ -13430,18 +13572,18 @@ function KE(e, t, n, a, o, s) {
         value: e.session.meta.tags.locked,
         disabled: !e.session.sessionId || !e.isStoryteller,
         onChange: t[4] || (t[4] = e => s.toggle(`locked`, !0))
-    }, null, 40, ME), e.session.meta.tags.locked ? (d(),
+    }, null, 40, IE), e.session.meta.tags.locked ? (d(),
     F(`em`, {
         key: 0,
         title: e.$t(`session.locked_text`)
-    }, y(e.$t(`session.locked`)), 9, NE)) : e.levels.GROUP.includes(e.user.level) || e.boostDuration() ? (d(),
+    }, y(e.$t(`session.locked`)), 9, LE)) : e.levels.GROUP.includes(e.user.level) || e.boostDuration() ? (d(),
     F(`em`, {
         key: 1,
         title: e.$t(`session.open_text`)
-    }, y(e.$t(`session.free`)), 9, PE)) : (d(),
+    }, y(e.$t(`session.free`)), 9, RE)) : (d(),
     F(S, {
         key: 2
-    }, [I(`em`, null, y(e.$t(`session.subscription_needed`)), 1), I(`a`, FE, [f(O, {
+    }, [I(`em`, null, y(e.$t(`session.subscription_needed`)), 1), I(`a`, zE, [f(O, {
         title: `More info`,
         icon: `info-circle`
     })])], 64)), e.session.sessionId ? (d(),
@@ -13453,7 +13595,7 @@ function KE(e, t, n, a, o, s) {
         class: v([`col`, {
             closed: !e.session.meta.isPublic
         }])
-    }, [I(`h4`, null, y(e.$t(`session.tags`)) + `:`, 1), I(`ul`, IE, [(d(),
+    }, [I(`h4`, null, y(e.$t(`session.tags`)) + `:`, 1), I(`ul`, BE, [(d(),
     F(S, null, p([`difficulty`, `cameras`, `travellers`, `grimoire`], t => I(`li`, {
         key: t,
         title: e.$t(`common.session-tags.${t}.title`),
@@ -13462,36 +13604,36 @@ function KE(e, t, n, a, o, s) {
     }, [I(`span`, {
         role: `button`,
         "aria-label": e.$t(`common.session-tags.${t}.title`)
-    }, y(e.$t(`common.session-tags.${t}.label`)) + `: `, 9, RE), e.session.meta.tags[t] ? e.session.meta.tags[t] === 1 ? (d(),
+    }, y(e.$t(`common.session-tags.${t}.label`)) + `: `, 9, HE), e.session.meta.tags[t] ? e.session.meta.tags[t] === 1 ? (d(),
     F(`em`, {
         key: 1,
         role: `spinbutton`,
         "aria-valuetext": e.$t(`common.session-tags.${t}.value_1`)
-    }, y(e.$t(`common.session-tags.${t}.value_1`)), 9, BE)) : e.session.meta.tags[t] === 2 ? (d(),
+    }, y(e.$t(`common.session-tags.${t}.value_1`)), 9, WE)) : e.session.meta.tags[t] === 2 ? (d(),
     F(`em`, {
         key: 2,
         role: `spinbutton`,
         "aria-valuetext": e.$t(`common.session-tags.${t}.value_2`)
-    }, y(e.$t(`common.session-tags.${t}.value_2`)), 9, VE)) : r(``, !0) : (d(),
+    }, y(e.$t(`common.session-tags.${t}.value_2`)), 9, GE)) : r(``, !0) : (d(),
     F(`em`, {
         key: 0,
         role: `spinbutton`,
         "aria-valuetext": e.$t(`common.session-tags.${t}.value_0`)
-    }, y(e.$t(`common.session-tags.${t}.value_0`)), 9, zE))], 10, LE)), 64)), I(`li`, {
+    }, y(e.$t(`common.session-tags.${t}.value_0`)), 9, UE))], 10, VE)), 64)), I(`li`, {
         title: e.$t(`common.session-tags.streaming.title`),
         class: v({
             "switch-1": e.session.meta.tags.streaming,
             "switch-2": !e.session.meta.tags.streaming
         }),
         onClick: t[5] || (t[5] = e => s.toggle(`streaming`, !0))
-    }, [I(`span`, UE, y(e.$t(`common.session-tags.streaming.label`)) + `:`, 1), e.session.meta.tags.streaming ? (d(),
-    F(`em`, WE, y(e.$t(`common.session-tags.streaming.value_1`)), 1)) : (d(),
-    F(`em`, GE, y(e.$t(`common.session-tags.streaming.value_0`)), 1))], 10, HE)])], 2)])
+    }, [I(`span`, qE, y(e.$t(`common.session-tags.streaming.label`)) + `:`, 1), e.session.meta.tags.streaming ? (d(),
+    F(`em`, JE, y(e.$t(`common.session-tags.streaming.value_1`)), 1)) : (d(),
+    F(`em`, YE, y(e.$t(`common.session-tags.streaming.value_0`)), 1))], 10, KE)])], 2)])
 }
-var qE = B(_E, [[`render`, KE]])
-  , JE = {
+var ZE = B(xE, [[`render`, XE]])
+  , QE = {
     components: {
-        SessionMeta: qE,
+        SessionMeta: ZE,
         Modal: U
     },
     computed: {
@@ -13554,38 +13696,38 @@ var qE = B(_E, [[`render`, KE]])
         }
     }
 }
-  , YE = {
+  , $E = {
     class: `users`
 }
-  , XE = {
+  , eD = {
     key: 0,
     class: `break`
 }
-  , ZE = [`onClick`]
-  , QE = {
+  , tD = [`onClick`]
+  , nD = {
     class: `label`
 }
-  , $E = [`data-tooltip`]
-  , eD = {
+  , rD = [`data-tooltip`]
+  , iD = {
     class: `icons`
 }
-  , tD = [`data-tooltip`, `aria-label`]
-  , nD = [`aria-label`, `data-tooltip`]
-  , rD = [`aria-label`, `data-tooltip`]
-  , iD = [`aria-label`, `data-tooltip`]
   , aD = [`data-tooltip`, `aria-label`]
-  , oD = [`data-tooltip`, `aria-label`]
-  , sD = [`data-tooltip`, `aria-label`]
-  , cD = [`data-tooltip`, `aria-label`]
+  , oD = [`aria-label`, `data-tooltip`]
+  , sD = [`aria-label`, `data-tooltip`]
+  , cD = [`aria-label`, `data-tooltip`]
   , lD = [`data-tooltip`, `aria-label`]
-  , uD = {
+  , uD = [`data-tooltip`, `aria-label`]
+  , dD = [`data-tooltip`, `aria-label`]
+  , fD = [`data-tooltip`, `aria-label`]
+  , pD = [`data-tooltip`, `aria-label`]
+  , mD = {
     class: `notification`
 }
-  , dD = {
+  , hD = {
     key: 0,
     "aria-live": `polite`
 };
-function fD(e, t, n, a, o, s) {
+function gD(e, t, n, a, o, s) {
     let l = c(`SessionMeta`)
       , u = c(`font-awesome-icon`)
       , g = c(`Modal`);
@@ -13600,14 +13742,14 @@ function fD(e, t, n, a, o, s) {
             onClose: t[0] || (t[0] = t => e.toggleModal(e.modal))
         }, {
             header: m( () => [f(l)]),
-            default: m( () => [I(`ul`, YE, [(d(!0),
+            default: m( () => [I(`ul`, $E, [(d(!0),
             F(S, null, p(s.users, (t, n) => {
                 var a, o, c, l, p;
                 return d(),
                 F(S, {
                     key: t.id
                 }, [!n || s.users[n - 1].class !== t.class ? (d(),
-                F(`li`, XE, y(e.$t(`modals.users.type_${t.class}`, s.userCounts[t.class])), 1)) : r(``, !0), I(`li`, {
+                F(`li`, eD, y(e.$t(`modals.users.type_${t.class}`, s.userCounts[t.class])), 1)) : r(``, !0), I(`li`, {
                     class: v({
                         [t.class]: !0,
                         [`level-` + t.level]: t.level,
@@ -13618,17 +13760,17 @@ function fD(e, t, n, a, o, s) {
                         you: t.id === e.user.id
                     }),
                     onClick: e => s.showUser(t.id)
-                }, [I(`div`, QE, [I(`span`, {
+                }, [I(`div`, nD, [I(`span`, {
                     class: `name`,
                     "data-tooltip": t.username + (t.pronouns ? ` (` + t.pronouns + `)` : ``) || null
-                }, y(t.username.substring(0, 50) || e.$t(`common.unnamed_user`)), 9, $E), I(`span`, eD, [t.relation === `block` ? (d(),
+                }, y(t.username.substring(0, 50) || e.$t(`common.unnamed_user`)), 9, rD), I(`span`, iD, [t.relation === `block` ? (d(),
                 F(`span`, {
                     key: 0,
                     "data-tooltip": e.$t(`player.name.blocked`),
                     "aria-label": e.$t(`player.name.blocked`)
                 }, [f(u, {
                     icon: `user-xmark`
-                })], 8, tD)) : r(``, !0), (c = t.flags) != null && c.includes(`newuser`) ? (d(),
+                })], 8, aD)) : r(``, !0), (c = t.flags) != null && c.includes(`newuser`) ? (d(),
                 F(`span`, {
                     key: 1,
                     "aria-label": e.$t(`modals.users.new_user`),
@@ -13636,7 +13778,7 @@ function fD(e, t, n, a, o, s) {
                 }, [f(u, {
                     class: `newuser`,
                     icon: `seedling`
-                })], 8, nD)) : r(``, !0), t.isOnline ? e.levels.GROUP.includes(t.level) ? (d(),
+                })], 8, oD)) : r(``, !0), t.isOnline ? e.levels.GROUP.includes(t.level) ? (d(),
                 F(`span`, {
                     key: 3,
                     "aria-label": e.$t(`modals.users.group_sub`),
@@ -13644,7 +13786,7 @@ function fD(e, t, n, a, o, s) {
                 }, [f(u, {
                     class: `group`,
                     icon: `users`
-                })], 8, iD)) : r(``, !0) : (d(),
+                })], 8, cD)) : r(``, !0) : (d(),
                 F(`span`, {
                     key: 2,
                     "aria-label": e.$t(`modals.users.offline`),
@@ -13652,7 +13794,7 @@ function fD(e, t, n, a, o, s) {
                 }, [f(u, {
                     class: `offline`,
                     icon: `user-slash`
-                })], 8, rD)), t.level === `special-tpi` && ((l = t.cosmetics) == null ? void 0 : l.border) === `tpi` ? (d(),
+                })], 8, sD)), t.level === `special-tpi` && ((l = t.cosmetics) == null ? void 0 : l.border) === `tpi` ? (d(),
                 F(`span`, {
                     key: 4,
                     "data-tooltip": e.$t(`modals.users.official_tpi`),
@@ -13660,7 +13802,7 @@ function fD(e, t, n, a, o, s) {
                 }, [f(u, {
                     class: `tpi`,
                     icon: `star`
-                })], 8, aD)) : r(``, !0), t.level === `special-moderator` && ((p = t.cosmetics) == null ? void 0 : p.border) === `moderator` ? (d(),
+                })], 8, lD)) : r(``, !0), t.level === `special-moderator` && ((p = t.cosmetics) == null ? void 0 : p.border) === `moderator` ? (d(),
                 F(`span`, {
                     key: 5,
                     "data-tooltip": e.$t(`modals.users.official_mod`),
@@ -13668,29 +13810,29 @@ function fD(e, t, n, a, o, s) {
                 }, [f(u, {
                     class: `moderator`,
                     icon: `gavel`
-                })], 8, oD)) : r(``, !0), t.grimoireAccess === 3 ? (d(),
+                })], 8, uD)) : r(``, !0), t.grimoireAccess === 3 ? (d(),
                 F(`span`, {
                     key: 6,
                     "data-tooltip": e.$t(`modals.users.grim_access`),
                     "aria-label": e.$t(`modals.users.grim_access`)
                 }, [f(u, {
                     icon: `book-dead`
-                })], 8, sD)) : r(``, !0), e.storytellerRequests.includes(t.id) ? (d(),
+                })], 8, dD)) : r(``, !0), e.storytellerRequests.includes(t.id) ? (d(),
                 F(`span`, {
                     key: 7,
                     "data-tooltip": e.$t(`modals.users.st_requested`),
                     "aria-label": e.$t(`modals.users.st_requested`)
                 }, [f(u, {
                     icon: `crown`
-                })], 8, cD)) : r(``, !0), t.chat ? (d(),
+                })], 8, fD)) : r(``, !0), t.chat ? (d(),
                 F(`span`, {
                     key: 8,
                     "data-tooltip": e.$t(`modals.users.chat_connection`),
                     "aria-label": e.$t(`modals.users.chat_connection`)
                 }, [f(u, {
                     icon: t.chat
-                }, null, 8, [`icon`])], 8, lD)) : r(``, !0)])]), I(`div`, uD, [t.grimoireAccess === 1 && e.isStoryteller ? (d(),
-                F(`div`, dD, [f(u, {
+                }, null, 8, [`icon`])], 8, pD)) : r(``, !0)])]), I(`div`, mD, [t.grimoireAccess === 1 && e.isStoryteller ? (d(),
+                F(`div`, hD, [f(u, {
                     icon: `book-dead`
                 }), i(` ` + y(e.$t(`modals.users.grim_access`)) + ` `, 1), f(u, {
                     icon: `check-circle`,
@@ -13706,7 +13848,7 @@ function fD(e, t, n, a, o, s) {
                     "aria-hidden": `false`,
                     role: `button`,
                     "aria-label": e.$t(`common.button_cancel`)
-                }, null, 8, [`onClick`, `aria-label`])])) : r(``, !0)])], 10, ZE)], 64)
+                }, null, 8, [`onClick`, `aria-label`])])) : r(``, !0)])], 10, tD)], 64)
             }
             ), 128))])]),
             _: 1
@@ -13714,8 +13856,8 @@ function fD(e, t, n, a, o, s) {
         _: 1
     })
 }
-var pD = B(JE, [[`render`, fD], [`__scopeId`, `data-v-72800ff5`]])
-  , mD = {
+var _D = B(QE, [[`render`, gD], [`__scopeId`, `data-v-72800ff5`]])
+  , vD = {
     components: {
         Modal: U
     },
@@ -13757,18 +13899,18 @@ var pD = B(JE, [[`render`, fD], [`__scopeId`, `data-v-72800ff5`]])
         }
     }
 }
-  , hD = [`placeholder`]
-  , gD = [`placeholder`]
-  , _D = [`placeholder`]
-  , vD = {
+  , yD = [`placeholder`]
+  , bD = [`placeholder`]
+  , xD = [`placeholder`]
+  , SD = {
     class: `button-group`
 }
-  , yD = {
+  , CD = {
     tabindex: `-1`,
     type: `submit`,
     class: `button primary`
 };
-function bD(e, t, n, a, o, s) {
+function wD(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Modal`);
     return d(),
@@ -13789,16 +13931,16 @@ function bD(e, t, n, a, o, s) {
                 "onUpdate:modelValue": t[0] || (t[0] = e => o.title = e),
                 required: ``,
                 placeholder: e.$t(`modals.announcement.input_title`)
-            }, null, 8, hD), [[P, o.title]]), t[6] || (t[6] = I(`br`, null, null, -1)), R(I(`textarea`, {
+            }, null, 8, yD), [[P, o.title]]), t[6] || (t[6] = I(`br`, null, null, -1)), R(I(`textarea`, {
                 ref: `input`,
                 "onUpdate:modelValue": t[1] || (t[1] = e => o.text = e),
                 required: ``,
                 placeholder: e.$t(`modals.announcement.input_text`)
-            }, null, 8, gD), [[P, o.text]]), t[7] || (t[7] = I(`br`, null, null, -1)), R(I(`input`, {
+            }, null, 8, bD), [[P, o.text]]), t[7] || (t[7] = I(`br`, null, null, -1)), R(I(`input`, {
                 type: `text`,
                 "onUpdate:modelValue": t[2] || (t[2] = e => o.sessionName = e),
                 placeholder: e.$t(`modals.announcement.input_session`)
-            }, null, 8, _D), [[P, o.sessionName]]), I(`div`, vD, [I(`button`, yD, [f(l, {
+            }, null, 8, xD), [[P, o.sessionName]]), I(`div`, SD, [I(`button`, CD, [f(l, {
                 icon: `check-circle`
             }), i(` ` + y(e.$t(`common.button_send`)), 1)]), I(`button`, {
                 tabindex: `-1`,
@@ -13813,12 +13955,12 @@ function bD(e, t, n, a, o, s) {
         _: 1
     })
 }
-var xD = B(mD, [[`render`, bD], [`__scopeId`, `data-v-dc9f7d16`]])
-  , SD = {
+var TD = B(vD, [[`render`, wD], [`__scopeId`, `data-v-dc9f7d16`]])
+  , ED = {
     name: `ModerationModal`,
     components: {
         Modal: U,
-        PlayerAvatar: wh
+        PlayerAvatar: Th
     },
     computed: {
         ...A([`session`, `grimoire`, `modal`]),
@@ -13896,7 +14038,7 @@ var xD = B(mD, [[`render`, bD], [`__scopeId`, `data-v-dc9f7d16`]])
             this.isLoading = !0,
             this.users = [],
             this.dirty = [];
-            let {user: t={}, bans: n=[], stats: r} = await _y(`moderator/${this.modal.params.userId}`, this.accessToken);
+            let {user: t={}, bans: n=[], stats: r} = await vy(`moderator/${this.modal.params.userId}`, this.accessToken);
             this.userBan = {
                 id: (n == null || (e = n.find(e => e.userIds.includes(t.id))) == null ? void 0 : e.id) || ``,
                 reason: ``,
@@ -13945,67 +14087,64 @@ var xD = B(mD, [[`render`, bD], [`__scopeId`, `data-v-dc9f7d16`]])
         }
     }
 }
-  , CD = {
+  , DD = {
     id: `moderation`
 }
-  , wD = [`disabled`]
-  , TD = {
+  , OD = [`disabled`]
+  , kD = {
     key: 0
 }
-  , ED = [`onClick`]
-  , DD = [`data-tooltip`]
-  , OD = [`disabled`]
-  , kD = [`disabled`]
-  , AD = {
+  , AD = [`onClick`]
+  , jD = [`data-tooltip`]
+  , MD = [`disabled`]
+  , ND = [`disabled`]
+  , PD = {
     class: `options`
 }
-  , jD = [`checked`, `onChange`]
-  , MD = {
+  , FD = [`checked`, `onChange`]
+  , ID = {
     key: 0
 }
-  , ND = {
+  , LD = {
     class: `ban`
 }
-  , PD = [`value`, `title`]
-  , FD = {
-    key: 0
-}
-  , ID = [`value`, `selected`]
-  , LD = [`value`, `selected`]
-  , RD = [`value`, `selected`]
+  , RD = [`value`, `title`]
   , zD = {
     key: 0
 }
-  , BD = {
-    key: 1
-}
-  , VD = {
-    key: 2
-}
-  , HD = {
-    key: 3
-}
+  , BD = [`value`, `selected`]
+  , VD = [`value`, `selected`]
+  , HD = [`value`, `selected`]
   , UD = {
-    key: 4
-}
-  , WD = {
     key: 0
 }
+  , WD = {
+    key: 1
+}
   , GD = {
+    key: 2
+}
+  , KD = {
+    key: 3
+}
+  , qD = {
+    key: 0
+}
+  , JD = {
     key: 1,
     class: `edition`
 }
-  , KD = {
+  , YD = {
     key: 0
 }
-  , qD = {
+  , XD = {
     key: 1,
     class: `role`
 }
-  , JD = {
+  , ZD = {
     class: `button-group`
 };
-function YD(e, t, n, a, o, s) {
+function QD(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`PlayerAvatar`)
       , g = c(`Modal`);
@@ -14021,7 +14160,7 @@ function YD(e, t, n, a, o, s) {
         }, {
             default: m( () => {
                 var n, a, c, m, g, _, x, C, w;
-                return [I(`div`, CD, [I(`div`, {
+                return [I(`div`, DD, [I(`div`, {
                     class: v([`content`, {
                         loading: o.isLoading
                     }])
@@ -14055,7 +14194,7 @@ function YD(e, t, n, a, o, s) {
                     "onUpdate:modelValue": t[6] || (t[6] = e => o.userEdit.email = e),
                     disabled: e.user.level !== `special-tpi`,
                     required: ``
-                }, null, 8, OD), [[P, o.userEdit.email]])]), I(`label`, null, [t[32] || (t[32] = I(`span`, null, `Level:`, -1)), R(I(`select`, {
+                }, null, 8, MD), [[P, o.userEdit.email]])]), I(`label`, null, [t[32] || (t[32] = I(`span`, null, `Level:`, -1)), R(I(`select`, {
                     "onUpdate:modelValue": t[7] || (t[7] = e => o.userEdit.level = e),
                     disabled: e.user.level !== `special-tpi`,
                     name: `level`
@@ -14073,7 +14212,7 @@ function YD(e, t, n, a, o, s) {
                     value: `special-moderator`
                 }, ` Special: Moderator `, -1), I(`option`, {
                     value: `special-tpi`
-                }, `Special: TPI`, -1)])], 8, kD), [[b, o.userEdit.level]])]), I(`div`, null, [t[33] || (t[33] = I(`span`, null, `Flags:`, -1)), I(`div`, AD, [(d(!0),
+                }, `Special: TPI`, -1)])], 8, ND), [[b, o.userEdit.level]])]), I(`div`, null, [t[33] || (t[33] = I(`span`, null, `Flags:`, -1)), I(`div`, PD, [(d(!0),
                 F(S, null, p(o.flags, (e, t) => {
                     var n, r;
                     return d(),
@@ -14087,10 +14226,10 @@ function YD(e, t, n, a, o, s) {
                         name: `flags`,
                         checked: (r = o.userEdit.flags) == null ? void 0 : r.includes(t),
                         onChange: e => s.toggleFlag(t)
-                    }, null, 40, jD)], 2)
+                    }, null, 40, FD)], 2)
                 }
                 ), 128))])]), (n = o.userEdit.flags) != null && n.includes(`banned`) ? (d(),
-                F(`div`, MD, [t[38] || (t[38] = I(`span`, null, `Banned:`, -1)), I(`div`, ND, [R(I(`select`, {
+                F(`div`, ID, [t[38] || (t[38] = I(`span`, null, `Banned:`, -1)), I(`div`, LD, [R(I(`select`, {
                     required: ``,
                     "onUpdate:modelValue": t[8] || (t[8] = e => o.userBan.id = e),
                     name: `flags`
@@ -14102,10 +14241,10 @@ function YD(e, t, n, a, o, s) {
                     key: e.id,
                     value: e.id,
                     title: e.reason
-                }, y(e.reason.substring(0, 30)) + y(e.reason.length > 30 ? `...` : ``) + ` ` + y(e.expires ? `(until ${o.dtFormat.format(new Date(e.expires))})` : ``), 9, PD))), 128)), t[35] || (t[35] = I(`option`, {
+                }, y(e.reason.substring(0, 30)) + y(e.reason.length > 30 ? `...` : ``) + ` ` + y(e.expires ? `(until ${o.dtFormat.format(new Date(e.expires))})` : ``), 9, RD))), 128)), t[35] || (t[35] = I(`option`, {
                     value: `-1`
                 }, `New Reason`, -1))], 512), [[b, o.userBan.id]]), o.userBan.id === `-1` ? (d(),
-                F(`div`, FD, [I(`label`, null, [t[36] || (t[36] = i(` Reason: `, -1)), R(I(`input`, {
+                F(`div`, zD, [I(`label`, null, [t[36] || (t[36] = i(` Reason: `, -1)), R(I(`input`, {
                     type: `text`,
                     placeholder: `reason`,
                     required: ``,
@@ -14145,7 +14284,7 @@ function YD(e, t, n, a, o, s) {
                         key: e,
                         value: e,
                         selected: (t = o.userEdit.cosmetics.avatars) == null ? void 0 : t.includes(e)
-                    }, y(o.avatars[e]), 9, ID)
+                    }, y(o.avatars[e]), 9, BD)
                 }
                 ), 128))], 512), [[b, o.userEdit.cosmetics.avatars]])]), I(`label`, null, [I(`span`, null, [i(` Special Nameplates: ` + y(((m = o.userEdit.cosmetics.borders) == null ? void 0 : m.length) || ``) + ` `, 1), (g = o.userEdit.cosmetics.borders) != null && g.length ? (d(),
                 h(l, {
@@ -14164,7 +14303,7 @@ function YD(e, t, n, a, o, s) {
                         key: e,
                         value: e,
                         selected: (t = o.userEdit.cosmetics.borders) == null ? void 0 : t.includes(e)
-                    }, y(o.borders[e]), 9, LD)
+                    }, y(o.borders[e]), 9, VD)
                 }
                 ), 128))], 512), [[b, o.userEdit.cosmetics.borders]])]), I(`label`, null, [I(`span`, null, [i(` Special Emotes: ` + y(((_ = o.userEdit.cosmetics.emotes) == null ? void 0 : _.length) || ``) + ` `, 1), (x = o.userEdit.cosmetics.emotes) != null && x.length ? (d(),
                 h(l, {
@@ -14183,31 +14322,30 @@ function YD(e, t, n, a, o, s) {
                         key: e,
                         value: e,
                         selected: (t = o.userEdit.cosmetics.emotes) == null ? void 0 : t.includes(e)
-                    }, y(o.emotes[e]), 9, RD)
+                    }, y(o.emotes[e]), 9, HD)
                 }
-                ), 128))], 512), [[b, o.userEdit.cosmetics.emotes]])])]), I(`section`, null, [o.userEdit.patreonId ? (d(),
-                F(`label`, zD, [t[41] || (t[41] = I(`span`, null, `Patreon ID:`, -1)), I(`b`, null, y(o.userEdit.patreonId), 1)])) : r(``, !0), I(`label`, null, [t[42] || (t[42] = I(`span`, null, `Registered:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(o.userEdit.createdAt))), 1)]), I(`label`, null, [t[43] || (t[43] = I(`span`, null, `Avatar:`, -1)), f(u, {
+                ), 128))], 512), [[b, o.userEdit.cosmetics.emotes]])])]), I(`section`, null, [I(`label`, null, [t[41] || (t[41] = I(`span`, null, `Registered:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(o.userEdit.createdAt))), 1)]), I(`label`, null, [t[42] || (t[42] = I(`span`, null, `Avatar:`, -1)), f(u, {
                     user: o.userEdit,
                     class: `avatar`
-                }, null, 8, [`user`])]), I(`label`, null, [t[44] || (t[44] = I(`span`, null, `Last Login:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(((C = o.userEdit.Tokens[0]) == null ? void 0 : C.createdAt) || o.userEdit.updatedAt))), 1)]), o.userEdit.Tokens.length ? (d(),
-                F(`label`, BD, [t[45] || (t[45] = I(`span`, null, `Last Online:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(o.userEdit.Tokens[0].updatedAt))), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
-                F(`label`, VD, [t[46] || (t[46] = I(`span`, null, `Last Version:`, -1)), I(`b`, null, y(o.userEdit.Tokens[0].version), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
-                F(`label`, HD, [t[47] || (t[47] = I(`span`, null, `Last IP:`, -1)), I(`b`, null, y(o.userEdit.Tokens[0].ip), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
-                F(`label`, UD, [t[48] || (t[48] = I(`span`, null, `Last User Agent:`, -1)), I(`small`, null, y(o.userEdit.Tokens[0].agent), 1)])) : r(``, !0), (w = o.stats) != null && w.games ? (d(),
+                }, null, 8, [`user`])]), I(`label`, null, [t[43] || (t[43] = I(`span`, null, `Last Login:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(((C = o.userEdit.Tokens[0]) == null ? void 0 : C.createdAt) || o.userEdit.updatedAt))), 1)]), o.userEdit.Tokens.length ? (d(),
+                F(`label`, UD, [t[44] || (t[44] = I(`span`, null, `Last Online:`, -1)), I(`b`, null, y(o.dtFormat.format(new Date(o.userEdit.Tokens[0].updatedAt))), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
+                F(`label`, WD, [t[45] || (t[45] = I(`span`, null, `Last Version:`, -1)), I(`b`, null, y(o.userEdit.Tokens[0].version), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
+                F(`label`, GD, [t[46] || (t[46] = I(`span`, null, `Last IP:`, -1)), I(`b`, null, y(o.userEdit.Tokens[0].ip), 1)])) : r(``, !0), o.userEdit.Tokens.length ? (d(),
+                F(`label`, KD, [t[47] || (t[47] = I(`span`, null, `Last User Agent:`, -1)), I(`small`, null, y(o.userEdit.Tokens[0].agent), 1)])) : r(``, !0), (w = o.stats) != null && w.games ? (d(),
                 F(S, {
-                    key: 5
+                    key: 4
                 }, [I(`label`, null, [I(`span`, null, y(e.$t(`user.stats.storyteller`)), 1), I(`b`, null, y(o.stats.storyteller), 1)]), I(`label`, null, [I(`span`, null, y(e.$t(`user.stats.player`)), 1), I(`b`, null, y(o.stats.player), 1)]), I(`label`, null, [I(`span`, null, y(e.$t(`user.stats.edition`)), 1), o.stats.editions.length ? (d(),
-                F(`b`, GD, y(o.stats.editions[0].id) + `: ` + y(o.stats.editions[0].value), 1)) : (d(),
-                F(`b`, WD, y(e.$t(`user.stats.none`)), 1))]), I(`label`, null, [I(`span`, null, y(e.$t(`user.stats.role`)), 1), o.stats.roles.length ? (d(),
-                F(`b`, qD, y(o.stats.roles[0].id) + `: ` + y(o.stats.roles[0].value), 1)) : (d(),
-                F(`b`, KD, y(e.$t(`user.stats.none`)), 1))])], 64)) : r(``, !0), o.userEdit.SessionName ? (d(),
+                F(`b`, JD, y(o.stats.editions[0].id) + `: ` + y(o.stats.editions[0].value), 1)) : (d(),
+                F(`b`, qD, y(e.$t(`user.stats.none`)), 1))]), I(`label`, null, [I(`span`, null, y(e.$t(`user.stats.role`)), 1), o.stats.roles.length ? (d(),
+                F(`b`, XD, y(o.stats.roles[0].id) + `: ` + y(o.stats.roles[0].value), 1)) : (d(),
+                F(`b`, YD, y(e.$t(`user.stats.none`)), 1))])], 64)) : r(``, !0), o.userEdit.SessionName ? (d(),
                 F(`label`, {
-                    key: 6,
+                    key: 5,
                     onClick: t[19] || (t[19] = e => s.joinSession(o.userEdit.SessionName)),
                     class: v({
                         clickable: !e.session.sessionId
                     })
-                }, [t[49] || (t[49] = I(`span`, null, `Current Session:`, -1)), I(`small`, null, y(o.userEdit.SessionName), 1)], 2)) : r(``, !0)]), I(`div`, JD, [I(`button`, {
+                }, [t[48] || (t[48] = I(`span`, null, `Current Session:`, -1)), I(`small`, null, y(o.userEdit.SessionName), 1)], 2)) : r(``, !0)]), I(`div`, ZD, [I(`button`, {
                     type: `submit`,
                     class: v([`button`, {
                         disabled: !o.dirty.length,
@@ -14231,8 +14369,8 @@ function YD(e, t, n, a, o, s) {
                     type: `submit`,
                     class: `button`,
                     disabled: !o.query
-                }, ` Search `, 8, wD)], 32), o.users.length ? (d(),
-                F(`table`, TD, [t[24] || (t[24] = I(`thead`, null, [I(`tr`, null, [I(`th`, null, `ID`), I(`th`, null, `Username`), I(`th`, null, `Pronouns`), I(`th`, null, `Email`), I(`th`, null, `Level`), I(`th`, null, `Flags`), I(`th`, null, `Cosmetics`), I(`th`, null, `Registered`), I(`th`, null, `Last Login`), I(`th`, null, `Last IP`), I(`th`, null, `Last User Agent`), I(`th`, null, `Last App Version`)])], -1)), I(`tbody`, null, [(d(!0),
+                }, ` Search `, 8, OD)], 32), o.users.length ? (d(),
+                F(`table`, kD, [t[24] || (t[24] = I(`thead`, null, [I(`tr`, null, [I(`th`, null, `ID`), I(`th`, null, `Username`), I(`th`, null, `Pronouns`), I(`th`, null, `Email`), I(`th`, null, `Level`), I(`th`, null, `Flags`), I(`th`, null, `Cosmetics`), I(`th`, null, `Registered`), I(`th`, null, `Last Login`), I(`th`, null, `Last IP`), I(`th`, null, `Last User Agent`), I(`th`, null, `Last App Version`)])], -1)), I(`tbody`, null, [(d(!0),
                 F(S, null, p(o.users, t => {
                     var n, r, i, a, s;
                     return d(),
@@ -14246,7 +14384,7 @@ function YD(e, t, n, a, o, s) {
                     }, y(t) + `: ` + y(e), 1))), 128))]), I(`td`, null, y(o.dtFormat.format(new Date(t.createdAt))), 1), I(`td`, null, y(t.Tokens.length && o.dtFormat.format(new Date((n = t.Tokens[0]) == null ? void 0 : n.createdAt)) || ``), 1), I(`td`, null, y(t.Tokens.length && ((r = t.Tokens[0]) == null ? void 0 : r.ip) || ``), 1), I(`td`, {
                         class: `short`,
                         "data-tooltip": (i = t.Tokens[0]) == null ? void 0 : i.agent
-                    }, y(t.Tokens.length && ((a = t.Tokens[0]) == null ? void 0 : a.agent.substring(0, 20)) || ``), 9, DD), I(`td`, null, y(t.Tokens.length && ((s = t.Tokens[0]) == null ? void 0 : s.version) || ``), 1)], 8, ED)
+                    }, y(t.Tokens.length && ((a = t.Tokens[0]) == null ? void 0 : a.agent.substring(0, 20)) || ``), 9, jD), I(`td`, null, y(t.Tokens.length && ((s = t.Tokens[0]) == null ? void 0 : s.version) || ``), 1)], 8, AD)
                 }
                 ), 128))])])) : r(``, !0), o.count && o.count > o.users.length ? (d(),
                 F(S, {
@@ -14273,11 +14411,11 @@ function YD(e, t, n, a, o, s) {
         _: 1
     })
 }
-var XD = B(SD, [[`render`, YD], [`__scopeId`, `data-v-086916e1`]])
-  , ZD = {
+var $D = B(ED, [[`render`, QD], [`__scopeId`, `data-v-77300e22`]])
+  , eO = {
     name: `UserModal`,
     components: {
-        User: my,
+        User: hy,
         Modal: U
     },
     computed: {
@@ -14315,7 +14453,7 @@ var XD = B(SD, [[`render`, YD], [`__scopeId`, `data-v-086916e1`]])
             },
             this.stats = {},
             this.modal.params.userId)) {
-                let {user: e, stats: t} = await _y(`user/${this.modal.params.userId}`, this.accessToken);
+                let {user: e, stats: t} = await vy(`user/${this.modal.params.userId}`, this.accessToken);
                 this.user = e == null ? {
                     error: !0
                 } : e,
@@ -14399,20 +14537,20 @@ var XD = B(SD, [[`render`, YD], [`__scopeId`, `data-v-086916e1`]])
         }
     }
 }
-  , QD = {
+  , tO = {
     class: `loader`
 }
-  , $D = {
+  , nO = {
     class: `content`
 }
-  , eO = {
+  , rO = {
     key: 1,
     class: `error`
 }
-  , tO = {
+  , iO = {
     class: `button-group`
 };
-function nO(e, t, n, a, o, s) {
+function aO(e, t, n, a, o, s) {
     let l = c(`User`)
       , u = c(`font-awesome-icon`)
       , p = c(`Modal`);
@@ -14433,15 +14571,15 @@ function nO(e, t, n, a, o, s) {
                     class: v({
                         loading: (n = o.user) == null ? void 0 : n.loading
                     })
-                }, [I(`div`, QD, y(e.$t(`modals.user.loading`)), 1), I(`div`, $D, [I(`h4`, null, y(e.$t(`modals.user.title`)), 1), o.user.error ? (d(),
-                F(`div`, eO, [f(u, {
+                }, [I(`div`, tO, y(e.$t(`modals.user.loading`)), 1), I(`div`, nO, [I(`h4`, null, y(e.$t(`modals.user.title`)), 1), o.user.error ? (d(),
+                F(`div`, rO, [f(u, {
                     icon: `exclamation-triangle`
                 }), i(` ` + y(e.$t(`modals.user.error`)), 1)])) : (d(),
                 h(l, {
                     key: 0,
                     stats: o.stats,
                     user: o.user
-                }, null, 8, [`stats`, `user`])), I(`div`, tO, [e.session.users.has(o.user.id) ? (d(),
+                }, null, 8, [`stats`, `user`])), I(`div`, iO, [e.session.users.has(o.user.id) ? (d(),
                 F(S, {
                     key: 0
                 }, [e.isStoryteller || e.isModerator ? (d(),
@@ -14515,9 +14653,9 @@ function nO(e, t, n, a, o, s) {
         _: 1
     })
 }
-var rO = B(ZD, [[`render`, nO], [`__scopeId`, `data-v-ed68570c`]])
-  , iO = JSON.parse(`[{"name":"Afghanistan","prefix":"+93","emoji":"🇦🇫","code":"AF","timezone":"Asia/Kabul"},{"name":"Aland Islands","prefix":"+358","emoji":"🇦🇽","code":"AX","timezone":"Europe/Mariehamn"},{"name":"Albania","prefix":"+355","emoji":"🇦🇱","code":"AL","timezone":"Europe/Tirane"},{"name":"Algeria","prefix":"+213","emoji":"🇩🇿","code":"DZ","timezone":"Africa/Algiers"},{"name":"AmericanSamoa","prefix":"+1684","emoji":"🇦🇸","code":"AS","timezone":"Pacific/Pago_Pago"},{"name":"Andorra","prefix":"+376","emoji":"🇦🇩","code":"AD","timezone":"Europe/Andorra"},{"name":"Angola","prefix":"+244","emoji":"🇦🇴","code":"AO","timezone":"Africa/Luanda"},{"name":"Anguilla","prefix":"+1264","emoji":"🇦🇮","code":"AI","timezone":"America/Anguilla"},{"name":"Antarctica","prefix":"+672","emoji":"🇦🇶","code":"AQ","timezone":"Antarctica/McMurdo"},{"name":"Antigua and Barbuda","prefix":"+1268","emoji":"🇦🇬","code":"AG","timezone":"America/Antigua"},{"name":"Argentina","prefix":"+54","emoji":"🇦🇷","code":"AR","timezone":"America/Argentina/Buenos_Aires"},{"name":"Armenia","prefix":"+374","emoji":"🇦🇲","code":"AM","timezone":"Asia/Yerevan"},{"name":"Aruba","prefix":"+297","emoji":"🇦🇼","code":"AW","timezone":"America/Aruba"},{"name":"Australia","prefix":"+61","emoji":"🇦🇺","code":"AU","timezone":"Australia/Sydney"},{"name":"Austria","prefix":"+43","emoji":"🇦🇹","code":"AT","timezone":"Europe/Vienna"},{"name":"Azerbaijan","prefix":"+994","emoji":"🇦🇿","code":"AZ","timezone":"Asia/Baku"},{"name":"Bahamas","prefix":"+1242","emoji":"🇧🇸","code":"BS","timezone":"America/Nassau"},{"name":"Bahrain","prefix":"+973","emoji":"🇧🇭","code":"BH","timezone":"Asia/Bahrain"},{"name":"Bangladesh","prefix":"+880","emoji":"🇧🇩","code":"BD","timezone":"Asia/Dhaka"},{"name":"Barbados","prefix":"+1246","emoji":"🇧🇧","code":"BB","timezone":"America/Barbados"},{"name":"Belarus","prefix":"+375","emoji":"🇧🇾","code":"BY","timezone":"Europe/Minsk"},{"name":"Belgium","prefix":"+32","emoji":"🇧🇪","code":"BE","timezone":"Europe/Brussels"},{"name":"Belize","prefix":"+501","emoji":"🇧🇿","code":"BZ","timezone":"America/Belize"},{"name":"Benin","prefix":"+229","emoji":"🇧🇯","code":"BJ","timezone":"Africa/Porto-Novo"},{"name":"Bermuda","prefix":"+1441","emoji":"🇧🇲","code":"BM","timezone":"Atlantic/Bermuda"},{"name":"Bhutan","prefix":"+975","emoji":"🇧🇹","code":"BT","timezone":"Asia/Thimphu"},{"name":"Bolivia, Plurinational State of","prefix":"+591","emoji":"🇧🇴","code":"BO","timezone":"America/La_Paz"},{"name":"Bosnia and Herzegovina","prefix":"+387","emoji":"🇧🇦","code":"BA","timezone":"Europe/Sarajevo"},{"name":"Botswana","prefix":"+267","emoji":"🇧🇼","code":"BW","timezone":"Africa/Gaborone"},{"name":"Brazil","prefix":"+55","emoji":"🇧🇷","code":"BR","timezone":"America/Sao_Paulo"},{"name":"British Indian Ocean Territory","prefix":"+246","emoji":"🇮🇴","code":"IO","timezone":"Indian/Chagos"},{"name":"Brunei Darussalam","prefix":"+673","emoji":"🇧🇳","code":"BN","timezone":"Asia/Brunei"},{"name":"Bulgaria","prefix":"+359","emoji":"🇧🇬","code":"BG","timezone":"Europe/Sofia"},{"name":"Burkina Faso","prefix":"+226","emoji":"🇧🇫","code":"BF","timezone":"Africa/Ouagadougou"},{"name":"Burundi","prefix":"+257","emoji":"🇧🇮","code":"BI","timezone":"Africa/Bujumbura"},{"name":"Cambodia","prefix":"+855","emoji":"🇰🇭","code":"KH","timezone":"Asia/Phnom_Penh"},{"name":"Cameroon","prefix":"+237","emoji":"🇨🇲","code":"CM","timezone":"Africa/Douala"},{"name":"Canada","prefix":"+1","emoji":"🇨🇦","code":"CA","timezone":"America/Toronto"},{"name":"Cape Verde","prefix":"+238","emoji":"🇨🇻","code":"CV","timezone":"Atlantic/Cape_Verde"},{"name":"Cayman Islands","prefix":"+345","emoji":"🇰🇾","code":"KY","timezone":"America/Cayman"},{"name":"Central African Republic","prefix":"+236","emoji":"🇨🇫","code":"CF","timezone":"Africa/Bangui"},{"name":"Chad","prefix":"+235","emoji":"🇹🇩","code":"TD","timezone":"Africa/Ndjamena"},{"name":"Chile","prefix":"+56","emoji":"🇨🇱","code":"CL","timezone":"America/Santiago"},{"name":"China","prefix":"+86","emoji":"🇨🇳","code":"CN","timezone":"Asia/Shanghai"},{"name":"Christmas Island","prefix":"+61","emoji":"🇨🇽","code":"CX","timezone":"Indian/Christmas"},{"name":"Cocos (Keeling) Islands","prefix":"+61","emoji":"🇨🇨","code":"CC","timezone":"Indian/Cocos"},{"name":"Colombia","prefix":"+57","emoji":"🇨🇴","code":"CO","timezone":"America/Bogota"},{"name":"Comoros","prefix":"+269","emoji":"🇰🇲","code":"KM","timezone":"Indian/Comoro"},{"name":"Congo","prefix":"+242","emoji":"🇨🇬","code":"CG","timezone":"Africa/Brazzaville"},{"name":"Congo, The Democratic Republic of the Congo","prefix":"+243","emoji":"🇨🇩","code":"CD","timezone":"Africa/Kinshasa"},{"name":"Cook Islands","prefix":"+682","emoji":"🇨🇰","code":"CK","timezone":"Pacific/Rarotonga"},{"name":"Costa Rica","prefix":"+506","emoji":"🇨🇷","code":"CR","timezone":"America/Costa_Rica"},{"name":"Cote d'Ivoire","prefix":"+225","emoji":"🇨🇮","code":"CI","timezone":"Africa/Abidjan"},{"name":"Croatia","prefix":"+385","emoji":"🇭🇷","code":"HR","timezone":"Europe/Zagreb"},{"name":"Cuba","prefix":"+53","emoji":"🇨🇺","code":"CU","timezone":"America/Havana"},{"name":"Cyprus","prefix":"+357","emoji":"🇨🇾","code":"CY","timezone":"Asia/Nicosia"},{"name":"Czech Republic","prefix":"+420","emoji":"🇨🇿","code":"CZ","timezone":"Europe/Prague"},{"name":"Denmark","prefix":"+45","emoji":"🇩🇰","code":"DK","timezone":"Europe/Copenhagen"},{"name":"Djibouti","prefix":"+253","emoji":"🇩🇯","code":"DJ","timezone":"Africa/Djibouti"},{"name":"Dominica","prefix":"+1767","emoji":"🇩🇲","code":"DM","timezone":"America/Dominica"},{"name":"Dominican Republic","prefix":"+1849","emoji":"🇩🇴","code":"DO","timezone":"America/Santo_Domingo"},{"name":"Ecuador","prefix":"+593","emoji":"🇪🇨","code":"EC","timezone":"America/Guayaquil"},{"name":"Egypt","prefix":"+20","emoji":"🇪🇬","code":"EG","timezone":"Africa/Cairo"},{"name":"El Salvador","prefix":"+503","emoji":"🇸🇻","code":"SV","timezone":"America/El_Salvador"},{"name":"Equatorial Guinea","prefix":"+240","emoji":"🇬🇶","code":"GQ","timezone":"Africa/Malabo"},{"name":"Eritrea","prefix":"+291","emoji":"🇪🇷","code":"ER","timezone":"Africa/Asmara"},{"name":"Estonia","prefix":"+372","emoji":"🇪🇪","code":"EE","timezone":"Europe/Tallinn"},{"name":"Ethiopia","prefix":"+251","emoji":"🇪🇹","code":"ET","timezone":"Africa/Addis_Ababa"},{"name":"Falkland Islands (Malvinas)","prefix":"+500","emoji":"🇫🇰","code":"FK","timezone":"Atlantic/Stanley"},{"name":"Faroe Islands","prefix":"+298","emoji":"🇫🇴","code":"FO","timezone":"Atlantic/Faroe"},{"name":"Fiji","prefix":"+679","emoji":"🇫🇯","code":"FJ","timezone":"Pacific/Fiji"},{"name":"Finland","prefix":"+358","emoji":"🇫🇮","code":"FI","timezone":"Europe/Helsinki"},{"name":"France","prefix":"+33","emoji":"🇫🇷","code":"FR","timezone":"Europe/Paris"},{"name":"French Guiana","prefix":"+594","emoji":"🇬🇫","code":"GF","timezone":"America/Cayenne"},{"name":"French Polynesia","prefix":"+689","emoji":"🇵🇫","code":"PF","timezone":"Pacific/Tahiti"},{"name":"Gabon","prefix":"+241","emoji":"🇬🇦","code":"GA","timezone":"Africa/Libreville"},{"name":"Gambia","prefix":"+220","emoji":"🇬🇲","code":"GM","timezone":"Africa/Banjul"},{"name":"Georgia","prefix":"+995","emoji":"🇬🇪","code":"GE","timezone":"Asia/Tbilisi"},{"name":"Germany","prefix":"+49","emoji":"🇩🇪","code":"DE","timezone":"Europe/Berlin"},{"name":"Ghana","prefix":"+233","emoji":"🇬🇭","code":"GH","timezone":"Africa/Accra"},{"name":"Gibraltar","prefix":"+350","emoji":"🇬🇮","code":"GI","timezone":"Europe/Gibraltar"},{"name":"Greece","prefix":"+30","emoji":"🇬🇷","code":"GR","timezone":"Europe/Athens"},{"name":"Greenland","prefix":"+299","emoji":"🇬🇱","code":"GL","timezone":"America/Godthab"},{"name":"Grenada","prefix":"+1473","emoji":"🇬🇩","code":"GD","timezone":"America/Grenada"},{"name":"Guadeloupe","prefix":"+590","emoji":"🇬🇵","code":"GP","timezone":"America/Guadeloupe"},{"name":"Guam","prefix":"+1671","emoji":"🇬🇺","code":"GU","timezone":"Pacific/Guam"},{"name":"Guatemala","prefix":"+502","emoji":"🇬🇹","code":"GT","timezone":"America/Guatemala"},{"name":"Guernsey","prefix":"+44","emoji":"🇬🇬","code":"GG","timezone":"Europe/Guernsey"},{"name":"Guinea","prefix":"+224","emoji":"🇬🇳","code":"GN","timezone":"Africa/Conakry"},{"name":"Guinea-Bissau","prefix":"+245","emoji":"🇬🇼","code":"GW","timezone":"Africa/Bissau"},{"name":"Guyana","prefix":"+592","emoji":"🇬🇾","code":"GY","timezone":"America/Guyana"},{"name":"Haiti","prefix":"+509","emoji":"🇭🇹","code":"HT","timezone":"America/Port-au-Prince"},{"name":"Holy See (Vatican City State)","prefix":"+379","emoji":"🇻🇦","code":"VA","timezone":"Europe/Vatican"},{"name":"Honduras","prefix":"+504","emoji":"🇭🇳","code":"HN","timezone":"America/Tegucigalpa"},{"name":"Hong Kong","prefix":"+852","emoji":"🇭🇰","code":"HK","timezone":"Asia/Hong_Kong"},{"name":"Hungary","prefix":"+36","emoji":"🇭🇺","code":"HU","timezone":"Europe/Budapest"},{"name":"Iceland","prefix":"+354","emoji":"🇮🇸","code":"IS","timezone":"Atlantic/Reykjavik"},{"name":"India","prefix":"+91","emoji":"🇮🇳","code":"IN","timezone":"Asia/Kolkata"},{"name":"Indonesia","prefix":"+62","emoji":"🇮🇩","code":"ID","timezone":"Asia/Jakarta"},{"name":"Iran, Islamic Republic of Persian Gulf","prefix":"+98","emoji":"🇮🇷","code":"IR","timezone":"Asia/Tehran"},{"name":"Iraq","prefix":"+964","emoji":"🇮🇷","code":"IQ","timezone":"Asia/Baghdad"},{"name":"Ireland","prefix":"+353","emoji":"🇮🇪","code":"IE","timezone":"Europe/Dublin"},{"name":"Isle of Man","prefix":"+44","emoji":"🇮🇲","code":"IM","timezone":"Europe/Isle_of_Man"},{"name":"Israel","prefix":"+972","emoji":"🇮🇱","code":"IL","timezone":"Asia/Jerusalem"},{"name":"Italy","prefix":"+39","emoji":"🇮🇹","code":"IT","timezone":"Europe/Rome"},{"name":"Jamaica","prefix":"+1876","emoji":"🇯🇲","code":"JM","timezone":"America/Jamaica"},{"name":"Japan","prefix":"+81","emoji":"🇯🇵","code":"JP","timezone":"Asia/Tokyo"},{"name":"Jersey","prefix":"+44","emoji":"🇯🇪","code":"JE","timezone":"Europe/Jersey"},{"name":"Jordan","prefix":"+962","emoji":"🇯🇴","code":"JO","timezone":"Asia/Amman"},{"name":"Kazakhstan","prefix":"+77","emoji":"🇰🇿","code":"KZ","timezone":"Asia/Almaty"},{"name":"Kenya","prefix":"+254","emoji":"🇰🇪","code":"KE","timezone":"Africa/Nairobi"},{"name":"Kiribati","prefix":"+686","emoji":"🇰🇮","code":"KI","timezone":"Pacific/Tarawa"},{"name":"Korea, Democratic People's Republic of Korea","prefix":"+850","emoji":"🇰🇵","code":"KP","timezone":"Asia/Pyongyang"},{"name":"Korea, Republic of South Korea","prefix":"+82","emoji":"🇰🇷","code":"KR","timezone":"Asia/Seoul"},{"name":"Kuwait","prefix":"+965","emoji":"🇰🇼","code":"KW","timezone":"Asia/Kuwait"},{"name":"Kyrgyzstan","prefix":"+996","emoji":"🇰🇬","code":"KG","timezone":"Asia/Bishkek"},{"name":"Laos","prefix":"+856","emoji":"🇱🇦","code":"LA","timezone":"Asia/Vientiane"},{"name":"Latvia","prefix":"+371","emoji":"🇱🇻","code":"LV","timezone":"Europe/Riga"},{"name":"Lebanon","prefix":"+961","emoji":"🇱🇧","code":"LB","timezone":"Asia/Beirut"},{"name":"Lesotho","prefix":"+266","emoji":"🇱🇸","code":"LS","timezone":"Africa/Maseru"},{"name":"Liberia","prefix":"+231","emoji":"🇱🇷","code":"LR","timezone":"Africa/Monrovia"},{"name":"Libyan Arab Jamahiriya","prefix":"+218","emoji":"🇱🇾","code":"LY","timezone":"Africa/Tripoli"},{"name":"Liechtenstein","prefix":"+423","emoji":"🇱🇮","code":"LI","timezone":"Europe/Vaduz"},{"name":"Lithuania","prefix":"+370","emoji":"🇱🇹","code":"LT","timezone":"Europe/Vilnius"},{"name":"Luxembourg","prefix":"+352","emoji":"🇱🇺","code":"LU","timezone":"Europe/Luxembourg"},{"name":"Macao","prefix":"+853","emoji":"🇲🇴","code":"MO","timezone":"Asia/Macau"},{"name":"Macedonia","prefix":"+389","emoji":"🇲🇰","code":"MK","timezone":"Europe/Skopje"},{"name":"Madagascar","prefix":"+261","emoji":"🇲🇬","code":"MG","timezone":"Indian/Antananarivo"},{"name":"Malawi","prefix":"+265","emoji":"🇲🇼","code":"MW","timezone":"Africa/Blantyre"},{"name":"Malaysia","prefix":"+60","emoji":"🇲🇾","code":"MY","timezone":"Asia/Kuala_Lumpur"},{"name":"Maldives","prefix":"+960","emoji":"🇲🇻","code":"MV","timezone":"Indian/Maldives"},{"name":"Mali","prefix":"+223","emoji":"🇲🇱","code":"ML","timezone":"Africa/Bamako"},{"name":"Malta","prefix":"+356","emoji":"🇲🇹","code":"MT","timezone":"Europe/Malta"},{"name":"Marshall Islands","prefix":"+692","emoji":"🇲🇭","code":"MH","timezone":"Pacific/Majuro"},{"name":"Martinique","prefix":"+596","emoji":"🇲🇶","code":"MQ","timezone":"America/Martinique"},{"name":"Mauritania","prefix":"+222","emoji":"🇲🇷","code":"MR","timezone":"Africa/Nouakchott"},{"name":"Mauritius","prefix":"+230","emoji":"🇲🇺","code":"MU","timezone":"Indian/Mauritius"},{"name":"Mayotte","prefix":"+262","emoji":"🇾🇹","code":"YT","timezone":"Indian/Mayotte"},{"name":"Mexico","prefix":"+52","emoji":"🇲🇽","code":"MX","timezone":"America/Mexico_City"},{"name":"Micronesia, Federated States of Micronesia","prefix":"+691","emoji":"🇫🇲","code":"FM","timezone":"Pacific/Chuuk"},{"name":"Moldova","prefix":"+373","emoji":"🇲🇩","code":"MD","timezone":"Europe/Chisinau"},{"name":"Monaco","prefix":"+377","emoji":"🇲🇨","code":"MC","timezone":"Europe/Monaco"},{"name":"Mongolia","prefix":"+976","emoji":"🇲🇳","code":"MN","timezone":"Asia/Ulaanbaatar"},{"name":"Montenegro","prefix":"+382","emoji":"🇲🇪","code":"ME","timezone":"Europe/Podgorica"},{"name":"Montserrat","prefix":"+1664","emoji":"🇲🇸","code":"MS","timezone":"America/Montserrat"},{"name":"Morocco","prefix":"+212","emoji":"🇲🇦","code":"MA","timezone":"Africa/Casablanca"},{"name":"Mozambique","prefix":"+258","emoji":"🇲🇿","code":"MZ","timezone":"Africa/Maputo"},{"name":"Myanmar","prefix":"+95","emoji":"🇲🇲","code":"MM","timezone":"Asia/Yangon"},{"name":"Namibia","emoji":"🇳🇦","prefix":"+264","code":"NA","timezone":"Africa/Windhoek"},{"name":"Nauru","prefix":"+674","emoji":"🇳🇷","code":"NR","timezone":"Pacific/Nauru"},{"name":"Nepal","prefix":"+977","emoji":"🇳🇵","code":"NP","timezone":"Asia/Kathmandu"},{"name":"Netherlands","prefix":"+31","emoji":"🇳🇱","code":"NL","timezone":"Europe/Amsterdam"},{"name":"Netherlands Antilles","prefix":"+599","emoji":"🇧🇶","code":"AN","timezone":"America/Curacao"},{"name":"New Caledonia","prefix":"+687","emoji":"🇳🇨","code":"NC","timezone":"Pacific/Noumea"},{"name":"New Zealand","prefix":"+64","emoji":"🇳🇿","code":"NZ","timezone":"Pacific/Auckland"},{"name":"Nicaragua","prefix":"+505","emoji":"🇳🇮","code":"NI","timezone":"America/Managua"},{"name":"Niger","prefix":"+227","emoji":"🇳🇪","code":"NE","timezone":"Africa/Niamey"},{"name":"Nigeria","prefix":"+234","emoji":"🇳🇬","code":"NG","timezone":"Africa/Lagos"},{"name":"Niue","prefix":"+683","emoji":"🇳🇺","code":"NU","timezone":"Pacific/Niue"},{"name":"Norfolk Island","prefix":"+672","emoji":"🇳🇫","code":"NF","timezone":"Pacific/Norfolk"},{"name":"Northern Mariana Islands","prefix":"+1670","emoji":"🇲🇵","code":"MP","timezone":"Pacific/Saipan"},{"name":"Norway","prefix":"+47","emoji":"🇳🇴","code":"NO","timezone":"Europe/Oslo"},{"name":"Oman","prefix":"+968","emoji":"🇴🇲","code":"OM","timezone":"Asia/Muscat"},{"name":"Pakistan","prefix":"+92","emoji":"🇵🇰","code":"PK","timezone":"Asia/Karachi"},{"name":"Palau","prefix":"+680","emoji":"🇵🇼","code":"PW","timezone":"Pacific/Palau"},{"name":"Palestinian Territory, Occupied","prefix":"+970","emoji":"🇵🇸","code":"PS","timezone":"Asia/Hebron"},{"name":"Panama","prefix":"+507","emoji":"🇵🇦","code":"PA","timezone":"America/Panama"},{"name":"Papua New Guinea","prefix":"+675","emoji":"🇵🇬","code":"PG","timezone":"Pacific/Port_Moresby"},{"name":"Paraguay","prefix":"+595","emoji":"🇵🇾","code":"PY","timezone":"America/Asuncion"},{"name":"Peru","prefix":"+51","emoji":"🇵🇪","code":"PE","timezone":"America/Lima"},{"name":"Philippines","prefix":"+63","emoji":"🇵🇭","code":"PH","timezone":"Asia/Manila"},{"name":"Pitcairn","prefix":"+872","emoji":"🇵🇳","code":"PN","timezone":"Pacific/Pitcairn"},{"name":"Poland","prefix":"+48","emoji":"🇵🇱","code":"PL","timezone":"Europe/Warsaw"},{"name":"Portugal","prefix":"+351","emoji":"🇵🇹","code":"PT","timezone":"Europe/Lisbon"},{"name":"Puerto Rico","prefix":"+1939","emoji":"🇵🇷","code":"PR","timezone":"America/Puerto_Rico"},{"name":"Qatar","prefix":"+974","emoji":"🇶🇦","code":"QA","timezone":"Asia/Qatar"},{"name":"Romania","prefix":"+40","emoji":"🇷🇴","code":"RO","timezone":"Europe/Bucharest"},{"name":"Russia","prefix":"+7","emoji":"🇷🇺","code":"RU","timezone":"Europe/Kaliningrad"},{"name":"Rwanda","prefix":"+250","emoji":"🇷🇼","code":"RW","timezone":"Africa/Kigali"},{"name":"Reunion","prefix":"+262","emoji":"🇷🇪","code":"RE","timezone":"Indian/Reunion"},{"name":"Saint Barthelemy","prefix":"+590","emoji":"🇧🇱","code":"BL","timezone":"America/St_Barthelemy"},{"name":"Saint Helena, Ascension and Tristan Da Cunha","prefix":"+290","emoji":"🇸🇭","code":"SH","timezone":"Atlantic/St_Helena"},{"name":"Saint Kitts and Nevis","prefix":"+1869","emoji":"🇰🇳","code":"KN","timezone":"America/St_Kitts"},{"name":"Saint Lucia","prefix":"+1758","emoji":"🇱🇨","code":"LC","timezone":"America/St_Lucia"},{"name":"Saint Martin","prefix":"+590","emoji":"🇲🇫","code":"MF","timezone":"America/Marigot"},{"name":"Saint Pierre and Miquelon","prefix":"+508","emoji":"🇵🇲","code":"PM","timezone":"America/Miquelon"},{"name":"Saint Vincent and the Grenadines","prefix":"+1784","emoji":"🇻🇨","code":"VC","timezone":"America/St_Vincent"},{"name":"Samoa","prefix":"+685","emoji":"🇼🇸","code":"WS","timezone":"Pacific/Apia"},{"name":"San Marino","prefix":"+378","emoji":"🇸🇲","code":"SM","timezone":"Europe/San_Marino"},{"name":"Sao Tome and Principe","prefix":"+239","emoji":"🇸🇹","code":"ST","timezone":"Africa/Sao_Tome"},{"name":"Saudi Arabia","prefix":"+966","emoji":"🇸🇦","code":"SA","timezone":"Asia/Riyadh"},{"name":"Senegal","prefix":"+221","emoji":"🇸🇳","code":"SN","timezone":"Africa/Dakar"},{"name":"Serbia","prefix":"+381","emoji":"🇷🇸","code":"RS","timezone":"Europe/Belgrade"},{"name":"Seychelles","prefix":"+248","emoji":"🇸🇨","code":"SC","timezone":"Indian/Mahe"},{"name":"Sierra Leone","prefix":"+232","emoji":"🇸🇱","code":"SL","timezone":"Africa/Freetown"},{"name":"Singapore","prefix":"+65","emoji":"🇸🇬","code":"SG","timezone":"Asia/Singapore"},{"name":"Slovakia","prefix":"+421","emoji":"🇸🇰","code":"SK","timezone":"Europe/Bratislava"},{"name":"Slovenia","prefix":"+386","emoji":"🇸🇮","code":"SI","timezone":"Europe/Ljubljana"},{"name":"Solomon Islands","prefix":"+677","emoji":"🇸🇧","code":"SB","timezone":"Pacific/Guadalcanal"},{"name":"Somalia","prefix":"+252","emoji":"🇸🇴","code":"SO","timezone":"Africa/Mogadishu"},{"name":"South Africa","prefix":"+27","emoji":"🇿🇦","code":"ZA","timezone":"Africa/Johannesburg"},{"name":"South Sudan","prefix":"+211","emoji":"🇸🇸","code":"SS","timezone":"Africa/Juba"},{"name":"South Georgia and the South Sandwich Islands","prefix":"+500","emoji":"🇬🇸","code":"GS","timezone":"Atlantic/South_Georgia"},{"name":"Spain","prefix":"+34","emoji":"🇪🇸","code":"ES","timezone":"Europe/Madrid"},{"name":"Sri Lanka","prefix":"+94","emoji":"🇱🇰","code":"LK","timezone":"Asia/Colombo"},{"name":"Sudan","prefix":"+249","emoji":"🇸🇩","code":"SD","timezone":"Africa/Khartoum"},{"name":"Suriname","prefix":"+597","emoji":"🇸🇷","code":"SR","timezone":"America/Paramaribo"},{"name":"Svalbard and Jan Mayen","prefix":"+47","emoji":"🇸🇯","code":"SJ","timezone":"Arctic/Longyearbyen"},{"name":"Swaziland","prefix":"+268","emoji":"🇸🇿","code":"SZ","timezone":"Africa/Mbabane"},{"name":"Sweden","prefix":"+46","emoji":"🇸🇪","code":"SE","timezone":"Europe/Stockholm"},{"name":"Switzerland","prefix":"+41","emoji":"🇨🇭","code":"CH","timezone":"Europe/Zurich"},{"name":"Syrian Arab Republic","prefix":"+963","emoji":"🇸🇾","code":"SY","timezone":"Asia/Damascus"},{"name":"Taiwan","prefix":"+886","emoji":"🇹🇼","code":"TW","timezone":"Asia/Taipei"},{"name":"Tajikistan","prefix":"+992","emoji":"🇹🇯","code":"TJ","timezone":"Asia/Dushanbe"},{"name":"Tanzania, United Republic of Tanzania","prefix":"+255","emoji":"🇹🇿","code":"TZ","timezone":"Africa/Dar_es_Salaam"},{"name":"Thailand","prefix":"+66","emoji":"🇹🇭","code":"TH","timezone":"Asia/Bangkok"},{"name":"Timor-Leste","prefix":"+670","emoji":"🇹🇱","code":"TL","timezone":"Asia/Dili"},{"name":"Togo","prefix":"+228","emoji":"🇹🇬","code":"TG","timezone":"Africa/Lome"},{"name":"Tokelau","prefix":"+690","emoji":"🇹🇰","code":"TK","timezone":"Pacific/Fakaofo"},{"name":"Tonga","prefix":"+676","emoji":"🇹🇴","code":"TO","timezone":"Pacific/Tongatapu"},{"name":"Trinidad and Tobago","prefix":"+1868","emoji":"🇹🇹","code":"TT","timezone":"America/Port_of_Spain"},{"name":"Tunisia","prefix":"+216","emoji":"🇹🇳","code":"TN","timezone":"Africa/Tunis"},{"name":"Turkey","prefix":"+90","emoji":"🇹🇷","code":"TR","timezone":"Europe/Istanbul"},{"name":"Turkmenistan","prefix":"+993","emoji":"🇹🇲","code":"TM","timezone":"Asia/Ashgabat"},{"name":"Turks and Caicos Islands","prefix":"+1649","emoji":"🇹🇨","code":"TC","timezone":"America/Grand_Turk"},{"name":"Tuvalu","prefix":"+688","emoji":"🇹🇻","code":"TV","timezone":"Pacific/Funafuti"},{"name":"Uganda","prefix":"+256","emoji":"🇺🇬","code":"UG","timezone":"Africa/Kampala"},{"name":"Ukraine","prefix":"+380","emoji":"🇺🇦","code":"UA","timezone":"Europe/Kiev"},{"name":"United Arab Emirates","prefix":"+971","emoji":"🇦🇪","code":"AE","timezone":"Asia/Dubai"},{"name":"United Kingdom","prefix":"+44","emoji":"🇬🇧","code":"GB","timezone":"Europe/London"},{"name":"United States","prefix":"+1","emoji":"🇺🇸","code":"US","timezone":"America/New_York"},{"name":"Uruguay","prefix":"+598","emoji":"🇺🇾","code":"UY","timezone":"America/Montevideo"},{"name":"Uzbekistan","prefix":"+998","emoji":"🇺🇿","code":"UZ","timezone":"Asia/Samarkand"},{"name":"Vanuatu","prefix":"+678","emoji":"🇻🇺","code":"VU","timezone":"Pacific/Efate"},{"name":"Venezuela, Bolivarian Republic of Venezuela","prefix":"+58","emoji":"🇻🇪","code":"VE","timezone":"America/Caracas"},{"name":"Vietnam","prefix":"+84","emoji":"🇻🇳","code":"VN","timezone":"Asia/Ho_Chi_Minh"},{"name":"Virgin Islands, British","prefix":"+1284","emoji":"🇻🇬","code":"VG","timezone":"America/Tortola"},{"name":"Virgin Islands, U.S.","prefix":"+1340","emoji":"🇻🇮","code":"VI","timezone":"America/St_Thomas"},{"name":"Wallis and Futuna","prefix":"+681","emoji":"🇼🇫","code":"WF","timezone":"Pacific/Wallis"},{"name":"Yemen","prefix":"+967","emoji":"🇾🇪","code":"YE","timezone":"Asia/Aden"},{"name":"Zambia","prefix":"+260","emoji":"🇿🇲","code":"ZM","timezone":"Africa/Lusaka"},{"name":"Zimbabwe","prefix":"+263","emoji":"🇿🇼","code":"ZW","timezone":"Africa/Harare"}]`)
-  , aO = {
+var oO = B(eO, [[`render`, aO], [`__scopeId`, `data-v-ed68570c`]])
+  , sO = JSON.parse(`[{"name":"Afghanistan","prefix":"+93","emoji":"🇦🇫","code":"AF","timezone":"Asia/Kabul"},{"name":"Aland Islands","prefix":"+358","emoji":"🇦🇽","code":"AX","timezone":"Europe/Mariehamn"},{"name":"Albania","prefix":"+355","emoji":"🇦🇱","code":"AL","timezone":"Europe/Tirane"},{"name":"Algeria","prefix":"+213","emoji":"🇩🇿","code":"DZ","timezone":"Africa/Algiers"},{"name":"AmericanSamoa","prefix":"+1684","emoji":"🇦🇸","code":"AS","timezone":"Pacific/Pago_Pago"},{"name":"Andorra","prefix":"+376","emoji":"🇦🇩","code":"AD","timezone":"Europe/Andorra"},{"name":"Angola","prefix":"+244","emoji":"🇦🇴","code":"AO","timezone":"Africa/Luanda"},{"name":"Anguilla","prefix":"+1264","emoji":"🇦🇮","code":"AI","timezone":"America/Anguilla"},{"name":"Antarctica","prefix":"+672","emoji":"🇦🇶","code":"AQ","timezone":"Antarctica/McMurdo"},{"name":"Antigua and Barbuda","prefix":"+1268","emoji":"🇦🇬","code":"AG","timezone":"America/Antigua"},{"name":"Argentina","prefix":"+54","emoji":"🇦🇷","code":"AR","timezone":"America/Argentina/Buenos_Aires"},{"name":"Armenia","prefix":"+374","emoji":"🇦🇲","code":"AM","timezone":"Asia/Yerevan"},{"name":"Aruba","prefix":"+297","emoji":"🇦🇼","code":"AW","timezone":"America/Aruba"},{"name":"Australia","prefix":"+61","emoji":"🇦🇺","code":"AU","timezone":"Australia/Sydney"},{"name":"Austria","prefix":"+43","emoji":"🇦🇹","code":"AT","timezone":"Europe/Vienna"},{"name":"Azerbaijan","prefix":"+994","emoji":"🇦🇿","code":"AZ","timezone":"Asia/Baku"},{"name":"Bahamas","prefix":"+1242","emoji":"🇧🇸","code":"BS","timezone":"America/Nassau"},{"name":"Bahrain","prefix":"+973","emoji":"🇧🇭","code":"BH","timezone":"Asia/Bahrain"},{"name":"Bangladesh","prefix":"+880","emoji":"🇧🇩","code":"BD","timezone":"Asia/Dhaka"},{"name":"Barbados","prefix":"+1246","emoji":"🇧🇧","code":"BB","timezone":"America/Barbados"},{"name":"Belarus","prefix":"+375","emoji":"🇧🇾","code":"BY","timezone":"Europe/Minsk"},{"name":"Belgium","prefix":"+32","emoji":"🇧🇪","code":"BE","timezone":"Europe/Brussels"},{"name":"Belize","prefix":"+501","emoji":"🇧🇿","code":"BZ","timezone":"America/Belize"},{"name":"Benin","prefix":"+229","emoji":"🇧🇯","code":"BJ","timezone":"Africa/Porto-Novo"},{"name":"Bermuda","prefix":"+1441","emoji":"🇧🇲","code":"BM","timezone":"Atlantic/Bermuda"},{"name":"Bhutan","prefix":"+975","emoji":"🇧🇹","code":"BT","timezone":"Asia/Thimphu"},{"name":"Bolivia, Plurinational State of","prefix":"+591","emoji":"🇧🇴","code":"BO","timezone":"America/La_Paz"},{"name":"Bosnia and Herzegovina","prefix":"+387","emoji":"🇧🇦","code":"BA","timezone":"Europe/Sarajevo"},{"name":"Botswana","prefix":"+267","emoji":"🇧🇼","code":"BW","timezone":"Africa/Gaborone"},{"name":"Brazil","prefix":"+55","emoji":"🇧🇷","code":"BR","timezone":"America/Sao_Paulo"},{"name":"British Indian Ocean Territory","prefix":"+246","emoji":"🇮🇴","code":"IO","timezone":"Indian/Chagos"},{"name":"Brunei Darussalam","prefix":"+673","emoji":"🇧🇳","code":"BN","timezone":"Asia/Brunei"},{"name":"Bulgaria","prefix":"+359","emoji":"🇧🇬","code":"BG","timezone":"Europe/Sofia"},{"name":"Burkina Faso","prefix":"+226","emoji":"🇧🇫","code":"BF","timezone":"Africa/Ouagadougou"},{"name":"Burundi","prefix":"+257","emoji":"🇧🇮","code":"BI","timezone":"Africa/Bujumbura"},{"name":"Cambodia","prefix":"+855","emoji":"🇰🇭","code":"KH","timezone":"Asia/Phnom_Penh"},{"name":"Cameroon","prefix":"+237","emoji":"🇨🇲","code":"CM","timezone":"Africa/Douala"},{"name":"Canada","prefix":"+1","emoji":"🇨🇦","code":"CA","timezone":"America/Toronto"},{"name":"Cape Verde","prefix":"+238","emoji":"🇨🇻","code":"CV","timezone":"Atlantic/Cape_Verde"},{"name":"Cayman Islands","prefix":"+345","emoji":"🇰🇾","code":"KY","timezone":"America/Cayman"},{"name":"Central African Republic","prefix":"+236","emoji":"🇨🇫","code":"CF","timezone":"Africa/Bangui"},{"name":"Chad","prefix":"+235","emoji":"🇹🇩","code":"TD","timezone":"Africa/Ndjamena"},{"name":"Chile","prefix":"+56","emoji":"🇨🇱","code":"CL","timezone":"America/Santiago"},{"name":"China","prefix":"+86","emoji":"🇨🇳","code":"CN","timezone":"Asia/Shanghai"},{"name":"Christmas Island","prefix":"+61","emoji":"🇨🇽","code":"CX","timezone":"Indian/Christmas"},{"name":"Cocos (Keeling) Islands","prefix":"+61","emoji":"🇨🇨","code":"CC","timezone":"Indian/Cocos"},{"name":"Colombia","prefix":"+57","emoji":"🇨🇴","code":"CO","timezone":"America/Bogota"},{"name":"Comoros","prefix":"+269","emoji":"🇰🇲","code":"KM","timezone":"Indian/Comoro"},{"name":"Congo","prefix":"+242","emoji":"🇨🇬","code":"CG","timezone":"Africa/Brazzaville"},{"name":"Congo, The Democratic Republic of the Congo","prefix":"+243","emoji":"🇨🇩","code":"CD","timezone":"Africa/Kinshasa"},{"name":"Cook Islands","prefix":"+682","emoji":"🇨🇰","code":"CK","timezone":"Pacific/Rarotonga"},{"name":"Costa Rica","prefix":"+506","emoji":"🇨🇷","code":"CR","timezone":"America/Costa_Rica"},{"name":"Cote d'Ivoire","prefix":"+225","emoji":"🇨🇮","code":"CI","timezone":"Africa/Abidjan"},{"name":"Croatia","prefix":"+385","emoji":"🇭🇷","code":"HR","timezone":"Europe/Zagreb"},{"name":"Cuba","prefix":"+53","emoji":"🇨🇺","code":"CU","timezone":"America/Havana"},{"name":"Cyprus","prefix":"+357","emoji":"🇨🇾","code":"CY","timezone":"Asia/Nicosia"},{"name":"Czech Republic","prefix":"+420","emoji":"🇨🇿","code":"CZ","timezone":"Europe/Prague"},{"name":"Denmark","prefix":"+45","emoji":"🇩🇰","code":"DK","timezone":"Europe/Copenhagen"},{"name":"Djibouti","prefix":"+253","emoji":"🇩🇯","code":"DJ","timezone":"Africa/Djibouti"},{"name":"Dominica","prefix":"+1767","emoji":"🇩🇲","code":"DM","timezone":"America/Dominica"},{"name":"Dominican Republic","prefix":"+1849","emoji":"🇩🇴","code":"DO","timezone":"America/Santo_Domingo"},{"name":"Ecuador","prefix":"+593","emoji":"🇪🇨","code":"EC","timezone":"America/Guayaquil"},{"name":"Egypt","prefix":"+20","emoji":"🇪🇬","code":"EG","timezone":"Africa/Cairo"},{"name":"El Salvador","prefix":"+503","emoji":"🇸🇻","code":"SV","timezone":"America/El_Salvador"},{"name":"Equatorial Guinea","prefix":"+240","emoji":"🇬🇶","code":"GQ","timezone":"Africa/Malabo"},{"name":"Eritrea","prefix":"+291","emoji":"🇪🇷","code":"ER","timezone":"Africa/Asmara"},{"name":"Estonia","prefix":"+372","emoji":"🇪🇪","code":"EE","timezone":"Europe/Tallinn"},{"name":"Ethiopia","prefix":"+251","emoji":"🇪🇹","code":"ET","timezone":"Africa/Addis_Ababa"},{"name":"Falkland Islands (Malvinas)","prefix":"+500","emoji":"🇫🇰","code":"FK","timezone":"Atlantic/Stanley"},{"name":"Faroe Islands","prefix":"+298","emoji":"🇫🇴","code":"FO","timezone":"Atlantic/Faroe"},{"name":"Fiji","prefix":"+679","emoji":"🇫🇯","code":"FJ","timezone":"Pacific/Fiji"},{"name":"Finland","prefix":"+358","emoji":"🇫🇮","code":"FI","timezone":"Europe/Helsinki"},{"name":"France","prefix":"+33","emoji":"🇫🇷","code":"FR","timezone":"Europe/Paris"},{"name":"French Guiana","prefix":"+594","emoji":"🇬🇫","code":"GF","timezone":"America/Cayenne"},{"name":"French Polynesia","prefix":"+689","emoji":"🇵🇫","code":"PF","timezone":"Pacific/Tahiti"},{"name":"Gabon","prefix":"+241","emoji":"🇬🇦","code":"GA","timezone":"Africa/Libreville"},{"name":"Gambia","prefix":"+220","emoji":"🇬🇲","code":"GM","timezone":"Africa/Banjul"},{"name":"Georgia","prefix":"+995","emoji":"🇬🇪","code":"GE","timezone":"Asia/Tbilisi"},{"name":"Germany","prefix":"+49","emoji":"🇩🇪","code":"DE","timezone":"Europe/Berlin"},{"name":"Ghana","prefix":"+233","emoji":"🇬🇭","code":"GH","timezone":"Africa/Accra"},{"name":"Gibraltar","prefix":"+350","emoji":"🇬🇮","code":"GI","timezone":"Europe/Gibraltar"},{"name":"Greece","prefix":"+30","emoji":"🇬🇷","code":"GR","timezone":"Europe/Athens"},{"name":"Greenland","prefix":"+299","emoji":"🇬🇱","code":"GL","timezone":"America/Godthab"},{"name":"Grenada","prefix":"+1473","emoji":"🇬🇩","code":"GD","timezone":"America/Grenada"},{"name":"Guadeloupe","prefix":"+590","emoji":"🇬🇵","code":"GP","timezone":"America/Guadeloupe"},{"name":"Guam","prefix":"+1671","emoji":"🇬🇺","code":"GU","timezone":"Pacific/Guam"},{"name":"Guatemala","prefix":"+502","emoji":"🇬🇹","code":"GT","timezone":"America/Guatemala"},{"name":"Guernsey","prefix":"+44","emoji":"🇬🇬","code":"GG","timezone":"Europe/Guernsey"},{"name":"Guinea","prefix":"+224","emoji":"🇬🇳","code":"GN","timezone":"Africa/Conakry"},{"name":"Guinea-Bissau","prefix":"+245","emoji":"🇬🇼","code":"GW","timezone":"Africa/Bissau"},{"name":"Guyana","prefix":"+592","emoji":"🇬🇾","code":"GY","timezone":"America/Guyana"},{"name":"Haiti","prefix":"+509","emoji":"🇭🇹","code":"HT","timezone":"America/Port-au-Prince"},{"name":"Holy See (Vatican City State)","prefix":"+379","emoji":"🇻🇦","code":"VA","timezone":"Europe/Vatican"},{"name":"Honduras","prefix":"+504","emoji":"🇭🇳","code":"HN","timezone":"America/Tegucigalpa"},{"name":"Hong Kong","prefix":"+852","emoji":"🇭🇰","code":"HK","timezone":"Asia/Hong_Kong"},{"name":"Hungary","prefix":"+36","emoji":"🇭🇺","code":"HU","timezone":"Europe/Budapest"},{"name":"Iceland","prefix":"+354","emoji":"🇮🇸","code":"IS","timezone":"Atlantic/Reykjavik"},{"name":"India","prefix":"+91","emoji":"🇮🇳","code":"IN","timezone":"Asia/Kolkata"},{"name":"Indonesia","prefix":"+62","emoji":"🇮🇩","code":"ID","timezone":"Asia/Jakarta"},{"name":"Iran, Islamic Republic of Persian Gulf","prefix":"+98","emoji":"🇮🇷","code":"IR","timezone":"Asia/Tehran"},{"name":"Iraq","prefix":"+964","emoji":"🇮🇷","code":"IQ","timezone":"Asia/Baghdad"},{"name":"Ireland","prefix":"+353","emoji":"🇮🇪","code":"IE","timezone":"Europe/Dublin"},{"name":"Isle of Man","prefix":"+44","emoji":"🇮🇲","code":"IM","timezone":"Europe/Isle_of_Man"},{"name":"Israel","prefix":"+972","emoji":"🇮🇱","code":"IL","timezone":"Asia/Jerusalem"},{"name":"Italy","prefix":"+39","emoji":"🇮🇹","code":"IT","timezone":"Europe/Rome"},{"name":"Jamaica","prefix":"+1876","emoji":"🇯🇲","code":"JM","timezone":"America/Jamaica"},{"name":"Japan","prefix":"+81","emoji":"🇯🇵","code":"JP","timezone":"Asia/Tokyo"},{"name":"Jersey","prefix":"+44","emoji":"🇯🇪","code":"JE","timezone":"Europe/Jersey"},{"name":"Jordan","prefix":"+962","emoji":"🇯🇴","code":"JO","timezone":"Asia/Amman"},{"name":"Kazakhstan","prefix":"+77","emoji":"🇰🇿","code":"KZ","timezone":"Asia/Almaty"},{"name":"Kenya","prefix":"+254","emoji":"🇰🇪","code":"KE","timezone":"Africa/Nairobi"},{"name":"Kiribati","prefix":"+686","emoji":"🇰🇮","code":"KI","timezone":"Pacific/Tarawa"},{"name":"Korea, Democratic People's Republic of Korea","prefix":"+850","emoji":"🇰🇵","code":"KP","timezone":"Asia/Pyongyang"},{"name":"Korea, Republic of South Korea","prefix":"+82","emoji":"🇰🇷","code":"KR","timezone":"Asia/Seoul"},{"name":"Kuwait","prefix":"+965","emoji":"🇰🇼","code":"KW","timezone":"Asia/Kuwait"},{"name":"Kyrgyzstan","prefix":"+996","emoji":"🇰🇬","code":"KG","timezone":"Asia/Bishkek"},{"name":"Laos","prefix":"+856","emoji":"🇱🇦","code":"LA","timezone":"Asia/Vientiane"},{"name":"Latvia","prefix":"+371","emoji":"🇱🇻","code":"LV","timezone":"Europe/Riga"},{"name":"Lebanon","prefix":"+961","emoji":"🇱🇧","code":"LB","timezone":"Asia/Beirut"},{"name":"Lesotho","prefix":"+266","emoji":"🇱🇸","code":"LS","timezone":"Africa/Maseru"},{"name":"Liberia","prefix":"+231","emoji":"🇱🇷","code":"LR","timezone":"Africa/Monrovia"},{"name":"Libyan Arab Jamahiriya","prefix":"+218","emoji":"🇱🇾","code":"LY","timezone":"Africa/Tripoli"},{"name":"Liechtenstein","prefix":"+423","emoji":"🇱🇮","code":"LI","timezone":"Europe/Vaduz"},{"name":"Lithuania","prefix":"+370","emoji":"🇱🇹","code":"LT","timezone":"Europe/Vilnius"},{"name":"Luxembourg","prefix":"+352","emoji":"🇱🇺","code":"LU","timezone":"Europe/Luxembourg"},{"name":"Macao","prefix":"+853","emoji":"🇲🇴","code":"MO","timezone":"Asia/Macau"},{"name":"Macedonia","prefix":"+389","emoji":"🇲🇰","code":"MK","timezone":"Europe/Skopje"},{"name":"Madagascar","prefix":"+261","emoji":"🇲🇬","code":"MG","timezone":"Indian/Antananarivo"},{"name":"Malawi","prefix":"+265","emoji":"🇲🇼","code":"MW","timezone":"Africa/Blantyre"},{"name":"Malaysia","prefix":"+60","emoji":"🇲🇾","code":"MY","timezone":"Asia/Kuala_Lumpur"},{"name":"Maldives","prefix":"+960","emoji":"🇲🇻","code":"MV","timezone":"Indian/Maldives"},{"name":"Mali","prefix":"+223","emoji":"🇲🇱","code":"ML","timezone":"Africa/Bamako"},{"name":"Malta","prefix":"+356","emoji":"🇲🇹","code":"MT","timezone":"Europe/Malta"},{"name":"Marshall Islands","prefix":"+692","emoji":"🇲🇭","code":"MH","timezone":"Pacific/Majuro"},{"name":"Martinique","prefix":"+596","emoji":"🇲🇶","code":"MQ","timezone":"America/Martinique"},{"name":"Mauritania","prefix":"+222","emoji":"🇲🇷","code":"MR","timezone":"Africa/Nouakchott"},{"name":"Mauritius","prefix":"+230","emoji":"🇲🇺","code":"MU","timezone":"Indian/Mauritius"},{"name":"Mayotte","prefix":"+262","emoji":"🇾🇹","code":"YT","timezone":"Indian/Mayotte"},{"name":"Mexico","prefix":"+52","emoji":"🇲🇽","code":"MX","timezone":"America/Mexico_City"},{"name":"Micronesia, Federated States of Micronesia","prefix":"+691","emoji":"🇫🇲","code":"FM","timezone":"Pacific/Chuuk"},{"name":"Moldova","prefix":"+373","emoji":"🇲🇩","code":"MD","timezone":"Europe/Chisinau"},{"name":"Monaco","prefix":"+377","emoji":"🇲🇨","code":"MC","timezone":"Europe/Monaco"},{"name":"Mongolia","prefix":"+976","emoji":"🇲🇳","code":"MN","timezone":"Asia/Ulaanbaatar"},{"name":"Montenegro","prefix":"+382","emoji":"🇲🇪","code":"ME","timezone":"Europe/Podgorica"},{"name":"Montserrat","prefix":"+1664","emoji":"🇲🇸","code":"MS","timezone":"America/Montserrat"},{"name":"Morocco","prefix":"+212","emoji":"🇲🇦","code":"MA","timezone":"Africa/Casablanca"},{"name":"Mozambique","prefix":"+258","emoji":"🇲🇿","code":"MZ","timezone":"Africa/Maputo"},{"name":"Myanmar","prefix":"+95","emoji":"🇲🇲","code":"MM","timezone":"Asia/Yangon"},{"name":"Namibia","emoji":"🇳🇦","prefix":"+264","code":"NA","timezone":"Africa/Windhoek"},{"name":"Nauru","prefix":"+674","emoji":"🇳🇷","code":"NR","timezone":"Pacific/Nauru"},{"name":"Nepal","prefix":"+977","emoji":"🇳🇵","code":"NP","timezone":"Asia/Kathmandu"},{"name":"Netherlands","prefix":"+31","emoji":"🇳🇱","code":"NL","timezone":"Europe/Amsterdam"},{"name":"Netherlands Antilles","prefix":"+599","emoji":"🇧🇶","code":"AN","timezone":"America/Curacao"},{"name":"New Caledonia","prefix":"+687","emoji":"🇳🇨","code":"NC","timezone":"Pacific/Noumea"},{"name":"New Zealand","prefix":"+64","emoji":"🇳🇿","code":"NZ","timezone":"Pacific/Auckland"},{"name":"Nicaragua","prefix":"+505","emoji":"🇳🇮","code":"NI","timezone":"America/Managua"},{"name":"Niger","prefix":"+227","emoji":"🇳🇪","code":"NE","timezone":"Africa/Niamey"},{"name":"Nigeria","prefix":"+234","emoji":"🇳🇬","code":"NG","timezone":"Africa/Lagos"},{"name":"Niue","prefix":"+683","emoji":"🇳🇺","code":"NU","timezone":"Pacific/Niue"},{"name":"Norfolk Island","prefix":"+672","emoji":"🇳🇫","code":"NF","timezone":"Pacific/Norfolk"},{"name":"Northern Mariana Islands","prefix":"+1670","emoji":"🇲🇵","code":"MP","timezone":"Pacific/Saipan"},{"name":"Norway","prefix":"+47","emoji":"🇳🇴","code":"NO","timezone":"Europe/Oslo"},{"name":"Oman","prefix":"+968","emoji":"🇴🇲","code":"OM","timezone":"Asia/Muscat"},{"name":"Pakistan","prefix":"+92","emoji":"🇵🇰","code":"PK","timezone":"Asia/Karachi"},{"name":"Palau","prefix":"+680","emoji":"🇵🇼","code":"PW","timezone":"Pacific/Palau"},{"name":"Palestinian Territory, Occupied","prefix":"+970","emoji":"🇵🇸","code":"PS","timezone":"Asia/Hebron"},{"name":"Panama","prefix":"+507","emoji":"🇵🇦","code":"PA","timezone":"America/Panama"},{"name":"Papua New Guinea","prefix":"+675","emoji":"🇵🇬","code":"PG","timezone":"Pacific/Port_Moresby"},{"name":"Paraguay","prefix":"+595","emoji":"🇵🇾","code":"PY","timezone":"America/Asuncion"},{"name":"Peru","prefix":"+51","emoji":"🇵🇪","code":"PE","timezone":"America/Lima"},{"name":"Philippines","prefix":"+63","emoji":"🇵🇭","code":"PH","timezone":"Asia/Manila"},{"name":"Pitcairn","prefix":"+872","emoji":"🇵🇳","code":"PN","timezone":"Pacific/Pitcairn"},{"name":"Poland","prefix":"+48","emoji":"🇵🇱","code":"PL","timezone":"Europe/Warsaw"},{"name":"Portugal","prefix":"+351","emoji":"🇵🇹","code":"PT","timezone":"Europe/Lisbon"},{"name":"Puerto Rico","prefix":"+1939","emoji":"🇵🇷","code":"PR","timezone":"America/Puerto_Rico"},{"name":"Qatar","prefix":"+974","emoji":"🇶🇦","code":"QA","timezone":"Asia/Qatar"},{"name":"Romania","prefix":"+40","emoji":"🇷🇴","code":"RO","timezone":"Europe/Bucharest"},{"name":"Russia","prefix":"+7","emoji":"🇷🇺","code":"RU","timezone":"Europe/Kaliningrad"},{"name":"Rwanda","prefix":"+250","emoji":"🇷🇼","code":"RW","timezone":"Africa/Kigali"},{"name":"Reunion","prefix":"+262","emoji":"🇷🇪","code":"RE","timezone":"Indian/Reunion"},{"name":"Saint Barthelemy","prefix":"+590","emoji":"🇧🇱","code":"BL","timezone":"America/St_Barthelemy"},{"name":"Saint Helena, Ascension and Tristan Da Cunha","prefix":"+290","emoji":"🇸🇭","code":"SH","timezone":"Atlantic/St_Helena"},{"name":"Saint Kitts and Nevis","prefix":"+1869","emoji":"🇰🇳","code":"KN","timezone":"America/St_Kitts"},{"name":"Saint Lucia","prefix":"+1758","emoji":"🇱🇨","code":"LC","timezone":"America/St_Lucia"},{"name":"Saint Martin","prefix":"+590","emoji":"🇲🇫","code":"MF","timezone":"America/Marigot"},{"name":"Saint Pierre and Miquelon","prefix":"+508","emoji":"🇵🇲","code":"PM","timezone":"America/Miquelon"},{"name":"Saint Vincent and the Grenadines","prefix":"+1784","emoji":"🇻🇨","code":"VC","timezone":"America/St_Vincent"},{"name":"Samoa","prefix":"+685","emoji":"🇼🇸","code":"WS","timezone":"Pacific/Apia"},{"name":"San Marino","prefix":"+378","emoji":"🇸🇲","code":"SM","timezone":"Europe/San_Marino"},{"name":"Sao Tome and Principe","prefix":"+239","emoji":"🇸🇹","code":"ST","timezone":"Africa/Sao_Tome"},{"name":"Saudi Arabia","prefix":"+966","emoji":"🇸🇦","code":"SA","timezone":"Asia/Riyadh"},{"name":"Senegal","prefix":"+221","emoji":"🇸🇳","code":"SN","timezone":"Africa/Dakar"},{"name":"Serbia","prefix":"+381","emoji":"🇷🇸","code":"RS","timezone":"Europe/Belgrade"},{"name":"Seychelles","prefix":"+248","emoji":"🇸🇨","code":"SC","timezone":"Indian/Mahe"},{"name":"Sierra Leone","prefix":"+232","emoji":"🇸🇱","code":"SL","timezone":"Africa/Freetown"},{"name":"Singapore","prefix":"+65","emoji":"🇸🇬","code":"SG","timezone":"Asia/Singapore"},{"name":"Slovakia","prefix":"+421","emoji":"🇸🇰","code":"SK","timezone":"Europe/Bratislava"},{"name":"Slovenia","prefix":"+386","emoji":"🇸🇮","code":"SI","timezone":"Europe/Ljubljana"},{"name":"Solomon Islands","prefix":"+677","emoji":"🇸🇧","code":"SB","timezone":"Pacific/Guadalcanal"},{"name":"Somalia","prefix":"+252","emoji":"🇸🇴","code":"SO","timezone":"Africa/Mogadishu"},{"name":"South Africa","prefix":"+27","emoji":"🇿🇦","code":"ZA","timezone":"Africa/Johannesburg"},{"name":"South Sudan","prefix":"+211","emoji":"🇸🇸","code":"SS","timezone":"Africa/Juba"},{"name":"South Georgia and the South Sandwich Islands","prefix":"+500","emoji":"🇬🇸","code":"GS","timezone":"Atlantic/South_Georgia"},{"name":"Spain","prefix":"+34","emoji":"🇪🇸","code":"ES","timezone":"Europe/Madrid"},{"name":"Sri Lanka","prefix":"+94","emoji":"🇱🇰","code":"LK","timezone":"Asia/Colombo"},{"name":"Sudan","prefix":"+249","emoji":"🇸🇩","code":"SD","timezone":"Africa/Khartoum"},{"name":"Suriname","prefix":"+597","emoji":"🇸🇷","code":"SR","timezone":"America/Paramaribo"},{"name":"Svalbard and Jan Mayen","prefix":"+47","emoji":"🇸🇯","code":"SJ","timezone":"Arctic/Longyearbyen"},{"name":"Swaziland","prefix":"+268","emoji":"🇸🇿","code":"SZ","timezone":"Africa/Mbabane"},{"name":"Sweden","prefix":"+46","emoji":"🇸🇪","code":"SE","timezone":"Europe/Stockholm"},{"name":"Switzerland","prefix":"+41","emoji":"🇨🇭","code":"CH","timezone":"Europe/Zurich"},{"name":"Syrian Arab Republic","prefix":"+963","emoji":"🇸🇾","code":"SY","timezone":"Asia/Damascus"},{"name":"Taiwan","prefix":"+886","emoji":"🇹🇼","code":"TW","timezone":"Asia/Taipei"},{"name":"Tajikistan","prefix":"+992","emoji":"🇹🇯","code":"TJ","timezone":"Asia/Dushanbe"},{"name":"Tanzania, United Republic of Tanzania","prefix":"+255","emoji":"🇹🇿","code":"TZ","timezone":"Africa/Dar_es_Salaam"},{"name":"Thailand","prefix":"+66","emoji":"🇹🇭","code":"TH","timezone":"Asia/Bangkok"},{"name":"Timor-Leste","prefix":"+670","emoji":"🇹🇱","code":"TL","timezone":"Asia/Dili"},{"name":"Togo","prefix":"+228","emoji":"🇹🇬","code":"TG","timezone":"Africa/Lome"},{"name":"Tokelau","prefix":"+690","emoji":"🇹🇰","code":"TK","timezone":"Pacific/Fakaofo"},{"name":"Tonga","prefix":"+676","emoji":"🇹🇴","code":"TO","timezone":"Pacific/Tongatapu"},{"name":"Trinidad and Tobago","prefix":"+1868","emoji":"🇹🇹","code":"TT","timezone":"America/Port_of_Spain"},{"name":"Tunisia","prefix":"+216","emoji":"🇹🇳","code":"TN","timezone":"Africa/Tunis"},{"name":"Turkey","prefix":"+90","emoji":"🇹🇷","code":"TR","timezone":"Europe/Istanbul"},{"name":"Turkmenistan","prefix":"+993","emoji":"🇹🇲","code":"TM","timezone":"Asia/Ashgabat"},{"name":"Turks and Caicos Islands","prefix":"+1649","emoji":"🇹🇨","code":"TC","timezone":"America/Grand_Turk"},{"name":"Tuvalu","prefix":"+688","emoji":"🇹🇻","code":"TV","timezone":"Pacific/Funafuti"},{"name":"Uganda","prefix":"+256","emoji":"🇺🇬","code":"UG","timezone":"Africa/Kampala"},{"name":"Ukraine","prefix":"+380","emoji":"🇺🇦","code":"UA","timezone":"Europe/Kiev"},{"name":"United Arab Emirates","prefix":"+971","emoji":"🇦🇪","code":"AE","timezone":"Asia/Dubai"},{"name":"United Kingdom","prefix":"+44","emoji":"🇬🇧","code":"GB","timezone":"Europe/London"},{"name":"United States","prefix":"+1","emoji":"🇺🇸","code":"US","timezone":"America/New_York"},{"name":"Uruguay","prefix":"+598","emoji":"🇺🇾","code":"UY","timezone":"America/Montevideo"},{"name":"Uzbekistan","prefix":"+998","emoji":"🇺🇿","code":"UZ","timezone":"Asia/Samarkand"},{"name":"Vanuatu","prefix":"+678","emoji":"🇻🇺","code":"VU","timezone":"Pacific/Efate"},{"name":"Venezuela, Bolivarian Republic of Venezuela","prefix":"+58","emoji":"🇻🇪","code":"VE","timezone":"America/Caracas"},{"name":"Vietnam","prefix":"+84","emoji":"🇻🇳","code":"VN","timezone":"Asia/Ho_Chi_Minh"},{"name":"Virgin Islands, British","prefix":"+1284","emoji":"🇻🇬","code":"VG","timezone":"America/Tortola"},{"name":"Virgin Islands, U.S.","prefix":"+1340","emoji":"🇻🇮","code":"VI","timezone":"America/St_Thomas"},{"name":"Wallis and Futuna","prefix":"+681","emoji":"🇼🇫","code":"WF","timezone":"Pacific/Wallis"},{"name":"Yemen","prefix":"+967","emoji":"🇾🇪","code":"YE","timezone":"Asia/Aden"},{"name":"Zambia","prefix":"+260","emoji":"🇿🇲","code":"ZM","timezone":"Africa/Lusaka"},{"name":"Zimbabwe","prefix":"+263","emoji":"🇿🇼","code":"ZW","timezone":"Africa/Harare"}]`)
+  , cO = {
     components: {
         Modal: U
     },
@@ -14532,7 +14670,7 @@ var rO = B(ZD, [[`render`, nO], [`__scopeId`, `data-v-ed68570c`]])
     data() {
         var e;
         let t = ``
-          , n = ((e = iO.find(e => e.timezone === Intl.DateTimeFormat().resolvedOptions().timeZone)) == null ? void 0 : e.code) || `+1`;
+          , n = ((e = sO.find(e => e.timezone === Intl.DateTimeFormat().resolvedOptions().timeZone)) == null ? void 0 : e.code) || `+1`;
         try {
             var r, i;
             n = (r = localStorage.getItem(`phone-prefix`)) == null ? n : r,
@@ -14545,7 +14683,7 @@ var rO = B(ZD, [[`render`, nO], [`__scopeId`, `data-v-ed68570c`]])
             isSent: !!localStorage.getItem(`phone-number`),
             loading: !1,
             error: null,
-            phoneCodes: iO
+            phoneCodes: sO
         }
     },
     methods: {
@@ -14567,7 +14705,7 @@ var rO = B(ZD, [[`render`, nO], [`__scopeId`, `data-v-ed68570c`]])
             this.error = null;
             let n = await K(`verify`, {
                 type: `phone`,
-                prefix: (e = (t = iO.find(e => e.code === this.prefix)) == null ? void 0 : t.prefix) == null ? `+1` : e,
+                prefix: (e = (t = sO.find(e => e.code === this.prefix)) == null ? void 0 : t.prefix) == null ? `+1` : e,
                 phone: this.phone,
                 code: this.code
             }, this.accessToken);
@@ -14589,35 +14727,35 @@ var rO = B(ZD, [[`render`, nO], [`__scopeId`, `data-v-ed68570c`]])
         }
     }
 }
-  , oO = {
+  , lO = {
     key: 0
 }
-  , sO = {
+  , uO = {
     key: 1
 }
-  , cO = {
+  , dO = {
     key: 2
 }
-  , lO = {
+  , fO = {
     key: 3,
     class: `error`
 }
-  , uO = [`title`]
-  , dO = [`value`]
-  , fO = [`disabled`]
-  , pO = {
+  , pO = [`title`]
+  , mO = [`value`]
+  , hO = [`disabled`]
+  , gO = {
     key: 0
 }
-  , mO = {
+  , _O = {
     class: `button-group`
 }
-  , hO = [`disabled`]
-  , gO = [`disabled`]
-  , _O = {
+  , vO = [`disabled`]
+  , yO = [`disabled`]
+  , bO = {
     key: 5,
     class: `button-group`
 };
-function vO(e, t, n, a, o, s) {
+function xO(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`Modal`);
     return d(),
@@ -14636,16 +14774,16 @@ function vO(e, t, n, a, o, s) {
             default: m( () => [t[12] || (t[12] = I(`div`, {
                 class: `loader`
             }, null, -1)), s.isVerified ? (d(),
-            F(`p`, oO, y(e.$t(`modals.verification.success`)), 1)) : o.isSent ? (d(),
-            F(`p`, cO, y(e.$t(`modals.verification.code_sent`)), 1)) : (d(),
-            F(`p`, sO, [I(`b`, null, y(e.$t(`modals.verification.text_title`)), 1), t[9] || (t[9] = I(`br`, null, null, -1)), f(l, {
+            F(`p`, lO, y(e.$t(`modals.verification.success`)), 1)) : o.isSent ? (d(),
+            F(`p`, dO, y(e.$t(`modals.verification.code_sent`)), 1)) : (d(),
+            F(`p`, uO, [I(`b`, null, y(e.$t(`modals.verification.text_title`)), 1), t[9] || (t[9] = I(`br`, null, null, -1)), f(l, {
                 keypath: `modals.verification.text_body`,
                 scope: `global`
             }, {
                 default: m( () => [I(`b`, null, y(e.$t(`modals.verification.text_body2`)), 1)]),
                 _: 1
             }), t[10] || (t[10] = I(`br`, null, null, -1)), I(`b`, null, y(e.$t(`modals.verification.text_footer`)), 1)])), o.error ? (d(),
-            F(`div`, lO, [o.error === 403 && o.isSent ? (d(),
+            F(`div`, fO, [o.error === 403 && o.isSent ? (d(),
             h(l, {
                 key: 0,
                 keypath: `modals.verification.error_403`,
@@ -14684,7 +14822,7 @@ function vO(e, t, n, a, o, s) {
             F(S, {
                 key: 9
             }, [i(y(e.$t(`modals.verification.error_other`, [o.error])), 1)], 64))])) : r(``, !0), s.isVerified ? (d(),
-            F(`div`, _O, [I(`button`, {
+            F(`div`, bO, [I(`button`, {
                 type: `button`,
                 class: `button primary`,
                 onClick: t[7] || (t[7] = e => s.close())
@@ -14701,7 +14839,7 @@ function vO(e, t, n, a, o, s) {
             F(`option`, {
                 key: e.code,
                 value: e.code
-            }, y(e.name) + ` (` + y(e.prefix) + `) `, 9, dO))), 128))], 8, uO), [[b, o.prefix]]), R(I(`input`, {
+            }, y(e.name) + ` (` + y(e.prefix) + `) `, 9, mO))), 128))], 8, pO), [[b, o.prefix]]), R(I(`input`, {
                 type: `tel`,
                 "onUpdate:modelValue": t[1] || (t[1] = e => o.phone = e),
                 pattern: `\\d{1,14}`,
@@ -14709,26 +14847,26 @@ function vO(e, t, n, a, o, s) {
                 placeholder: `123 456 7890`,
                 required: ``,
                 disabled: o.isSent || o.loading
-            }, null, 40, fO), [[P, o.phone]])]), o.isSent ? (d(),
-            F(`label`, pO, [I(`b`, null, y(e.$t(`modals.verification.code`)) + `:`, 1), R(I(`input`, {
+            }, null, 40, hO), [[P, o.phone]])]), o.isSent ? (d(),
+            F(`label`, gO, [I(`b`, null, y(e.$t(`modals.verification.code`)) + `:`, 1), R(I(`input`, {
                 type: `text`,
                 "onUpdate:modelValue": t[3] || (t[3] = e => o.code = e),
                 minlength: `6`,
                 maxlength: `6`,
                 placeholder: `123456`,
                 required: ``
-            }, null, 512), [[P, o.code]])])) : r(``, !0), I(`div`, mO, [I(`button`, {
+            }, null, 512), [[P, o.code]])])) : r(``, !0), I(`div`, _O, [I(`button`, {
                 type: `submit`,
                 class: `button primary`,
                 disabled: o.loading
-            }, y(e.$t(`common.button_confirm`)), 9, hO), o.isSent ? (d(),
+            }, y(e.$t(`common.button_confirm`)), 9, vO), o.isSent ? (d(),
             F(`button`, {
                 key: 0,
                 type: `button`,
                 class: `button secondary`,
                 onClick: t[4] || (t[4] = e => s.reset()),
                 disabled: o.loading
-            }, y(e.$t(`modals.verification.button_reset`)), 9, gO)) : r(``, !0), I(`button`, {
+            }, y(e.$t(`modals.verification.button_reset`)), 9, yO)) : r(``, !0), I(`button`, {
                 type: `button`,
                 class: `button`,
                 onClick: t[5] || (t[5] = e => s.close())
@@ -14738,9 +14876,9 @@ function vO(e, t, n, a, o, s) {
         _: 1
     })
 }
-var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
-  , bO = Vn()
-  , xO = {
+var SO = B(cO, [[`render`, xO], [`__scopeId`, `data-v-fbc2c900`]])
+  , CO = Vn()
+  , wO = {
     videoConstraints: {
         audio: !1,
         video: {
@@ -14772,7 +14910,7 @@ var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
         scalabilityMode: `L1T3`
     }]
 }
-  , SO = class {
+  , TO = class {
     constructor(e) {
         this._store = e,
         this._socket = null,
@@ -15000,7 +15138,7 @@ var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
         try {
             let e = {};
             window.__TAURI__ && await An() === `macos` && (e.handlerName = `Safari12`),
-            t = await bO.Device.factory(e)
+            t = await CO.Device.factory(e)
         } catch (e) {
             e.name === `UnsupportedError` && alert(`Browser not supported`)
         }
@@ -15228,13 +15366,13 @@ var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
         let l;
         if (c)
             try {
-                l = await navigator.mediaDevices.getUserMedia(CO(this._store.state.chat, t || n.device))
+                l = await navigator.mediaDevices.getUserMedia(EO(this._store.state.chat, t || n.device))
             } catch {}
         else {
             if (!this._device.canProduce(`video`))
                 return;
             try {
-                l = await navigator.mediaDevices.getUserMedia(wO(t || r.device))
+                l = await navigator.mediaDevices.getUserMedia(DO(t || r.device))
             } catch {}
         }
         if (l) {
@@ -15259,7 +15397,7 @@ var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
                     }
                 } else
                     t.track = l.getVideoTracks()[0],
-                    t.encodings = xO.videoEncoding,
+                    t.encodings = wO.videoEncoding,
                     t.codecOptions = {
                         videoGoogleStartBitrate: 1e3
                     },
@@ -15565,7 +15703,7 @@ var yO = B(aO, [[`render`, vO], [`__scopeId`, `data-v-fbc2c900`]])
     }
 }
 ;
-function CO(e, t=null) {
+function EO(e, t=null) {
     let {isAutoGainControl: n, isEchoCancellation: r, isNoiseSuppression: i} = (e == null ? void 0 : e.audio) || {}
       , a = {
         audio: {
@@ -15581,15 +15719,15 @@ function CO(e, t=null) {
     }),
     a
 }
-function wO(e=null) {
-    let t = structuredClone(xO.videoConstraints);
+function DO(e=null) {
+    let t = structuredClone(wO.videoConstraints);
     return e && (t.video.deviceId = {
         exact: e
     }),
     t
 }
-var TO = e => {
-    let t = new SO(e);
+var OO = e => {
+    let t = new TO(e);
     e.subscribe(async ({type: e, payload: n}, r) => {
         let {session: i} = r;
         switch (e) {
@@ -15661,7 +15799,7 @@ var TO = e => {
     }
     )
 }
-  , EO = {
+  , kO = {
     name: `SetupModal`,
     components: {
         Modal: U
@@ -15733,14 +15871,14 @@ var TO = e => {
         async captureAudio(e) {
             this.error = ``;
             try {
-                this.audioStream = await navigator.mediaDevices.getUserMedia(CO(this.chat, e))
+                this.audioStream = await navigator.mediaDevices.getUserMedia(EO(this.chat, e))
             } catch (e) {
                 return this.error = e,
                 !1
             }
             return this.audioStream && this.audioStream.getAudioTracks()[0] ? (this.resetHark(),
             this.hark = (0,
-            pm.default)(this.audioStream, {
+            mm.default)(this.audioStream, {
                 play: !1
             }),
             this.hark.on(`volume_change`, e => {
@@ -15760,7 +15898,7 @@ var TO = e => {
         async captureVideo(e) {
             this.error = ``;
             try {
-                this.videoStream = await navigator.mediaDevices.getUserMedia(wO(e))
+                this.videoStream = await navigator.mediaDevices.getUserMedia(DO(e))
             } catch (e) {
                 return this.error = e,
                 !1
@@ -15894,45 +16032,45 @@ var TO = e => {
         }
     }
 }
-  , DO = {
-    key: 0
-}
-  , OO = {
-    class: `steps`
-}
-  , kO = {
-    class: `result`
-}
   , AO = {
     key: 0
 }
   , jO = {
+    class: `steps`
+}
+  , MO = {
+    class: `result`
+}
+  , NO = {
+    key: 0
+}
+  , PO = {
     key: 1,
     class: `stream`
 }
-  , MO = {
+  , FO = {
     class: `video`,
     ref: `video`
 }
-  , NO = [`.srcObject`]
-  , PO = [`.srcObject`]
-  , FO = {
+  , IO = [`.srcObject`]
+  , LO = [`.srcObject`]
+  , RO = {
     key: 0
 }
-  , IO = [`onClick`]
-  , LO = {
+  , zO = [`onClick`]
+  , BO = {
     key: 1
 }
-  , RO = [`onClick`]
-  , zO = {
+  , VO = [`onClick`]
+  , HO = {
     key: 2,
     class: `error`
 }
-  , BO = {
+  , UO = {
     class: `button-group`
 }
-  , VO = [`disabled`];
-function HO(e, t, n, a, o, s) {
+  , WO = [`disabled`];
+function GO(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`font-awesome-icon`)
       , g = c(`Modal`);
@@ -15957,20 +16095,20 @@ function HO(e, t, n, a, o, s) {
                     default: m( () => [I(`b`, null, y(e.$t(`modals.setup.start`)), 1)]),
                     _: 1
                 }), o.browser ? (d(),
-                F(`b`, DO, y(e.$t(`modals.setup.browser`)) + ` ` + y((n = o.browser.browser) == null ? void 0 : n.name) + ` ` + y((a = o.browser.browser) == null ? void 0 : a.version) + ` ` + y((c = o.browser.os) == null ? void 0 : c.name), 1)) : r(``, !0), I(`ul`, OO, [(d(!0),
+                F(`b`, AO, y(e.$t(`modals.setup.browser`)) + ` ` + y((n = o.browser.browser) == null ? void 0 : n.name) + ` ` + y((a = o.browser.browser) == null ? void 0 : a.version) + ` ` + y((c = o.browser.os) == null ? void 0 : c.name), 1)) : r(``, !0), I(`ul`, jO, [(d(!0),
                 F(S, null, p(o.steps, (t, n) => (d(),
                 F(`li`, {
                     key: n
-                }, [I(`span`, null, y(e.$t(`modals.setup.step`, [n + 1])) + ` ` + y(t.description), 1), I(`div`, kO, [f(u, {
+                }, [I(`span`, null, y(e.$t(`modals.setup.step`, [n + 1])) + ` ` + y(t.description), 1), I(`div`, MO, [f(u, {
                     icon: s.getIcon(t)
                 }, null, 8, [`icon`])]), t.error ? (d(),
-                F(`p`, AO, y(t.error), 1)) : r(``, !0)]))), 128))]), o.audioDevices.length || o.videoDevices.length ? (d(),
-                F(`div`, jO, [I(`div`, MO, [o.videoStream ? (d(),
+                F(`p`, NO, y(t.error), 1)) : r(``, !0)]))), 128))]), o.audioDevices.length || o.videoDevices.length ? (d(),
+                F(`div`, PO, [I(`div`, FO, [o.videoStream ? (d(),
                 F(`video`, {
                     key: 0,
                     ".srcObject": o.videoStream,
                     autoplay: ``
-                }, null, 40, NO)) : (d(),
+                }, null, 40, IO)) : (d(),
                 h(u, {
                     key: 1,
                     icon: `video-slash`
@@ -15983,8 +16121,8 @@ function HO(e, t, n, a, o, s) {
                     key: 2,
                     ".srcObject": o.audioStream,
                     autoplay: ``
-                }, null, 40, PO)) : r(``, !0)], 512), I(`div`, null, [o.videoDevices.length ? (d(),
-                F(`ul`, FO, [I(`li`, null, [I(`b`, null, y(e.$t(`modals.setup.video_devices`)), 1)]), (d(!0),
+                }, null, 40, LO)) : r(``, !0)], 512), I(`div`, null, [o.videoDevices.length ? (d(),
+                F(`ul`, RO, [I(`li`, null, [I(`b`, null, y(e.$t(`modals.setup.video_devices`)), 1)]), (d(!0),
                 F(S, null, p(o.videoDevices, (t, n) => (d(),
                 F(`li`, {
                     key: n,
@@ -15994,8 +16132,8 @@ function HO(e, t, n, a, o, s) {
                     onClick: e => s.selectVideo(n)
                 }, [i(y(t.label || t.deviceId || e.$t(`modals.setup.video_unnamed`)) + ` `, 1), f(u, {
                     icon: o.videoSelect === n ? `check-circle` : `circle`
-                }, null, 8, [`icon`])], 10, IO))), 128))])) : r(``, !0), o.audioDevices.length ? (d(),
-                F(`ul`, LO, [I(`li`, null, [I(`b`, null, y(e.$t(`modals.setup.audio_devices`)), 1)]), (d(!0),
+                }, null, 8, [`icon`])], 10, zO))), 128))])) : r(``, !0), o.audioDevices.length ? (d(),
+                F(`ul`, BO, [I(`li`, null, [I(`b`, null, y(e.$t(`modals.setup.audio_devices`)), 1)]), (d(!0),
                 F(S, null, p(o.audioDevices, (t, n) => (d(),
                 F(`li`, {
                     key: n,
@@ -16005,13 +16143,13 @@ function HO(e, t, n, a, o, s) {
                     onClick: e => s.selectAudio(n)
                 }, [i(y(t.label || t.deviceId || e.$t(`modals.setup.audio_unnamed`)) + ` `, 1), f(u, {
                     icon: o.audioSelect === n ? `check-circle` : `circle`
-                }, null, 8, [`icon`])], 10, RO))), 128))])) : r(``, !0), o.error ? (d(),
-                F(`p`, zO, y(o.error), 1)) : r(``, !0)])])) : r(``, !0), I(`div`, BO, [I(`button`, {
+                }, null, 8, [`icon`])], 10, VO))), 128))])) : r(``, !0), o.error ? (d(),
+                F(`p`, HO, y(o.error), 1)) : r(``, !0)])])) : r(``, !0), I(`div`, UO, [I(`button`, {
                     type: `button`,
                     disabled: o.isRunning,
                     class: `button primary`,
                     onClick: t[1] || (t[1] = (...e) => s.start && s.start(...e))
-                }, y(o.steps.length ? e.$t(`modals.setup.button_rerun`) : e.$t(`modals.setup.button_start`)), 9, VO), I(`button`, {
+                }, y(o.steps.length ? e.$t(`modals.setup.button_rerun`) : e.$t(`modals.setup.button_start`)), 9, WO), I(`button`, {
                     type: `button`,
                     class: `button`,
                     onClick: t[2] || (t[2] = e => s.close())
@@ -16023,8 +16161,8 @@ function HO(e, t, n, a, o, s) {
         _: 1
     })
 }
-var UO = B(EO, [[`render`, HO], [`__scopeId`, `data-v-9e493192`]])
-  , WO = {
+var KO = B(kO, [[`render`, GO], [`__scopeId`, `data-v-9e493192`]])
+  , qO = {
     computed: {
         ...A([`session`]),
         ...N(`game`, [`isNight`])
@@ -16036,36 +16174,36 @@ var UO = B(EO, [[`render`, HO], [`__scopeId`, `data-v-9e493192`]])
         this.session.hook.name === `attention-gong` && this.$store.commit(`playSound`, `attentionGong`)
     }
 }
-  , GO = {
+  , JO = {
     id: `attention`
 }
-  , KO = {
+  , YO = {
     viewBox: `0 0 140 140`,
     class: `text`
 }
-  , qO = {
+  , XO = {
     x: `0%`,
     class: `label mozilla`
 }
-  , JO = {
+  , ZO = {
     key: 0,
     "xlink:href": `#circle-path`,
     textLength: `377`
 }
-  , YO = {
+  , QO = {
     key: 1,
     "xlink:href": `#circle-path`,
     textLength: `377`
 };
-function XO(e, t, n, r, i, a) {
+function $O(e, t, n, r, i, a) {
     return d(),
-    F(`div`, GO, [(d(),
-    F(`svg`, KO, [I(`text`, qO, [e.isNight ? (d(),
-    F(`textPath`, JO, y(e.$t(`overlays.attention.attention`)) + `\xA0 ` + y(e.$t(`overlays.attention.attention`)) + `\xA0 `, 1)) : (d(),
-    F(`textPath`, YO, y(e.$t(`overlays.attention.return`)) + `\xA0\xA0 `, 1))])]))])
+    F(`div`, JO, [(d(),
+    F(`svg`, YO, [I(`text`, XO, [e.isNight ? (d(),
+    F(`textPath`, ZO, y(e.$t(`overlays.attention.attention`)) + `\xA0 ` + y(e.$t(`overlays.attention.attention`)) + `\xA0 `, 1)) : (d(),
+    F(`textPath`, QO, y(e.$t(`overlays.attention.return`)) + `\xA0\xA0 `, 1))])]))])
 }
-var ZO = B(WO, [[`render`, XO], [`__scopeId`, `data-v-b0afea63`]])
-  , QO = {
+var ek = B(qO, [[`render`, $O], [`__scopeId`, `data-v-b0afea63`]])
+  , tk = {
     computed: {
         ...A([`session`, `grimoire`, `players`, `keybindings`, `settings`]),
         ...N(`game`, [`hasGardener`]),
@@ -16084,22 +16222,22 @@ var ZO = B(WO, [[`render`, XO], [`__scopeId`, `data-v-b0afea63`]])
         }
     }
 }
-  , $O = {
+  , nk = {
     class: `overlay`,
     id: `first-night`
 }
-  , ek = {
+  , rk = {
     key: 0
 }
-  , tk = {
+  , ik = {
     class: `shortcut`
 }
-  , nk = [`checked`];
-function rk(e, t, n, a, o, s) {
+  , ak = [`checked`];
+function ok(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`i18n-t`);
     return d(),
-    F(`div`, $O, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.firstnight.title`)), 1), f(l, {
+    F(`div`, nk, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.firstnight.title`)), 1), f(l, {
         icon: `times-circle`,
         onClick: t[0] || (t[0] = L(t => e.setGrimoireMode(`grimoire`), [`stop`]))
     })]), s.hasGardener && !s.hasGardener ? (d(),
@@ -16128,19 +16266,19 @@ function rk(e, t, n, a, o, s) {
         }, null, -1)])]),
         _: 1
     }), t[6] || (t[6] = I(`br`, null, null, -1)), e.players.players.length > 6 ? (d(),
-    F(`span`, ek, [i(y(e.$t(`overlays.firstnight.bluffs`)) + ` `, 1), t[5] || (t[5] = I(`br`, null, null, -1))])) : r(``, !0), I(`div`, {
+    F(`span`, rk, [i(y(e.$t(`overlays.firstnight.bluffs`)) + ` `, 1), t[5] || (t[5] = I(`br`, null, null, -1))])) : r(``, !0), I(`div`, {
         class: `button`,
         onClick: t[2] || (t[2] = e => s.beginFirstNight())
-    }, [I(`em`, tk, y(e.keybindings.toggleNight[0].trim()), 1), i(` ` + y(e.$t(`overlays.firstnight.button_begin`)), 1)])], 64)), I(`label`, null, [I(`input`, {
+    }, [I(`em`, ik, y(e.keybindings.toggleNight[0].trim()), 1), i(` ` + y(e.$t(`overlays.firstnight.button_begin`)), 1)])], 64)), I(`label`, null, [I(`input`, {
         type: `checkbox`,
         checked: !e.settings.game.isTutorialDisabled,
         onChange: t[3] || (t[3] = (...t) => e.toggleTutorialDisabled && e.toggleTutorialDisabled(...t))
-    }, null, 40, nk), f(l, {
+    }, null, 40, ak), f(l, {
         icon: e.settings.game.isTutorialDisabled ? `circle` : `check-circle`
     }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.settings.setting_tutorial`)), 1)])])
 }
-var ik = B(QO, [[`render`, rk], [`__scopeId`, `data-v-0e90414c`]])
-  , ak = {
+var sk = B(tk, [[`render`, ok], [`__scopeId`, `data-v-0e90414c`]])
+  , ck = {
     computed: {
         ...A(`players`, [`players`]),
         ...A([`session`, `grimoire`, `vote`, `keybindings`, `settings`]),
@@ -16221,34 +16359,34 @@ var ik = B(QO, [[`render`, rk], [`__scopeId`, `data-v-0e90414c`]])
         }
     }
 }
-  , ok = {
+  , lk = {
     id: `gather`
 }
-  , sk = {
+  , uk = {
     key: 0,
     class: `textbox`
 }
-  , ck = {
+  , dk = {
     class: `shortcut`
 }
-  , lk = [`checked`]
-  , uk = {
+  , fk = [`checked`]
+  , pk = {
     class: `button-group`
 }
-  , dk = {
+  , mk = {
     class: `button-group`
 }
-  , fk = {
+  , hk = {
     key: 0
 }
-  , pk = [`onDragenter`, `onDrop`, `onDragleave`]
-  , mk = [`onDragenter`, `onDrop`, `onDragleave`];
-function hk(e, t, n, a, o, s) {
+  , gk = [`onDragenter`, `onDrop`, `onDragleave`]
+  , _k = [`onDragenter`, `onDrop`, `onDragleave`];
+function vk(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`i18n-t`);
     return d(),
-    F(`div`, ok, [e.settings.game.isTutorialDisabled ? r(``, !0) : (d(),
-    F(`div`, sk, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.gatherplayers.title`)), 1), f(l, {
+    F(`div`, lk, [e.settings.game.isTutorialDisabled ? r(``, !0) : (d(),
+    F(`div`, uk, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.gatherplayers.title`)), 1), f(l, {
         icon: `times-circle`,
         onClick: t[0] || (t[0] = L(t => e.setGrimoireMode(`grimoire`), [`stop`]))
     })]), i(` ` + y(e.$t(`overlays.gatherplayers.text`)) + ` `, 1), e.players.length >= 7 ? (d(),
@@ -16260,7 +16398,7 @@ function hk(e, t, n, a, o, s) {
         default: m( () => [I(`div`, {
             class: `button`,
             onClick: t[1] || (t[1] = e => s.selectEdition())
-        }, [I(`em`, ck, y(e.keybindings.toggleEdition[0].trim()), 1), i(` ` + y(e.$t(`overlays.gatherplayers.button_select`)), 1)])]),
+        }, [I(`em`, dk, y(e.keybindings.toggleEdition[0].trim()), 1), i(` ` + y(e.$t(`overlays.gatherplayers.button_select`)), 1)])]),
         _: 1
     })) : (d(),
     F(S, {
@@ -16269,9 +16407,9 @@ function hk(e, t, n, a, o, s) {
         type: `checkbox`,
         checked: !e.settings.game.isTutorialDisabled,
         onChange: t[2] || (t[2] = (...t) => e.toggleTutorialDisabled && e.toggleTutorialDisabled(...t))
-    }, null, 40, lk), f(l, {
+    }, null, 40, fk), f(l, {
         icon: e.settings.game.isTutorialDisabled ? `circle` : `check-circle`
-    }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.settings.setting_tutorial`)), 1)])])), I(`div`, uk, [I(`div`, {
+    }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.settings.setting_tutorial`)), 1)])])), I(`div`, pk, [I(`div`, {
         class: v([`button primary`, {
             disabled: e.players.length >= 20
         }]),
@@ -16283,7 +16421,7 @@ function hk(e, t, n, a, o, s) {
         onClick: t[4] || (t[4] = (...e) => s.randomizeSeatings && s.randomizeSeatings(...e))
     }, [f(l, {
         icon: `dice`
-    }), i(` ` + y(e.$t(`overlays.gatherplayers.button_shuffle`)), 1)])]), I(`div`, dk, [e.session.sessionId ? (d(),
+    }), i(` ` + y(e.$t(`overlays.gatherplayers.button_shuffle`)), 1)])]), I(`div`, mk, [e.session.sessionId ? (d(),
     F(`div`, {
         key: 0,
         class: `button`,
@@ -16311,7 +16449,7 @@ function hk(e, t, n, a, o, s) {
                 move: o.showMove[i]
             })
         }, [e.grimoire.playerDragState === i ? r(``, !0) : (d(),
-        F(`div`, fk, [f(l, {
+        F(`div`, hk, [f(l, {
             class: `move`,
             icon: `arrow-circle-right`
         }), e.grimoire.playerDragState === (i === e.players.length - 1 ? 0 : i + 1) ? r(``, !0) : (d(),
@@ -16323,7 +16461,7 @@ function hk(e, t, n, a, o, s) {
             , [`prevent`])),
             onDrop: e => s.movePlayer(e, i),
             onDragleave: e => o.showMove[i] = 0
-        }, y(e.$t(`overlays.gatherplayers.move`, [e.$t(...e.playerName(n))])), 41, pk)), f(l, {
+        }, y(e.$t(`overlays.gatherplayers.move`, [e.$t(...e.playerName(n))])), 41, gk)), f(l, {
             class: `swap`,
             icon: `exchange-alt`
         }), I(`div`, {
@@ -16333,12 +16471,12 @@ function hk(e, t, n, a, o, s) {
             , [`prevent`])),
             onDrop: e => s.swapPlayer(e, i),
             onDragleave: e => o.showSwap[i] = 0
-        }, y(e.$t(`overlays.gatherplayers.swap`, [e.$t(...e.playerName(n))])), 41, mk)]))], 2))), 128))], 2)) : r(``, !0)]),
+        }, y(e.$t(`overlays.gatherplayers.swap`, [e.$t(...e.playerName(n))])), 41, _k)]))], 2))), 128))], 2)) : r(``, !0)]),
         _: 1
     })])
 }
-var gk = B(ak, [[`render`, hk], [`__scopeId`, `data-v-3e006978`]])
-  , _k = {
+var yk = B(ck, [[`render`, vk], [`__scopeId`, `data-v-3e006978`]])
+  , bk = {
     computed: {
         ...A(`players`, [`players`]),
         ...A(`user`, [`user`]),
@@ -16383,52 +16521,52 @@ var gk = B(ak, [[`render`, hk], [`__scopeId`, `data-v-3e006978`]])
         }
     }
 }
-  , vk = {
+  , xk = {
     class: `overlay`,
     id: `pointing`
 }
-  , yk = {
-    key: 0
-}
-  , bk = {
-    key: 1
-}
-  , xk = {
-    key: 0
-}
   , Sk = {
-    class: `secondary`
+    key: 0
 }
   , Ck = {
     key: 1
 }
   , wk = {
+    key: 0
+}
+  , Tk = {
+    class: `secondary`
+}
+  , Ek = {
+    key: 1
+}
+  , Dk = {
     key: 2,
     class: `button-group`
 }
-  , Tk = {
+  , Ok = {
     key: 0,
     class: `countdown`
 }
-  , Ek = {
+  , kk = {
     class: `animation-critical`
 };
-function Dk(e, t, n, a, o, s) {
+function Ak(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`);
     return d(),
-    F(`div`, vk, [I(`div`, null, [e.session.isPointing === `locked` || e.hasGrimoireAccess ? (d(),
+    F(`div`, xk, [I(`div`, null, [e.session.isPointing === `locked` || e.hasGrimoireAccess ? (d(),
     F(S, {
         key: 0
     }, [i(y(e.session.isPointing === `locked` ? e.$t(`overlays.pointing.title_locked`, e.pointedPlayers.length) : e.$t(`overlays.pointing.title_open`, e.pointedPlayers.length)) + ` `, 1), e.pointedPlayers.length ? (d(),
-    F(`span`, yk, [(d(!0),
+    F(`span`, Sk, [(d(!0),
     F(S, null, p(e.pointedPlayers, t => (d(),
     F(`b`, {
         key: t
     }, y(e.$t(...e.playerName(e.players[t]))), 1))), 128))])) : (d(),
-    F(`span`, bk, y(e.$t(`overlays.pointing.nobody`)), 1))], 64)) : r(``, !0)]), !e.isStoryteller && e.players[s.userPoint] ? (d(),
-    F(`div`, xk, [i(y(e.$t(`overlays.pointing.you_pointed`)) + ` `, 1), I(`b`, Sk, y(e.$t(...e.playerName(e.players[s.userPoint]))), 1)])) : !e.isStoryteller && !e.isSpectator && e.session.isPointing !== `locked` ? (d(),
-    F(`div`, Ck, y(e.$t(`overlays.pointing.prompt`)), 1)) : e.isStoryteller ? (d(),
-    F(`div`, wk, [I(`div`, {
+    F(`span`, Ck, y(e.$t(`overlays.pointing.nobody`)), 1))], 64)) : r(``, !0)]), !e.isStoryteller && e.players[s.userPoint] ? (d(),
+    F(`div`, wk, [i(y(e.$t(`overlays.pointing.you_pointed`)) + ` `, 1), I(`b`, Tk, y(e.$t(...e.playerName(e.players[s.userPoint]))), 1)])) : !e.isStoryteller && !e.isSpectator && e.session.isPointing !== `locked` ? (d(),
+    F(`div`, Ek, y(e.$t(`overlays.pointing.prompt`)), 1)) : e.isStoryteller ? (d(),
+    F(`div`, Dk, [I(`div`, {
         class: v([`button primary`, {
             disabled: e.session.isPointing === `countdown`
         }]),
@@ -16444,18 +16582,18 @@ function Dk(e, t, n, a, o, s) {
         name: `blur`
     }, {
         default: m( () => [e.session.isPointing === `countdown` ? (d(),
-        F(`div`, Tk, [t[2] || (t[2] = I(`span`, {
+        F(`div`, Ok, [t[2] || (t[2] = I(`span`, {
             class: `animation-critical`
         }, `3`, -1)), t[3] || (t[3] = I(`span`, {
             class: `animation-critical`
         }, `2`, -1)), t[4] || (t[4] = I(`span`, {
             class: `animation-critical`
-        }, `1`, -1)), I(`span`, Ek, y(e.$t(`overlays.pointing.countdown_freeze`)), 1)])) : r(``, !0)]),
+        }, `1`, -1)), I(`span`, kk, y(e.$t(`overlays.pointing.countdown_freeze`)), 1)])) : r(``, !0)]),
         _: 1
     })])
 }
-var Ok = B(_k, [[`render`, Dk], [`__scopeId`, `data-v-61f33cda`]])
-  , kk = {
+var jk = B(bk, [[`render`, Ak], [`__scopeId`, `data-v-61f33cda`]])
+  , Mk = {
     computed: {
         ...A([`session`, `grimoire`]),
         ...A(`players`, [`players`, `storytellers`]),
@@ -16528,28 +16666,28 @@ var Ok = B(_k, [[`render`, Dk], [`__scopeId`, `data-v-61f33cda`]])
         this.clearRevealTimeouts()
     }
 }
-  , Ak = () => {
+  , Nk = () => {
     j(e => ({
         v5c4000fe: e.announcementSize
     }))
 }
-  , jk = kk.setup;
-kk.setup = jk ? (e, t) => (Ak(),
-jk(e, t)) : Ak;
-var Mk = {
+  , Pk = Mk.setup;
+Mk.setup = Pk ? (e, t) => (Nk(),
+Pk(e, t)) : Nk;
+var Fk = {
     key: 0
 }
-  , Nk = {
+  , Ik = {
     key: 1
 }
-  , Pk = {
+  , Lk = {
     key: 0,
     class: `info overlay`
 }
-  , Fk = {
+  , Rk = {
     class: `button-group`
 };
-function Ik(e, t, n, a, o, s) {
+function zk(e, t, n, a, o, s) {
     let l = c(`i18n-t`);
     return d(),
     F(`div`, {
@@ -16566,11 +16704,11 @@ function Ik(e, t, n, a, o, s) {
         }])
     }, {
         default: m( () => [s.isEvilWin ? (d(),
-        F(`b`, Mk, y(e.$t(`overlays.reveal.evil`)), 1)) : (d(),
-        F(`b`, Nk, y(e.$t(`overlays.reveal.good`)), 1))]),
+        F(`b`, Fk, y(e.$t(`overlays.reveal.evil`)), 1)) : (d(),
+        F(`b`, Ik, y(e.$t(`overlays.reveal.good`)), 1))]),
         _: 1
     }, 8, [`class`]), e.isStoryteller ? (d(),
-    F(`div`, Pk, [I(`h4`, null, y(e.$t(`overlays.reveal.title`)), 1), i(` ` + y(e.$t(`overlays.reveal.text`)) + ` `, 1), I(`div`, Fk, [I(`div`, {
+    F(`div`, Lk, [I(`h4`, null, y(e.$t(`overlays.reveal.title`)), 1), i(` ` + y(e.$t(`overlays.reveal.text`)) + ` `, 1), I(`div`, Rk, [I(`div`, {
         class: v([`button`, {
             disabled: s.isResultRevealed,
             primary: !s.isResultRevealed
@@ -16586,8 +16724,8 @@ function Ik(e, t, n, a, o, s) {
         onClick: t[2] || (t[2] = e => s.close())
     }, y(e.$t(`common.button_${s.isCancellable ? `cancel` : `close`}`)), 1)])])) : r(``, !0)], 2)
 }
-var Lk = B(kk, [[`render`, Ik], [`__scopeId`, `data-v-03bd9741`]])
-  , Rk = {
+var Bk = B(Mk, [[`render`, zk], [`__scopeId`, `data-v-03bd9741`]])
+  , Vk = {
     computed: {
         ...A([`keybindings`, `settings`]),
         ...A(`players`, [`players`])
@@ -16603,19 +16741,19 @@ var Lk = B(kk, [[`render`, Ik], [`__scopeId`, `data-v-03bd9741`]])
         }
     }
 }
-  , zk = {
+  , Hk = {
     class: `overlay`,
     id: `rules`
 }
-  , Bk = {
+  , Uk = {
     class: `shortcut`
 }
-  , Vk = [`checked`];
-function Hk(e, t, n, r, a, o) {
+  , Wk = [`checked`];
+function Gk(e, t, n, r, a, o) {
     let s = c(`font-awesome-icon`)
       , l = c(`i18n-t`);
     return d(),
-    F(`div`, zk, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.rules.title`)), 1), f(s, {
+    F(`div`, Hk, [I(`h4`, null, [I(`span`, null, y(e.$t(`overlays.rules.title`)), 1), f(s, {
         icon: `times-circle`,
         onClick: t[0] || (t[0] = L(t => e.setGrimoireMode(`grimoire`), [`stop`]))
     })]), f(l, {
@@ -16625,18 +16763,18 @@ function Hk(e, t, n, r, a, o) {
         default: m( () => [I(`div`, {
             class: `button`,
             onClick: t[1] || (t[1] = e => o.characters())
-        }, [I(`em`, Bk, y(e.keybindings.toggleRoles[0].trim()), 1), i(` ` + y(e.$t(`overlays.rules.button_select`)), 1)])]),
+        }, [I(`em`, Uk, y(e.keybindings.toggleRoles[0].trim()), 1), i(` ` + y(e.$t(`overlays.rules.button_select`)), 1)])]),
         _: 1
     }), t[3] || (t[3] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`overlays.rules.text2`)) + ` `, 1), I(`label`, null, [I(`input`, {
         type: `checkbox`,
         checked: !e.settings.game.isTutorialDisabled,
         onChange: t[2] || (t[2] = (...t) => e.toggleTutorialDisabled && e.toggleTutorialDisabled(...t))
-    }, null, 40, Vk), f(s, {
+    }, null, 40, Wk), f(s, {
         icon: e.settings.game.isTutorialDisabled ? `circle` : `check-circle`
     }, null, 8, [`icon`]), i(` ` + y(e.$t(`modals.settings.setting_tutorial`)), 1)])])
 }
-var Uk = B(Rk, [[`render`, Hk], [`__scopeId`, `data-v-24c029fc`]])
-  , Wk = {
+var Kk = B(Vk, [[`render`, Gk], [`__scopeId`, `data-v-24c029fc`]])
+  , qk = {
     components: {
         Timer: yi
     },
@@ -16671,52 +16809,52 @@ var Uk = B(Rk, [[`render`, Hk], [`__scopeId`, `data-v-24c029fc`]])
         }
     }
 }
-  , Gk = {
+  , Jk = {
     key: 0,
     class: `meta`
 }
-  , Kk = {
+  , Yk = {
     key: 0,
     class: `tutorial`
 }
-  , qk = {
+  , Xk = {
     class: `shortcut`
 }
-  , Jk = {
+  , Zk = {
     key: 1,
     class: `box`
 }
-  , Yk = {
+  , Qk = {
     key: 0,
     class: `phase`
 }
-  , Xk = [`title`]
-  , Zk = [`title`]
-  , Qk = {
-    class: `townsfolk`
-}
-  , $k = {
-    class: `townsfolk`
-}
-  , eA = {
-    class: `minion`
-}
+  , $k = [`title`]
+  , eA = [`title`]
   , tA = {
-    class: `minion`
+    class: `townsfolk`
 }
   , nA = {
-    class: `outsider`
+    class: `townsfolk`
 }
   , rA = {
-    class: `outsider`
+    class: `minion`
 }
   , iA = {
-    class: `demon`
+    class: `minion`
 }
   , aA = {
+    class: `outsider`
+}
+  , oA = {
+    class: `outsider`
+}
+  , sA = {
+    class: `demon`
+}
+  , cA = {
     class: `demon`
 };
-function oA(e, t, n, a, o, s) {
+function lA(e, t, n, a, o, s) {
     var l, u, p, g, b, x, C, T;
     let E = c(`i18n-t`)
       , D = c(`Timer`)
@@ -16732,11 +16870,11 @@ function oA(e, t, n, a, o, s) {
             backgroundImage: s.backgroundImage
         })
     }, [!e.edition.isOfficial && e.edition.name && e.grimoire.theme > 0 && (!e.edition.hideTitle || !e.settings.general.isImageOptIn) ? (d(),
-    F(`span`, Gk, y(e.edition.name) + ` ` + y(e.edition.author ? e.$t(`overlays.towninfo.script_by`, [e.edition.author]) : ``), 1)) : r(``, !0)], 4), f(w, {
+    F(`span`, Jk, y(e.edition.name) + ` ` + y(e.edition.author ? e.$t(`overlays.towninfo.script_by`, [e.edition.author]) : ``), 1)) : r(``, !0)], 4), f(w, {
         name: `fade`
     }, {
         default: m( () => [e.players.length < 5 && e.grimoire.mode !== `gather` ? (d(),
-        F(`div`, Kk, [f(E, {
+        F(`div`, Yk, [f(E, {
             keypath: `overlays.towninfo.title`,
             scope: `global`
         }, {
@@ -16751,7 +16889,7 @@ function oA(e, t, n, a, o, s) {
             default: m( () => [I(`div`, {
                 class: `button`,
                 onClick: t[0] || (t[0] = (...e) => s.gatherPlayers && s.gatherPlayers(...e))
-            }, [I(`em`, qk, y(e.keybindings.modeGather[0].trim()), 1), i(` ` + y(e.$t(`overlays.towninfo.button_gather`)), 1)])]),
+            }, [I(`em`, Xk, y(e.keybindings.modeGather[0].trim()), 1), i(` ` + y(e.$t(`overlays.towninfo.button_gather`)), 1)])]),
             _: 1
         })) : (d(),
         F(S, {
@@ -16762,8 +16900,8 @@ function oA(e, t, n, a, o, s) {
     h(D, {
         key: 0
     })) : r(``, !0), e.players.length >= 5 ? (d(),
-    F(`div`, Jk, [e.game.isRunning && e.game.history.length ? (d(),
-    F(`b`, Yk, [e.lastPhase ? e.isNight ? (d(),
+    F(`div`, Zk, [e.game.isRunning && e.game.history.length ? (d(),
+    F(`b`, Qk, [e.lastPhase ? e.isNight ? (d(),
     F(S, {
         key: 1
     }, [f(O, {
@@ -16781,15 +16919,15 @@ function oA(e, t, n, a, o, s) {
         key: 0,
         class: `travellers`,
         title: e.$t(`grimoire.traveller`, s.teams.traveller)
-    }, ` + ` + y(s.teams.traveller), 9, Xk)) : r(``, !0)]), I(`td`, null, y(e.$t(`overlays.towninfo.alive`)), 1), I(`td`, null, [i(y(s.teams.alive) + ` `, 1), s.teams.aliveTravellers ? (d(),
+    }, ` + ` + y(s.teams.traveller), 9, $k)) : r(``, !0)]), I(`td`, null, y(e.$t(`overlays.towninfo.alive`)), 1), I(`td`, null, [i(y(s.teams.alive) + ` `, 1), s.teams.aliveTravellers ? (d(),
     F(`span`, {
         key: 0,
         class: `travellers`,
         title: e.$t(`grimoire.traveller`, s.teams.traveller)
-    }, ` + ` + y(s.teams.aliveTravellers), 9, Zk)) : r(``, !0)])]), e.players.length >= 5 ? (d(),
+    }, ` + ` + y(s.teams.aliveTravellers), 9, eA)) : r(``, !0)])]), e.players.length >= 5 ? (d(),
     F(S, {
         key: 0
-    }, [I(`tr`, null, [I(`td`, Qk, y(e.$t(`grimoire.townsfolk`, (l = s.teams.townsfolk) == null ? 0 : l)), 1), I(`td`, $k, y((u = s.teams.townsfolk) == null ? `?` : u), 1), I(`td`, eA, y(e.$t(`grimoire.minion`, (p = s.teams.minion) == null ? 0 : p)), 1), I(`td`, tA, y((g = s.teams.minion) == null ? `?` : g), 1)]), I(`tr`, null, [I(`td`, nA, y(e.$t(`grimoire.outsider`, (b = s.teams.outsider) == null ? 0 : b)), 1), I(`td`, rA, y((x = s.teams.outsider) == null ? `?` : x), 1), I(`td`, iA, y(e.$t(`grimoire.demon`, (C = s.teams.demon) == null ? 0 : C)), 1), I(`td`, aA, y((T = s.teams.demon) == null ? `?` : T), 1)])], 64)) : r(``, !0)])]), e.grimoire.isTownSquare ? (d(),
+    }, [I(`tr`, null, [I(`td`, tA, y(e.$t(`grimoire.townsfolk`, (l = s.teams.townsfolk) == null ? 0 : l)), 1), I(`td`, nA, y((u = s.teams.townsfolk) == null ? `?` : u), 1), I(`td`, rA, y(e.$t(`grimoire.minion`, (p = s.teams.minion) == null ? 0 : p)), 1), I(`td`, iA, y((g = s.teams.minion) == null ? `?` : g), 1)]), I(`tr`, null, [I(`td`, aA, y(e.$t(`grimoire.outsider`, (b = s.teams.outsider) == null ? 0 : b)), 1), I(`td`, oA, y((x = s.teams.outsider) == null ? `?` : x), 1), I(`td`, sA, y(e.$t(`grimoire.demon`, (C = s.teams.demon) == null ? 0 : C)), 1), I(`td`, cA, y((T = s.teams.demon) == null ? `?` : T), 1)])], 64)) : r(``, !0)])]), e.grimoire.isTownSquare ? (d(),
     h(E, {
         key: 1,
         scope: `global`,
@@ -16801,8 +16939,8 @@ function oA(e, t, n, a, o, s) {
         _: 1
     })) : r(``, !0)])) : r(``, !0)], 2)
 }
-var sA = B(Wk, [[`render`, oA], [`__scopeId`, `data-v-04722952`]])
-  , cA = {
+var uA = B(qk, [[`render`, lA], [`__scopeId`, `data-v-04722952`]])
+  , dA = {
     inject: [`bindShortcut`, `unbindShortcut`],
     computed: {
         ...A(`players`, [`players`, `npcs`, `storytellers`]),
@@ -17037,76 +17175,76 @@ var sA = B(Wk, [[`render`, oA], [`__scopeId`, `data-v-04722952`]])
         }
     }
 }
-  , lA = {
+  , fA = {
     id: `vote`
 }
-  , uA = {
+  , pA = {
     class: `clock`
 }
-  , dA = {
+  , mA = {
     class: `arrows`
 }
-  , fA = [`aria-live`, `aria-label`]
-  , pA = {
+  , hA = [`aria-live`, `aria-label`]
+  , gA = {
     class: `overlay`
 }
-  , mA = {
+  , _A = {
     key: 0
 }
-  , hA = {
-    key: 3,
-    class: `majority`
-}
-  , gA = {
-    class: `majority`
-}
-  , _A = {
-    key: 1
-}
   , vA = {
+    key: 3,
     class: `majority`
 }
   , yA = {
     class: `majority`
 }
   , bA = {
-    class: `majority`
+    key: 1
 }
   , xA = {
-    key: 4
+    class: `majority`
 }
   , SA = {
-    key: 0
+    class: `majority`
 }
   , CA = {
-    class: `button-group`
+    class: `majority`
 }
   , wA = {
-    class: `button-group`
+    key: 4
 }
   , TA = {
-    class: `warning`
+    key: 0
 }
   , EA = {
     class: `button-group`
 }
   , DA = {
+    class: `button-group`
+}
+  , OA = {
+    class: `warning`
+}
+  , kA = {
+    class: `button-group`
+}
+  , AA = {
     key: 0,
     class: `countdown`
 }
-  , OA = {
+  , jA = {
     class: `animation-critical`
 };
-function kA(e, t, n, a, o, s) {
+function MA(e, t, n, a, o, s) {
     var l, u;
     let p = c(`font-awesome-icon`)
       , g = c(`i18n-t`);
     return d(),
-    F(`div`, lA, [I(`div`, uA, [t[14] || (t[14] = I(`div`, {
+    F(`div`, fA, [I(`div`, pA, [t[14] || (t[14] = I(`div`, {
         class: `background`
     }, [I(`span`, {
         class: `ring`
-    })], -1)), I(`div`, dA, [I(`span`, {
+    })], -1)), I(`div`, mA, [I(`span`, {
         class: `nominator animation-critical`,
         style: _(s.nominatorStyle)
     }, null, 4), I(`span`, {
@@ -17117,8 +17255,8 @@ function kA(e, t, n, a, o, s) {
         style: _(s.nomineeStyleMoving),
         "aria-live": e.vote.locked >= 0 && e.vote.isInProgress ? `assertive` : ``,
         "aria-label": e.$t(`overlays.vote.pointing`, [e.$t(...e.playerName(s.currentPlayer))])
-    }, null, 12, fA)])]), I(`div`, pA, [s.isBigWig && e.vote.selectedPlayer >= 0 ? (d(),
-    F(`div`, mA, [i(y(e.$t(`overlays.vote.defense_attorney`)) + `: `, 1), I(`b`, null, y(e.$t(...e.playerName(e.players[e.vote.selectedPlayer]))), 1), e.isStoryteller && e.vote.selectedPlayer >= 0 ? (d(),
+    }, null, 12, hA)])]), I(`div`, gA, [s.isBigWig && e.vote.selectedPlayer >= 0 ? (d(),
+    F(`div`, _A, [i(y(e.$t(`overlays.vote.defense_attorney`)) + `: `, 1), I(`b`, null, y(e.$t(...e.playerName(e.players[e.vote.selectedPlayer]))), 1), e.isStoryteller && e.vote.selectedPlayer >= 0 ? (d(),
     h(p, {
         key: 0,
         icon: `trash-alt`,
@@ -17133,7 +17271,7 @@ function kA(e, t, n, a, o, s) {
     F(S, {
         key: 2
     }, [i(y(e.vote.locked === -3 ? e.$t(`overlays.vote.accusation`) : e.$t(`overlays.vote.defense`)) + `: `, 1), I(`b`, null, y(e.vote.locked === -3 ? e.$t(...e.playerName(e.players[e.vote.nomination[0]])) : e.$t(...e.playerName(e.players[e.vote.nomination[1]]))), 1)], 64)) : (d(),
-    F(`div`, hA, [s.isVoudon && s.nominee.role.team !== `traveller` ? (d(),
+    F(`div`, vA, [s.isVoudon && s.nominee.role.team !== `traveller` ? (d(),
     F(S, {
         key: 0
     }, [e.vote.highscore ? (d(),
@@ -17144,17 +17282,17 @@ function kA(e, t, n, a, o, s) {
         keypath: `overlays.vote.votes`,
         plural: e.vote.highscore
     }, {
-        default: m( () => [I(`b`, null, y(Math.round(e.vote.highscore * 10) / 10), 1), I(`b`, gA, y(Math.round(e.vote.highscore * 10 + 10) / 10), 1)]),
+        default: m( () => [I(`b`, null, y(Math.round(e.vote.highscore * 10) / 10), 1), I(`b`, yA, y(Math.round(e.vote.highscore * 10 + 10) / 10), 1)]),
         _: 1
     }, 8, [`plural`])) : (d(),
-    F(`span`, _A, y(e.$t(`overlays.vote.no_majority`)), 1))], 64)) : s.nominee.role.team === `traveller` || e.vote.highscore < s.majority ? (d(),
+    F(`span`, bA, y(e.$t(`overlays.vote.no_majority`)), 1))], 64)) : s.nominee.role.team === `traveller` || e.vote.highscore < s.majority ? (d(),
     h(g, {
         key: 1,
         scope: `global`,
         keypath: `overlays.vote.majority`,
         plural: s.majority
     }, {
-        default: m( () => [I(`b`, vA, y(s.majority), 1)]),
+        default: m( () => [I(`b`, xA, y(s.majority), 1)]),
         _: 1
     }, 8, [`plural`])) : (d(),
     h(g, {
@@ -17163,7 +17301,7 @@ function kA(e, t, n, a, o, s) {
         keypath: `overlays.vote.votes`,
         plural: Math.round(e.vote.highscore * 10) / 10
     }, {
-        default: m( () => [I(`b`, yA, y(Math.round(e.vote.highscore * 10) / 10), 1), I(`b`, bA, y(Math.round(e.vote.highscore * 10 + 10) / 10), 1)]),
+        default: m( () => [I(`b`, SA, y(Math.round(e.vote.highscore * 10) / 10), 1), I(`b`, CA, y(Math.round(e.vote.highscore * 10 + 10) / 10), 1)]),
         _: 1
     }, 8, [`plural`])), e.isStoryteller && s.nominee.role.team !== `traveller` ? (d(),
     h(p, {
@@ -17174,14 +17312,14 @@ function kA(e, t, n, a, o, s) {
         "aria-hidden": `false`,
         "aria-label": e.$t(`overlays.vote.button_set_highscore`)
     }, null, 8, [`aria-label`])) : r(``, !0)])), !e.isStoryteller && e.vote.isHidden ? (d(),
-    F(`div`, xA, [f(p, {
+    F(`div`, wA, [f(p, {
         icon: `star`,
         class: `special`
     }), i(` ` + y(e.$t(`overlays.vote.secret`)), 1)])) : r(``, !0), e.isStoryteller ? (d(),
     F(S, {
         key: 5
     }, [s.secretVoteRole ? (d(),
-    F(`label`, SA, [f(p, {
+    F(`label`, TA, [f(p, {
         icon: `star`,
         class: `special`
     }), I(`input`, {
@@ -17189,7 +17327,7 @@ function kA(e, t, n, a, o, s) {
         onChange: t[2] || (t[2] = (...e) => s.toggleHidden && s.toggleHidden(...e))
     }, null, 32), i(` ` + y(s.secretVoteRole.name) + `: ` + y(e.$t(`overlays.vote.secret_vote`)) + ` `, 1), f(p, {
         icon: e.vote.isHidden ? `check-circle` : `circle`
-    }, null, 8, [`icon`])])) : r(``, !0), I(`div`, CA, [s.isBigWig && e.vote.selectedPlayer < 0 ? (d(),
+    }, null, 8, [`icon`])])) : r(``, !0), I(`div`, EA, [s.isBigWig && e.vote.selectedPlayer < 0 ? (d(),
     F(`div`, {
         key: 0,
         class: v([`button`, {
@@ -17233,7 +17371,7 @@ function kA(e, t, n, a, o, s) {
         onClick: t[6] || (t[6] = e => s.start())
     }, [f(p, {
         icon: e.vote.locked > 0 ? `redo-alt` : `play-circle`
-    }, null, 8, [`icon`]), i(` ` + y(e.vote.locked > 0 ? e.$t(`overlays.vote.button_restart`) : e.$t(`overlays.vote.button_start`)), 1)])], 64))]), I(`div`, wA, [s.nominee.role.team === `traveller` ? r(``, !0) : (d(),
+    }, null, 8, [`icon`]), i(` ` + y(e.vote.locked > 0 ? e.$t(`overlays.vote.button_restart`) : e.$t(`overlays.vote.button_start`)), 1)])], 64))]), I(`div`, DA, [s.nominee.role.team === `traveller` ? r(``, !0) : (d(),
     F(`div`, {
         key: 0,
         class: v([`button mark`, {
@@ -17250,9 +17388,9 @@ function kA(e, t, n, a, o, s) {
     }), i(` ` + y(e.$t(`common.button_close`)), 1)])])], 64)) : s.canVote ? (d(),
     F(S, {
         key: 6
-    }, [I(`div`, TA, [f(p, {
+    }, [I(`div`, OA, [f(p, {
         icon: `warning`
-    }), i(` ` + y(e.$t(`overlays.vote.warning_shortcuts`)), 1)]), I(`div`, EA, [I(`div`, {
+    }), i(` ` + y(e.$t(`overlays.vote.warning_shortcuts`)), 1)]), I(`div`, kA, [I(`div`, {
         class: v([`button primary`, {
             disabled: !s.currentVote || o.voteTimeout
         }]),
@@ -17281,22 +17419,22 @@ function kA(e, t, n, a, o, s) {
         name: `blur`
     }, {
         default: m( () => [e.vote.isInProgress && e.vote.locked === -1 ? (d(),
-        F(`div`, DA, [t[15] || (t[15] = I(`span`, {
+        F(`div`, AA, [t[15] || (t[15] = I(`span`, {
             class: `animation-critical`
         }, `3`, -1)), t[16] || (t[16] = I(`span`, {
             class: `animation-critical`
         }, `2`, -1)), t[17] || (t[17] = I(`span`, {
             class: `animation-critical`
-        }, `1`, -1)), I(`span`, OA, y(e.$t(`overlays.vote.countdown_go`)), 1)])) : r(``, !0)]),
+        }, `1`, -1)), I(`span`, jA, y(e.$t(`overlays.vote.countdown_go`)), 1)])) : r(``, !0)]),
         _: 1
     })])
 }
-var AA = B(cA, [[`render`, kA], [`__scopeId`, `data-v-10079012`]])
-  , jA = {
+var NA = B(dA, [[`render`, MA], [`__scopeId`, `data-v-10079012`]])
+  , PA = {
     name: `WhisperOverlay`,
     components: {
-        PlayerReminders: Hm,
-        ChatVideo: Oh,
+        PlayerReminders: Um,
+        ChatVideo: kh,
         Token: G
     },
     inject: [`setDropHandler`],
@@ -17374,15 +17512,15 @@ var AA = B(cA, [[`render`, kA], [`__scopeId`, `data-v-10079012`]])
         window.whispersElem = null
     }
 }
-  , MA = [`draggable`]
-  , NA = {
+  , FA = [`draggable`]
+  , IA = {
     key: 0,
     class: `shroud`
 }
-  , PA = {
+  , LA = {
     class: `name`
 };
-function FA(e, t, n, a, o, s) {
+function RA(e, t, n, a, o, s) {
     var l, u, m, g, b, x, C, w;
     let T = c(`ChatVideo`)
       , E = c(`font-awesome-icon`)
@@ -17422,7 +17560,7 @@ function FA(e, t, n, a, o, s) {
         }, [f(T, {
             "user-id": t.id
         }, null, 8, [`user-id`]), t.status.includes(`dead`) ? (d(),
-        F(`div`, NA)) : r(``, !0), I(`span`, PA, [e.chat.video.streams.get(t.id) && (o = e.chat.usersMuted[t.id]) != null && o.video ? (d(),
+        F(`div`, IA)) : r(``, !0), I(`span`, LA, [e.chat.video.streams.get(t.id) && (o = e.chat.usersMuted[t.id]) != null && o.video ? (d(),
         h(E, {
             key: 0,
             class: v({
@@ -17453,10 +17591,10 @@ function FA(e, t, n, a, o, s) {
             alignment: t.alignment
         }, null, 8, [`onClick`, `role`, `class`, `alignment`])], 6)
     }
-    ), 128))], 46, MA)
+    ), 128))], 46, FA)
 }
-var IA = B(jA, [[`render`, FA], [`__scopeId`, `data-v-5c009ae2`]])
-  , LA = {
+var zA = B(PA, [[`render`, RA], [`__scopeId`, `data-v-5c009ae2`]])
+  , BA = {
     computed: {
         ...A(`players`, [`players`]),
         ...A(`user`, [`user`]),
@@ -17501,31 +17639,31 @@ var IA = B(jA, [[`render`, FA], [`__scopeId`, `data-v-5c009ae2`]])
         }
     }
 }
-  , RA = {
+  , VA = {
     class: `overlay`,
     id: `night-action`
 }
-  , zA = {
+  , HA = {
     key: 0,
     class: `ability`
 }
-  , BA = [`data-tooltip`]
-  , VA = {
+  , UA = [`data-tooltip`]
+  , WA = {
     class: `button-group`
 };
-function HA(e, t, n, i, a, o) {
+function GA(e, t, n, i, a, o) {
     let s = c(`i18n-t`);
     return d(),
-    F(`div`, RA, [o.abilities.includes(`open-eyes`) ? (d(),
-    F(`div`, zA, [f(s, {
+    F(`div`, VA, [o.abilities.includes(`open-eyes`) ? (d(),
+    F(`div`, HA, [f(s, {
         keypath: `overlays.nightaction.open-eyes.text`,
         scope: `global`
     }, {
         default: m( () => [I(`b`, {
             "data-tooltip": e.$t(`overlays.nightaction.open-eyes.tooltip_${String(e.getOpenEyes)}`)
-        }, y(e.$t(`overlays.nightaction.open-eyes.state_${String(e.getOpenEyes)}`)), 9, BA)]),
+        }, y(e.$t(`overlays.nightaction.open-eyes.state_${String(e.getOpenEyes)}`)), 9, UA)]),
         _: 1
-    }), I(`div`, VA, [I(`div`, {
+    }), I(`div`, WA, [I(`div`, {
         class: v([`button primary`, {
             disabled: e.getOpenEyes === `open-eyes` || a.loading
         }]),
@@ -17542,18 +17680,18 @@ function HA(e, t, n, i, a, o) {
         onClick: t[2] || (t[2] = e => o.openEyes(!1))
     }, y(e.$t(`overlays.nightaction.open-eyes.button_close`)), 3)])])) : r(``, !0)])
 }
-var UA = {
+var KA = {
     components: {
-        NightActionOverlay: B(LA, [[`render`, HA], [`__scopeId`, `data-v-312b1633`]]),
-        WhisperOverlay: IA,
-        VoteOverlay: AA,
-        TownInfoOverlay: sA,
-        RulesOverlay: Uk,
-        RevealOverlay: Lk,
-        PointingOverlay: Ok,
-        GatherPlayersOverlay: gk,
-        FirstNightOverlay: ik,
-        AttentionOverlay: ZO
+        NightActionOverlay: B(BA, [[`render`, GA], [`__scopeId`, `data-v-312b1633`]]),
+        WhisperOverlay: zA,
+        VoteOverlay: NA,
+        TownInfoOverlay: uA,
+        RulesOverlay: Kk,
+        RevealOverlay: Bk,
+        PointingOverlay: jk,
+        GatherPlayersOverlay: yk,
+        FirstNightOverlay: sk,
+        AttentionOverlay: ek
     },
     computed: {
         ...A([`session`, `grimoire`, `vote`]),
@@ -17564,7 +17702,7 @@ var UA = {
         return {}
     }
 };
-function WA(e, t, n, i, a, o) {
+function qA(e, t, n, i, a, o) {
     let s = c(`AttentionOverlay`)
       , l = c(`FirstNightOverlay`)
       , u = c(`GatherPlayersOverlay`)
@@ -17623,13 +17761,13 @@ function WA(e, t, n, i, a, o) {
         _: 1
     })], 64)
 }
-var GA = B(UA, [[`render`, WA]]);
-function KA(e) {
+var JA = B(KA, [[`render`, qA]]);
+function YA(e) {
     return new Worker(`/assets/image-5G3JowdQ.js`,{
         name: e == null ? void 0 : e.name
     })
 }
-var qA = e => {
+var XA = e => {
     if (navigator.mediaDevices && navigator.mediaDevices.getDisplayMedia)
         return navigator.mediaDevices.getDisplayMedia(e);
     if (navigator.getDisplayMedia)
@@ -17640,10 +17778,10 @@ var qA = e => {
         return navigator.mozGetDisplayMedia(e);
     throw Error(`getDisplayMedia is not defined`)
 }
-  , JA = async () => {
+  , ZA = async () => {
     let e = screen.width * (window.devicePixelRatio || 1), t = screen.height * (window.devicePixelRatio || 1), n = [], r;
     try {
-        r = await qA({
+        r = await XA({
             preferCurrentTab: !0,
             monitorTypeSurfaces: `exclude`,
             selfBrowserSurface: `include`,
@@ -17662,8 +17800,8 @@ var qA = e => {
         throw n[n.length - 1];
     return r
 }
-  , YA = async e => {
-    let t = await JA();
+  , QA = async e => {
+    let t = await ZA();
     document.body.classList.add(e),
     await ee(),
     await new Promise(e => setTimeout(e, 500));
@@ -17690,7 +17828,7 @@ var qA = e => {
     return r
 }
 ;
-function XA(e) {
+function $A(e) {
     let {previewScale: t=.25, quality: r=.8, screenshotClass: i=`screenshot`} = e
       , a = n(!1)
       , o = n(null)
@@ -17715,7 +17853,7 @@ function XA(e) {
                 a.value = !0,
                 l();
                 try {
-                    let e = await YA(i);
+                    let e = await QA(i);
                     o.value = await new Promise(t => {
                         e.toBlob(t, `image/jpeg`, r)
                     }
@@ -17742,14 +17880,14 @@ function XA(e) {
         cleanup: l
     }
 }
-var ZA = {
+var ej = {
     components: {
         FontAwesomeIcon: Kn,
         Modal: U
     },
     inject: [`isApp`],
     setup() {
-        let {isCapturing: e, screenshotBlob: t, previewUrl: n, error: r, capture: i, cleanup: a} = XA({
+        let {isCapturing: e, screenshotBlob: t, previewUrl: n, error: r, capture: i, cleanup: a} = $A({
             previewScale: .25,
             quality: .9
         });
@@ -17841,7 +17979,7 @@ var ZA = {
                 MAX_HEIGHT: 1080
             };
             return new Promise( (n, r) => {
-                let i = new KA;
+                let i = new YA;
                 i.onmessage = e => {
                     let t = e.data;
                     if (i.terminate(),
@@ -17946,55 +18084,55 @@ var ZA = {
         clearTimeout(this.disableTimer)
     }
 }
-  , QA = {
+  , tj = {
     key: 0,
     class: `overlay`
 }
-  , $A = [`src`]
-  , ej = {
+  , nj = [`src`]
+  , rj = {
     class: `button-group`
 }
-  , tj = {
+  , ij = {
     for: `reason`
 }
-  , nj = {
+  , aj = {
     value: ``,
     disabled: ``
 }
-  , rj = [`value`]
-  , ij = {
+  , oj = [`value`]
+  , sj = {
     for: `subject`
 }
-  , aj = [`placeholder`]
-  , oj = {
+  , cj = [`placeholder`]
+  , lj = {
     for: `description`
 }
-  , sj = [`placeholder`]
-  , cj = {
+  , uj = [`placeholder`]
+  , dj = {
     for: `attachment`
 }
-  , lj = {
+  , fj = {
     key: 0,
     class: `error`
 }
-  , uj = {
+  , pj = {
     class: `split`
 }
-  , dj = {
+  , mj = {
     class: `button-group`
 }
-  , fj = {
+  , hj = {
     for: `attachment`,
     class: `button`
 }
-  , pj = {
+  , gj = {
     class: `button-group`
 }
-  , mj = {
+  , _j = {
     key: 0,
     class: `loader`
 };
-function hj(e, t, n, a, o, s) {
+function vj(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`)
       , u = c(`Modal`);
     return d(),
@@ -18015,10 +18153,10 @@ function hj(e, t, n, a, o, s) {
             default: m( () => {
                 var n;
                 return [a.previewUrl && !o.hasScreenshot ? (d(),
-                F(`div`, QA, [I(`img`, {
+                F(`div`, tj, [I(`img`, {
                     src: a.previewUrl,
                     alt: ``
-                }, null, 8, $A), i(` ` + y(e.$t(`modals.report.screenshot_approve`)) + ` `, 1), I(`div`, ej, [I(`div`, {
+                }, null, 8, nj), i(` ` + y(e.$t(`modals.report.screenshot_approve`)) + ` `, 1), I(`div`, rj, [I(`div`, {
                     class: `button primary`,
                     onClick: t[0] || (t[0] = e => o.hasScreenshot = !0)
                 }, y(e.$t(`common.button_confirm`)), 1), I(`div`, {
@@ -18026,31 +18164,31 @@ function hj(e, t, n, a, o, s) {
                     onClick: t[1] || (t[1] = (...e) => a.cleanup && a.cleanup(...e))
                 }, y(e.$t(`common.button_cancel`)), 1)])])) : r(``, !0), I(`form`, {
                     onSubmit: t[9] || (t[9] = L(e => s.submit(), [`prevent`]))
-                }, [I(`label`, tj, [i(y(e.$t(`modals.report.reason_${(n = e.modal.params) != null && n.userId ? `user` : `general`}`)), 1), t[11] || (t[11] = I(`em`, null, `*`, -1))]), R(I(`select`, {
+                }, [I(`label`, ij, [i(y(e.$t(`modals.report.reason_${(n = e.modal.params) != null && n.userId ? `user` : `general`}`)), 1), t[11] || (t[11] = I(`em`, null, `*`, -1))]), R(I(`select`, {
                     name: `reason`,
                     id: `reason`,
                     "onUpdate:modelValue": t[2] || (t[2] = e => o.reason = e),
                     required: ``
-                }, [I(`option`, nj, y(e.$t(`modals.report.reason_placeholder`)), 1), (d(!0),
+                }, [I(`option`, aj, y(e.$t(`modals.report.reason_placeholder`)), 1), (d(!0),
                 F(S, null, p(e.modal.params.userId ? o.reasonsUser : o.reasonsGeneral, t => (d(),
                 F(`option`, {
                     key: t,
                     value: t
-                }, y(e.$t(`modals.report.reason.${t}`)), 9, rj))), 128))], 512), [[b, o.reason]]), I(`label`, ij, [i(y(e.$t(`modals.report.subject`)), 1), t[12] || (t[12] = I(`em`, null, `*`, -1))]), R(I(`input`, {
+                }, y(e.$t(`modals.report.reason.${t}`)), 9, oj))), 128))], 512), [[b, o.reason]]), I(`label`, sj, [i(y(e.$t(`modals.report.subject`)), 1), t[12] || (t[12] = I(`em`, null, `*`, -1))]), R(I(`input`, {
                     type: `text`,
                     "onUpdate:modelValue": t[3] || (t[3] = e => o.subject = e),
                     id: `subject`,
                     required: ``,
                     maxlength: `500`,
                     placeholder: e.$t(`modals.report.subject_placeholder`)
-                }, null, 8, aj), [[P, o.subject]]), I(`label`, oj, [i(y(e.$t(`modals.report.description`)), 1), t[13] || (t[13] = I(`em`, null, `*`, -1))]), R(I(`textarea`, {
+                }, null, 8, cj), [[P, o.subject]]), I(`label`, lj, [i(y(e.$t(`modals.report.description`)), 1), t[13] || (t[13] = I(`em`, null, `*`, -1))]), R(I(`textarea`, {
                     "onUpdate:modelValue": t[4] || (t[4] = e => o.description = e),
                     id: `description`,
                     required: ``,
                     maxlength: `2000`,
                     placeholder: e.$t(`modals.report.description_placeholder`)
-                }, null, 8, sj), [[P, o.description]]), I(`p`, null, y(e.$t(`modals.report.description2`)), 1), I(`label`, cj, y(e.$t(`modals.report.attachment`)), 1), a.error ? (d(),
-                F(`div`, lj, y(e.$t(`modals.report.screenshot_error`)) + `: ` + y(a.error), 1)) : r(``, !0), I(`div`, uj, [I(`div`, dj, [!o.hasScreenshot || !a.screenshotBlob ? (d(),
+                }, null, 8, uj), [[P, o.description]]), I(`p`, null, y(e.$t(`modals.report.description2`)), 1), I(`label`, dj, y(e.$t(`modals.report.attachment`)), 1), a.error ? (d(),
+                F(`div`, fj, y(e.$t(`modals.report.screenshot_error`)) + `: ` + y(a.error), 1)) : r(``, !0), I(`div`, pj, [I(`div`, mj, [!o.hasScreenshot || !a.screenshotBlob ? (d(),
                 F(`button`, {
                     key: 0,
                     tabindex: `-1`,
@@ -18066,14 +18204,14 @@ function hj(e, t, n, a, o, s) {
                     onClick: t[6] || (t[6] = e => a.cleanup())
                 }, [i(y(e.$t(`modals.report.screenshot`, [Math.round(a.screenshotBlob.size / 1024)])) + ` `, 1), f(l, {
                     icon: `trash-alt`
-                })])), I(`label`, fj, y(e.$t(`modals.report.button_attachment`)), 1)]), I(`input`, {
+                })])), I(`label`, hj, y(e.$t(`modals.report.button_attachment`)), 1)]), I(`input`, {
                     type: `file`,
                     id: `attachment`,
                     ref: `attachment`,
                     multiple: ``,
                     accept: `image/png, image/jpeg, image/gif, image/webp`,
                     onChange: t[7] || (t[7] = e => s.checkAttachments())
-                }, null, 544)]), I(`div`, pj, [I(`button`, {
+                }, null, 544)]), I(`div`, gj, [I(`button`, {
                     tabindex: `-1`,
                     type: `submit`,
                     class: v([`button primary`, {
@@ -18088,7 +18226,7 @@ function hj(e, t, n, a, o, s) {
                     name: `fade`
                 }, {
                     default: m( () => [o.isLoading ? (d(),
-                    F(`div`, mj, y(e.$t(`modals.report.submitting`)), 1)) : r(``, !0)]),
+                    F(`div`, _j, y(e.$t(`modals.report.submitting`)), 1)) : r(``, !0)]),
                     _: 1
                 })]
             }
@@ -18098,8 +18236,8 @@ function hj(e, t, n, a, o, s) {
         _: 1
     })
 }
-var gj = B(ZA, [[`render`, hj], [`__scopeId`, `data-v-bcf19d02`]])
-  , _j = {
+var yj = B(ej, [[`render`, vj], [`__scopeId`, `data-v-bcf19d02`]])
+  , bj = {
     components: {
         Modal: U
     },
@@ -18110,16 +18248,16 @@ var gj = B(ZA, [[`render`, hj], [`__scopeId`, `data-v-bcf19d02`]])
         ...C([`toggleModal`])
     }
 }
-  , vj = {
+  , xj = {
     href: `mailto:moderation@botc.app`,
     target: `_blank`
 }
-  , yj = {
+  , Sj = {
     href: `https://bloodontheclocktower.com/terms-of-use`,
     target: `_blank`,
     class: `terms`
 };
-function bj(e, t, n, a, o, s) {
+function Cj(e, t, n, a, o, s) {
     let l = c(`i18n-t`)
       , u = c(`Modal`);
     return d(),
@@ -18138,9 +18276,9 @@ function bj(e, t, n, a, o, s) {
                 keypath: `modals.playnice.text2`,
                 scope: `global`
             }, {
-                default: m( () => [I(`a`, vj, y(e.$t(`modals.playnice.text2_email`)), 1)]),
+                default: m( () => [I(`a`, xj, y(e.$t(`modals.playnice.text2_email`)), 1)]),
                 _: 1
-            }), I(`a`, yj, y(e.$t(`modals.playnice.terms`)), 1), I(`div`, {
+            }), I(`a`, Sj, y(e.$t(`modals.playnice.terms`)), 1), I(`div`, {
                 class: `button primary`,
                 onClick: t[0] || (t[0] = t => e.toggleModal())
             }, y(e.$t(`modals.playnice.button`)), 1)]),
@@ -18149,35 +18287,35 @@ function bj(e, t, n, a, o, s) {
         _: 1
     })
 }
-var xj = {
+var wj = {
     components: {
-        PlayNiceModal: B(_j, [[`render`, bj], [`__scopeId`, `data-v-6096ae4b`]]),
-        ReportModal: gj,
-        NPCModal: H_,
-        Overlays: GA,
-        SetupModal: UO,
-        VerificationModal: yO,
-        UserModal: rO,
-        ModerationModal: XD,
-        AnnouncementModal: xD,
-        UsersModal: pD,
-        TextTab: hE,
-        CharacterTab: BT,
-        NightOrderTab: mT,
-        BluffsTab: VS,
-        NPCsTab: RS,
-        ChatTab: DS,
-        Storyteller: nS,
-        SettingsModal: Ax,
-        SignalModal: t_,
-        Player: Uh,
-        RoleModal: eg,
-        ReminderModal: fg,
-        DialogueModal: E_,
-        RulesModal: k_,
-        VoteHistoryModal: F_,
-        EditionModal: Tv,
-        RolesModal: Iv
+        PlayNiceModal: B(bj, [[`render`, Cj], [`__scopeId`, `data-v-6096ae4b`]]),
+        ReportModal: yj,
+        NPCModal: U_,
+        Overlays: JA,
+        SetupModal: KO,
+        VerificationModal: SO,
+        UserModal: oO,
+        ModerationModal: $D,
+        AnnouncementModal: TD,
+        UsersModal: _D,
+        TextTab: yE,
+        CharacterTab: WT,
+        NightOrderTab: vT,
+        BluffsTab: GS,
+        NPCsTab: HS,
+        ChatTab: jS,
+        Storyteller: oS,
+        SettingsModal: Px,
+        SignalModal: n_,
+        Player: Wh,
+        RoleModal: tg,
+        ReminderModal: pg,
+        DialogueModal: D_,
+        RulesModal: A_,
+        VoteHistoryModal: I_,
+        EditionModal: Ev,
+        RolesModal: Lv
     },
     computed: {
         ...A([`grimoire`, `session`, `edition`, `vote`, `settings`]),
@@ -18197,68 +18335,68 @@ var xj = {
                 backgroundImage: `url(${this.edition.background})`
             } : e ? e > 0 ? {
                 backgroundImage: `url(${new URL(Object.assign({
-                    "/src/assets/editions/bmr/background1.webp": kf,
-                    "/src/assets/editions/bmr/background1t.webp": Af,
-                    "/src/assets/editions/bmr/background2.webp": jf,
-                    "/src/assets/editions/bmr/background2t.webp": Mf,
-                    "/src/assets/editions/bmr/background3.webp": Nf,
-                    "/src/assets/editions/bmr/background3t.webp": Pf,
-                    "/src/assets/editions/bmr/background4.webp": Ff,
-                    "/src/assets/editions/bmr/background4t.webp": If,
-                    "/src/assets/editions/bmr/background5.webp": Lf,
-                    "/src/assets/editions/bmr/background5t.webp": Rf,
-                    "/src/assets/editions/bmr/background6.webp": zf,
-                    "/src/assets/editions/bmr/background6t.webp": Bf,
-                    "/src/assets/editions/custom/background1.webp": Vf,
-                    "/src/assets/editions/custom/background1t.webp": Hf,
-                    "/src/assets/editions/custom/background2.webp": Uf,
-                    "/src/assets/editions/custom/background2t.webp": Wf,
-                    "/src/assets/editions/custom/background3.webp": Gf,
-                    "/src/assets/editions/custom/background3t.webp": Kf,
-                    "/src/assets/editions/custom/background4.webp": qf,
-                    "/src/assets/editions/custom/background4t.webp": Jf,
-                    "/src/assets/editions/custom/background5.webp": Yf,
-                    "/src/assets/editions/custom/background5t.webp": Xf,
-                    "/src/assets/editions/custom/background6.webp": Zf,
-                    "/src/assets/editions/custom/background6t.webp": Qf,
-                    "/src/assets/editions/custom/background7.webp": $f,
-                    "/src/assets/editions/custom/background7t.webp": ep,
-                    "/src/assets/editions/custom/background8.webp": tp,
-                    "/src/assets/editions/custom/background8t.webp": np,
-                    "/src/assets/editions/snv/background1.webp": rp,
-                    "/src/assets/editions/snv/background1t.webp": ip,
-                    "/src/assets/editions/snv/background2.webp": ap,
-                    "/src/assets/editions/snv/background2t.webp": op,
-                    "/src/assets/editions/snv/background3.webp": sp,
-                    "/src/assets/editions/snv/background3t.webp": cp,
-                    "/src/assets/editions/snv/background4.webp": lp,
-                    "/src/assets/editions/snv/background4t.webp": up,
-                    "/src/assets/editions/snv/background5.webp": dp,
-                    "/src/assets/editions/snv/background5t.webp": fp,
-                    "/src/assets/editions/snv/background6.webp": pp,
-                    "/src/assets/editions/snv/background6t.webp": mp,
-                    "/src/assets/editions/tb/background1.webp": hp,
-                    "/src/assets/editions/tb/background1t.webp": gp,
-                    "/src/assets/editions/tb/background2.webp": _p,
-                    "/src/assets/editions/tb/background2t.webp": vp,
-                    "/src/assets/editions/tb/background3.webp": yp,
-                    "/src/assets/editions/tb/background3t.webp": bp,
-                    "/src/assets/editions/tb/background4.webp": xp,
-                    "/src/assets/editions/tb/background4t.webp": Sp,
-                    "/src/assets/editions/tb/background5.webp": Cp,
-                    "/src/assets/editions/tb/background5t.webp": wp,
-                    "/src/assets/editions/tb/background6.webp": Tp,
-                    "/src/assets/editions/tb/background6t.webp": Ep
+                    "/src/assets/editions/bmr/background1.webp": Af,
+                    "/src/assets/editions/bmr/background1t.webp": jf,
+                    "/src/assets/editions/bmr/background2.webp": Mf,
+                    "/src/assets/editions/bmr/background2t.webp": Nf,
+                    "/src/assets/editions/bmr/background3.webp": Pf,
+                    "/src/assets/editions/bmr/background3t.webp": Ff,
+                    "/src/assets/editions/bmr/background4.webp": If,
+                    "/src/assets/editions/bmr/background4t.webp": Lf,
+                    "/src/assets/editions/bmr/background5.webp": Rf,
+                    "/src/assets/editions/bmr/background5t.webp": zf,
+                    "/src/assets/editions/bmr/background6.webp": Bf,
+                    "/src/assets/editions/bmr/background6t.webp": Vf,
+                    "/src/assets/editions/custom/background1.webp": Hf,
+                    "/src/assets/editions/custom/background1t.webp": Uf,
+                    "/src/assets/editions/custom/background2.webp": Wf,
+                    "/src/assets/editions/custom/background2t.webp": Gf,
+                    "/src/assets/editions/custom/background3.webp": Kf,
+                    "/src/assets/editions/custom/background3t.webp": qf,
+                    "/src/assets/editions/custom/background4.webp": Jf,
+                    "/src/assets/editions/custom/background4t.webp": Yf,
+                    "/src/assets/editions/custom/background5.webp": Xf,
+                    "/src/assets/editions/custom/background5t.webp": Zf,
+                    "/src/assets/editions/custom/background6.webp": Qf,
+                    "/src/assets/editions/custom/background6t.webp": $f,
+                    "/src/assets/editions/custom/background7.webp": ep,
+                    "/src/assets/editions/custom/background7t.webp": tp,
+                    "/src/assets/editions/custom/background8.webp": np,
+                    "/src/assets/editions/custom/background8t.webp": rp,
+                    "/src/assets/editions/snv/background1.webp": ip,
+                    "/src/assets/editions/snv/background1t.webp": ap,
+                    "/src/assets/editions/snv/background2.webp": op,
+                    "/src/assets/editions/snv/background2t.webp": sp,
+                    "/src/assets/editions/snv/background3.webp": cp,
+                    "/src/assets/editions/snv/background3t.webp": lp,
+                    "/src/assets/editions/snv/background4.webp": up,
+                    "/src/assets/editions/snv/background4t.webp": dp,
+                    "/src/assets/editions/snv/background5.webp": fp,
+                    "/src/assets/editions/snv/background5t.webp": pp,
+                    "/src/assets/editions/snv/background6.webp": mp,
+                    "/src/assets/editions/snv/background6t.webp": hp,
+                    "/src/assets/editions/tb/background1.webp": gp,
+                    "/src/assets/editions/tb/background1t.webp": _p,
+                    "/src/assets/editions/tb/background2.webp": vp,
+                    "/src/assets/editions/tb/background2t.webp": yp,
+                    "/src/assets/editions/tb/background3.webp": bp,
+                    "/src/assets/editions/tb/background3t.webp": xp,
+                    "/src/assets/editions/tb/background4.webp": Sp,
+                    "/src/assets/editions/tb/background4t.webp": Cp,
+                    "/src/assets/editions/tb/background5.webp": wp,
+                    "/src/assets/editions/tb/background5t.webp": Tp,
+                    "/src/assets/editions/tb/background6.webp": Ep,
+                    "/src/assets/editions/tb/background6t.webp": Dp
                 })[`/src/assets/editions/${this.edition.isOfficial ? this.edition.id : `custom`}/background ${e}.webp`],import.meta.url).href})`
             } : {
                 backgroundImage: `url(${new URL(Object.assign({
-                    "/src/assets/background.webp": Dp,
-                    "/src/assets/background1.webp": Op,
-                    "/src/assets/background1t.webp": kp,
-                    "/src/assets/background2.webp": Ap,
-                    "/src/assets/background2t.webp": jp,
-                    "/src/assets/background3.webp": Mp,
-                    "/src/assets/background3t.webp": Np
+                    "/src/assets/background.webp": Op,
+                    "/src/assets/background1.webp": kp,
+                    "/src/assets/background1t.webp": Ap,
+                    "/src/assets/background2.webp": jp,
+                    "/src/assets/background2t.webp": Mp,
+                    "/src/assets/background3.webp": Np,
+                    "/src/assets/background3t.webp": Pp
                 })[`/src/assets/background${-e}.webp`],import.meta.url).href})`
             } : {
                 backgroundImage: `url(${new URL(`/assets/background1-C0iW8pNy.webp`,`` + import.meta.url).href})`
@@ -18299,22 +18437,22 @@ var xj = {
         }
     }
 }
-  , Sj = () => {
+  , Tj = () => {
     j(e => ({
         v3914c798: e.zoom,
         v2dc843b6: e.scale,
         v33b92b18: e.offset
     }))
 }
-  , Cj = xj.setup;
-xj.setup = Cj ? (e, t) => (Sj(),
-Cj(e, t)) : Sj;
-var wj = [`src`]
-  , Tj = [`src`]
-  , Ej = {
+  , Ej = wj.setup;
+wj.setup = Ej ? (e, t) => (Tj(),
+Ej(e, t)) : Tj;
+var Dj = [`src`]
+  , Oj = [`src`]
+  , kj = {
     id: `left`
 };
-function Dj(e, t, n, i, a, o) {
+function Aj(e, t, n, i, a, o) {
     let s = c(`Player`)
       , l = c(`Overlays`)
       , u = c(`Storyteller`)
@@ -18379,14 +18517,14 @@ function Dj(e, t, n, i, a, o) {
         src: e.settings.general.background,
         autoplay: ``,
         loop: ``
-    }, null, 40, wj)) : (d(),
+    }, null, 40, Dj)) : (d(),
     F(`img`, {
         key: 1,
         id: `background-check`,
         src: e.settings.general.background,
         onError: t[1] || (t[1] = e => o.backgroundError()),
         alt: ``
-    }, null, 40, Tj))], 64)) : r(``, !0), f(w, {
+    }, null, 40, Oj))], 64)) : r(``, !0), f(w, {
         name: `fade`
     }, {
         default: m( () => [(e.isNight || e.session.hook.name === `reveal-grimoire`) && !e.settings.advanced.chromaKey ? (d(),
@@ -18418,20 +18556,20 @@ function Dj(e, t, n, i, a, o) {
             })
         }, null, 8, [`player`, `class`]))), 128))], 2))]),
         _: 1
-    }), f(l)], 4), I(`div`, Ej, [f(u), f(g), f(b), f(x), f(C)]), f(T), f(E), f(D), f(O), f(ee), f(k), f(A), f(j), f(te), f(M), f(ne), f(re), f(N), f(ie), f(ae), f(P), f(R), f(oe), f(se), f(ce)], 34)
+    }), f(l)], 4), I(`div`, kj, [f(u), f(g), f(b), f(x), f(C)]), f(T), f(E), f(D), f(O), f(ee), f(k), f(A), f(j), f(te), f(M), f(ne), f(re), f(N), f(ie), f(ae), f(P), f(R), f(oe), f(se), f(ce)], 34)
 }
-var Oj = B(xj, [[`render`, Dj]])
-  , kj = {
+var jj = B(wj, [[`render`, Aj]])
+  , Mj = {
     components: {
-        ReportModal: gj,
-        AnnouncementModal: xD,
-        VerificationModal: yO,
-        UserModal: rO,
-        ModerationModal: XD,
-        SessionMeta: qE,
-        SettingsModal: Ax,
-        DialogueModal: E_,
-        SetupModal: UO
+        ReportModal: yj,
+        AnnouncementModal: TD,
+        VerificationModal: SO,
+        UserModal: oO,
+        ModerationModal: $D,
+        SessionMeta: ZE,
+        SettingsModal: Px,
+        DialogueModal: D_,
+        SetupModal: KO
     },
     inject: [`bindShortcut`, `unbindShortcut`, `isApp`],
     computed: {
@@ -18453,17 +18591,9 @@ var Oj = B(xj, [[`render`, Dj]])
                     return e.language > t.language ? this.sortAsc : -1 * this.sortAsc;
                 case `storytellers`:
                     var n, r;
-                    return ((n = e.usersAll.find(t => {
-                        var n;
-                        return t.id === ((n = e.storytellers[0]) == null ? void 0 : n.id)
-                    }
-                    )) == null ? void 0 : n.username) > ((r = t.usersAll.find(e => {
-                        var n;
-                        return e.id === ((n = t.storytellers[0]) == null ? void 0 : n.id)
-                    }
-                    )) == null ? void 0 : r.username) ? this.sortAsc : -1 * this.sortAsc;
+                    return ((n = e.seats.find(e => e.seat === -1)) == null ? void 0 : n.username) > ((r = t.seats.find(e => e.seat === -1)) == null ? void 0 : r.username) ? this.sortAsc : -1 * this.sortAsc;
                 case `players`:
-                    return (e.players.length - e.players.filter(t => e.usersAll.some(e => e.id === t.id && e.isOnline)).length - (t.players.length - t.players.filter(e => t.usersAll.some(t => t.id === e.id && t.isOnline)).length) || t.players.length - e.players.length) * this.sortAsc * -1;
+                    return (e.users.length - t.users.length) * this.sortAsc * -1;
                 case `script`:
                     return e.edition.id === t.edition.id ? e.edition.name > t.edition.name ? this.sortAsc : -1 * this.sortAsc : e.edition.id > t.edition.id ? this.sortAsc : -1 * this.sortAsc;
                 default:
@@ -18473,19 +18603,19 @@ var Oj = B(xj, [[`render`, Dj]])
             ).map(e => {
                 var t, n, r;
                 return Object.assign({}, e, {
-                    count: e.usersAll.filter(e => e.isOnline).length,
-                    blocked: e.usersAll.some(e => {
+                    count: e.users.length,
+                    blocked: e.users.some(e => {
                         var t;
                         return ((t = this.relations.get(e.id)) == null ? void 0 : t.type) === `block`
                     }
                     ),
-                    disabled: e.usersAll.filter(e => e.isOnline).length >= 25 && !e.players.some(e => e.id === this.user.id) && !e.storytellers.some(e => e.id === this.user.id) && !this.isModerator || !this.user.level && !e.boostDuration || e.isPublic && ((t = this.user.flags) == null ? void 0 : t.includes(`forced-private`)) || e.isPublic && !((n = this.user.flags) != null && n.includes(`verified-phone`)) && !this.user.level,
+                    disabled: (e.users.length >= 50 || e.users.filter(e => !e.level) >= 25 && !this.user.level) && !e.seats.some(e => e.id === this.user.id) && !this.isModerator || !this.user.level && !e.boostDuration || e.isPublic && ((t = this.user.flags) == null ? void 0 : t.includes(`forced-private`)) || e.isPublic && !((n = this.user.flags) != null && n.includes(`verified-phone`)) && !this.user.level,
                     editionIcon: new URL(Object.assign({
-                        "/src/assets/editions/bmr/skull.webp": Rv,
-                        "/src/assets/editions/custom/skull.webp": zv,
-                        "/src/assets/editions/homebrew/skull.webp": Bv,
-                        "/src/assets/editions/snv/skull.webp": Vv,
-                        "/src/assets/editions/tb/skull.webp": Hv
+                        "/src/assets/editions/bmr/skull.webp": zv,
+                        "/src/assets/editions/custom/skull.webp": Bv,
+                        "/src/assets/editions/homebrew/skull.webp": Vv,
+                        "/src/assets/editions/snv/skull.webp": Hv,
+                        "/src/assets/editions/tb/skull.webp": Uv
                     })[`/src/assets/editions/${(r = e.edition.id) == null ? `custom` : r}/skull.webp`],import.meta.url).href,
                     phaseIcon: e.isRunning ? e.lastHistory === `end` ? `book-dead` : e.phase ? e.phase % 2 ? `cloud-moon` : `sun` : `cloud` : `hourglass-half`,
                     phase: e.isRunning ? e.lastHistory === `end` ? this.$t(`grimoire.phases.grim_reveal`) : e.phase ? e.phase % 2 ? this.$t(`grimoire.phases.night`, {
@@ -18493,14 +18623,16 @@ var Oj = B(xj, [[`render`, Dj]])
                     }) : this.$t(`grimoire.phases.day`, {
                         n: Math.ceil(e.phase / 2)
                     }) : this.$t(`grimoire.phases.start`) : this.$t(`grimoire.phases.end`),
-                    seats: e.players.filter(t => e.usersAll.some(e => e.id === t.id && e.isOnline)).length + ` / ` + e.players.length,
-                    spectators: e.usersAll.filter(t => ![...e.players, ...e.storytellers].some(e => e.id === t.id) && t.isOnline)
+                    occupiedSeats: e.seats.filter(t => t.seat >= 0 && e.users.some(e => e.id === t.id)).length + ` / ` + e.seats.filter(e => e.seat >= 0).length,
+                    spectators: e.users.filter(t => !e.seats.some(e => e.id === t.id)),
+                    players: e.seats.filter(e => e.seat >= 0),
+                    storytellers: e.seats.filter(e => e.seat < 0)
                 })
             }
             )
         },
         sessionUsers() {
-            return this.sessions.reduce( (e, t) => e + t.usersAll.filter(e => e.isOnline).length, 0)
+            return this.sessions.reduce( (e, t) => e + t.users.length, 0)
         }
     },
     data() {
@@ -18532,7 +18664,7 @@ var Oj = B(xj, [[`render`, Dj]])
                     });
                     return
                 }
-                return (t = this.user.flags) != null && t.includes(`newuser`) && e.npcs.some(e => e.id === `bootlegger`) && !await this.$store.dispatch(`openDialogue`, {
+                return (t = this.user.flags) != null && t.includes(`newuser`) && e.npcs.includes(`bootlegger`) && !await this.$store.dispatch(`openDialogue`, {
                     type: `confirm`,
                     title: this.$t(`pages.lobby.bootlegger_title`),
                     text: this.$t(`pages.lobby.bootlegger_warning`)
@@ -18542,10 +18674,13 @@ var Oj = B(xj, [[`render`, Dj]])
         async createSession() {
             if (this.isSubscribed && !this.isCreating)
                 if (this.modal.name && this.toggleModal(),
-                this.tab !== `create`)
+                this.tab !== `create`) {
+                    var e;
                     this.server = this.$store.getters[`chat/chatServerPreference`][0],
-                    this.tab = `create`;
-                else {
+                    this.tab = `create`,
+                    await this.$nextTick(),
+                    (e = this.$refs.meta) == null || (e = e.$refs.sessionName) == null || e.focus()
+                } else {
                     let e = new FormData(this.$refs.createForm);
                     if (!e.get(`sessionName`))
                         return;
@@ -18591,7 +18726,7 @@ var Oj = B(xj, [[`render`, Dj]])
                 clearTimeout(this.updateTimer),
                 this.loading = !0;
                 try {
-                    let e = await _y(`sessions`, this.accessToken);
+                    let e = await vy(`sessions`, this.accessToken);
                     this.sessionsList = e != null && e.length ? e : []
                 } catch {}
                 this.sessionsList.length <= this.page * this.pageSize && (this.page = 0),
@@ -18633,124 +18768,124 @@ var Oj = B(xj, [[`render`, Dj]])
         }
     }
 }
-  , Aj = {
-    id: `lobby`
-}
-  , jj = {
-    key: 0,
-    class: `list`
-}
-  , Mj = {
-    class: `left`
-}
   , Nj = {
-    class: `right`
+    id: `lobby`
 }
   , Pj = {
     key: 0,
-    class: `loader`
-}
-  , Fj = {
-    class: `container`
-}
-  , Ij = {
     class: `list`
 }
+  , Fj = {
+    class: `left`
+}
+  , Ij = {
+    class: `right`
+}
   , Lj = {
-    key: 0
+    key: 0,
+    class: `loader`
 }
   , Rj = {
-    key: 0
+    class: `container`
 }
   , zj = {
-    colspan: `7`
+    class: `list`
 }
   , Bj = {
     key: 0
 }
   , Vj = {
-    key: 1
-}
-  , Hj = [`onClick`]
-  , Uj = {
-    rowspan: `2`
-}
-  , Wj = [`onClick`]
-  , Gj = [`src`, `alt`]
-  , Kj = {
     key: 0
 }
-  , qj = {
-    class: `storyteller`
+  , Hj = {
+    colspan: `7`
 }
-  , Jj = [`onClick`]
+  , Uj = {
+    key: 0
+}
+  , Wj = {
+    key: 1
+}
+  , Gj = [`onClick`]
+  , Kj = {
+    rowspan: `2`
+}
+  , qj = [`onClick`]
+  , Jj = [`src`, `alt`]
   , Yj = {
-    class: `players`
+    key: 0
 }
   , Xj = {
+    class: `storyteller`
+}
+  , Zj = [`onClick`]
+  , Qj = {
+    class: `players`
+}
+  , $j = {
     class: `tags`
 }
-  , Zj = [`title`]
-  , Qj = [`title`]
-  , $j = [`title`]
   , eM = [`title`]
   , tM = [`title`]
   , nM = [`title`]
-  , rM = [`onClick`]
-  , iM = {
+  , rM = [`title`]
+  , iM = [`title`]
+  , aM = [`title`]
+  , oM = [`onClick`]
+  , sM = {
     colspan: `6`
 }
-  , aM = {
+  , cM = {
     key: 0
 }
-  , oM = {
+  , lM = {
     key: 1
 }
-  , sM = [`title`]
-  , cM = {
+  , uM = [`title`]
+  , dM = {
     key: 2
 }
-  , lM = [`title`]
-  , uM = {
+  , fM = [`title`]
+  , pM = {
     key: 3,
     class: `players`
 }
-  , dM = [`onClick`]
-  , fM = {
+  , mM = [`onClick`]
+  , hM = {
     key: 4,
     class: `spectators`
 }
-  , pM = [`onClick`]
-  , mM = {
+  , gM = [`onClick`]
+  , _M = {
     key: 1,
     class: `warning`
 }
-  , hM = {
+  , vM = {
     href: `https://www.patreon.com/botconline`,
     target: `_blank`
 }
-  , gM = {
+  , yM = {
     href: `https://www.patreon.com/botconline`,
     target: `_blank`
 }
-  , _M = {
+  , bM = {
     class: `button-group`
 }
-  , vM = {
+  , xM = {
     key: 4,
     class: `gap`
 }
-  , yM = {
+  , SM = {
     key: 5,
     class: `pagination`
 }
-  , bM = {
+  , CM = {
     key: 1
 }
-  , xM = {
+  , wM = {
     class: `button-group`
 };
-function SM(e, t, n, a, o, s) {
+function TM(e, t, n, a, o, s) {
     var l, u, g;
     let b = c(`i18n-t`)
       , x = c(`font-awesome-icon`)
@@ -18764,10 +18899,10 @@ function SM(e, t, n, a, o, s) {
       , k = c(`ReportModal`)
       , A = c(`AnnouncementModal`);
     return d(),
-    F(`div`, Aj, [I(`main`, {
+    F(`div`, Nj, [I(`main`, {
         class: v(o.tab)
     }, [o.tab === `list` ? (d(),
-    F(`section`, jj, [I(`header`, null, [I(`span`, Mj, [f(b, {
+    F(`section`, Pj, [I(`header`, null, [I(`span`, Fj, [f(b, {
         keypath: `pages.lobby.welcome`,
         scope: `global`
     }, {
@@ -18780,7 +18915,7 @@ function SM(e, t, n, a, o, s) {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    }, null, -1)), I(`span`, Nj, [f(b, {
+    }, null, -1)), I(`span`, Ij, [f(b, {
         keypath: `pages.lobby.stats`,
         scope: `global`
     }, {
@@ -18796,8 +18931,8 @@ function SM(e, t, n, a, o, s) {
     }, [f(x, {
         icon: o.showPrivate ? `check-circle` : `circle`
     }, null, 8, [`icon`]), i(` ` + y(e.$t(`pages.lobby.show_private`)), 1)])) : r(``, !0)])]), o.loading ? (d(),
-    F(`div`, Pj, y(e.$t(`pages.lobby.updating`)), 1)) : r(``, !0), I(`div`, Fj, [I(`table`, Ij, [s.sessions.length ? (d(),
-    F(`thead`, Lj, [I(`tr`, null, [I(`td`, {
+    F(`div`, Lj, y(e.$t(`pages.lobby.updating`)), 1)) : r(``, !0), I(`div`, Rj, [I(`table`, zj, [s.sessions.length ? (d(),
+    F(`thead`, Bj, [I(`tr`, null, [I(`td`, {
         onClick: t[1] || (t[1] = e => s.sortBy(`name`)),
         class: v({
             [`sort-` + (o.sortAsc > 0 ? `asc` : `desc`)]: o.sortColumn === `name`
@@ -18831,9 +18966,9 @@ function SM(e, t, n, a, o, s) {
             [`sort-` + (o.sortAsc > 0 ? `asc` : `desc`)]: o.sortColumn === `phase`
         })
     }, y(e.$t(`pages.lobby.phase`)), 3), t[24] || (t[24] = I(`td`, null, `Tags`, -1))])])) : r(``, !0), I(`tbody`, null, [s.sessions.length ? r(``, !0) : (d(),
-    F(`tr`, Rj, [I(`td`, zj, [o.loading ? (d(),
-    F(`b`, Bj, y(e.$t(`pages.lobby.loading`)), 1)) : (d(),
-    F(`b`, Vj, y(e.$t(`pages.lobby.no_games`)), 1)), t[25] || (t[25] = I(`br`, null, null, -1)), !o.loading && s.isSubscribed ? (d(),
+    F(`tr`, Vj, [I(`td`, Hj, [o.loading ? (d(),
+    F(`b`, Uj, y(e.$t(`pages.lobby.loading`)), 1)) : (d(),
+    F(`b`, Wj, y(e.$t(`pages.lobby.no_games`)), 1)), t[25] || (t[25] = I(`br`, null, null, -1)), !o.loading && s.isSubscribed ? (d(),
     F(`button`, {
         key: 2,
         class: `button primary`,
@@ -18850,7 +18985,7 @@ function SM(e, t, n, a, o, s) {
                 selected: o.selected[n.name],
                 blocked: n.blocked
             }, `summary`])
-        }, [I(`td`, Uj, [I(`div`, {
+        }, [I(`td`, Kj, [I(`div`, {
             class: v([`button primary`, {
                 disabled: n.disabled
             }]),
@@ -18863,7 +18998,7 @@ function SM(e, t, n, a, o, s) {
         h(x, {
             key: 1,
             icon: `exclamation-triangle`
-        })) : r(``, !0)], 10, Wj)]), I(`td`, {
+        })) : r(``, !0)], 10, qj)]), I(`td`, {
             class: v(`lang-${n.language}`)
         }, y(new Intl.DisplayNames([e.$i18n.locale],{
             type: `language`
@@ -18872,14 +19007,14 @@ function SM(e, t, n, a, o, s) {
         }, [I(`img`, {
             src: n.editionIcon,
             alt: n.edition.id
-        }, null, 8, Gj), I(`span`, {
+        }, null, 8, Jj), I(`span`, {
             style: _({
                 color: (a = e.editionsAvailable.get(n.edition.id)) == null ? void 0 : a.color
             })
         }, y(e.$t(`editions.${n.edition.id}.name`)), 5), !n.edition.isOfficial && n.edition.name ? (d(),
-        F(`div`, Kj, y(n.edition.name) + ` ` + y(n.edition.author ? e.$t(`pages.lobby.edition_by`, n.edition) : ``), 1)) : r(``, !0)], 2), I(`td`, qj, [(d(!0),
+        F(`div`, Yj, y(n.edition.name) + ` ` + y(n.edition.author ? e.$t(`pages.lobby.edition_by`, n.edition) : ``), 1)) : r(``, !0)], 2), I(`td`, Xj, [(d(!0),
         F(S, null, p(n.storytellers, (t, a) => {
-            var o, c, l;
+            var o;
             return d(),
             F(`span`, {
                 key: t.id,
@@ -18887,13 +19022,13 @@ function SM(e, t, n, a, o, s) {
                 class: v({
                     blocked: ((o = e.relations.get(t.id)) == null ? void 0 : o.type) === `block`
                 })
-            }, [(c = n.usersAll.find(e => e.id === t.id)) != null && c.isOnline ? r(``, !0) : (d(),
+            }, [n.users.find(e => e.id === t.id) ? r(``, !0) : (d(),
             h(x, {
                 key: 0,
                 icon: `user-slash`
-            })), i(` ` + y((l = n.usersAll.find(e => e.id === t.id)) == null ? void 0 : l.username) + y(a + 1 < n.storytellers.length ? `, ` : ``), 1)], 10, Jj)
+            })), i(` ` + y(t.username) + y(a + 1 < n.storytellers.length ? `, ` : ``), 1)], 10, Zj)
         }
-        ), 128))]), I(`td`, Yj, [i(y(n.seats) + ` `, 1), n.spectators.length ? (d(),
+        ), 128))]), I(`td`, Qj, [i(y(n.occupiedSeats) + ` `, 1), n.spectators.length ? (d(),
         F(S, {
             key: 0
         }, [t[26] || (t[26] = I(`br`, null, null, -1)), i(y(n.spectators.length) + ` `, 1), f(x, {
@@ -18901,102 +19036,90 @@ function SM(e, t, n, a, o, s) {
             title: e.$t(`pages.lobby.spectators`)
         }, null, 8, [`title`])], 64)) : r(``, !0)]), I(`td`, null, [f(x, {
             icon: n.phaseIcon
-        }, null, 8, [`icon`]), i(` ` + y(n.phase), 1)]), I(`td`, Xj, [n.tags.difficulty ? (d(),
+        }, null, 8, [`icon`]), i(` ` + y(n.phase), 1)]), I(`td`, $j, [n.tags.difficulty ? (d(),
         F(`span`, {
             key: 0,
             class: v([`switch-` + n.tags.difficulty]),
             title: e.$t(`common.session-tags.difficulty.title`)
         }, [f(x, {
             icon: `star`
-        }), i(` ` + y(e.$t(`common.session-tags.difficulty.label`)) + `: ` + y(e.$t(`common.session-tags.difficulty.value_` + n.tags.difficulty)), 1)], 10, Zj)) : r(``, !0), n.tags.cameras ? (d(),
+        }), i(` ` + y(e.$t(`common.session-tags.difficulty.label`)) + `: ` + y(e.$t(`common.session-tags.difficulty.value_` + n.tags.difficulty)), 1)], 10, eM)) : r(``, !0), n.tags.cameras ? (d(),
         F(`span`, {
             key: 1,
             class: v([`switch-` + n.tags.cameras]),
             title: e.$t(`common.session-tags.cameras.title`)
         }, [f(x, {
             icon: `video`
-        }), i(` ` + y(e.$t(`common.session-tags.cameras.label`)) + `: ` + y(e.$t(`common.session-tags.cameras.value_` + n.tags.cameras)), 1)], 10, Qj)) : r(``, !0), n.tags.travellers ? (d(),
+        }), i(` ` + y(e.$t(`common.session-tags.cameras.label`)) + `: ` + y(e.$t(`common.session-tags.cameras.value_` + n.tags.cameras)), 1)], 10, tM)) : r(``, !0), n.tags.travellers ? (d(),
         F(`span`, {
             key: 2,
             class: v([`switch-` + n.tags.travellers]),
             title: e.$t(`common.session-tags.travellers.title`)
         }, [f(x, {
             icon: `theater-masks`
-        }), i(` ` + y(e.$t(`common.session-tags.travellers.label`)) + `: ` + y(e.$t(`common.session-tags.travellers.value_` + n.tags.travellers)), 1)], 10, $j)) : r(``, !0), n.tags.grimoire ? (d(),
+        }), i(` ` + y(e.$t(`common.session-tags.travellers.label`)) + `: ` + y(e.$t(`common.session-tags.travellers.value_` + n.tags.travellers)), 1)], 10, nM)) : r(``, !0), n.tags.grimoire ? (d(),
         F(`span`, {
             key: 3,
             class: v([`switch-` + n.tags.grimoire]),
             title: e.$t(`common.session-tags.grimoire.title`)
         }, [f(x, {
             icon: `book-dead`
-        }), i(` ` + y(e.$t(`common.session-tags.grimoire.label`)) + `: ` + y(e.$t(`common.session-tags.grimoire.value_` + n.tags.grimoire)), 1)], 10, eM)) : r(``, !0), n.tags.streaming ? (d(),
+        }), i(` ` + y(e.$t(`common.session-tags.grimoire.label`)) + `: ` + y(e.$t(`common.session-tags.grimoire.value_` + n.tags.grimoire)), 1)], 10, rM)) : r(``, !0), n.tags.streaming ? (d(),
         F(`span`, {
             key: 4,
             class: `switch-1`,
             title: e.$t(`common.session-tags.streaming.title`)
         }, [f(x, {
             icon: `eye`
-        }), i(` ` + y(e.$t(`common.session-tags.streaming.label`)), 1)], 8, tM)) : r(``, !0), n.boostDuration ? r(``, !0) : (d(),
+        }), i(` ` + y(e.$t(`common.session-tags.streaming.label`)), 1)], 8, iM)) : r(``, !0), n.boostDuration ? r(``, !0) : (d(),
         F(`span`, {
             key: 5,
             class: `switch-2`,
             title: e.$t(`common.session-tags.subscription.title`)
         }, [f(x, {
             icon: `lock`
-        }), i(` ` + y(e.$t(`common.session-tags.subscription.label`)), 1)], 8, nM))])], 10, Hj), I(`tr`, {
+        }), i(` ` + y(e.$t(`common.session-tags.subscription.label`)), 1)], 8, aM))])], 10, Gj), I(`tr`, {
             class: `details`,
             onClick: e => o.selected[n.name] = !o.selected[n.name]
-        }, [I(`td`, iM, [I(`ul`, null, [!n.edition.isOfficial && n.edition.name ? (d(),
-        F(`li`, aM, [I(`b`, null, y(e.$t(`pages.lobby.script`)) + `: `, 1), i(` ` + y(n.edition.name) + ` ` + y(n.edition.author ? e.$t(`pages.lobby.edition_by`, n.edition) : ``), 1)])) : r(``, !0), n.edition.isOfficial ? r(``, !0) : (d(),
-        F(`li`, oM, [I(`b`, null, y(e.$t(`pages.lobby.characters`)) + `: `, 1), (d(!0),
-        F(S, null, p(n.roles.filter(t => {
-            var n, r;
-            return ![...e.definitions.NPC_TEAMS, `traveller`].includes((n = t.team) == null ? (r = e.rolesAvailable.get(t.id)) == null ? void 0 : r.team : n)
-        }
-        ), t => {
-            var n;
-            return d(),
-            F(`span`, {
-                class: `icon`,
-                key: t.id,
-                style: _(e.roleIconCSS(t)),
-                title: t.name || (e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : (n = e.rolesAvailable.get(t.id)) == null ? void 0 : n.name)
-            }, null, 12, sM)
-        }
-        ), 128))])), n.npcs.length ? (d(),
-        F(`li`, cM, [I(`b`, null, y(e.$t(`pages.lobby.npcs`)) + `: `, 1), (d(!0),
-        F(S, null, p(n.npcs, t => {
-            var n;
-            return d(),
-            F(`span`, {
-                class: `icon`,
-                key: t.id,
-                style: _(e.roleIconCSS(t)),
-                title: t.name || (e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : (n = e.npcs.get(t.id)) == null ? void 0 : n.name)
-            }, null, 12, lM)
-        }
-        ), 128))])) : r(``, !0), n.players.length ? (d(),
-        F(`li`, uM, [I(`b`, null, y(e.$t(`pages.lobby.players`)) + `: `, 1), (d(!0),
+        }, [I(`td`, sM, [I(`ul`, null, [!n.edition.isOfficial && n.edition.name ? (d(),
+        F(`li`, cM, [I(`b`, null, y(e.$t(`pages.lobby.script`)) + `: `, 1), i(` ` + y(n.edition.name) + ` ` + y(n.edition.author ? e.$t(`pages.lobby.edition_by`, n.edition) : ``), 1)])) : r(``, !0), n.edition.isOfficial ? r(``, !0) : (d(),
+        F(`li`, lM, [I(`b`, null, y(e.$t(`pages.lobby.characters`)) + `: `, 1), (d(!0),
+        F(S, null, p(n.roles, t => (d(),
+        F(`span`, {
+            class: `icon`,
+            key: t,
+            style: _(e.roleIconCSS(t)),
+            title: e.$te(`roles.${t.id}.name`) ? e.$t(`roles.${t.id}.name`) : t
+        }, null, 12, uM))), 128))])), n.npcs.length ? (d(),
+        F(`li`, dM, [I(`b`, null, y(e.$t(`pages.lobby.npcs`)) + `: `, 1), (d(!0),
+        F(S, null, p(n.npcs, t => (d(),
+        F(`span`, {
+            class: `icon`,
+            key: t,
+            style: _(e.roleIconCSS(t)),
+            title: e.$te(`roles.${t}.name`) ? e.$t(`roles.${t}.name`) : t
+        }, null, 12, fM))), 128))])) : r(``, !0), n.players.length ? (d(),
+        F(`li`, pM, [I(`b`, null, y(e.$t(`pages.lobby.players`)) + `: `, 1), (d(!0),
         F(S, null, p(n.players, (t, a) => {
-            var o, c, l, u, f;
+            var o, c, l, u;
             return d(),
             F(`span`, {
                 key: a,
                 class: v([`player`, {
-                    dead: t.status.includes(`dead`),
-                    blocked: ((o = e.relations.get(t.id)) == null ? void 0 : o.type) === `block`,
-                    voteless: t.status.includes(`voteless`),
-                    empty: !t.id || !((c = n.usersAll.find(e => e.id === t.id)) != null && c.isOnline)
+                    dead: (o = t.status) == null ? void 0 : o.includes(`dead`),
+                    blocked: ((c = e.relations.get(t.id)) == null ? void 0 : c.type) === `block`,
+                    voteless: (l = t.status) == null ? void 0 : l.includes(`voteless`),
+                    empty: !t.id || !n.users.find(e => e.id === t.id)
                 }]),
                 onClick: L(e => s.showUser(t.id), [`stop`])
-            }, [t.id && !((l = n.usersAll.find(e => e.id === t.id)) != null && l.isOnline) ? (d(),
+            }, [t.id && !n.users.find(e => e.id === t.id) ? (d(),
             h(x, {
                 key: 0,
                 icon: `user-slash`
-            })) : r(``, !0), i(` ` + y((u = (f = n.usersAll.find(e => e.id === t.id)) == null ? void 0 : f.username) == null ? e.$t(`grimoire.seat`, [a + 1]) : u) + y(a + 1 < n.players.length ? `, ` : ``), 1)], 10, dM)
+            })) : r(``, !0), i(` ` + y((u = t.username) == null ? e.$t(`grimoire.seat`, [a + 1]) : u) + y(a + 1 < n.players.length ? `, ` : ``), 1)], 10, mM)
         }
         ), 128))])) : r(``, !0), n.spectators.length ? (d(),
-        F(`li`, fM, [I(`b`, null, y(e.$t(`pages.lobby.spectators`)) + `:`, 1), (d(!0),
+        F(`li`, hM, [I(`b`, null, y(e.$t(`pages.lobby.spectators`)) + `:`, 1), (d(!0),
         F(S, null, p(n.spectators, (t, n) => {
             var r;
             return d(),
@@ -19006,19 +19129,19 @@ function SM(e, t, n, a, o, s) {
                 class: v({
                     blocked: ((r = e.relations.get(t.id)) == null ? void 0 : r.type) === `block`
                 })
-            }, y(t.username), 11, pM)
+            }, y(t.username), 11, gM)
         }
-        ), 128))])) : r(``, !0)])])], 8, rM)], 64)
+        ), 128))])) : r(``, !0)])])], 8, oM)], 64)
     }
     ), 128))])])]), (l = e.user.flags) != null && l.includes(`forced-private`) ? (d(),
-    F(`p`, mM, [I(`b`, null, y(e.$t(`pages.lobby.forced_private`)), 1)])) : r(``, !0), !s.isSubscribed && (u = e.user.flags) != null && u.includes(`verified-phone`) ? (d(),
+    F(`p`, _M, [I(`b`, null, y(e.$t(`pages.lobby.forced_private`)), 1)])) : r(``, !0), !s.isSubscribed && (u = e.user.flags) != null && u.includes(`verified-phone`) ? (d(),
     h(b, {
         key: 2,
         tag: `p`,
         scope: `global`,
         keypath: `pages.lobby.free_tier_unverified`
     }, {
-        default: m( () => [I(`b`, null, y(e.$t(`pages.lobby.free_tier_free`)), 1), I(`a`, hM, y(e.$t(`pages.lobby.free_tier_patreon`)), 1)]),
+        default: m( () => [I(`b`, null, y(e.$t(`pages.lobby.free_tier_free`)), 1), I(`a`, vM, y(e.$t(`pages.lobby.free_tier_patreon`)), 1)]),
         _: 1
     })) : !s.isSubscribed && e.user.id ? (d(),
     h(b, {
@@ -19027,9 +19150,9 @@ function SM(e, t, n, a, o, s) {
         scope: `global`,
         keypath: `pages.lobby.free_tier_verified`
     }, {
-        default: m( () => [I(`b`, null, y(e.$t(`pages.lobby.free_tier_free`)), 1), I(`b`, null, y(e.$t(`pages.lobby.free_tier_verify`)), 1), I(`a`, gM, y(e.$t(`pages.lobby.free_tier_patreon`)), 1)]),
+        default: m( () => [I(`b`, null, y(e.$t(`pages.lobby.free_tier_free`)), 1), I(`b`, null, y(e.$t(`pages.lobby.free_tier_verify`)), 1), I(`a`, yM, y(e.$t(`pages.lobby.free_tier_patreon`)), 1)]),
         _: 1
-    })) : r(``, !0), I(`nav`, _M, [e.user.id && !e.user.level && !((g = e.user.flags) != null && g.includes(`verified-phone`)) ? (d(),
+    })) : r(``, !0), I(`nav`, bM, [e.user.id && !e.user.level && !((g = e.user.flags) != null && g.includes(`verified-phone`)) ? (d(),
     F(`button`, {
         key: 0,
         class: `button primary`,
@@ -19079,8 +19202,8 @@ function SM(e, t, n, a, o, s) {
         class: `button`,
         onClick: t[16] || (t[16] = t => e.logout())
     }, y(e.$t(`common.button_logout`)), 1))]), o.pageSize < s.sessions.length ? (d(),
-    F(`div`, vM)) : r(``, !0), o.pageSize < s.sessions.length ? (d(),
-    F(`div`, yM, [o.page ? (d(),
+    F(`div`, xM)) : r(``, !0), o.pageSize < s.sessions.length ? (d(),
+    F(`div`, SM, [o.page ? (d(),
     F(`button`, {
         key: 0,
         class: `button`,
@@ -19098,10 +19221,12 @@ function SM(e, t, n, a, o, s) {
     }, [f(x, {
         icon: `arrow-circle-right`
     })])) : r(``, !0)])) : r(``, !0)])) : r(``, !0), o.tab === `create` ? (d(),
-    F(`section`, bM, [I(`form`, {
+    F(`section`, CM, [I(`form`, {
         onSubmit: t[20] || (t[20] = L( (...e) => s.createSession && s.createSession(...e), [`prevent`])),
         ref: `createForm`
-    }, [f(C), I(`nav`, xM, [I(`button`, {
+    }, [f(C, {
+        ref: `meta`
+    }, null, 512), I(`nav`, wM, [I(`button`, {
         type: `submit`,
         class: v([`button primary`, {
             disabled: !s.isSubscribed || o.isCreating
@@ -19122,10 +19247,12 @@ function SM(e, t, n, a, o, s) {
         class: `logo sb`
     })], -1)), f(w), f(T), f(E), f(D), f(O), f(ee), f(k), f(A)])
 }
-var CM = B(kj, [[`render`, SM], [`__scopeId`, `data-v-a9a908e6`]])
-  , wM = {
+var EM = B(Mj, [[`render`, TM], [`__scopeId`, `data-v-9f1b9f96`]])
+  , DM = {
     components: {
-        LoginGoogle: xy,
+        LoginDiscord: Oy,
+        LoginPatreon: Ty,
+        LoginGoogle: Sy,
         VueTurnstile: ie
     },
     computed: {
@@ -19236,78 +19363,80 @@ var CM = B(kj, [[`render`, SM], [`__scopeId`, `data-v-a9a908e6`]])
         }
     }
 }
-  , TM = {
+  , OM = {
     id: `login`
 }
-  , EM = {
+  , kM = {
     class: `content`
 }
-  , DM = [`placeholder`, `title`]
-  , OM = [`placeholder`, `title`, `autocomplete`]
-  , kM = [`placeholder`, `title`]
   , AM = [`placeholder`, `title`]
-  , jM = {
+  , jM = [`placeholder`, `title`, `autocomplete`]
+  , MM = [`placeholder`, `title`]
+  , NM = [`placeholder`, `title`]
+  , PM = {
     key: 3,
     class: `turnstile`,
     src: `https://botc.app/turnstile.html`
 }
-  , MM = {
+  , FM = {
     key: 4,
     for: `accepts-terms`
 }
-  , NM = {
+  , IM = {
     href: `https://bloodontheclocktower.com/terms-of-use`,
     target: `_blank`
 }
-  , PM = {
+  , LM = {
     href: `https://bloodontheclocktower.com/pages/digital-moderation-policy`,
     target: `_blank`
 }
-  , FM = {
+  , RM = {
     href: `https://bloodontheclocktower.com/privacy-policy`,
     target: `_blank`
 }
-  , IM = {
+  , zM = {
     href: `https://bloodontheclocktower.com/cookie-policy`,
     target: `_blank`
 }
-  , LM = {
+  , BM = {
     key: 5,
     for: `accepts-marketing`
 }
-  , RM = {
+  , VM = {
     class: `button-group`
 }
-  , zM = [`type`, `disabled`]
-  , BM = [`disabled`]
-  , VM = [`type`, `disabled`]
-  , HM = {
+  , HM = [`type`, `disabled`]
+  , UM = [`disabled`]
+  , WM = [`type`, `disabled`]
+  , GM = {
     key: 0,
     class: `error`
 }
-  , UM = {
+  , KM = {
     key: 1,
     class: `notification`
 }
-  , WM = {
+  , qM = {
     class: `social`
 }
-  , GM = {
+  , JM = {
     class: `footer`
 };
-function KM(e, t, n, a, o, s) {
+function YM(e, t, n, a, o, s) {
     let l = c(`vue-turnstile`)
       , u = c(`font-awesome-icon`)
       , p = c(`i18n-t`)
-      , g = c(`LoginGoogle`);
+      , g = c(`LoginGoogle`)
+      , _ = c(`LoginPatreon`)
+      , b = c(`LoginDiscord`);
     return d(),
-    F(`div`, TM, [t[14] || (t[14] = I(`div`, {
+    F(`div`, OM, [t[14] || (t[14] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, EM, [i(y(e.$t(`pages.login.title`)), 1), t[13] || (t[13] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`pages.login.description`)) + ` `, 1), I(`form`, {
+    })], -1)), I(`div`, kM, [i(y(e.$t(`pages.login.title`)), 1), t[13] || (t[13] = I(`br`, null, null, -1)), i(` ` + y(e.$t(`pages.login.description`)) + ` `, 1), I(`form`, {
         onSubmit: t[11] || (t[11] = L( (...e) => s.submit && s.submit(...e), [`prevent`])),
         class: v({
             loading: o.loading
@@ -19320,7 +19449,7 @@ function KM(e, t, n, a, o, s) {
         "onUpdate:modelValue": t[0] || (t[0] = e => o.email = e),
         required: ``,
         autocomplete: `username`
-    }, null, 8, DM), [[P, o.email]]), R(I(`input`, {
+    }, null, 8, AM), [[P, o.email]]), R(I(`input`, {
         placeholder: e.$t(`pages.login.password`),
         title: e.$t(`pages.login.password`),
         name: `password`,
@@ -19329,7 +19458,7 @@ function KM(e, t, n, a, o, s) {
         minlength: `6`,
         required: ``,
         autocomplete: o.mode === `register` ? `new-password` : `current-password`
-    }, null, 8, OM), [[P, o.password]]), o.mode === `register` ? R((d(),
+    }, null, 8, jM), [[P, o.password]]), o.mode === `register` ? R((d(),
     F(`input`, {
         key: 0,
         placeholder: e.$t(`pages.login.password_confirm`),
@@ -19343,7 +19472,7 @@ function KM(e, t, n, a, o, s) {
         minlength: `6`,
         required: ``,
         autocomplete: `new-password`
-    }, null, 10, kM)), [[P, o.passwordConfirm]]) : r(``, !0), o.mode === `register` ? R((d(),
+    }, null, 10, MM)), [[P, o.passwordConfirm]]) : r(``, !0), o.mode === `register` ? R((d(),
     F(`input`, {
         key: 1,
         placeholder: e.$t(`pages.login.username`),
@@ -19355,8 +19484,8 @@ function KM(e, t, n, a, o, s) {
         maxlength: `150`,
         required: ``,
         autocomplete: `nickname`
-    }, null, 8, AM)), [[P, o.username]]) : r(``, !0), s.isTauriHost ? (d(),
-    F(`iframe`, jM)) : (d(),
+    }, null, 8, NM)), [[P, o.username]]) : r(``, !0), s.isTauriHost ? (d(),
+    F(`iframe`, PM)) : (d(),
     h(l, {
         key: 2,
         class: `turnstile`,
@@ -19367,7 +19496,7 @@ function KM(e, t, n, a, o, s) {
         ref: `turnstile`,
         onExpired: t[5] || (t[5] = e => s.reloadCaptcha())
     }, null, 8, [`site-key`, `modelValue`])), o.mode === `register` ? (d(),
-    F(`label`, MM, [R(I(`input`, {
+    F(`label`, FM, [R(I(`input`, {
         id: `accepts-terms`,
         name: `acceptsTerms`,
         type: `checkbox`,
@@ -19379,44 +19508,47 @@ function KM(e, t, n, a, o, s) {
         keypath: `pages.login.accept_policies`,
         scope: `global`
     }, {
-        default: m( () => [I(`a`, NM, y(e.$t(`common.terms_of_use`)), 1), I(`a`, PM, y(e.$t(`common.moderation_policy`)), 1), I(`a`, FM, y(e.$t(`common.privacy_policy`)), 1), I(`a`, IM, y(e.$t(`common.cookie_policy`)), 1)]),
+        default: m( () => [I(`a`, IM, y(e.$t(`common.terms_of_use`)), 1), I(`a`, LM, y(e.$t(`common.moderation_policy`)), 1), I(`a`, RM, y(e.$t(`common.privacy_policy`)), 1), I(`a`, zM, y(e.$t(`common.cookie_policy`)), 1)]),
         _: 1
     })])) : r(``, !0), o.mode === `register` ? (d(),
-    F(`label`, LM, [R(I(`input`, {
+    F(`label`, BM, [R(I(`input`, {
         type: `checkbox`,
         id: `accepts-marketing`,
         name: `acceptsMarketing`,
         "onUpdate:modelValue": t[7] || (t[7] = e => o.acceptsMarketing = e)
     }, null, 512), [[D, o.acceptsMarketing]]), f(u, {
         icon: o.acceptsMarketing ? `check-circle` : `circle`
-    }, null, 8, [`icon`]), i(` ` + y(e.$t(`pages.login.subscribe`)), 1)])) : r(``, !0), I(`div`, RM, [I(`button`, {
+    }, null, 8, [`icon`]), i(` ` + y(e.$t(`pages.login.subscribe`)), 1)])) : r(``, !0), I(`div`, VM, [I(`button`, {
         class: `button primary`,
         type: o.mode === `login` ? `submit` : `button`,
         disabled: !o.token || o.loading || !!o.passwordConfirm,
         onClick: t[8] || (t[8] = e => o.mode = `login`)
-    }, y(e.$t(`pages.login.login`)), 9, zM), I(`button`, {
+    }, y(e.$t(`pages.login.login`)), 9, HM), I(`button`, {
         class: `button`,
         type: `button`,
         onClick: t[9] || (t[9] = (...e) => s.recover && s.recover(...e)),
         disabled: o.loading || !o.email || !o.token
-    }, y(e.$t(`pages.login.recover_password`)), 9, BM), I(`button`, {
+    }, y(e.$t(`pages.login.recover_password`)), 9, UM), I(`button`, {
         class: `button secondary`,
         type: o.mode === `login` ? `button` : `submit`,
         onClick: t[10] || (t[10] = e => o.mode = `register`),
         disabled: !o.token || o.loading || o.mode === `register` && !o.acceptsTerms
-    }, y(e.$t(`pages.login.register`)), 9, VM)]), t[12] || (t[12] = I(`div`, {
+    }, y(e.$t(`pages.login.register`)), 9, WM)]), t[12] || (t[12] = I(`div`, {
         class: `loader`
     }, null, -1))], 34), o.error ? (d(),
-    F(`div`, HM, [f(u, {
+    F(`div`, GM, [f(u, {
         icon: `exclamation-triangle`
     }), i(` ` + y(o.error), 1)])) : r(``, !0), o.notification ? (d(),
-    F(`div`, UM, y(o.notification), 1)) : r(``, !0), I(`div`, WM, [f(g, {
-        class: `button primary`,
+    F(`div`, KM, y(o.notification), 1)) : r(``, !0), I(`div`, qM, [I(`p`, null, y(e.$t(`pages.login.social_login`)), 1), f(g, {
+        "data-tooltip": e.$t(`pages.login.login_with`, [`Google`]),
         onError: s.showError
-    }, {
-        default: m( () => [i(y(e.$t(`pages.login.login_with`, [`Google`])), 1)]),
-        _: 1
-    }, 8, [`onError`])]), I(`div`, GM, y(e.$t(`common.trademark`)), 1)]), t[15] || (t[15] = I(`footer`, null, [I(`img`, {
+    }, null, 8, [`data-tooltip`, `onError`]), f(_, {
+        "data-tooltip": e.$t(`pages.login.login_with`, [`Patreon`]),
+        onError: s.showError
+    }, null, 8, [`data-tooltip`, `onError`]), f(b, {
+        "data-tooltip": e.$t(`pages.login.login_with`, [`Discord`]),
+        onError: s.showError
+    }, null, 8, [`data-tooltip`, `onError`])]), I(`div`, JM, y(e.$t(`common.trademark`)), 1)]), t[15] || (t[15] = I(`footer`, null, [I(`img`, {
         src: `/assets/tpi-CjLIf2nx.webp`,
         alt: ``
     }), I(`img`, {
@@ -19425,8 +19557,8 @@ function KM(e, t, n, a, o, s) {
         alt: ``
     })], -1))])
 }
-var qM = B(wM, [[`render`, KM], [`__scopeId`, `data-v-24d54671`]])
-  , JM = {
+var XM = B(DM, [[`render`, YM], [`__scopeId`, `data-v-1f63ab0b`]])
+  , ZM = {
     inject: [`isApp`],
     name: `Update`,
     computed: {
@@ -19439,26 +19571,26 @@ var qM = B(wM, [[`render`, KM], [`__scopeId`, `data-v-24d54671`]])
     },
     methods: {}
 }
-  , YM = {
+  , QM = {
     id: `update`
 }
-  , XM = {
+  , $M = {
     class: `content`
 }
-  , ZM = [`href`]
-  , QM = {
+  , eN = [`href`]
+  , tN = {
     key: 1
 };
-function $M(e, t, n, r, a, o) {
+function nN(e, t, n, r, a, o) {
     let s = c(`i18n-t`);
     return d(),
-    F(`div`, YM, [t[2] || (t[2] = I(`div`, {
+    F(`div`, QM, [t[2] || (t[2] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, XM, [I(`h4`, null, y(e.$t(`pages.update.title`)), 1), I(`p`, null, [f(s, {
+    })], -1)), I(`div`, $M, [I(`h4`, null, y(e.$t(`pages.update.title`)), 1), I(`p`, null, [f(s, {
         keypath: `pages.update.description`,
         scope: `global`
     }, {
@@ -19474,8 +19606,8 @@ function $M(e, t, n, r, a, o) {
         target: `_blank`
     }, [i(y(e.$t(`pages.update.download`, {
         label: n
-    })), 1), t[0] || (t[0] = I(`br`, null, null, -1))], 8, ZM))), 128)) : (d(),
-    F(`span`, QM, y(e.$t(`pages.update.reload`)), 1))])]), t[3] || (t[3] = I(`div`, {
+    })), 1), t[0] || (t[0] = I(`br`, null, null, -1))], 8, eN))), 128)) : (d(),
+    F(`span`, tN, y(e.$t(`pages.update.reload`)), 1))])]), t[3] || (t[3] = I(`div`, {
         class: `authors`
     }, [I(`img`, {
         src: `/assets/tpi-CjLIf2nx.webp`,
@@ -19487,8 +19619,8 @@ function $M(e, t, n, r, a, o) {
         class: `logo sb`
     })], -1))])
 }
-var eN = B(JM, [[`render`, $M], [`__scopeId`, `data-v-343df6f2`]])
-  , tN = {
+var rN = B(ZM, [[`render`, nN], [`__scopeId`, `data-v-343df6f2`]])
+  , iN = {
     computed: {
         ...A(`user`, [`accessToken`, `user`])
     },
@@ -19549,44 +19681,44 @@ var eN = B(JM, [[`render`, $M], [`__scopeId`, `data-v-343df6f2`]])
         }
     }
 }
-  , nN = {
+  , aN = {
     id: `verification`
 }
-  , rN = {
+  , oN = {
     class: `content`
 }
-  , iN = {
+  , sN = {
     key: 0,
     class: `notification`
 }
-  , aN = {
+  , cN = {
     key: 1,
     class: `error`
 }
-  , oN = [`title`]
-  , sN = {
+  , lN = [`title`]
+  , uN = {
     class: `button-group`
 }
-  , cN = {
+  , dN = {
     class: `button primary`,
     type: `submit`
 };
-function lN(e, t, n, a, o, s) {
+function fN(e, t, n, a, o, s) {
     let l = c(`font-awesome-icon`);
     return d(),
-    F(`div`, nN, [t[6] || (t[6] = I(`div`, {
+    F(`div`, aN, [t[6] || (t[6] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, rN, [i(y(e.$t(`pages.verification.description`)) + ` `, 1), I(`a`, {
+    })], -1)), I(`div`, oN, [i(y(e.$t(`pages.verification.description`)) + ` `, 1), I(`a`, {
         href: `https://bloodontheclocktower.com/account/edit`,
         target: `_blank`,
         onClick: t[0] || (t[0] = (...t) => e.logout && e.logout(...t))
     }, y(e.$t(`pages.verification.link`)), 1), o.notification ? (d(),
-    F(`div`, iN, y(o.notification), 1)) : r(``, !0), o.error ? (d(),
-    F(`div`, aN, [f(l, {
+    F(`div`, sN, y(o.notification), 1)) : r(``, !0), o.error ? (d(),
+    F(`div`, cN, [f(l, {
         icon: `exclamation-triangle`
     }), o.error === 429 && !o.code ? (d(),
     F(S, {
@@ -19624,7 +19756,7 @@ function lN(e, t, n, a, o, s) {
         minlength: `6`,
         maxlength: `6`,
         required: ``
-    }, null, 8, oN), [[P, o.code]]), I(`div`, sN, [I(`button`, cN, y(e.$t(`common.button_confirm`)), 1), I(`button`, {
+    }, null, 8, lN), [[P, o.code]]), I(`div`, uN, [I(`button`, dN, y(e.$t(`common.button_confirm`)), 1), I(`button`, {
         class: `button`,
         type: `button`,
         onClick: t[2] || (t[2] = (...e) => s.reset && s.reset(...e))
@@ -19639,8 +19771,8 @@ function lN(e, t, n, a, o, s) {
         alt: ``
     })], -1))])
 }
-var uN = B(tN, [[`render`, lN], [`__scopeId`, `data-v-0708b5c3`]])
-  , dN = {
+var pN = B(iN, [[`render`, fN], [`__scopeId`, `data-v-0708b5c3`]])
+  , mN = {
     name: `WorldcupGroup`,
     computed: {
         ...A(`user`, [`user`]),
@@ -19703,63 +19835,63 @@ var uN = B(tN, [[`render`, lN], [`__scopeId`, `data-v-0708b5c3`]])
         }
     }
 }
-  , fN = {
+  , hN = {
     id: `worldcup-group`
 }
-  , pN = {
+  , gN = {
     class: `content`
 }
-  , mN = {
+  , _N = {
     key: 0,
     class: `matches`
 }
-  , hN = [`onClick`]
-  , gN = {
+  , vN = [`onClick`]
+  , yN = {
     class: `logo left`
 }
-  , _N = [`src`]
-  , vN = {
+  , bN = [`src`]
+  , xN = {
     class: `date`
 }
-  , yN = {
-    class: `mid`
-}
-  , bN = {
-    class: `mid`
-}
-  , xN = {
-    class: `big`
-}
   , SN = {
-    class: `small`
+    class: `mid`
 }
   , CN = {
-    class: `small`
+    class: `mid`
 }
   , wN = {
-    class: `small`
+    class: `big`
 }
   , TN = {
+    class: `small`
+}
+  , EN = {
+    class: `small`
+}
+  , DN = {
+    class: `small`
+}
+  , ON = {
     class: `logo right`
 }
-  , EN = [`src`]
-  , DN = {
+  , kN = [`src`]
+  , AN = {
     class: `channel`
 }
-  , ON = [`src`, `alt`]
-  , kN = {
+  , jN = [`src`, `alt`]
+  , MN = {
     key: 1,
     class: `loader`
 }
-  , AN = {
+  , NN = {
     key: 2,
     class: `pagination`
 };
-function jN(e, t, n, a, o, s) {
+function PN(e, t, n, a, o, s) {
     var l;
     let u = c(`RouterLink`);
     return d(),
-    F(`div`, fN, [I(`div`, {
+    F(`div`, hN, [I(`div`, {
         class: `back`,
         onClick: t[0] || (t[0] = (...e) => s.backToLobby && s.backToLobby(...e)),
         role: `button`,
@@ -19790,8 +19922,8 @@ function jN(e, t, n, a, o, s) {
         src: `/assets/logo-DT5w2Zuc.webp`,
         class: `logo`,
         alt: ``
-    }, null, -1)), I(`div`, pN, [e.worldcup.matches ? (d(),
-    F(`ul`, mN, [(d(!0),
+    }, null, -1)), I(`div`, gN, [e.worldcup.matches ? (d(),
+    F(`ul`, _N, [(d(!0),
     F(S, null, p(e.worldcup.matches.slice(s.startPage + o.page, s.startPage + o.page + o.pageSize), n => {
         var a, c, l, u, f, p, m, h, g, _;
         return d(),
@@ -19801,25 +19933,25 @@ function jN(e, t, n, a, o, s) {
             onClick: e => s.showMatch(n)
         }, [I(`div`, {
             class: v([`group`, `group-${e.worldcup.scripts[n.scripts[0]].group}`])
-        }, [t[6] || (t[6] = i(` Group `, -1)), I(`b`, null, y(e.worldcup.scripts[n.scripts[0]].group), 1)], 2), I(`div`, gN, [I(`img`, {
+        }, [t[6] || (t[6] = i(` Group `, -1)), I(`b`, null, y(e.worldcup.scripts[n.scripts[0]].group), 1)], 2), I(`div`, yN, [I(`img`, {
             src: `${o.baseURL}/${e.worldcup.scripts[n.scripts[0]].id}/logo-clean.webp`,
             alt: ``
-        }, null, 8, _N), (a = n.results) != null && a.length ? (d(),
+        }, null, 8, bN), (a = n.results) != null && a.length ? (d(),
         F(`div`, {
             key: 0,
             class: v([`result`, {
                 winner: ((c = n.results) == null ? void 0 : c[0]) > ((l = n.results) == null ? void 0 : l[1])
             }])
-        }, [I(`b`, null, y(n.results[0]), 1), t[7] || (t[7] = i(` points `, -1))], 2)) : r(``, !0)]), I(`div`, vN, [n.time > Date.now() ? (d(),
+        }, [I(`b`, null, y(n.results[0]), 1), t[7] || (t[7] = i(` points `, -1))], 2)) : r(``, !0)]), I(`div`, xN, [n.time > Date.now() ? (d(),
         F(S, {
             key: 0
-        }, [I(`span`, yN, y(new Date(n.time).toLocaleString(o.locale, {
+        }, [I(`span`, SN, y(new Date(n.time).toLocaleString(o.locale, {
             weekday: `short`
-        })), 1), I(`span`, bN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, CN, y(new Date(n.time).toLocaleString(o.locale, {
             month: `short`
-        })), 1), I(`span`, xN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, wN, y(new Date(n.time).toLocaleString(o.locale, {
             day: `numeric`
-        })), 1), I(`span`, SN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, TN, y(new Date(n.time).toLocaleString(o.locale, {
             hour: `numeric`,
             minute: `numeric`
         })), 1)], 64)) : n.voteRemaining ? (d(),
@@ -19829,29 +19961,29 @@ function jN(e, t, n, a, o, s) {
             class: `mid`
         }, `Vote`, -1)), t[9] || (t[9] = I(`span`, {
             class: `mid primary`
-        }, `Open`, -1)), I(`span`, CN, y(n.voteRemaining) + ` left`, 1)], 64)) : (d(),
+        }, `Open`, -1)), I(`span`, EN, y(n.voteRemaining) + ` left`, 1)], 64)) : (d(),
         F(S, {
             key: 2
         }, [t[10] || (t[10] = I(`span`, {
             class: `mid`
         }, `Vote`, -1)), t[11] || (t[11] = I(`span`, {
             class: `mid secondary`
-        }, `closed`, -1)), I(`span`, wN, y(new Date(n.time + e.worldcup.votePeriod).toLocaleString(o.locale, {
+        }, `closed`, -1)), I(`span`, DN, y(new Date(n.time + e.worldcup.votePeriod).toLocaleString(o.locale, {
             day: `numeric`,
             month: `short`
-        })), 1)], 64))]), I(`div`, TN, [I(`img`, {
+        })), 1)], 64))]), I(`div`, ON, [I(`img`, {
             src: `${o.baseURL}/${e.worldcup.scripts[n.scripts[1]].id}/logo-clean.webp`,
             alt: ``
-        }, null, 8, EN), (u = n.results) != null && u.length ? (d(),
+        }, null, 8, kN), (u = n.results) != null && u.length ? (d(),
         F(`div`, {
             key: 0,
             class: v([`result`, {
                 winner: ((f = n.results) == null ? void 0 : f[0]) < ((p = n.results) == null ? void 0 : p[1])
             }])
-        }, [I(`b`, null, y(n.results[1]), 1), t[12] || (t[12] = i(` points `, -1))], 2)) : r(``, !0)]), I(`div`, DN, [I(`img`, {
+        }, [I(`b`, null, y(n.results[1]), 1), t[12] || (t[12] = i(` points `, -1))], 2)) : r(``, !0)]), I(`div`, AN, [I(`img`, {
             src: e.worldcup.channels[n.channel].logo,
             alt: e.worldcup.channels[n.channel].name
-        }, null, 8, ON)]), I(`div`, {
+        }, null, 8, jN)]), I(`div`, {
             class: v([`title left`, {
                 winner: ((m = n.results) == null ? void 0 : m[0]) > ((h = n.results) == null ? void 0 : h[1])
             }])
@@ -19869,11 +20001,11 @@ function jN(e, t, n, a, o, s) {
                 checked: e.worldcupVotes.get(e.worldcup.matches.indexOf(n)) === n.scripts[1]
             }]),
             role: `checkbox`
-        }, null, 2), I(`span`, null, y(e.worldcup.scripts[n.scripts[1]].name), 1)], 2)], 10, hN)
+        }, null, 2), I(`span`, null, y(e.worldcup.scripts[n.scripts[1]].name), 1)], 2)], 10, vN)
     }
     ), 128))])) : (d(),
-    F(`div`, kN, `Loading...`)), (l = e.worldcup.matches) != null && l.length ? (d(),
-    F(`div`, AN, [I(`div`, {
+    F(`div`, MN, `Loading...`)), (l = e.worldcup.matches) != null && l.length ? (d(),
+    F(`div`, NN, [I(`div`, {
         class: v([`wcbutton`, {
             disabled: s.startPage + o.page <= 0
         }]),
@@ -19892,8 +20024,8 @@ function jN(e, t, n, a, o, s) {
         }))
     }, ` Knockout Phase `))])) : r(``, !0)])])
 }
-var MN = B(dN, [[`render`, jN], [`__scopeId`, `data-v-886ca09a`]])
-  , NN = {
+var FN = B(mN, [[`render`, PN], [`__scopeId`, `data-v-886ca09a`]])
+  , IN = {
     name: `WorldcupLeaderboard`,
     computed: {
         ...A([`worldcup`]),
@@ -19923,38 +20055,38 @@ var MN = B(dN, [[`render`, jN], [`__scopeId`, `data-v-886ca09a`]])
         }
     }
 }
-  , PN = {
+  , LN = {
     id: `worldcup-leaderboard`
 }
-  , FN = {
+  , RN = {
     class: `content`
 }
-  , IN = {
+  , zN = {
     key: 0,
     class: `leaderboard`
 }
-  , LN = [`href`]
-  , RN = {
+  , BN = [`href`]
+  , VN = {
     class: `points`
 }
-  , zN = {
+  , HN = {
     class: `matches`
 }
-  , BN = {
+  , UN = {
     key: 1,
     class: `loader`
 };
-function VN(e, t, n, r, o, s) {
+function WN(e, t, n, r, o, s) {
     return d(),
-    F(`div`, PN, [I(`div`, {
+    F(`div`, LN, [I(`div`, {
         class: `back`,
         onClick: t[0] || (t[0] = t => e.$router.push({
             path: `/worldcup`
         })),
         role: `button`,
         "aria-label": `Back`
-    }), t[4] || (t[4] = a(`<a class="wcbutton right" href="https://docs.google.com/document/d/1PZ2Gpqp4-5-ockyX3zrkyPTHiPmy8XOgUTepJgrKKeA/edit?usp=sharing" target="_blank" data-v-0751458f> World Cup Overview <span class="icon" data-v-0751458f></span></a><div class="gap" data-v-0751458f></div><div class="info" data-v-0751458f> The top two scripts from each group move onto the knockout stages! </div><img src="/assets/logo-DT5w2Zuc.webp" class="logo" alt="" data-v-0751458f>`, 4)), I(`div`, FN, [e.worldcup.matches ? (d(),
-    F(`div`, IN, [t[3] || (t[3] = I(`div`, {
+    }), t[4] || (t[4] = a(`<a class="wcbutton right" href="https://docs.google.com/document/d/1PZ2Gpqp4-5-ockyX3zrkyPTHiPmy8XOgUTepJgrKKeA/edit?usp=sharing" target="_blank" data-v-0751458f> World Cup Overview <span class="icon" data-v-0751458f></span></a><div class="gap" data-v-0751458f></div><div class="info" data-v-0751458f> The top two scripts from each group move onto the knockout stages! </div><img src="/assets/logo-DT5w2Zuc.webp" class="logo" alt="" data-v-0751458f>`, 4)), I(`div`, RN, [e.worldcup.matches ? (d(),
+    F(`div`, zN, [t[3] || (t[3] = I(`div`, {
         class: `banner`
     }, [i(`Group`), I(`small`, null, `Standings`)], -1)), (d(!0),
     F(S, null, p(s.scriptsByGroup, (e, n) => (d(),
@@ -19973,11 +20105,11 @@ function VN(e, t, n, r, o, s) {
     }, null, 4), I(`a`, {
         href: e.url,
         target: `_blank`
-    }, y(e.name), 9, LN), I(`b`, RN, y(e.points || `TBA`), 1), I(`b`, zN, y(e.matches), 1)]))), 128))])], 2))), 128))])) : (d(),
-    F(`div`, BN, `Loading...`))])])
+    }, y(e.name), 9, BN), I(`b`, VN, y(e.points || `TBA`), 1), I(`b`, HN, y(e.matches), 1)]))), 128))])], 2))), 128))])) : (d(),
+    F(`div`, UN, `Loading...`))])])
 }
-var HN = B(NN, [[`render`, VN], [`__scopeId`, `data-v-0751458f`]])
-  , UN = {
+var GN = B(IN, [[`render`, WN], [`__scopeId`, `data-v-0751458f`]])
+  , KN = {
     name: `WorldcupKnockout`,
     computed: {
         ...A(`user`, [`user`]),
@@ -20014,49 +20146,49 @@ var HN = B(NN, [[`render`, VN], [`__scopeId`, `data-v-0751458f`]])
         }
     }
 }
-  , WN = {
+  , qN = {
     id: `worldcup-playoff`
 }
-  , GN = {
+  , JN = {
     class: `content`
 }
-  , KN = {
+  , YN = {
     key: 0,
     class: `brackets`
 }
-  , qN = [`onClick`]
-  , JN = {
+  , XN = [`onClick`]
+  , ZN = {
     class: `match`
 }
-  , YN = {
-    class: `mid`
-}
-  , XN = {
-    class: `mid`
-}
-  , ZN = {
-    class: `big`
-}
   , QN = {
-    class: `small`
+    class: `mid`
 }
   , $N = {
-    class: `small`
+    class: `mid`
 }
   , eP = {
-    class: `small`
+    class: `big`
 }
   , tP = {
-    class: `channel`
+    class: `small`
 }
   , nP = {
+    class: `small`
+}
+  , rP = {
+    class: `small`
+}
+  , iP = {
+    class: `channel`
+}
+  , aP = {
     key: 1,
     class: `loader`
 };
-function rP(e, t, n, a, o, s) {
+function oP(e, t, n, a, o, s) {
     let l = c(`RouterLink`);
     return d(),
-    F(`div`, WN, [I(`nav`, null, [I(`div`, {
+    F(`div`, qN, [I(`nav`, null, [I(`div`, {
         class: `back`,
         onClick: t[0] || (t[0] = (...e) => s.backToLobby && s.backToLobby(...e)),
         role: `button`,
@@ -20087,8 +20219,8 @@ function rP(e, t, n, a, o, s) {
         src: `/assets/logo-DT5w2Zuc.webp`,
         class: `logo`,
         alt: ``
-    }, null, -1))]), I(`div`, GN, [e.worldcup.playoffs ? (d(),
-    F(`div`, KN, [t[9] || (t[9] = I(`div`, {
+    }, null, -1))]), I(`div`, JN, [e.worldcup.playoffs ? (d(),
+    F(`div`, YN, [t[9] || (t[9] = I(`div`, {
         class: `sun`
     }, null, -1)), I(`ul`, null, [(d(!0),
     F(S, null, p(e.worldcup.playoffs, (n, i) => {
@@ -20097,20 +20229,20 @@ function rP(e, t, n, a, o, s) {
         F(`li`, {
             key: i,
             onClick: e => s.showMatch(n)
-        }, [I(`div`, JN, [I(`div`, {
+        }, [I(`div`, ZN, [I(`div`, {
             class: v([`date`, {
                 voted: e.worldcupVotes.has(38 + i)
             }])
         }, [n.time > Date.now() ? (d(),
         F(S, {
             key: 0
-        }, [I(`span`, YN, y(new Date(n.time).toLocaleString(o.locale, {
+        }, [I(`span`, QN, y(new Date(n.time).toLocaleString(o.locale, {
             weekday: `short`
-        })), 1), I(`span`, XN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, $N, y(new Date(n.time).toLocaleString(o.locale, {
             month: `short`
-        })), 1), I(`span`, ZN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, eP, y(new Date(n.time).toLocaleString(o.locale, {
             day: `numeric`
-        })), 1), I(`span`, QN, y(new Date(n.time).toLocaleString(o.locale, {
+        })), 1), I(`span`, tP, y(new Date(n.time).toLocaleString(o.locale, {
             hour: `numeric`,
             minute: `numeric`
         })), 1)], 64)) : n.voteRemaining ? (d(),
@@ -20120,14 +20252,14 @@ function rP(e, t, n, a, o, s) {
             class: `mid`
         }, `Vote`, -1)), t[6] || (t[6] = I(`span`, {
             class: `mid primary`
-        }, `Open`, -1)), I(`span`, $N, y(n.voteRemaining) + ` left`, 1)], 64)) : (d(),
+        }, `Open`, -1)), I(`span`, nP, y(n.voteRemaining) + ` left`, 1)], 64)) : (d(),
         F(S, {
             key: 2
         }, [t[7] || (t[7] = I(`span`, {
             class: `mid`
         }, `Vote`, -1)), t[8] || (t[8] = I(`span`, {
             class: `mid secondary`
-        }, `closed`, -1)), I(`span`, eP, y(new Date(n.time + e.worldcup.votePeriod).toLocaleString(o.locale, {
+        }, `closed`, -1)), I(`span`, rP, y(new Date(n.time + e.worldcup.votePeriod).toLocaleString(o.locale, {
             day: `numeric`,
             month: `short`
         })), 1)], 64))], 2), I(`div`, {
@@ -20158,7 +20290,7 @@ function rP(e, t, n, a, o, s) {
             style: _({
                 backgroundImage: `url('${o.baseURL}/${e.worldcup.scripts[n.scripts[0]].id}/logo-clean.webp')`
             })
-        }, null, 4)) : r(``, !0), I(`span`, null, y(((l = e.worldcup.scripts[n.scripts[0]]) == null ? void 0 : l.name) || n.scripts[0]), 1)], 2), I(`div`, tP, ` Live on ` + y(e.worldcup.channels[n.channel].name), 1), I(`div`, {
+        }, null, 4)) : r(``, !0), I(`span`, null, y(((l = e.worldcup.scripts[n.scripts[0]]) == null ? void 0 : l.name) || n.scripts[0]), 1)], 2), I(`div`, iP, ` Live on ` + y(e.worldcup.channels[n.channel].name), 1), I(`div`, {
             class: v([`wcbutton script`, {
                 disabled: !e.worldcup.scripts[n.scripts[1]],
                 right: i < 6,
@@ -20171,17 +20303,17 @@ function rP(e, t, n, a, o, s) {
             style: _({
                 backgroundImage: `url('${o.baseURL}/${(p = e.worldcup.scripts[n.scripts[1]]) == null ? void 0 : p.id}/logo-clean.webp')`
             })
-        }, null, 4)) : r(``, !0), I(`span`, null, y(((m = e.worldcup.scripts[n.scripts[1]]) == null ? void 0 : m.name) || n.scripts[1]), 1)], 2)])], 8, qN)
+        }, null, 4)) : r(``, !0), I(`span`, null, y(((m = e.worldcup.scripts[n.scripts[1]]) == null ? void 0 : m.name) || n.scripts[1]), 1)], 2)])], 8, XN)
     }
     ), 128))])])) : (d(),
-    F(`div`, nP, `Loading...`))])])
+    F(`div`, aP, `Loading...`))])])
 }
-var iP = B(UN, [[`render`, rP], [`__scopeId`, `data-v-48093c1a`]])
-  , aP = {
+var sP = B(KN, [[`render`, oP], [`__scopeId`, `data-v-48093c1a`]])
+  , cP = {
     name: `WorldcupMatch`,
     components: {
-        VerificationModal: yO,
-        DialogueModal: E_
+        VerificationModal: SO,
+        DialogueModal: D_
     },
     computed: {
         ...A(`user`, [`user`, `accessToken`]),
@@ -20288,68 +20420,68 @@ var iP = B(UN, [[`render`, rP], [`__scopeId`, `data-v-48093c1a`]])
         }
     }
 }
-  , oP = {
+  , lP = {
     id: `worldcup-match`
 }
-  , sP = {
+  , uP = {
     class: `info`
 }
-  , cP = {
+  , dP = {
     key: 1
 }
-  , lP = {
+  , fP = {
     class: `content`
 }
-  , uP = {
+  , pP = {
     key: 0,
     class: `match`
 }
-  , dP = {
+  , mP = {
     key: 0
 }
-  , fP = {
+  , hP = {
     key: 0,
     class: `error`
 }
-  , pP = [`href`]
-  , mP = [`title`]
-  , hP = {
+  , gP = [`href`]
+  , _P = [`title`]
+  , vP = {
     class: `channel`
 }
-  , gP = [`title`]
-  , _P = [`onClick`]
-  , vP = {
+  , yP = [`title`]
+  , bP = [`onClick`]
+  , xP = {
     key: 0,
     class: `placeholder`
 }
-  , yP = [`title`]
-  , bP = {
+  , SP = [`title`]
+  , CP = {
     class: `description`
 }
-  , xP = {
+  , wP = {
     class: `button-group`
 }
-  , SP = [`href`]
-  , CP = [`href`]
-  , wP = [`href`]
-  , TP = {
+  , TP = [`href`]
+  , EP = [`href`]
+  , DP = [`href`]
+  , OP = {
     key: 2
 }
-  , EP = {
+  , kP = {
     key: 3
 }
-  , DP = {
+  , AP = {
     key: 1,
     class: `loader`
 };
-function OP(e, t, n, a, o, s) {
+function jP(e, t, n, a, o, s) {
     var l, u;
     let g = c(`RouterLink`)
       , b = c(`font-awesome-icon`)
       , x = c(`DialogueModal`)
       , C = c(`VerificationModal`);
     return d(),
-    F(S, null, [I(`div`, oP, [I(`div`, {
+    F(S, null, [I(`div`, lP, [I(`div`, {
         class: `back`,
         onClick: t[0] || (t[0] = (...e) => s.backToOverview && s.backToOverview(...e)),
         role: `button`,
@@ -20366,23 +20498,23 @@ function OP(e, t, n, a, o, s) {
         _: 1
     }), t[10] || (t[10] = I(`div`, {
         class: `gap`
-    }, null, -1)), I(`div`, sP, [e.user.id ? (d(),
+    }, null, -1)), I(`div`, uP, [e.user.id ? (d(),
     F(S, {
         key: 0
     }, [t[2] || (t[2] = I(`b`, null, `Vote for your favorite script below!`, -1)), t[3] || (t[3] = i(` Points are awarded based on the share of votes each script receives. `, -1))], 64)) : (d(),
-    F(`b`, cP, `You need to Log In before you can vote!`))]), t[11] || (t[11] = I(`img`, {
+    F(`b`, dP, `You need to Log In before you can vote!`))]), t[11] || (t[11] = I(`img`, {
         src: `/assets/logo-DT5w2Zuc.webp`,
         class: `logo`,
         alt: ``
-    }, null, -1)), I(`div`, lP, [s.match ? (d(),
-    F(`div`, uP, [I(`div`, {
+    }, null, -1)), I(`div`, fP, [s.match ? (d(),
+    F(`div`, pP, [I(`div`, {
         class: v([`group`, `group-${s.knockoutPhase || e.worldcup.scripts[s.match.scripts[0]].group}`])
     }, [s.knockoutPhase ? (d(),
-    F(`b`, dP, y(s.knockoutPhase), 1)) : (d(),
+    F(`b`, mP, y(s.knockoutPhase), 1)) : (d(),
     F(S, {
         key: 1
     }, [t[4] || (t[4] = i(` Group `, -1)), I(`b`, null, y(e.worldcup.scripts[s.match.scripts[0]].group), 1)], 64))], 2), o.error ? (d(),
-    F(`div`, fP, [t[5] || (t[5] = i(` Error: `, -1)), o.error === `votelocked` ? (d(),
+    F(`div`, hP, [t[5] || (t[5] = i(` Error: `, -1)), o.error === `votelocked` ? (d(),
     F(S, {
         key: 0
     }, [i(` You can no longer vote on this match. `)], 64)) : o.error === `voteupcoming` ? (d(),
@@ -20400,7 +20532,7 @@ function OP(e, t, n, a, o, s) {
         target: `_blank`
     }, [I(`span`, {
         title: s.streamTime
-    }, y(s.streamTime), 9, mP), I(`div`, hP, [s.match.time > Date.now() ? (d(),
+    }, y(s.streamTime), 9, _P), I(`div`, vP, [s.match.time > Date.now() ? (d(),
     F(S, {
         key: 0
     }, [i(`Live at:`)], 64)) : (d(),
@@ -20412,7 +20544,7 @@ function OP(e, t, n, a, o, s) {
             backgroundImage: `url('${e.worldcup.channels[s.match.channel].logo}')`
         }),
         title: e.worldcup.channels[s.match.channel].name
-    }, null, 12, gP)])], 8, pP), I(`div`, {
+    }, null, 12, yP)])], 8, gP), I(`div`, {
         class: v([`scripts`, {
             vote: s.voteState === `active`
         }])
@@ -20438,24 +20570,24 @@ function OP(e, t, n, a, o, s) {
                 backgroundImage: `url('${o.baseURL}/${e.worldcup.scripts[n].id}/logo.webp')`
             }),
             title: e.worldcup.scripts[n].name
-        }, null, 12, yP), I(`div`, bP, [I(`b`, null, [t[6] || (t[6] = I(`span`, {
+        }, null, 12, SP), I(`div`, CP, [I(`b`, null, [t[6] || (t[6] = I(`span`, {
             class: `icon`
-        }, null, -1)), i(` ` + y(e.worldcup.scripts[n].rule), 1)]), I(`p`, null, y(e.worldcup.scripts[n].description), 1), I(`footer`, null, [I(`span`, null, `Script by ` + y(e.worldcup.scripts[n].author), 1), I(`div`, xP, [e.worldcup.scripts[n].url ? (d(),
+        }, null, -1)), i(` ` + y(e.worldcup.scripts[n].rule), 1)]), I(`p`, null, y(e.worldcup.scripts[n].description), 1), I(`footer`, null, [I(`span`, null, `Script by ` + y(e.worldcup.scripts[n].author), 1), I(`div`, wP, [e.worldcup.scripts[n].url ? (d(),
         F(`a`, {
             key: 0,
             class: `button primary`,
             href: e.worldcup.scripts[n].url,
             target: `_blank`
-        }, ` Guide `, 8, SP)) : r(``, !0), I(`a`, {
+        }, ` Guide `, 8, TP)) : r(``, !0), I(`a`, {
             class: `button`,
             href: `${o.baseURL}/${e.worldcup.scripts[n].id}/script.json`,
             target: `_blank`
-        }, ` JSON `, 8, CP), I(`a`, {
+        }, ` JSON `, 8, EP), I(`a`, {
             class: `button secondary`,
             href: `${o.baseURL}/${e.worldcup.scripts[n].id}/script.pdf`,
             target: `_blank`
-        }, ` PDF `, 8, wP)])])])], 64)) : (d(),
-        F(`div`, vP, y(n), 1))], 10, _P)
+        }, ` PDF `, 8, DP)])])])], 64)) : (d(),
+        F(`div`, xP, y(n), 1))], 10, bP)
     }
     ), 128)), I(`div`, {
         class: v([`versus`, {
@@ -20483,10 +20615,10 @@ function OP(e, t, n, a, o, s) {
         key: 1,
         icon: `lock`
     })), s.match.time > Date.now() - e.worldcup.votePeriod ? (d(),
-    F(`b`, TP, [...t[8] || (t[8] = [i(` Vote `, -1), I(`span`, {
+    F(`b`, OP, [...t[8] || (t[8] = [i(` Vote `, -1), I(`span`, {
         class: `primary`
     }, `open`, -1)])])) : (d(),
-    F(`b`, EP, [...t[9] || (t[9] = [i(`Vote `, -1), I(`span`, {
+    F(`b`, kP, [...t[9] || (t[9] = [i(`Vote `, -1), I(`span`, {
         class: `secondary`
     }, `closed`, -1)])])), s.canVote ? (d(),
     F(`span`, {
@@ -20499,20 +20631,21 @@ function OP(e, t, n, a, o, s) {
         key: 5,
         icon: `lock`
     }))], 2)) : r(``, !0)], 2)], 2)])) : (d(),
-    F(`div`, DP, `Loading...`))])]), f(x), f(C)], 64)
+    F(`div`, AP, `Loading...`))])]), f(x), f(C)], 64)
 }
-var kP = B(aP, [[`render`, OP], [`__scopeId`, `data-v-69dbcdf3`]])
-  , AP = {
+var MP = B(cP, [[`render`, jP], [`__scopeId`, `data-v-69dbcdf3`]])
+  , NP = {
     components: {
-        LoginPatreon: wy,
-        LoginGoogle: xy
+        LoginPatreon: Ty,
+        LoginGoogle: Sy
     },
     computed: {
         ...A(`user`, [`user`, `refreshToken`]),
         activeLogin() {
             return {
-                google: `LoginGoogle`,
-                patreon: `LoginPatreon`
+                google: Sy,
+                patreon: Ty,
+                discord: Oy
             }[this.$route.params.service]
         }
     },
@@ -20537,27 +20670,27 @@ var kP = B(aP, [[`render`, OP], [`__scopeId`, `data-v-69dbcdf3`]])
         this.payload = Object.fromEntries(window.location.search.substring(1).split(`&`).map(e => e.split(`=`).map(e => decodeURIComponent(e))))
     }
 }
-  , jP = {
+  , PP = {
     id: `login`
 }
-  , MP = {
+  , FP = {
     class: `content`
 }
-  , NP = {
+  , IP = {
     key: 0
 }
-  , PP = {
+  , LP = {
     key: 1
 };
-function FP(e, t, n, a, o, s) {
+function RP(e, t, n, a, o, s) {
     return d(),
-    F(`div`, jP, [t[4] || (t[4] = I(`div`, {
+    F(`div`, PP, [t[4] || (t[4] = I(`div`, {
         class: `header`
     }, [I(`img`, {
         src: `/assets/logo-B1iScA0C.webp`,
         alt: ``,
         class: `logo app`
-    })], -1)), I(`div`, MP, [(d(),
+    })], -1)), I(`div`, FP, [(d(),
     h(l(s.activeLogin), {
         payload: e.payload,
         onSuccess: s.close,
@@ -20568,9 +20701,9 @@ function FP(e, t, n, a, o, s) {
     }, 40, [`payload`, `onSuccess`, `onError`])), o.error ? (d(),
     F(S, {
         key: 0
-    }, [I(`b`, null, y(e.$t(`pages.login.social.error`)), 1), t[2] || (t[2] = I(`br`, null, null, -1)), [`general`, `grant_expired`, `nonce_missing`].includes(o.error) ? (d(),
-    F(`span`, NP, y(e.$t(`pages.login.social.error_${o.error}`)), 1)) : (d(),
-    F(`span`, PP, y(o.error), 1)), I(`div`, {
+    }, [I(`b`, null, y(e.$t(`pages.login.social.error`)), 1), t[2] || (t[2] = I(`br`, null, null, -1)), [`general`, `grant_expired`, `nonce_missing`, `already_linked`, `code_missing`].includes(o.error) ? (d(),
+    F(`span`, IP, y(e.$t(`pages.login.social.error_${o.error}`)) + ` ` + y(e.$t(`pages.login.social.try_again`)), 1)) : (d(),
+    F(`span`, LP, y(o.error), 1)), I(`div`, {
         class: `button`,
         onClick: t[0] || (t[0] = (...e) => s.close && s.close(...e))
     }, y(e.$t(`common.button_close`)), 1)], 64)) : o.success ? (d(),
@@ -20581,44 +20714,44 @@ function FP(e, t, n, a, o, s) {
         onClick: t[1] || (t[1] = (...e) => s.close && s.close(...e))
     }, y(e.$t(`common.button_close`)), 1)], 64)) : r(``, !0), I(`small`, null, y(e.$t(`common.trademark`)), 1)])])
 }
-var IP = [{
+var zP = [{
     path: `/play`,
     name: `Grimoire`,
-    component: Oj
+    component: jj
 }, {
     path: `/login`,
     name: `Login`,
     meta: {
         isPublic: !0
     },
-    component: qM
+    component: XM
 }, {
     path: `/login/:service`,
     name: `LoginSocial`,
     meta: {
         isPublic: !0
     },
-    component: B(AP, [[`render`, FP], [`__scopeId`, `data-v-21eea226`]])
+    component: B(NP, [[`render`, RP], [`__scopeId`, `data-v-8ace5509`]])
 }, {
     path: `/verification`,
     name: `Verification`,
-    component: uN
+    component: pN
 }, {
     path: `/`,
     name: `Lobby`,
-    component: CM
+    component: EM
 }, {
     path: `/update`,
     name: `Update`,
-    component: eN
+    component: rN
 }, {
     path: `/banned`,
     name: `Banned`,
-    component: Sf
+    component: Cf
 }, {
     path: `/external`,
     name: `External`,
-    component: Of,
+    component: kf,
     meta: {
         isPublic: !0
     }
@@ -20626,14 +20759,14 @@ var IP = [{
     path: Date.now() > 17476776e5 ? `/worldcup/group` : `/worldcup`,
     alias: `/worldcup/group`,
     name: `WorldcupGroup`,
-    component: MN,
+    component: FN,
     meta: {
         isPublic: !0
     }
 }, {
     path: `/worldcup/leaderboard`,
     name: `WorldcupLeaderboard`,
-    component: HN,
+    component: GN,
     meta: {
         isPublic: !0
     }
@@ -20641,26 +20774,26 @@ var IP = [{
     path: Date.now() > 17476776e5 ? `/worldcup` : `/worldcup/knockout`,
     alias: `/worldcup/knockout`,
     name: `WorldcupKnockout`,
-    component: iP,
+    component: sP,
     meta: {
         isPublic: !0
     }
 }, {
     path: `/worldcup/:match`,
     name: `WorldcupMatch`,
-    component: kP,
+    component: MP,
     meta: {
         isPublic: !0
     }
 }]
   , J = te({
     history: re(),
-    routes: IP
+    routes: zP
 });
 J.beforeEach(async e => {
     var t;
-    let {user: n, refreshToken: r, newVersions: i} = $.state.user
-      , {loadingState: a} = $.state.grimoire;
+    let {user: n, refreshToken: r, newVersions: i} = tI.state.user
+      , {loadingState: a} = tI.state.grimoire;
     if (!(document.hidden && a === `initial`)) {
         if (i > 1) {
             if (e.name !== `Update`)
@@ -20694,7 +20827,7 @@ J.beforeEach(async e => {
 J.afterEach( (e, t) => {
     let n = document.getElementById(`custom-css`);
     if (e.name === `Grimoire`) {
-        let {customCSS: e, customCSSEnabled: t} = $.state.settings.advanced;
+        let {customCSS: e, customCSSEnabled: t} = tI.state.settings.advanced;
         if (!n && e && t) {
             let t = document.createElement(`style`);
             t.id = `custom-css`,
@@ -20702,11 +20835,11 @@ J.afterEach( (e, t) => {
             document.head.appendChild(t)
         }
     } else
-        (t == null ? void 0 : t.name) === `Grimoire` && $.commit(`removeSound`),
+        (t == null ? void 0 : t.name) === `Grimoire` && tI.commit(`removeSound`),
         n && n.remove()
 }
 );
-var LP = e => {
+var BP = e => {
     let t = !1;
     e.dispatch(`user/checkVersion`),
     e.subscribe(async ({type: n, payload: r}, i) => {
@@ -20743,14 +20876,14 @@ var LP = e => {
     }
     )
 }
-  , RP = e => {
+  , VP = e => {
     let {customCSS: t, customCSSEnabled: n} = e.state.settings.advanced
       , r = document.getElementById(`custom-css`) || document.createElement(`style`);
     r.id = `custom-css`,
     t && n && J.currentRoute.value.name === `Grimoire` ? (document.head.appendChild(r),
     r.innerHTML = t) : r.remove()
 }
-  , zP = e => {
+  , HP = e => {
     e.players.players.length ? localStorage.setItem(`players`, JSON.stringify(e.players.players.map(e => {
         var t, n;
         return {
@@ -20760,7 +20893,7 @@ var LP = e => {
     }
     ))) : localStorage.removeItem(`players`)
 }
-  , BP = e => {
+  , UP = e => {
     e.players.storytellers ? localStorage.setItem(`storytellers`, JSON.stringify(e.players.storytellers.map(e => {
         var t, n;
         return {
@@ -20770,7 +20903,7 @@ var LP = e => {
     }
     ))) : localStorage.removeItem(`storytellers`)
 }
-  , VP = e => {
+  , WP = e => {
     let t = !1;
     if (window.BroadcastChannel) {
         let n = new BroadcastChannel(`botc-app`);
@@ -20804,7 +20937,7 @@ var LP = e => {
             }
         if (localStorage.getItem(`customCSS`)) {
             let t = localStorage.getItem(`customCSS`);
-            RP(e),
+            VP(e),
             e.commit(`settings/setCustomCSS`, t)
         }
         if (localStorage.getItem(`settings`))
@@ -20856,7 +20989,7 @@ var LP = e => {
             try {
                 let t = e.state.keybindings;
                 JSON.parse(localStorage.getItem(`keybindings`)).forEach( ([e,n]) => {
-                    Lv[e] && (t[e] = Array.isArray(n) ? n : [n])
+                    Rv[e] && (t[e] = Array.isArray(n) ? n : [n])
                 }
                 ),
                 e.commit(`setKeybindings`, t)
@@ -21033,11 +21166,11 @@ var LP = e => {
         case `settings/toggleHiddenPrivateCams`:
         case `settings/setChromaKey`:
             localStorage.setItem(`advanced`, JSON.stringify([!1, a.settings.advanced.hasNightStatic, !1, a.settings.advanced.chromaKey, a.settings.advanced.hasHiddenTownSquareCams, a.settings.advanced.hasHiddenRevealCams, a.settings.advanced.customCSSEnabled, a.settings.advanced.hasPublicTownSquare, a.settings.advanced.hasHiddenPrivateCams])),
-            t === `settings/toggleCustomCSS` && RP(e);
+            t === `settings/toggleCustomCSS` && VP(e);
             break;
         case `settings/setCustomCSS`:
             n ? localStorage.setItem(`customCSS`, n) : localStorage.removeItem(`customCSS`),
-            RP(e);
+            VP(e);
             break;
         case `settings/setTokenZoom`:
             n === 0 ? localStorage.removeItem(`zoom`) : localStorage.setItem(`zoom`, n);
@@ -21090,19 +21223,19 @@ var LP = e => {
         case `players/movePlayers`:
         case `players/setPlayers`:
         case `players/setRoles`:
-            zP(a);
+            HP(a);
             break;
         case `players/addStoryteller`:
         case `players/setStorytellers`:
         case `players/removeStoryteller`:
         case `players/updateStoryteller`:
-            BP(a);
+            UP(a);
             break;
         case `players/addReminder`:
         case `players/updateReminder`:
         case `players/removeReminder`:
-            zP(a),
-            BP(a);
+            HP(a),
+            UP(a);
             break;
         case `session/setSessionId`:
             a.session.sessionId ? localStorage.setItem(`session`, a.session.sessionId) : localStorage.removeItem(`session`);
@@ -21200,7 +21333,7 @@ var LP = e => {
             e.getters[`user/isStoryteller`] && localStorage.setItem(`raisedHands`, JSON.stringify([...a.session.raisedHands]));
             break;
         case `setKeybindings`:
-            localStorage.setItem(`keybindings`, JSON.stringify(Object.entries(a.keybindings).filter( ([e,t]) => t.some(t => !Lv[e].includes(t)))));
+            localStorage.setItem(`keybindings`, JSON.stringify(Object.entries(a.keybindings).filter( ([e,t]) => t.some(t => !Rv[e].includes(t)))));
             break
         }
     }
@@ -21215,7 +21348,7 @@ var LP = e => {
     } else
         n()
 }
-  , HP = class {
+  , GP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21334,7 +21467,7 @@ var LP = e => {
         c && this._store.commit(`setRolesSelected`, c)
     }
 }
-  , UP = class {
+  , KP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21607,7 +21740,7 @@ var LP = e => {
         })
     }
 }
-  , WP = class {
+  , qP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21748,7 +21881,7 @@ var LP = e => {
         }
     }
 }
-  , GP = class {
+  , JP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21775,7 +21908,7 @@ var LP = e => {
         this._store.dispatch(`players/setNPCs`, e)
     }
 }
-  , KP = class {
+  , YP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21806,7 +21939,7 @@ var LP = e => {
             }
     }
 }
-  , qP = class {
+  , XP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21820,7 +21953,10 @@ var LP = e => {
         e.handleMessage(`toggleRole`, this.handleRoleToggle.bind(this))
     }
     toggleRole(e) {
-        this._store.getters[`user/isStoryteller`] && this._socket.sendMessage(`toggleRole`, e, `storyteller`)
+        this._store.getters[`user/isStoryteller`] && this._socket.sendMessage(`toggleRole`, {
+            id: e.id,
+            add: e.add
+        }, `storyteller`)
     }
     handleRoleToggle(e) {
         if (!this._store.getters[`user/isStoryteller`])
@@ -21882,7 +22018,7 @@ var LP = e => {
             })
     }
 }
-  , JP = class {
+  , ZP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -21909,7 +22045,7 @@ var LP = e => {
         )
     }
 }
-  , YP = class {
+  , QP = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -22018,12 +22154,13 @@ var LP = e => {
         })
     }
 }
-  , XP = class {
+  , $P = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
         this._whisperRequestTimers = new Map,
         this._whisperRequestTimeout = 10 * 1e3,
+        this._whisperFromCache = new Map,
         this._prevChannel = this._store.state.chat.channel,
         this._leaveChannelTimer = null,
         this._store.subscribe( ({type: e, payload: t}) => {
@@ -22110,23 +22247,29 @@ var LP = e => {
         var n;
         let {whisperFrom: r, whisperTo: i} = this._store.state.chat
           , {users: a} = this._store.state.session
-          , o = e.split(`-`).shift();
-        if (o === ((n = i.get(t)) == null ? void 0 : n.split(`-`).shift())) {
-            let n = o + `-` + Math.min(e.split(`-`).pop(), i.get(t).split(`-`).pop());
+          , {isNightRequestPing: o} = this._store.state.settings.game
+          , s = this._store.getters[`players/storytellerMap`]
+          , c = this._store.getters[`user/isStoryteller`]
+          , l = this._store.getters[`game/isNight`]
+          , u = e.split(`-`).shift();
+        if (u === ((n = i.get(t)) == null ? void 0 : n.split(`-`).shift())) {
+            let n = u + `-` + Math.min(e.split(`-`).pop(), i.get(t).split(`-`).pop());
             this.initiateChat(t, n),
             clearTimeout(this._whisperRequestTimers.get(t)),
             this._whisperRequestTimers.delete(t)
         } else if (r.get(t) !== e) {
-            var s;
+            var d;
+            if (l && !s.has(t) && !c)
+                return;
             if (this._store.commit(`chat/setWhisperFrom`, {
                 id: t,
                 channel: e,
                 isInternal: !0
             }),
-            (!this._store.getters[`game/isNight`] || this._store.state.settings.game.isNightRequestPing || this._store.getters[`user/isStoryteller`]) && this._store.commit(`playSound`, `privateRequest`),
-            (s = a.get(t)) != null && s.isOnline) {
-                var c;
-                let e = ((c = a.get(t)) == null ? void 0 : c.username) + ` has requested a private chat with you.`;
+            (!l || o || c) && this._store.commit(`playSound`, `privateRequest`),
+            (d = a.get(t)) != null && d.isOnline) {
+                var f;
+                let e = ((f = a.get(t)) == null ? void 0 : f.username) + ` has requested a private chat with you.`;
                 this._socket.showNotification(e).catch( () => {}
                 )
             }
@@ -22162,22 +22305,26 @@ var LP = e => {
         }))
     }
     sendWhisperRemove({id: e, isInternal: t}={}) {
-        if (!t) {
+        if (!t)
             if (e)
                 this._socket.sendMessage(`whisperRemove`, null, e),
                 clearTimeout(this._whisperRequestTimers.get(e)),
                 this._whisperRequestTimers.delete(e);
-            else if (this._whisperRequestTimers.size) {
+            else {
                 let e = [];
-                this._whisperRequestTimers.forEach( (t, n) => {
+                this._whisperRequestTimers.size && (this._whisperRequestTimers.forEach( (t, n) => {
                     e.push([`whisperRemove`, null, n]),
                     clearTimeout(t)
                 }
                 ),
-                this._socket.sendMessages(e),
-                this._whisperRequestTimers = new Map
+                this._whisperRequestTimers = new Map),
+                this._whisperFromCache.size && (this._whisperFromCache.forEach( (t, n) => {
+                    e.push([`whisperRemove`, null, n])
+                }
+                ),
+                this._whisperFromCache = new Map),
+                e.length > 0 && this._socket.sendMessages(e)
             }
-        }
     }
     handleWhisperRemove(e, t) {
         let {whisperFrom: n, whisperTo: r} = this._store.state.chat;
@@ -22291,13 +22438,15 @@ var LP = e => {
     }
     setChannel(e) {
         clearTimeout(this._leaveChannelTimer),
-        this._leaveChannelTimer = null,
-        this._store.getters[`chat/isPrivateChat`](this._prevChannel) && !e && (this._store.state.chat.whisperTo.size && this._store.commit(`chat/removeWhisperTo`),
-        this._store.state.chat.whisperFrom.size && !this._store.getters[`user/isStoryteller`] && this._store.commit(`chat/removeWhisperFrom`)),
+        this._leaveChannelTimer = null;
+        let {whisperTo: t, whisperFrom: n} = this._store.state.chat;
+        this._store.getters[`chat/isPrivateChat`](this._prevChannel) && !e && (t.size && this._store.commit(`chat/removeWhisperTo`),
+        n.size && !this._store.getters[`user/isStoryteller`] && (this._whisperFromCache = n,
+        this._store.commit(`chat/removeWhisperFrom`))),
         this._prevChannel = e
     }
 }
-  , ZP = class {
+  , eF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -22524,7 +22673,7 @@ var LP = e => {
         r && this._store.commit(`setRolesSelected`, r)
     }
 }
-  , QP = class {
+  , tF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -22788,7 +22937,7 @@ var LP = e => {
         )
     }
 }
-  , $P = class {
+  , nF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -22857,7 +23006,7 @@ var LP = e => {
         })
     }
 }
-  , eF = class {
+  , rF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23000,7 +23149,7 @@ var LP = e => {
             }
     }
 }
-  , tF = class {
+  , iF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23044,7 +23193,7 @@ var LP = e => {
         })
     }
 }
-  , nF = class {
+  , aF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23085,7 +23234,7 @@ var LP = e => {
         })
     }
 }
-  , rF = class {
+  , oF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23114,7 +23263,7 @@ var LP = e => {
         this._store.dispatch(`players/setBluffs`, e)
     }
 }
-  , iF = class {
+  , sF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23172,7 +23321,7 @@ var LP = e => {
         }
     }
 }
-  , aF = class {
+  , cF = class {
     constructor(e) {
         this._store = e.store,
         this._socket = e,
@@ -23220,7 +23369,7 @@ var LP = e => {
         })
     }
 }
-  , oF = class {
+  , lF = class {
     constructor(e) {
         this._store = e;
         let t = {
@@ -23235,6 +23384,14 @@ var LP = e => {
         this._isRequesting = !1,
         this._requestQueue = [],
         this._gamestateTimeout = null,
+        this._wakeLock = null,
+        document.addEventListener(`visibilitychange`, async () => {
+            if (this._wakeLock && !document.hidden && this._socket)
+                try {
+                    this._wakeLock = await navigator.wakeLock.request(`screen`)
+                } catch {}
+        }
+        ),
         window.__TAURI__ && In(jn.WINDOW_CLOSE_REQUESTED, () => {
             this.disconnect()
         }
@@ -23314,9 +23471,13 @@ var LP = e => {
         ))
     }
     async _onConnect() {
-        this._store.state.session.isReconnecting && this._store.commit(`session/toggleReconnecting`, !1),
+        if (this._store.state.session.isReconnecting && this._store.commit(`session/toggleReconnecting`, !1),
         this._store.commit(`session/updateMeta`),
-        this._processRequestQueue()
+        this._processRequestQueue(),
+        `wakeLock`in navigator)
+            try {
+                this._wakeLock = await navigator.wakeLock.request(`screen`)
+            } catch {}
     }
     async _onDisconnect(e) {
         var t;
@@ -23353,6 +23514,8 @@ var LP = e => {
             }),
             this._store.state.grimoire.loadingState === `game` && this._store.commit(`setLoadingState`, ``)
         }
+        this._wakeLock && (await this._wakeLock.release(),
+        this._wakeLock = null)
     }
     _onError({type: e, message: t}) {
         e === `disconnect` && this.disconnect(),
@@ -23385,14 +23548,7 @@ var LP = e => {
                 this._socket.emit(`message`, e, t)
     }
     sendMessages(e) {
-        if (!this._socket || this._socket.disconnected)
-            return;
-        let t = e.filter(e => {
-            let[,,t] = e;
-            return t ? (Array.isArray(t) ? t : [t]).length : !0
-        }
-        );
-        t.length && this._socket.emit(`messages`, t)
+        !this._socket || this._socket.disconnected || e.length && this._socket.emit(`messages`, e)
     }
     request(e, t) {
         return this._store.state.session.sessionId ? new Promise( (n, r) => {
@@ -23471,11 +23627,11 @@ var LP = e => {
         return this._socket
     }
 }
-  , sF = e => {
-    let t = new oF(e);
-    [XP, qP, KP, GP, rF, eF, HP, ZP, WP, UP, tF, nF, JP, aF, $P, YP, iF, QP].forEach(e => new e(t))
+  , uF = e => {
+    let t = new lF(e);
+    [$P, XP, YP, JP, oF, rF, GP, eF, qP, KP, iF, aF, ZP, cF, nF, QP, sF, tF].forEach(e => new e(t))
 }
-  , cF = () => ({
+  , dF = () => ({
     audio: {
         context: null,
         device: null,
@@ -23517,16 +23673,16 @@ var LP = e => {
     textRecipient: ``,
     following: ``
 })
-  , lF = 180 * 1e3
-  , uF = new Set
-  , dF = null
-  , fF = 300 * 1e3;
+  , fF = 180 * 1e3
+  , pF = new Set
+  , mF = null
+  , hF = 300 * 1e3;
 Nn.addHook(`afterSanitizeAttributes`, function(e) {
     `target`in e && e.setAttribute(`target`, `_blank`);
     let t = `https://botc.app/external?link=`;
     e.hasAttribute(`href`) && !e.attributes.href.value.startsWith(t) && e.setAttribute(`href`, t + encodeURIComponent(e.getAttribute(`href`)))
 });
-var pF = async (e, t, n) => {
+var gF = async (e, t, n) => {
     let r = t.session.meta.chatServer
       , i = t.user.accessToken
       , a = [r];
@@ -23539,9 +23695,9 @@ var pF = async (e, t, n) => {
             await Promise.any(a.map(async r => {
                 let i = Date.now()
                   , a = e.servers.get(r);
-                if (uF.has(r) || a.health && i - a.health.timestamp < lF)
+                if (pF.has(r) || a.health && i - a.health.timestamp < fF)
                     return Promise.resolve();
-                uF.add(r);
+                pF.add(r);
                 try {
                     a.health = await (await fetch(r === `local` ? `http://localhost:3016/health` : `https://chat-${r}.botc.app/health`, {
                         headers: {
@@ -23551,7 +23707,7 @@ var pF = async (e, t, n) => {
                     })).json(),
                     a.health.load <= 1 ? a.health.color = `rgb(${Math.round(Math.min(255, 255 * a.health.load / 1))}, 255, 0)` : a.health.color = `rgb(255, ${Math.round(Math.max(0, 255 - 255 * (a.health.load - 1) / 1))}, 0)`
                 } catch {
-                    return uF.delete(r),
+                    return pF.delete(r),
                     a.health = {
                         color: `rgb(128, 128, 128)`
                     },
@@ -23560,14 +23716,14 @@ var pF = async (e, t, n) => {
                 a.health.latency = Math.round((Date.now() - i) / 2),
                 a.health.timestamp = i,
                 n(`updateServer`, a),
-                uF.delete(r)
+                pF.delete(r)
             }
             ))
         } catch {}
-    clearTimeout(dF),
-    dF = setTimeout( () => pF(e, t, n), lF)
+    clearTimeout(mF),
+    mF = setTimeout( () => gF(e, t, n), fF)
 }
-  , mF = {
+  , _F = {
     channelColors(e, t, n) {
         let r = new Map
           , i = [...n.players.storytellers, ...n.players.players].map(e => e.id);
@@ -23634,7 +23790,7 @@ var pF = async (e, t, n) => {
         return (e=``) => [`public`].includes(e.split(`-`).shift())
     }
 }
-  , hF = {
+  , vF = {
     textMessage(e, {recipientId: t, message: n, senderId: r, isSystem: i, isHidden: a, isExpiring: o}) {
         let {commit: s, rootState: c} = e
           , {user: l} = c.user
@@ -23647,7 +23803,7 @@ var pF = async (e, t, n) => {
             isSystem: i == null ? !1 : i,
             isHidden: a == null ? !1 : a
         }),
-        (!i || o) && setTimeout( () => s(`removeTextMessage`, u), fF))
+        (!i || o) && setTimeout( () => s(`removeTextMessage`, u), hF))
     },
     requestWhisper({rootGetters: e, rootState: t, commit: n, state: r, getters: i}, a) {
         if (!e[`players/seatedPlayerMap`].has(t.user.user.id) || !a.id || r.whisperTo.has(a.id))
@@ -23664,7 +23820,7 @@ var pF = async (e, t, n) => {
     },
     async setServerList({state: e, commit: t, rootState: n}, r) {
         t(`setServerList`, new Map(r.map(e => [e.host, e]))),
-        await pF(e, n, t)
+        await gF(e, n, t)
     },
     followUser({state: e, commit: t, rootGetters: n, rootState: r}, i) {
         !i || !n[`user/hasGrimoireAccess`] || i !== r.user.user.id && (i === e.following ? t(`setFollowing`, ``) : (e.userChannels.has(i) && e.channel !== e.userChannels.get(i) && t(`setChannel`, e.userChannels.get(i)),
@@ -23684,11 +23840,11 @@ var pF = async (e, t, n) => {
   , Y = (e, t=``, n=!1) => (r, i) => {
     n && i == null || (t && r[t] ? r[t][e] = i : r[e] = i)
 }
-  , gF = {
+  , yF = {
     namespaced: !0,
-    state: cF,
-    getters: mF,
-    actions: hF,
+    state: dF,
+    getters: _F,
+    actions: vF,
     mutations: {
         toggleEchoCancellation: q(`isEchoCancellation`, `audio`),
         toggleNoiseSuppression: q(`isNoiseSuppression`, `audio`),
@@ -23803,7 +23959,7 @@ var pF = async (e, t, n) => {
         }
     }
 }
-  , _F = {
+  , bF = {
     namespaced: !0,
     state: () => ({
         history: [],
@@ -24041,7 +24197,7 @@ var pF = async (e, t, n) => {
         }
     }
 }
-  , vF = {
+  , xF = {
     id: null,
     role: {},
     ability: {},
@@ -24049,7 +24205,7 @@ var pF = async (e, t, n) => {
     reminders: [],
     status: []
 }
-  , yF = {
+  , SF = {
     id: null,
     role: {},
     ability: {},
@@ -24057,13 +24213,13 @@ var pF = async (e, t, n) => {
     reminders: [],
     status: []
 }
-  , bF = {
+  , CF = {
     id: ``,
     name: ``,
     role: ``,
     flags: []
 }
-  , xF = {
+  , wF = {
     namespaced: !0,
     state: () => ({
         players: [],
@@ -24233,11 +24389,11 @@ var pF = async (e, t, n) => {
                 }),
                 r.bluffs.length && i(`setBluff`)),
                 s = r.players.map( ({id: e}) => ({
-                    ...structuredClone(vF),
+                    ...structuredClone(xF),
                     id: e
                 })),
                 c = r.storytellers.map( ({id: e}) => ({
-                    ...structuredClone(yF),
+                    ...structuredClone(SF),
                     id: e
                 })),
                 n) {
@@ -24285,7 +24441,7 @@ var pF = async (e, t, n) => {
                 })
             }
             ),
-            n(`setStorytellers`, [Object.assign(structuredClone(yF), {
+            n(`setStorytellers`, [Object.assign(structuredClone(SF), {
                 id: r
             })])
         },
@@ -24434,7 +24590,7 @@ var pF = async (e, t, n) => {
         },
         setPlayers(e, t) {
             Array.isArray(t) && (e.players = t.map(e => {
-                let t = Object.assign(structuredClone(vF), e);
+                let t = Object.assign(structuredClone(xF), e);
                 return t.reminders = t.reminders || [],
                 t.role = t.role || {},
                 t
@@ -24458,7 +24614,7 @@ var pF = async (e, t, n) => {
         },
         addReminder(e, {user: t, reminder: n}) {
             [...e.players, ...e.storytellers].includes(t) && (Array.isArray(t.reminders) || (t.reminders = []),
-            t.reminders.push(Object.assign(structuredClone(bF), n)))
+            t.reminders.push(Object.assign(structuredClone(CF), n)))
         },
         updateReminder(e, {user: t, reminder: n}) {
             if (!n.id || ![...e.players, ...e.storytellers].includes(t) || !Array.isArray(t.reminders))
@@ -24484,7 +24640,7 @@ var pF = async (e, t, n) => {
         },
         addPlayer(e) {
             e.players.length >= 20 || e.players.push({
-                ...structuredClone(vF)
+                ...structuredClone(xF)
             })
         },
         removePlayers(e, t) {
@@ -24513,7 +24669,7 @@ var pF = async (e, t, n) => {
         },
         setStorytellers(e, t) {
             Array.isArray(t) && (e.storytellers = t.map(e => {
-                let t = Object.assign(structuredClone(yF), e);
+                let t = Object.assign(structuredClone(SF), e);
                 return t.role = t.role || {},
                 t.reminders = t.reminders || [],
                 t
@@ -24521,7 +24677,7 @@ var pF = async (e, t, n) => {
             ))
         },
         addStoryteller(e, {id: t}) {
-            t && (e.storytellers.some(e => e.id === t) || (e.storytellers.push(Object.assign(structuredClone(yF), {
+            t && (e.storytellers.some(e => e.id === t) || (e.storytellers.push(Object.assign(structuredClone(SF), {
                 id: t
             })),
             e.storytellerRequests.includes(t) && e.storytellerRequests.splice(e.storytellerRequests.indexOf(t), 1)))
@@ -24541,8 +24697,8 @@ var pF = async (e, t, n) => {
         }
     }
 }
-  , SF = !0
-  , CF = {
+  , TF = !0
+  , EF = {
     owner: {},
     banlist: {},
     createdAt: 0,
@@ -24558,14 +24714,14 @@ var pF = async (e, t, n) => {
     },
     language: (navigator.languages ? navigator.languages[0] : navigator.language).split(`-`)[0] || `en`
 }
-  , wF = () => ({
+  , DF = () => ({
     sessionId: ``,
     previousSessionId: ``,
     isConnected: !1,
     isReconnecting: !1,
     isWhispersDisabled: !1,
     users: new Map,
-    meta: Object.assign({}, CF),
+    meta: Object.assign({}, EF),
     ping: -1,
     isPointing: !1,
     pointers: [],
@@ -24585,7 +24741,7 @@ var pF = async (e, t, n) => {
     },
     code: `9a885ff8b98251ed16d03c5972e3bac8a92e8c16ba661e5b5902a0af6a0ae8ca`
 })
-  , TF = {
+  , OF = {
     pointedPlayers({pointers: e}) {
         let t = [];
         e.forEach(e => {
@@ -24599,7 +24755,7 @@ var pF = async (e, t, n) => {
         return () => e > Date.now() ? e - Date.now() : 0
     }
 }
-  , EF = {
+  , kF = {
     cleanGamestate({commit: e}) {
         e(`setTimer`),
         e(`setRaisedHands`, new Map),
@@ -24690,7 +24846,7 @@ var pF = async (e, t, n) => {
             a = a.trim().toLocaleLowerCase()),
             a) {
                 a.match(/^https?:\/\//i) && (a = decodeURIComponent(a.split(`/join/`).pop()));
-                let i = await _y(`sessions/${encodeURIComponent(a)}`, r.user.accessToken);
+                let i = await vy(`sessions/${encodeURIComponent(a)}`, r.user.accessToken);
                 if (!i || i.error) {
                     await t(`showError`, [`modals.dialogue.error.session_join`, `modals.dialogue.error.session_not_found`], {
                         root: !0
@@ -24768,9 +24924,9 @@ var pF = async (e, t, n) => {
             return;
         let {players: i, user: a} = t
           , o = i.players.findIndex( ({id: e}) => e === a.user.id);
-        o >= 0 && SF && (SF = !1,
+        o >= 0 && TF && (TF = !1,
         setTimeout( () => {
-            SF = !0
+            TF = !0
         }
         , 500),
         n(`pointAtPlayer`, {
@@ -24797,11 +24953,11 @@ var pF = async (e, t, n) => {
     let i = r != null && r.isInternal && r != null && r.value ? r.value : r;
     t && n[t] ? n[t][e] = i : n[e] = i
 }
-  , DF = {
+  , AF = {
     namespaced: !0,
-    state: wF,
-    getters: TF,
-    actions: EF,
+    state: DF,
+    getters: OF,
+    actions: kF,
     mutations: {
         setPing: X(`ping`),
         setHook: X(`hook`),
@@ -24823,7 +24979,7 @@ var pF = async (e, t, n) => {
             Object.keys(t).length ? Object.keys(t).forEach(n => {
                 Object.hasOwn(e.meta, n) && t[n] !== void 0 && (e.meta[n] = t[n])
             }
-            ) : e.meta = Object.assign({}, CF)
+            ) : e.meta = Object.assign({}, EF)
         },
         kickUser: () => {}
         ,
@@ -24881,14 +25037,14 @@ var pF = async (e, t, n) => {
         }
     }
 }
-  , OF = `https://the-pandemonium-institute.myshopify.com/api/2025-07/graphql.json`
-  , kF = new Headers;
-kF.append(`X-Shopify-Storefront-Access-Token`, `16f486cbc24d20dc53f4a33f216d7b2b`),
-kF.append(`Content-Type`, `application/json`);
-var AF = null
-  , jF = 120 * 1e3
-  , MF = `https://github.com/ThePandemoniumInstitute/botc-release/releases`
-  , NF = () => ({
+  , jF = `https://the-pandemonium-institute.myshopify.com/api/2025-07/graphql.json`
+  , MF = new Headers;
+MF.append(`X-Shopify-Storefront-Access-Token`, `16f486cbc24d20dc53f4a33f216d7b2b`),
+MF.append(`Content-Type`, `application/json`);
+var NF = null
+  , PF = 120 * 1e3
+  , FF = `https://github.com/ThePandemoniumInstitute/botc-release/releases`
+  , IF = () => ({
     user: {},
     ban: {},
     relations: new Map,
@@ -24898,13 +25054,13 @@ var AF = null
     newVersions: 0,
     notifications: [],
     latestVersion: ``,
-    downloadUrl: [[`Desktop`, MF]],
+    downloadUrl: [[`Desktop`, FF]],
     levels: {
         SINGLE: [`app-single`, `patreon-townsfolk`],
         GROUP: [`special-tpi`, `special-free`, `special-moderator`, `app-group`, `patreon-minion`, `patreon-demon`]
     }
 })
-  , PF = {
+  , LF = {
     isStoryteller({user: e}, t, {session: n}, r) {
         return !n.sessionId || r[`players/storytellerMap`].has(e.id)
     },
@@ -24929,10 +25085,10 @@ var AF = null
         return !r[`game/isNight`] || !n.sessionId || !(!(s == null || (i = s.role) == null || (i = i.special) == null) && i.some(e => e.type === `player` && e.name === `open-eyes`)) ? !1 : !(s == null || (a = s.status) == null) && a.includes(`open-eyes`) ? `open-eyes` : !(s == null || (o = s.status) == null) && o.includes(`peek-eyes`) ? `peek-eyes` : !1
     }
 }
-  , FF = {
+  , RF = {
     async login({commit: e, dispatch: t}, {email: n, password: r, username: i, captcha: a}) {
         var o;
-        NF.accessToken && e(`setAccessToken`),
+        IF.accessToken && e(`setAccessToken`),
         e(`setRefreshToken`);
         let s = JSON.stringify({
             query: `mutation customerAccessTokenCreate($input: CustomerAccessTokenCreateInput!) {
@@ -24955,9 +25111,9 @@ var AF = null
                 }
             }
         })
-          , {data: c, errors: l} = await (await fetch(OF, {
+          , {data: c, errors: l} = await (await fetch(jF, {
             method: `POST`,
-            headers: kF,
+            headers: MF,
             body: s
         })).json();
         if (!c)
@@ -25001,9 +25157,9 @@ var AF = null
                 }
             }
         })
-          , {data: c} = await (await fetch(OF, {
+          , {data: c} = await (await fetch(jF, {
             method: `POST`,
-            headers: kF,
+            headers: MF,
             body: s
         })).json()
           , l = c.customerCreate;
@@ -25023,7 +25179,7 @@ var AF = null
         })
     },
     async refresh({commit: e, state: t, dispatch: n}, r=!1) {
-        if (clearTimeout(AF),
+        if (clearTimeout(NF),
         t.refreshToken) {
             let i = await K(`token`, {
                 token: t.refreshToken,
@@ -25037,8 +25193,8 @@ var AF = null
     },
     async setupRefresh({dispatch: e, commit: t}, {accessToken: n, refreshToken: r, user: i, ban: a, relations: o, timestamp: s, noRetry: c}) {
         var l;
-        AF && (clearTimeout(AF),
-        AF = null),
+        NF && (clearTimeout(NF),
+        NF = null),
         t(`setAccessToken`, n),
         t(`setUser`, i),
         t(`setBan`, a),
@@ -25046,8 +25202,8 @@ var AF = null
         r && t(`setRefreshToken`, r);
         let u = kn(n).exp * 1e3 - Date.now()
           , d = Math.abs(Date.now() - s);
-        u > jF ? AF = setTimeout( () => e(`refresh`).catch( () => {}
-        ), u - jF) : u > 0 && !c ? e(`refresh`, !0).catch( () => {}
+        u > PF ? NF = setTimeout( () => e(`refresh`).catch( () => {}
+        ), u - PF) : u > 0 && !c ? e(`refresh`, !0).catch( () => {}
         ) : t(`clearUser`),
         _n({
             id: i.id,
@@ -25073,9 +25229,9 @@ var AF = null
                 email: t
             }
         })
-          , {data: r} = await (await fetch(OF, {
+          , {data: r} = await (await fetch(jF, {
             method: `POST`,
-            headers: kF,
+            headers: MF,
             body: n
         })).json();
         if (!r)
@@ -25100,8 +25256,8 @@ var AF = null
         }, t.accessToken),
         e(`clearUser`),
         e(`removeNotification`),
-        AF && (clearTimeout(AF),
-        AF = null),
+        NF && (clearTimeout(NF),
+        NF = null),
         _n(null))
     },
     async updateUser({commit: e, state: t, dispatch: n}, r={}) {
@@ -25201,7 +25357,7 @@ var AF = null
     async loadData({commit: e, state: t, dispatch: n, rootState: r}) {
         if (!t.accessToken)
             return;
-        let {editions: i, roles: a, servers: o, nightOrder: s} = await _y(`data`, t.accessToken);
+        let {editions: i, roles: a, servers: o, nightOrder: s} = await vy(`data`, t.accessToken);
         if (i != null && i.length)
             return e(`setEditionsAvailable`, i, {
                 root: !0
@@ -25233,7 +25389,7 @@ var AF = null
         let n = ``;
         window.__TAURI__ && (n = await bn());
         let {os: r} = Mn()
-          , i = `${MF}/download/v${t}/Blood.on.the.Clocktower.Online_${t}_`;
+          , i = `${FF}/download/v${t}/Blood.on.the.Clocktower.Online_${t}_`;
         if ((r == null ? void 0 : r.name) === `macOS`) {
             let t = [[`Intel Mac`, i + `x64.dmg`], [`M1+ Mac`, i + `aarch64.dmg`]];
             return n ? n === `aarch64` ? e(`setDownloadUrl`, [t[1]]) : e(`setDownloadUrl`, [t[0]]) : e(`setDownloadUrl`, t)
@@ -25285,25 +25441,25 @@ var AF = null
         }))
     }
 }
-  , IF = (e, t=``) => (n, r) => {
+  , zF = (e, t=``) => (n, r) => {
     n[e] = r === void 0 ? t : r
 }
-  , LF = {
+  , BF = {
     namespaced: !0,
-    state: NF,
-    getters: PF,
-    actions: FF,
+    state: IF,
+    getters: LF,
+    actions: RF,
     mutations: {
         requestGrimoire: () => {}
         ,
-        setNewVersions: IF(`newVersions`),
-        setAppUpdate: IF(`appUpdate`),
-        setLatestVersion: IF(`latestVersion`),
-        setRefreshToken: IF(`refreshToken`),
-        setDownloadUrl: IF(`downloadUrl`),
-        setAccessToken: IF(`accessToken`),
-        setUser: IF(`user`, {}),
-        setBan: IF(`ban`, {}),
+        setNewVersions: zF(`newVersions`),
+        setAppUpdate: zF(`appUpdate`),
+        setLatestVersion: zF(`latestVersion`),
+        setRefreshToken: zF(`refreshToken`),
+        setDownloadUrl: zF(`downloadUrl`),
+        setAccessToken: zF(`accessToken`),
+        setUser: zF(`user`, {}),
+        setBan: zF(`ban`, {}),
         setRelations(e, t) {
             Array.isArray(t) ? e.relations = new Map(t.map(e => [e.relatedUserId, e])) : e.relations = new Map
         },
@@ -25334,7 +25490,7 @@ var AF = null
         }
     }
 }
-  , RF = () => ({
+  , VF = () => ({
     nomination: !1,
     votes: [],
     locked: 0,
@@ -25347,7 +25503,7 @@ var AF = null
     highscore: 0,
     voteTimer: null
 })
-  , zF = {
+  , HF = {
     nomination(e) {
         let t = Object.assign({}, e);
         return delete t.history,
@@ -25356,7 +25512,7 @@ var AF = null
         t
     }
 }
-  , BF = {
+  , UF = {
     nominatePlayer({state: e, commit: t, rootState: n, rootGetters: r}, i) {
         !r[`user/isStoryteller`] || e.isInProgress || r[`game/isNight`] || i[0] < 0 || n.session.hook.name !== `reveal-grimoire` && (n.grimoire.mode !== `grimoire` && t(`setGrimoireMode`, `grimoire`, {
             root: !0
@@ -25413,22 +25569,22 @@ var AF = null
         })
     }
 }
-  , VF = e => (t, n) => {
+  , WF = e => (t, n) => {
     (n == null ? void 0 : n.value) === void 0 ? t[e] = n : t[e] = n.value
 }
-  , HF = {
+  , GF = {
     namespaced: !0,
-    state: RF,
-    getters: zF,
-    actions: BF,
+    state: VF,
+    getters: HF,
+    actions: UF,
     mutations: {
-        setVotingSpeed: VF(`speed`),
-        setSelectedPlayer: VF(`selectedPlayer`),
-        setNomination: VF(`nomination`),
-        setHighscore: VF(`highscore`),
-        setNominationType: VF(`nominationType`),
-        toggleVoteInProgress: VF(`isInProgress`),
-        toggleIsHidden: VF(`isHidden`),
+        setVotingSpeed: WF(`speed`),
+        setSelectedPlayer: WF(`selectedPlayer`),
+        setNomination: WF(`nomination`),
+        setHighscore: WF(`highscore`),
+        setNominationType: WF(`nominationType`),
+        toggleVoteInProgress: WF(`isInProgress`),
+        toggleIsHidden: WF(`isHidden`),
         nomination(e, t={}) {
             var n, r, i;
             e.nomination = t.nomination || !1,
@@ -25466,7 +25622,7 @@ var AF = null
         }
     }
 }
-  , UF = () => ({
+  , KF = () => ({
     general: {
         avatarZoom: 1,
         tokenZoom: 0,
@@ -25503,59 +25659,59 @@ var AF = null
         hasHiddenRevealCams: !1
     }
 })
-  , WF = (e, t=`general`) => (n, r) => {
+  , Z = (e, t=`general`) => (n, r) => {
     t ? n[t][e] = r : n[e] = r
 }
-  , Z = (e, t=`general`) => (n, r) => {
+  , Q = (e, t=`general`) => (n, r) => {
     let i = n[t];
     r === !0 || r === !1 ? i[e] = r : r != null && r.isInternal ? i[e] = !!r.value : i[e] = !i[e]
 }
-  , GF = {
+  , qF = {
     namespaced: !0,
-    state: UF,
+    state: KF,
     getters: {},
     actions: {},
     mutations: {
-        setAvatarZoom: WF(`avatarZoom`),
-        setTokenZoom: WF(`tokenZoom`),
-        setReminderZoom: WF(`reminderZoom`),
-        setGrimoireOffset: WF(`grimoireOffset`),
-        setColorblind: WF(`colorblind`),
-        setBackground: WF(`background`),
-        setSoundVolume: WF(`soundVolume`),
-        togglePositioningDisabled: Z(`isPositioningDisabled`),
-        toggleAnimationsDisabled: Z(`isAnimationsDisabled`),
-        toggleCosmeticsDisabled: Z(`isCosmeticsDisabled`),
-        toggleImageOptIn: Z(`isImageOptIn`),
-        toggleTutorialDisabled: Z(`isTutorialDisabled`, `game`),
-        toggleEnglishNames: Z(`isEnglishNames`, `game`),
-        togglePlayerDuplicates: Z(`isPlayerDuplicates`, `game`),
-        toggleNightOrder: Z(`isNightOrder`, `game`),
-        togglePlayerNightOrder: Z(`isPlayerNightOrder`, `game`),
-        togglePlayerBluffs: Z(`isPlayerBluffs`, `game`),
-        toggleNightRequestPing: Z(`isNightRequestPing`, `game`),
-        toggleTouchSupport: Z(`isTouchSupport`, `game`),
+        setAvatarZoom: Z(`avatarZoom`),
+        setTokenZoom: Z(`tokenZoom`),
+        setReminderZoom: Z(`reminderZoom`),
+        setGrimoireOffset: Z(`grimoireOffset`),
+        setColorblind: Z(`colorblind`),
+        setBackground: Z(`background`),
+        setSoundVolume: Z(`soundVolume`),
+        togglePositioningDisabled: Q(`isPositioningDisabled`),
+        toggleAnimationsDisabled: Q(`isAnimationsDisabled`),
+        toggleCosmeticsDisabled: Q(`isCosmeticsDisabled`),
+        toggleImageOptIn: Q(`isImageOptIn`),
+        toggleTutorialDisabled: Q(`isTutorialDisabled`, `game`),
+        toggleEnglishNames: Q(`isEnglishNames`, `game`),
+        togglePlayerDuplicates: Q(`isPlayerDuplicates`, `game`),
+        toggleNightOrder: Q(`isNightOrder`, `game`),
+        togglePlayerNightOrder: Q(`isPlayerNightOrder`, `game`),
+        togglePlayerBluffs: Q(`isPlayerBluffs`, `game`),
+        toggleNightRequestPing: Q(`isNightRequestPing`, `game`),
+        toggleTouchSupport: Q(`isTouchSupport`, `game`),
         toggleStackReminderTokens({game: e}, t) {
             t === void 0 ? e.stackReminderTokens === null ? e.stackReminderTokens = !0 : e.stackReminderTokens === !0 ? e.stackReminderTokens = !1 : e.stackReminderTokens = null : e.stackReminderTokens = t
         },
         setSoundEffectVolume({sounds: e}, {id: t, value: n}) {
             e.has(t) && e.set(t, n)
         },
-        toggleNightStatic: Z(`hasNightStatic`, `advanced`),
-        toggleHiddenTownSquareCams: Z(`hasHiddenTownSquareCams`, `advanced`),
-        toggleHiddenPrivateCams: Z(`hasHiddenPrivateCams`, `advanced`),
-        toggleHiddenRevealCams: Z(`hasHiddenRevealCams`, `advanced`),
-        togglePublicTownSquare: Z(`hasPublicTownSquare`, `advanced`),
-        toggleCustomCSS: Z(`customCSSEnabled`, `advanced`),
-        setChromaKey: WF(`chromaKey`, `advanced`),
-        setCustomCSS: WF(`customCSS`, `advanced`)
+        toggleNightStatic: Q(`hasNightStatic`, `advanced`),
+        toggleHiddenTownSquareCams: Q(`hasHiddenTownSquareCams`, `advanced`),
+        toggleHiddenPrivateCams: Q(`hasHiddenPrivateCams`, `advanced`),
+        toggleHiddenRevealCams: Q(`hasHiddenRevealCams`, `advanced`),
+        togglePublicTownSquare: Q(`hasPublicTownSquare`, `advanced`),
+        toggleCustomCSS: Q(`customCSSEnabled`, `advanced`),
+        setChromaKey: Z(`chromaKey`, `advanced`),
+        setCustomCSS: Z(`customCSS`, `advanced`)
     }
 }
-  , Q = (e, t) => (n, r) => {
+  , $ = (e, t) => (n, r) => {
     t ? n[t][e] = r : n[e] = r
 }
-  , KF = e => (e == null ? void 0 : e.toLocaleLowerCase().replace(/[^a-z0-9]/g, ``)) || ``
-  , qF = {
+  , JF = e => (e == null ? void 0 : e.toLocaleLowerCase().replace(/[^a-z0-9]/g, ``)) || ``
+  , YF = {
     townsfolk: `townsfolk`,
     outsider: `outsider`,
     minion: `minion`,
@@ -25564,11 +25720,11 @@ var AF = null
     loric: `loric`,
     traveller: `traveller`
 }
-  , JF = [`townsfolk`, `outsider`, `minion`, `demon`, `traveller`]
-  , YF = [`fabled`, `loric`]
-  , XF = [`townsfolk`, `outsider`]
-  , ZF = [`minion`, `demon`]
-  , QF = {
+  , XF = [`townsfolk`, `outsider`, `minion`, `demon`, `traveller`]
+  , ZF = [`fabled`, `loric`]
+  , QF = [`townsfolk`, `outsider`]
+  , $F = [`minion`, `demon`]
+  , eI = {
     id: ``,
     name: ``,
     image: ``,
@@ -25587,21 +25743,21 @@ var AF = null
     jinxes: [],
     isCustom: !0
 }
-  , $ = new x.Store({
+  , tI = new x.Store({
     modules: {
-        chat: gF,
-        game: _F,
-        players: xF,
-        session: DF,
-        user: LF,
-        vote: HF,
-        settings: GF
+        chat: yF,
+        game: bF,
+        players: wF,
+        session: AF,
+        user: BF,
+        vote: GF,
+        settings: qF
     },
     state: {
         definitions: {
-            CUSTOM_ROLE: QF,
-            PLAYER_TEAMS: JF,
-            NPC_TEAMS: YF
+            CUSTOM_ROLE: eI,
+            PLAYER_TEAMS: XF,
+            NPC_TEAMS: ZF
         },
         grimoire: {
             isTownSquare: !1,
@@ -25632,20 +25788,20 @@ var AF = null
         },
         rolesSelected: [],
         npcs: new Map,
-        keybindings: Object.fromEntries(Object.entries(Lv).map( ([e,t]) => [e, [...t]])),
+        keybindings: Object.fromEntries(Object.entries(Rv).map( ([e,t]) => [e, [...t]])),
         worldcup: {},
         worldcupVotes: new Map
     },
     getters: {
         editionExport({roles: e, grimoire: t, edition: n}, r, {players: i}) {
-            let a = Object.keys(QF)
+            let a = Object.keys(eI)
               , o = !n.isOfficial
               , s = e => {
                 if (e.isCustom) {
                     let t = {};
                     for (let n in e) {
                         let r = e[n];
-                        n !== `isCustom` && a.includes(n) && JSON.stringify(r) !== JSON.stringify(QF[n]) && (t[n] = r)
+                        n !== `isCustom` && a.includes(n) && JSON.stringify(r) !== JSON.stringify(eI[n]) && (t[n] = r)
                     }
                     return t
                 } else
@@ -25672,444 +25828,444 @@ var AF = null
             var s;
             if ([`custom`, `good`, `evil`, `townsfolk`, `outsider`, `minion`, `demon`, `traveller`, `fabled`, `loric`].includes(r))
                 return new URL(Object.assign({
-                    "/src/assets/icons/generic/custom.webp": _a,
-                    "/src/assets/icons/generic/custom_e.webp": va,
-                    "/src/assets/icons/generic/custom_g.webp": ya,
-                    "/src/assets/icons/generic/demon.webp": ba,
-                    "/src/assets/icons/generic/demon_e.webp": xa,
-                    "/src/assets/icons/generic/demon_g.webp": Sa,
-                    "/src/assets/icons/generic/evil.webp": Ca,
-                    "/src/assets/icons/generic/fabled.webp": wa,
-                    "/src/assets/icons/generic/good.webp": Ta,
-                    "/src/assets/icons/generic/loric.webp": Ea,
-                    "/src/assets/icons/generic/minion.webp": Da,
-                    "/src/assets/icons/generic/minion_e.webp": Oa,
-                    "/src/assets/icons/generic/minion_g.webp": ka,
-                    "/src/assets/icons/generic/outsider.webp": Aa,
-                    "/src/assets/icons/generic/outsider_e.webp": ja,
-                    "/src/assets/icons/generic/outsider_g.webp": Ma,
-                    "/src/assets/icons/generic/townsfolk.webp": Na,
-                    "/src/assets/icons/generic/townsfolk_e.webp": Pa,
-                    "/src/assets/icons/generic/townsfolk_g.webp": Fa,
-                    "/src/assets/icons/generic/traveller.webp": Ia,
-                    "/src/assets/icons/generic/traveller_e.webp": La,
-                    "/src/assets/icons/generic/traveller_g.webp": Ra
+                    "/src/assets/icons/generic/custom.webp": va,
+                    "/src/assets/icons/generic/custom_e.webp": ya,
+                    "/src/assets/icons/generic/custom_g.webp": ba,
+                    "/src/assets/icons/generic/demon.webp": xa,
+                    "/src/assets/icons/generic/demon_e.webp": Sa,
+                    "/src/assets/icons/generic/demon_g.webp": Ca,
+                    "/src/assets/icons/generic/evil.webp": wa,
+                    "/src/assets/icons/generic/fabled.webp": Ta,
+                    "/src/assets/icons/generic/good.webp": Ea,
+                    "/src/assets/icons/generic/loric.webp": Da,
+                    "/src/assets/icons/generic/minion.webp": Oa,
+                    "/src/assets/icons/generic/minion_e.webp": ka,
+                    "/src/assets/icons/generic/minion_g.webp": Aa,
+                    "/src/assets/icons/generic/outsider.webp": ja,
+                    "/src/assets/icons/generic/outsider_e.webp": Ma,
+                    "/src/assets/icons/generic/outsider_g.webp": Na,
+                    "/src/assets/icons/generic/townsfolk.webp": Pa,
+                    "/src/assets/icons/generic/townsfolk_e.webp": Fa,
+                    "/src/assets/icons/generic/townsfolk_g.webp": Ia,
+                    "/src/assets/icons/generic/traveller.webp": La,
+                    "/src/assets/icons/generic/traveller_e.webp": Ra,
+                    "/src/assets/icons/generic/traveller_g.webp": za
                 })[`/src/assets/icons/generic/${r}.webp`],import.meta.url).href;
             if (r != null && r.id && Object.keys(r).length === 1 && (r = r.id),
             typeof r == `string` && (r = e.get(r) || t.get(r) || n.get(r) || i.npcs.find( ({id: e}) => e === r)),
             !r || !r.id)
                 return new URL(`/assets/custom-CLofFTEi.webp`,`` + import.meta.url).href;
             let c = ``;
-            if (XF.includes(r.team) && (c = `g`),
-            ZF.includes(r.team) && (c = `e`),
+            if (QF.includes(r.team) && (c = `g`),
+            $F.includes(r.team) && (c = `e`),
             r.image && a.general.isImageOptIn && (J == null ? void 0 : J.currentRoute.value.name) === `Grimoire`)
                 return Array.isArray(r.image) ? r.image.length < 2 ? String(r.image[0]) : r.team === `traveller` && o === `g` ? String(r.image[1]) : r.team === `traveller` && o === `e` ? String(r.image[2]) : String(o && o !== c ? r.image[1] : r.image[0]) : String(r.image);
             c && (c = `_` + c);
             let l = o ? `_` + o : c;
             if (r.isCustom || (s = n.get(r.id)) != null && s.isCustom || !t.has(r.id) && !n.has(r.id))
                 return new URL(Object.assign({
-                    "/src/assets/icons/generic/custom.webp": _a,
-                    "/src/assets/icons/generic/custom_e.webp": va,
-                    "/src/assets/icons/generic/custom_g.webp": ya,
-                    "/src/assets/icons/generic/demon.webp": ba,
-                    "/src/assets/icons/generic/demon_e.webp": xa,
-                    "/src/assets/icons/generic/demon_g.webp": Sa,
-                    "/src/assets/icons/generic/evil.webp": Ca,
-                    "/src/assets/icons/generic/fabled.webp": wa,
-                    "/src/assets/icons/generic/good.webp": Ta,
-                    "/src/assets/icons/generic/loric.webp": Ea,
-                    "/src/assets/icons/generic/minion.webp": Da,
-                    "/src/assets/icons/generic/minion_e.webp": Oa,
-                    "/src/assets/icons/generic/minion_g.webp": ka,
-                    "/src/assets/icons/generic/outsider.webp": Aa,
-                    "/src/assets/icons/generic/outsider_e.webp": ja,
-                    "/src/assets/icons/generic/outsider_g.webp": Ma,
-                    "/src/assets/icons/generic/townsfolk.webp": Na,
-                    "/src/assets/icons/generic/townsfolk_e.webp": Pa,
-                    "/src/assets/icons/generic/townsfolk_g.webp": Fa,
-                    "/src/assets/icons/generic/traveller.webp": Ia,
-                    "/src/assets/icons/generic/traveller_e.webp": La,
-                    "/src/assets/icons/generic/traveller_g.webp": Ra
-                })[`/src/assets/icons/generic/${qF[r.team] || `custom`}${l}.webp`],import.meta.url).href;
+                    "/src/assets/icons/generic/custom.webp": va,
+                    "/src/assets/icons/generic/custom_e.webp": ya,
+                    "/src/assets/icons/generic/custom_g.webp": ba,
+                    "/src/assets/icons/generic/demon.webp": xa,
+                    "/src/assets/icons/generic/demon_e.webp": Sa,
+                    "/src/assets/icons/generic/demon_g.webp": Ca,
+                    "/src/assets/icons/generic/evil.webp": wa,
+                    "/src/assets/icons/generic/fabled.webp": Ta,
+                    "/src/assets/icons/generic/good.webp": Ea,
+                    "/src/assets/icons/generic/loric.webp": Da,
+                    "/src/assets/icons/generic/minion.webp": Oa,
+                    "/src/assets/icons/generic/minion_e.webp": ka,
+                    "/src/assets/icons/generic/minion_g.webp": Aa,
+                    "/src/assets/icons/generic/outsider.webp": ja,
+                    "/src/assets/icons/generic/outsider_e.webp": Ma,
+                    "/src/assets/icons/generic/outsider_g.webp": Na,
+                    "/src/assets/icons/generic/townsfolk.webp": Pa,
+                    "/src/assets/icons/generic/townsfolk_e.webp": Fa,
+                    "/src/assets/icons/generic/townsfolk_g.webp": Ia,
+                    "/src/assets/icons/generic/traveller.webp": La,
+                    "/src/assets/icons/generic/traveller_e.webp": Ra,
+                    "/src/assets/icons/generic/traveller_g.webp": za
+                })[`/src/assets/icons/generic/${YF[r.team] || `custom`}${l}.webp`],import.meta.url).href;
             let u = r.edition || `custom`;
             return new URL(Object.assign({
-                "/src/assets/icons/bmr/apprentice.webp": za,
-                "/src/assets/icons/bmr/apprentice_e.webp": Ba,
-                "/src/assets/icons/bmr/apprentice_g.webp": Va,
-                "/src/assets/icons/bmr/assassin_e.webp": Ha,
-                "/src/assets/icons/bmr/assassin_g.webp": Ua,
-                "/src/assets/icons/bmr/bishop.webp": Wa,
-                "/src/assets/icons/bmr/bishop_e.webp": Ga,
-                "/src/assets/icons/bmr/bishop_g.webp": Ka,
-                "/src/assets/icons/bmr/chambermaid_e.webp": qa,
-                "/src/assets/icons/bmr/chambermaid_g.webp": Ja,
-                "/src/assets/icons/bmr/courtier_e.webp": Ya,
-                "/src/assets/icons/bmr/courtier_g.webp": Xa,
-                "/src/assets/icons/bmr/devilsadvocate_e.webp": Za,
-                "/src/assets/icons/bmr/devilsadvocate_g.webp": Qa,
-                "/src/assets/icons/bmr/exorcist_e.webp": $a,
-                "/src/assets/icons/bmr/exorcist_g.webp": eo,
-                "/src/assets/icons/bmr/fool_e.webp": to,
-                "/src/assets/icons/bmr/fool_g.webp": no,
-                "/src/assets/icons/bmr/gambler_e.webp": ro,
-                "/src/assets/icons/bmr/gambler_g.webp": io,
-                "/src/assets/icons/bmr/godfather_e.webp": ao,
-                "/src/assets/icons/bmr/godfather_g.webp": oo,
-                "/src/assets/icons/bmr/goon_e.webp": so,
-                "/src/assets/icons/bmr/goon_g.webp": co,
-                "/src/assets/icons/bmr/gossip_e.webp": lo,
-                "/src/assets/icons/bmr/gossip_g.webp": uo,
-                "/src/assets/icons/bmr/grandmother_e.webp": fo,
-                "/src/assets/icons/bmr/grandmother_g.webp": po,
-                "/src/assets/icons/bmr/innkeeper_e.webp": mo,
-                "/src/assets/icons/bmr/innkeeper_g.webp": ho,
-                "/src/assets/icons/bmr/judge.webp": go,
-                "/src/assets/icons/bmr/judge_e.webp": _o,
-                "/src/assets/icons/bmr/judge_g.webp": vo,
-                "/src/assets/icons/bmr/lunatic_e.webp": yo,
-                "/src/assets/icons/bmr/lunatic_g.webp": bo,
-                "/src/assets/icons/bmr/mastermind_e.webp": xo,
-                "/src/assets/icons/bmr/mastermind_g.webp": So,
-                "/src/assets/icons/bmr/matron.webp": Co,
-                "/src/assets/icons/bmr/matron_e.webp": wo,
-                "/src/assets/icons/bmr/matron_g.webp": To,
-                "/src/assets/icons/bmr/minstrel_e.webp": Eo,
-                "/src/assets/icons/bmr/minstrel_g.webp": Do,
-                "/src/assets/icons/bmr/moonchild_e.webp": Oo,
-                "/src/assets/icons/bmr/moonchild_g.webp": ko,
-                "/src/assets/icons/bmr/pacifist_e.webp": Ao,
-                "/src/assets/icons/bmr/pacifist_g.webp": jo,
-                "/src/assets/icons/bmr/po_e.webp": Mo,
-                "/src/assets/icons/bmr/po_g.webp": No,
-                "/src/assets/icons/bmr/professor_e.webp": Po,
-                "/src/assets/icons/bmr/professor_g.webp": Fo,
-                "/src/assets/icons/bmr/pukka_e.webp": Io,
-                "/src/assets/icons/bmr/pukka_g.webp": Lo,
-                "/src/assets/icons/bmr/sailor_e.webp": Ro,
-                "/src/assets/icons/bmr/sailor_g.webp": zo,
-                "/src/assets/icons/bmr/shabaloth_e.webp": Bo,
-                "/src/assets/icons/bmr/shabaloth_g.webp": Vo,
-                "/src/assets/icons/bmr/tealady_e.webp": Ho,
-                "/src/assets/icons/bmr/tealady_g.webp": Uo,
-                "/src/assets/icons/bmr/tinker_e.webp": Wo,
-                "/src/assets/icons/bmr/tinker_g.webp": Go,
-                "/src/assets/icons/bmr/voudon.webp": Ko,
-                "/src/assets/icons/bmr/voudon_e.webp": qo,
-                "/src/assets/icons/bmr/voudon_g.webp": Jo,
-                "/src/assets/icons/bmr/zombuul_e.webp": Yo,
-                "/src/assets/icons/bmr/zombuul_g.webp": Xo,
-                "/src/assets/icons/carousel/acrobat_e.webp": Zo,
-                "/src/assets/icons/carousel/acrobat_g.webp": Qo,
-                "/src/assets/icons/carousel/alchemist_e.webp": $o,
-                "/src/assets/icons/carousel/alchemist_g.webp": es,
-                "/src/assets/icons/carousel/alhadikhia_e.webp": ts,
-                "/src/assets/icons/carousel/alhadikhia_g.webp": ns,
-                "/src/assets/icons/carousel/alsaahir_e.webp": rs,
-                "/src/assets/icons/carousel/alsaahir_g.webp": is,
-                "/src/assets/icons/carousel/amnesiac_e.webp": as,
-                "/src/assets/icons/carousel/amnesiac_g.webp": os,
-                "/src/assets/icons/carousel/atheist_e.webp": ss,
-                "/src/assets/icons/carousel/atheist_g.webp": cs,
-                "/src/assets/icons/carousel/balloonist_e.webp": ls,
-                "/src/assets/icons/carousel/balloonist_g.webp": us,
-                "/src/assets/icons/carousel/banshee_e.webp": ds,
-                "/src/assets/icons/carousel/banshee_g.webp": fs,
-                "/src/assets/icons/carousel/boffin_e.webp": ps,
-                "/src/assets/icons/carousel/boffin_g.webp": ms,
-                "/src/assets/icons/carousel/boomdandy_e.webp": hs,
-                "/src/assets/icons/carousel/boomdandy_g.webp": gs,
-                "/src/assets/icons/carousel/bountyhunter_e.webp": _s,
-                "/src/assets/icons/carousel/bountyhunter_g.webp": vs,
-                "/src/assets/icons/carousel/cacklejack.webp": ys,
-                "/src/assets/icons/carousel/cacklejack_e.webp": bs,
-                "/src/assets/icons/carousel/cacklejack_g.webp": xs,
-                "/src/assets/icons/carousel/cannibal_e.webp": Ss,
-                "/src/assets/icons/carousel/cannibal_g.webp": Cs,
-                "/src/assets/icons/carousel/choirboy_e.webp": ws,
-                "/src/assets/icons/carousel/choirboy_g.webp": Ts,
-                "/src/assets/icons/carousel/cultleader_e.webp": Es,
-                "/src/assets/icons/carousel/cultleader_g.webp": Ds,
-                "/src/assets/icons/carousel/damsel_e.webp": Os,
-                "/src/assets/icons/carousel/damsel_g.webp": ks,
-                "/src/assets/icons/carousel/deusexfiasco.webp": As,
-                "/src/assets/icons/carousel/engineer_e.webp": js,
-                "/src/assets/icons/carousel/engineer_g.webp": Ms,
-                "/src/assets/icons/carousel/farmer_e.webp": Ns,
-                "/src/assets/icons/carousel/farmer_g.webp": Ps,
-                "/src/assets/icons/carousel/fearmonger_e.webp": Fs,
-                "/src/assets/icons/carousel/fearmonger_g.webp": Is,
-                "/src/assets/icons/carousel/ferryman.webp": Ls,
-                "/src/assets/icons/carousel/fisherman_e.webp": Rs,
-                "/src/assets/icons/carousel/fisherman_g.webp": zs,
-                "/src/assets/icons/carousel/gangster.webp": Bs,
-                "/src/assets/icons/carousel/gangster_e.webp": Vs,
-                "/src/assets/icons/carousel/gangster_g.webp": Hs,
-                "/src/assets/icons/carousel/general_e.webp": Us,
-                "/src/assets/icons/carousel/general_g.webp": Ws,
-                "/src/assets/icons/carousel/gnome.webp": Gs,
-                "/src/assets/icons/carousel/gnome_e.webp": Ks,
-                "/src/assets/icons/carousel/gnome_g.webp": qs,
-                "/src/assets/icons/carousel/goblin_e.webp": Js,
-                "/src/assets/icons/carousel/goblin_g.webp": Ys,
-                "/src/assets/icons/carousel/golem_e.webp": Xs,
-                "/src/assets/icons/carousel/golem_g.webp": Zs,
-                "/src/assets/icons/carousel/harpy_e.webp": Qs,
-                "/src/assets/icons/carousel/harpy_g.webp": $s,
-                "/src/assets/icons/carousel/hatter_e.webp": ec,
-                "/src/assets/icons/carousel/hatter_g.webp": tc,
-                "/src/assets/icons/carousel/heretic_e.webp": nc,
-                "/src/assets/icons/carousel/heretic_g.webp": rc,
-                "/src/assets/icons/carousel/hermit_e.webp": ic,
-                "/src/assets/icons/carousel/hermit_g.webp": ac,
-                "/src/assets/icons/carousel/highpriestess_e.webp": oc,
-                "/src/assets/icons/carousel/highpriestess_g.webp": sc,
-                "/src/assets/icons/carousel/huntsman_e.webp": cc,
-                "/src/assets/icons/carousel/huntsman_g.webp": lc,
-                "/src/assets/icons/carousel/kazali_e.webp": uc,
-                "/src/assets/icons/carousel/kazali_g.webp": dc,
-                "/src/assets/icons/carousel/king_e.webp": fc,
-                "/src/assets/icons/carousel/king_g.webp": pc,
-                "/src/assets/icons/carousel/knight_e.webp": mc,
-                "/src/assets/icons/carousel/knight_g.webp": hc,
-                "/src/assets/icons/carousel/legion_e.webp": gc,
-                "/src/assets/icons/carousel/legion_g.webp": _c,
-                "/src/assets/icons/carousel/leviathan_e.webp": vc,
-                "/src/assets/icons/carousel/leviathan_g.webp": yc,
-                "/src/assets/icons/carousel/lilmonsta_e.webp": bc,
-                "/src/assets/icons/carousel/lilmonsta_g.webp": xc,
-                "/src/assets/icons/carousel/lleech_e.webp": Sc,
-                "/src/assets/icons/carousel/lleech_g.webp": Cc,
-                "/src/assets/icons/carousel/lordoftyphon_e.webp": wc,
-                "/src/assets/icons/carousel/lordoftyphon_g.webp": Tc,
-                "/src/assets/icons/carousel/lycanthrope_e.webp": Ec,
-                "/src/assets/icons/carousel/lycanthrope_g.webp": Dc,
-                "/src/assets/icons/carousel/magician_e.webp": Oc,
-                "/src/assets/icons/carousel/magician_g.webp": kc,
-                "/src/assets/icons/carousel/marionette_e.webp": Ac,
-                "/src/assets/icons/carousel/marionette_g.webp": jc,
-                "/src/assets/icons/carousel/mezepheles_e.webp": Mc,
-                "/src/assets/icons/carousel/mezepheles_g.webp": Nc,
-                "/src/assets/icons/carousel/nightwatchman_e.webp": Pc,
-                "/src/assets/icons/carousel/nightwatchman_g.webp": Fc,
-                "/src/assets/icons/carousel/noble_e.webp": Ic,
-                "/src/assets/icons/carousel/noble_g.webp": Lc,
-                "/src/assets/icons/carousel/ogre_e.webp": Rc,
-                "/src/assets/icons/carousel/ogre_g.webp": zc,
-                "/src/assets/icons/carousel/ojo_e.webp": Bc,
-                "/src/assets/icons/carousel/ojo_g.webp": Vc,
-                "/src/assets/icons/carousel/organgrinder_e.webp": Hc,
-                "/src/assets/icons/carousel/organgrinder_g.webp": Uc,
-                "/src/assets/icons/carousel/pixie_e.webp": Wc,
-                "/src/assets/icons/carousel/pixie_g.webp": Gc,
-                "/src/assets/icons/carousel/plaguedoctor_e.webp": Kc,
-                "/src/assets/icons/carousel/plaguedoctor_g.webp": qc,
-                "/src/assets/icons/carousel/politician_e.webp": Jc,
-                "/src/assets/icons/carousel/politician_g.webp": Yc,
-                "/src/assets/icons/carousel/poppygrower_e.webp": Xc,
-                "/src/assets/icons/carousel/poppygrower_g.webp": Zc,
-                "/src/assets/icons/carousel/preacher_e.webp": Qc,
-                "/src/assets/icons/carousel/preacher_g.webp": $c,
-                "/src/assets/icons/carousel/princess_e.webp": el,
-                "/src/assets/icons/carousel/princess_g.webp": tl,
-                "/src/assets/icons/carousel/psychopath_e.webp": nl,
-                "/src/assets/icons/carousel/psychopath_g.webp": rl,
-                "/src/assets/icons/carousel/puzzlemaster_e.webp": il,
-                "/src/assets/icons/carousel/puzzlemaster_g.webp": al,
-                "/src/assets/icons/carousel/riot_e.webp": ol,
-                "/src/assets/icons/carousel/riot_g.webp": sl,
-                "/src/assets/icons/carousel/shugenja_e.webp": cl,
-                "/src/assets/icons/carousel/shugenja_g.webp": ll,
-                "/src/assets/icons/carousel/snitch_e.webp": ul,
-                "/src/assets/icons/carousel/snitch_g.webp": dl,
-                "/src/assets/icons/carousel/steward_e.webp": fl,
-                "/src/assets/icons/carousel/steward_g.webp": pl,
-                "/src/assets/icons/carousel/summoner_e.webp": ml,
-                "/src/assets/icons/carousel/summoner_g.webp": hl,
-                "/src/assets/icons/carousel/villageidiot_e.webp": gl,
-                "/src/assets/icons/carousel/villageidiot_g.webp": _l,
-                "/src/assets/icons/carousel/vizier_e.webp": vl,
-                "/src/assets/icons/carousel/vizier_g.webp": yl,
-                "/src/assets/icons/carousel/widow_e.webp": bl,
-                "/src/assets/icons/carousel/widow_g.webp": xl,
-                "/src/assets/icons/carousel/wizard_e.webp": Sl,
-                "/src/assets/icons/carousel/wizard_g.webp": Cl,
-                "/src/assets/icons/carousel/wraith_e.webp": wl,
-                "/src/assets/icons/carousel/wraith_g.webp": Tl,
-                "/src/assets/icons/carousel/xaan_e.webp": El,
-                "/src/assets/icons/carousel/xaan_g.webp": Dl,
-                "/src/assets/icons/carousel/yaggababble_e.webp": Ol,
-                "/src/assets/icons/carousel/yaggababble_g.webp": kl,
-                "/src/assets/icons/carousel/zealot_e.webp": Al,
-                "/src/assets/icons/carousel/zealot_g.webp": jl,
-                "/src/assets/icons/fabled/angel.webp": Ml,
-                "/src/assets/icons/fabled/buddhist.webp": Nl,
-                "/src/assets/icons/fabled/djinn.webp": Pl,
-                "/src/assets/icons/fabled/doomsayer.webp": Fl,
-                "/src/assets/icons/fabled/duchess.webp": Il,
-                "/src/assets/icons/fabled/fibbin.webp": Ll,
-                "/src/assets/icons/fabled/fiddler.webp": Rl,
-                "/src/assets/icons/fabled/hellslibrarian.webp": zl,
-                "/src/assets/icons/fabled/revolutionary.webp": Bl,
-                "/src/assets/icons/fabled/sentinel.webp": Vl,
-                "/src/assets/icons/fabled/spiritofivory.webp": Hl,
-                "/src/assets/icons/fabled/toymaker.webp": Ul,
-                "/src/assets/icons/generic/custom.webp": _a,
-                "/src/assets/icons/generic/custom_e.webp": va,
-                "/src/assets/icons/generic/custom_g.webp": ya,
-                "/src/assets/icons/generic/demon.webp": ba,
-                "/src/assets/icons/generic/demon_e.webp": xa,
-                "/src/assets/icons/generic/demon_g.webp": Sa,
-                "/src/assets/icons/generic/evil.webp": Ca,
-                "/src/assets/icons/generic/fabled.webp": wa,
-                "/src/assets/icons/generic/good.webp": Ta,
-                "/src/assets/icons/generic/loric.webp": Ea,
-                "/src/assets/icons/generic/minion.webp": Da,
-                "/src/assets/icons/generic/minion_e.webp": Oa,
-                "/src/assets/icons/generic/minion_g.webp": ka,
-                "/src/assets/icons/generic/outsider.webp": Aa,
-                "/src/assets/icons/generic/outsider_e.webp": ja,
-                "/src/assets/icons/generic/outsider_g.webp": Ma,
-                "/src/assets/icons/generic/townsfolk.webp": Na,
-                "/src/assets/icons/generic/townsfolk_e.webp": Pa,
-                "/src/assets/icons/generic/townsfolk_g.webp": Fa,
-                "/src/assets/icons/generic/traveller.webp": Ia,
-                "/src/assets/icons/generic/traveller_e.webp": La,
-                "/src/assets/icons/generic/traveller_g.webp": Ra,
-                "/src/assets/icons/loric/bigwig.webp": Wl,
-                "/src/assets/icons/loric/bootlegger.webp": Gl,
-                "/src/assets/icons/loric/gardener.webp": Kl,
-                "/src/assets/icons/loric/godofug.webp": ql,
-                "/src/assets/icons/loric/hindu.webp": Jl,
-                "/src/assets/icons/loric/knaves.webp": Yl,
-                "/src/assets/icons/loric/pope.webp": Xl,
-                "/src/assets/icons/loric/stormcatcher.webp": Zl,
-                "/src/assets/icons/loric/tor.webp": Ql,
-                "/src/assets/icons/loric/ventriloquist.webp": $l,
-                "/src/assets/icons/loric/zenomancer.webp": eu,
-                "/src/assets/icons/snv/artist_e.webp": tu,
-                "/src/assets/icons/snv/artist_g.webp": nu,
-                "/src/assets/icons/snv/barber_e.webp": ru,
-                "/src/assets/icons/snv/barber_g.webp": iu,
-                "/src/assets/icons/snv/barista.webp": au,
-                "/src/assets/icons/snv/barista_e.webp": ou,
-                "/src/assets/icons/snv/barista_g.webp": su,
-                "/src/assets/icons/snv/bonecollector.webp": cu,
-                "/src/assets/icons/snv/bonecollector_e.webp": lu,
-                "/src/assets/icons/snv/bonecollector_g.webp": uu,
-                "/src/assets/icons/snv/butcher.webp": du,
-                "/src/assets/icons/snv/butcher_e.webp": fu,
-                "/src/assets/icons/snv/butcher_g.webp": pu,
-                "/src/assets/icons/snv/cerenovus_e.webp": mu,
-                "/src/assets/icons/snv/cerenovus_g.webp": hu,
-                "/src/assets/icons/snv/clockmaker_e.webp": gu,
-                "/src/assets/icons/snv/clockmaker_g.webp": _u,
-                "/src/assets/icons/snv/deviant.webp": vu,
-                "/src/assets/icons/snv/deviant_e.webp": yu,
-                "/src/assets/icons/snv/deviant_g.webp": bu,
-                "/src/assets/icons/snv/dreamer_e.webp": xu,
-                "/src/assets/icons/snv/dreamer_g.webp": Su,
-                "/src/assets/icons/snv/eviltwin_e.webp": Cu,
-                "/src/assets/icons/snv/eviltwin_g.webp": wu,
-                "/src/assets/icons/snv/fanggu_e.webp": Tu,
-                "/src/assets/icons/snv/fanggu_g.webp": Eu,
-                "/src/assets/icons/snv/flowergirl_e.webp": Du,
-                "/src/assets/icons/snv/flowergirl_g.webp": Ou,
-                "/src/assets/icons/snv/harlot.webp": ku,
-                "/src/assets/icons/snv/harlot_e.webp": Au,
-                "/src/assets/icons/snv/harlot_g.webp": ju,
-                "/src/assets/icons/snv/juggler_e.webp": Mu,
-                "/src/assets/icons/snv/juggler_g.webp": Nu,
-                "/src/assets/icons/snv/klutz_e.webp": Pu,
-                "/src/assets/icons/snv/klutz_g.webp": Fu,
-                "/src/assets/icons/snv/mathematician_e.webp": Iu,
-                "/src/assets/icons/snv/mathematician_g.webp": Lu,
-                "/src/assets/icons/snv/mutant_e.webp": Ru,
-                "/src/assets/icons/snv/mutant_g.webp": zu,
-                "/src/assets/icons/snv/nodashii_e.webp": Bu,
-                "/src/assets/icons/snv/nodashii_g.webp": Vu,
-                "/src/assets/icons/snv/oracle_e.webp": Hu,
-                "/src/assets/icons/snv/oracle_g.webp": Uu,
-                "/src/assets/icons/snv/philosopher_e.webp": Wu,
-                "/src/assets/icons/snv/philosopher_g.webp": Gu,
-                "/src/assets/icons/snv/pithag_e.webp": Ku,
-                "/src/assets/icons/snv/pithag_g.webp": qu,
-                "/src/assets/icons/snv/sage_e.webp": Ju,
-                "/src/assets/icons/snv/sage_g.webp": Yu,
-                "/src/assets/icons/snv/savant_e.webp": Xu,
-                "/src/assets/icons/snv/savant_g.webp": Zu,
-                "/src/assets/icons/snv/seamstress_e.webp": Qu,
-                "/src/assets/icons/snv/seamstress_g.webp": $u,
-                "/src/assets/icons/snv/snakecharmer_e.webp": ed,
-                "/src/assets/icons/snv/snakecharmer_g.webp": td,
-                "/src/assets/icons/snv/sweetheart_e.webp": nd,
-                "/src/assets/icons/snv/sweetheart_g.webp": rd,
-                "/src/assets/icons/snv/towncrier_e.webp": id,
-                "/src/assets/icons/snv/towncrier_g.webp": ad,
-                "/src/assets/icons/snv/vigormortis_e.webp": od,
-                "/src/assets/icons/snv/vigormortis_g.webp": sd,
-                "/src/assets/icons/snv/vortox_e.webp": cd,
-                "/src/assets/icons/snv/vortox_g.webp": ld,
-                "/src/assets/icons/snv/witch_e.webp": ud,
-                "/src/assets/icons/snv/witch_g.webp": dd,
-                "/src/assets/icons/tb/baron_e.webp": fd,
-                "/src/assets/icons/tb/baron_g.webp": pd,
-                "/src/assets/icons/tb/beggar.webp": md,
-                "/src/assets/icons/tb/beggar_e.webp": hd,
-                "/src/assets/icons/tb/beggar_g.webp": gd,
-                "/src/assets/icons/tb/bureaucrat.webp": _d,
-                "/src/assets/icons/tb/bureaucrat_e.webp": vd,
-                "/src/assets/icons/tb/bureaucrat_g.webp": yd,
-                "/src/assets/icons/tb/butler_e.webp": bd,
-                "/src/assets/icons/tb/butler_g.webp": xd,
-                "/src/assets/icons/tb/chef_e.webp": Sd,
-                "/src/assets/icons/tb/chef_g.webp": Cd,
-                "/src/assets/icons/tb/drunk_e.webp": wd,
-                "/src/assets/icons/tb/drunk_g.webp": Td,
-                "/src/assets/icons/tb/empath_e.webp": Ed,
-                "/src/assets/icons/tb/empath_g.webp": Dd,
-                "/src/assets/icons/tb/fortuneteller_e.webp": Od,
-                "/src/assets/icons/tb/fortuneteller_g.webp": kd,
-                "/src/assets/icons/tb/gunslinger.webp": Ad,
-                "/src/assets/icons/tb/gunslinger_e.webp": jd,
-                "/src/assets/icons/tb/gunslinger_g.webp": Md,
-                "/src/assets/icons/tb/imp_e.webp": Nd,
-                "/src/assets/icons/tb/imp_g.webp": Pd,
-                "/src/assets/icons/tb/investigator_e.webp": Fd,
-                "/src/assets/icons/tb/investigator_g.webp": Id,
-                "/src/assets/icons/tb/librarian_e.webp": Ld,
-                "/src/assets/icons/tb/librarian_g.webp": Rd,
-                "/src/assets/icons/tb/mayor_e.webp": zd,
-                "/src/assets/icons/tb/mayor_g.webp": Bd,
-                "/src/assets/icons/tb/monk_e.webp": Vd,
-                "/src/assets/icons/tb/monk_g.webp": Hd,
-                "/src/assets/icons/tb/poisoner_e.webp": Ud,
-                "/src/assets/icons/tb/poisoner_g.webp": Wd,
-                "/src/assets/icons/tb/ravenkeeper_e.webp": Gd,
-                "/src/assets/icons/tb/ravenkeeper_g.webp": Kd,
-                "/src/assets/icons/tb/recluse_e.webp": qd,
-                "/src/assets/icons/tb/recluse_g.webp": Jd,
-                "/src/assets/icons/tb/saint_e.webp": Yd,
-                "/src/assets/icons/tb/saint_g.webp": Xd,
-                "/src/assets/icons/tb/scapegoat.webp": Zd,
-                "/src/assets/icons/tb/scapegoat_e.webp": Qd,
-                "/src/assets/icons/tb/scapegoat_g.webp": $d,
-                "/src/assets/icons/tb/scarletwoman_e.webp": ef,
-                "/src/assets/icons/tb/scarletwoman_g.webp": tf,
-                "/src/assets/icons/tb/slayer_e.webp": nf,
-                "/src/assets/icons/tb/slayer_g.webp": rf,
-                "/src/assets/icons/tb/soldier_e.webp": af,
-                "/src/assets/icons/tb/soldier_g.webp": of,
-                "/src/assets/icons/tb/spy_e.webp": sf,
-                "/src/assets/icons/tb/spy_g.webp": cf,
-                "/src/assets/icons/tb/thief.webp": lf,
-                "/src/assets/icons/tb/thief_e.webp": uf,
-                "/src/assets/icons/tb/thief_g.webp": df,
-                "/src/assets/icons/tb/undertaker_e.webp": ff,
-                "/src/assets/icons/tb/undertaker_g.webp": pf,
-                "/src/assets/icons/tb/virgin_e.webp": mf,
-                "/src/assets/icons/tb/virgin_g.webp": hf,
-                "/src/assets/icons/tb/washerwoman_e.webp": gf,
-                "/src/assets/icons/tb/washerwoman_g.webp": _f
+                "/src/assets/icons/bmr/apprentice.webp": Ba,
+                "/src/assets/icons/bmr/apprentice_e.webp": Va,
+                "/src/assets/icons/bmr/apprentice_g.webp": Ha,
+                "/src/assets/icons/bmr/assassin_e.webp": Ua,
+                "/src/assets/icons/bmr/assassin_g.webp": Wa,
+                "/src/assets/icons/bmr/bishop.webp": Ga,
+                "/src/assets/icons/bmr/bishop_e.webp": Ka,
+                "/src/assets/icons/bmr/bishop_g.webp": qa,
+                "/src/assets/icons/bmr/chambermaid_e.webp": Ja,
+                "/src/assets/icons/bmr/chambermaid_g.webp": Ya,
+                "/src/assets/icons/bmr/courtier_e.webp": Xa,
+                "/src/assets/icons/bmr/courtier_g.webp": Za,
+                "/src/assets/icons/bmr/devilsadvocate_e.webp": Qa,
+                "/src/assets/icons/bmr/devilsadvocate_g.webp": $a,
+                "/src/assets/icons/bmr/exorcist_e.webp": eo,
+                "/src/assets/icons/bmr/exorcist_g.webp": to,
+                "/src/assets/icons/bmr/fool_e.webp": no,
+                "/src/assets/icons/bmr/fool_g.webp": ro,
+                "/src/assets/icons/bmr/gambler_e.webp": io,
+                "/src/assets/icons/bmr/gambler_g.webp": ao,
+                "/src/assets/icons/bmr/godfather_e.webp": oo,
+                "/src/assets/icons/bmr/godfather_g.webp": so,
+                "/src/assets/icons/bmr/goon_e.webp": co,
+                "/src/assets/icons/bmr/goon_g.webp": lo,
+                "/src/assets/icons/bmr/gossip_e.webp": uo,
+                "/src/assets/icons/bmr/gossip_g.webp": fo,
+                "/src/assets/icons/bmr/grandmother_e.webp": po,
+                "/src/assets/icons/bmr/grandmother_g.webp": mo,
+                "/src/assets/icons/bmr/innkeeper_e.webp": ho,
+                "/src/assets/icons/bmr/innkeeper_g.webp": go,
+                "/src/assets/icons/bmr/judge.webp": _o,
+                "/src/assets/icons/bmr/judge_e.webp": vo,
+                "/src/assets/icons/bmr/judge_g.webp": yo,
+                "/src/assets/icons/bmr/lunatic_e.webp": bo,
+                "/src/assets/icons/bmr/lunatic_g.webp": xo,
+                "/src/assets/icons/bmr/mastermind_e.webp": So,
+                "/src/assets/icons/bmr/mastermind_g.webp": Co,
+                "/src/assets/icons/bmr/matron.webp": wo,
+                "/src/assets/icons/bmr/matron_e.webp": To,
+                "/src/assets/icons/bmr/matron_g.webp": Eo,
+                "/src/assets/icons/bmr/minstrel_e.webp": Do,
+                "/src/assets/icons/bmr/minstrel_g.webp": Oo,
+                "/src/assets/icons/bmr/moonchild_e.webp": ko,
+                "/src/assets/icons/bmr/moonchild_g.webp": Ao,
+                "/src/assets/icons/bmr/pacifist_e.webp": jo,
+                "/src/assets/icons/bmr/pacifist_g.webp": Mo,
+                "/src/assets/icons/bmr/po_e.webp": No,
+                "/src/assets/icons/bmr/po_g.webp": Po,
+                "/src/assets/icons/bmr/professor_e.webp": Fo,
+                "/src/assets/icons/bmr/professor_g.webp": Io,
+                "/src/assets/icons/bmr/pukka_e.webp": Lo,
+                "/src/assets/icons/bmr/pukka_g.webp": Ro,
+                "/src/assets/icons/bmr/sailor_e.webp": zo,
+                "/src/assets/icons/bmr/sailor_g.webp": Bo,
+                "/src/assets/icons/bmr/shabaloth_e.webp": Vo,
+                "/src/assets/icons/bmr/shabaloth_g.webp": Ho,
+                "/src/assets/icons/bmr/tealady_e.webp": Uo,
+                "/src/assets/icons/bmr/tealady_g.webp": Wo,
+                "/src/assets/icons/bmr/tinker_e.webp": Go,
+                "/src/assets/icons/bmr/tinker_g.webp": Ko,
+                "/src/assets/icons/bmr/voudon.webp": qo,
+                "/src/assets/icons/bmr/voudon_e.webp": Jo,
+                "/src/assets/icons/bmr/voudon_g.webp": Yo,
+                "/src/assets/icons/bmr/zombuul_e.webp": Xo,
+                "/src/assets/icons/bmr/zombuul_g.webp": Zo,
+                "/src/assets/icons/carousel/acrobat_e.webp": Qo,
+                "/src/assets/icons/carousel/acrobat_g.webp": $o,
+                "/src/assets/icons/carousel/alchemist_e.webp": es,
+                "/src/assets/icons/carousel/alchemist_g.webp": ts,
+                "/src/assets/icons/carousel/alhadikhia_e.webp": ns,
+                "/src/assets/icons/carousel/alhadikhia_g.webp": rs,
+                "/src/assets/icons/carousel/alsaahir_e.webp": is,
+                "/src/assets/icons/carousel/alsaahir_g.webp": as,
+                "/src/assets/icons/carousel/amnesiac_e.webp": os,
+                "/src/assets/icons/carousel/amnesiac_g.webp": ss,
+                "/src/assets/icons/carousel/atheist_e.webp": cs,
+                "/src/assets/icons/carousel/atheist_g.webp": ls,
+                "/src/assets/icons/carousel/balloonist_e.webp": us,
+                "/src/assets/icons/carousel/balloonist_g.webp": ds,
+                "/src/assets/icons/carousel/banshee_e.webp": fs,
+                "/src/assets/icons/carousel/banshee_g.webp": ps,
+                "/src/assets/icons/carousel/boffin_e.webp": ms,
+                "/src/assets/icons/carousel/boffin_g.webp": hs,
+                "/src/assets/icons/carousel/boomdandy_e.webp": gs,
+                "/src/assets/icons/carousel/boomdandy_g.webp": _s,
+                "/src/assets/icons/carousel/bountyhunter_e.webp": vs,
+                "/src/assets/icons/carousel/bountyhunter_g.webp": ys,
+                "/src/assets/icons/carousel/cacklejack.webp": bs,
+                "/src/assets/icons/carousel/cacklejack_e.webp": xs,
+                "/src/assets/icons/carousel/cacklejack_g.webp": Ss,
+                "/src/assets/icons/carousel/cannibal_e.webp": Cs,
+                "/src/assets/icons/carousel/cannibal_g.webp": ws,
+                "/src/assets/icons/carousel/choirboy_e.webp": Ts,
+                "/src/assets/icons/carousel/choirboy_g.webp": Es,
+                "/src/assets/icons/carousel/cultleader_e.webp": Ds,
+                "/src/assets/icons/carousel/cultleader_g.webp": Os,
+                "/src/assets/icons/carousel/damsel_e.webp": ks,
+                "/src/assets/icons/carousel/damsel_g.webp": As,
+                "/src/assets/icons/carousel/deusexfiasco.webp": js,
+                "/src/assets/icons/carousel/engineer_e.webp": Ms,
+                "/src/assets/icons/carousel/engineer_g.webp": Ns,
+                "/src/assets/icons/carousel/farmer_e.webp": Ps,
+                "/src/assets/icons/carousel/farmer_g.webp": Fs,
+                "/src/assets/icons/carousel/fearmonger_e.webp": Is,
+                "/src/assets/icons/carousel/fearmonger_g.webp": Ls,
+                "/src/assets/icons/carousel/ferryman.webp": Rs,
+                "/src/assets/icons/carousel/fisherman_e.webp": zs,
+                "/src/assets/icons/carousel/fisherman_g.webp": Bs,
+                "/src/assets/icons/carousel/gangster.webp": Vs,
+                "/src/assets/icons/carousel/gangster_e.webp": Hs,
+                "/src/assets/icons/carousel/gangster_g.webp": Us,
+                "/src/assets/icons/carousel/general_e.webp": Ws,
+                "/src/assets/icons/carousel/general_g.webp": Gs,
+                "/src/assets/icons/carousel/gnome.webp": Ks,
+                "/src/assets/icons/carousel/gnome_e.webp": qs,
+                "/src/assets/icons/carousel/gnome_g.webp": Js,
+                "/src/assets/icons/carousel/goblin_e.webp": Ys,
+                "/src/assets/icons/carousel/goblin_g.webp": Xs,
+                "/src/assets/icons/carousel/golem_e.webp": Zs,
+                "/src/assets/icons/carousel/golem_g.webp": Qs,
+                "/src/assets/icons/carousel/harpy_e.webp": $s,
+                "/src/assets/icons/carousel/harpy_g.webp": ec,
+                "/src/assets/icons/carousel/hatter_e.webp": tc,
+                "/src/assets/icons/carousel/hatter_g.webp": nc,
+                "/src/assets/icons/carousel/heretic_e.webp": rc,
+                "/src/assets/icons/carousel/heretic_g.webp": ic,
+                "/src/assets/icons/carousel/hermit_e.webp": ac,
+                "/src/assets/icons/carousel/hermit_g.webp": oc,
+                "/src/assets/icons/carousel/highpriestess_e.webp": sc,
+                "/src/assets/icons/carousel/highpriestess_g.webp": cc,
+                "/src/assets/icons/carousel/huntsman_e.webp": lc,
+                "/src/assets/icons/carousel/huntsman_g.webp": uc,
+                "/src/assets/icons/carousel/kazali_e.webp": dc,
+                "/src/assets/icons/carousel/kazali_g.webp": fc,
+                "/src/assets/icons/carousel/king_e.webp": pc,
+                "/src/assets/icons/carousel/king_g.webp": mc,
+                "/src/assets/icons/carousel/knight_e.webp": hc,
+                "/src/assets/icons/carousel/knight_g.webp": gc,
+                "/src/assets/icons/carousel/legion_e.webp": _c,
+                "/src/assets/icons/carousel/legion_g.webp": vc,
+                "/src/assets/icons/carousel/leviathan_e.webp": yc,
+                "/src/assets/icons/carousel/leviathan_g.webp": bc,
+                "/src/assets/icons/carousel/lilmonsta_e.webp": xc,
+                "/src/assets/icons/carousel/lilmonsta_g.webp": Sc,
+                "/src/assets/icons/carousel/lleech_e.webp": Cc,
+                "/src/assets/icons/carousel/lleech_g.webp": wc,
+                "/src/assets/icons/carousel/lordoftyphon_e.webp": Tc,
+                "/src/assets/icons/carousel/lordoftyphon_g.webp": Ec,
+                "/src/assets/icons/carousel/lycanthrope_e.webp": Dc,
+                "/src/assets/icons/carousel/lycanthrope_g.webp": Oc,
+                "/src/assets/icons/carousel/magician_e.webp": kc,
+                "/src/assets/icons/carousel/magician_g.webp": Ac,
+                "/src/assets/icons/carousel/marionette_e.webp": jc,
+                "/src/assets/icons/carousel/marionette_g.webp": Mc,
+                "/src/assets/icons/carousel/mezepheles_e.webp": Nc,
+                "/src/assets/icons/carousel/mezepheles_g.webp": Pc,
+                "/src/assets/icons/carousel/nightwatchman_e.webp": Fc,
+                "/src/assets/icons/carousel/nightwatchman_g.webp": Ic,
+                "/src/assets/icons/carousel/noble_e.webp": Lc,
+                "/src/assets/icons/carousel/noble_g.webp": Rc,
+                "/src/assets/icons/carousel/ogre_e.webp": zc,
+                "/src/assets/icons/carousel/ogre_g.webp": Bc,
+                "/src/assets/icons/carousel/ojo_e.webp": Vc,
+                "/src/assets/icons/carousel/ojo_g.webp": Hc,
+                "/src/assets/icons/carousel/organgrinder_e.webp": Uc,
+                "/src/assets/icons/carousel/organgrinder_g.webp": Wc,
+                "/src/assets/icons/carousel/pixie_e.webp": Gc,
+                "/src/assets/icons/carousel/pixie_g.webp": Kc,
+                "/src/assets/icons/carousel/plaguedoctor_e.webp": qc,
+                "/src/assets/icons/carousel/plaguedoctor_g.webp": Jc,
+                "/src/assets/icons/carousel/politician_e.webp": Yc,
+                "/src/assets/icons/carousel/politician_g.webp": Xc,
+                "/src/assets/icons/carousel/poppygrower_e.webp": Zc,
+                "/src/assets/icons/carousel/poppygrower_g.webp": Qc,
+                "/src/assets/icons/carousel/preacher_e.webp": $c,
+                "/src/assets/icons/carousel/preacher_g.webp": el,
+                "/src/assets/icons/carousel/princess_e.webp": tl,
+                "/src/assets/icons/carousel/princess_g.webp": nl,
+                "/src/assets/icons/carousel/psychopath_e.webp": rl,
+                "/src/assets/icons/carousel/psychopath_g.webp": il,
+                "/src/assets/icons/carousel/puzzlemaster_e.webp": al,
+                "/src/assets/icons/carousel/puzzlemaster_g.webp": ol,
+                "/src/assets/icons/carousel/riot_e.webp": sl,
+                "/src/assets/icons/carousel/riot_g.webp": cl,
+                "/src/assets/icons/carousel/shugenja_e.webp": ll,
+                "/src/assets/icons/carousel/shugenja_g.webp": ul,
+                "/src/assets/icons/carousel/snitch_e.webp": dl,
+                "/src/assets/icons/carousel/snitch_g.webp": fl,
+                "/src/assets/icons/carousel/steward_e.webp": pl,
+                "/src/assets/icons/carousel/steward_g.webp": ml,
+                "/src/assets/icons/carousel/summoner_e.webp": hl,
+                "/src/assets/icons/carousel/summoner_g.webp": gl,
+                "/src/assets/icons/carousel/villageidiot_e.webp": _l,
+                "/src/assets/icons/carousel/villageidiot_g.webp": vl,
+                "/src/assets/icons/carousel/vizier_e.webp": yl,
+                "/src/assets/icons/carousel/vizier_g.webp": bl,
+                "/src/assets/icons/carousel/widow_e.webp": xl,
+                "/src/assets/icons/carousel/widow_g.webp": Sl,
+                "/src/assets/icons/carousel/wizard_e.webp": Cl,
+                "/src/assets/icons/carousel/wizard_g.webp": wl,
+                "/src/assets/icons/carousel/wraith_e.webp": Tl,
+                "/src/assets/icons/carousel/wraith_g.webp": El,
+                "/src/assets/icons/carousel/xaan_e.webp": Dl,
+                "/src/assets/icons/carousel/xaan_g.webp": Ol,
+                "/src/assets/icons/carousel/yaggababble_e.webp": kl,
+                "/src/assets/icons/carousel/yaggababble_g.webp": Al,
+                "/src/assets/icons/carousel/zealot_e.webp": jl,
+                "/src/assets/icons/carousel/zealot_g.webp": Ml,
+                "/src/assets/icons/fabled/angel.webp": Nl,
+                "/src/assets/icons/fabled/buddhist.webp": Pl,
+                "/src/assets/icons/fabled/djinn.webp": Fl,
+                "/src/assets/icons/fabled/doomsayer.webp": Il,
+                "/src/assets/icons/fabled/duchess.webp": Ll,
+                "/src/assets/icons/fabled/fibbin.webp": Rl,
+                "/src/assets/icons/fabled/fiddler.webp": zl,
+                "/src/assets/icons/fabled/hellslibrarian.webp": Bl,
+                "/src/assets/icons/fabled/revolutionary.webp": Vl,
+                "/src/assets/icons/fabled/sentinel.webp": Hl,
+                "/src/assets/icons/fabled/spiritofivory.webp": Ul,
+                "/src/assets/icons/fabled/toymaker.webp": Wl,
+                "/src/assets/icons/generic/custom.webp": va,
+                "/src/assets/icons/generic/custom_e.webp": ya,
+                "/src/assets/icons/generic/custom_g.webp": ba,
+                "/src/assets/icons/generic/demon.webp": xa,
+                "/src/assets/icons/generic/demon_e.webp": Sa,
+                "/src/assets/icons/generic/demon_g.webp": Ca,
+                "/src/assets/icons/generic/evil.webp": wa,
+                "/src/assets/icons/generic/fabled.webp": Ta,
+                "/src/assets/icons/generic/good.webp": Ea,
+                "/src/assets/icons/generic/loric.webp": Da,
+                "/src/assets/icons/generic/minion.webp": Oa,
+                "/src/assets/icons/generic/minion_e.webp": ka,
+                "/src/assets/icons/generic/minion_g.webp": Aa,
+                "/src/assets/icons/generic/outsider.webp": ja,
+                "/src/assets/icons/generic/outsider_e.webp": Ma,
+                "/src/assets/icons/generic/outsider_g.webp": Na,
+                "/src/assets/icons/generic/townsfolk.webp": Pa,
+                "/src/assets/icons/generic/townsfolk_e.webp": Fa,
+                "/src/assets/icons/generic/townsfolk_g.webp": Ia,
+                "/src/assets/icons/generic/traveller.webp": La,
+                "/src/assets/icons/generic/traveller_e.webp": Ra,
+                "/src/assets/icons/generic/traveller_g.webp": za,
+                "/src/assets/icons/loric/bigwig.webp": Gl,
+                "/src/assets/icons/loric/bootlegger.webp": Kl,
+                "/src/assets/icons/loric/gardener.webp": ql,
+                "/src/assets/icons/loric/godofug.webp": Jl,
+                "/src/assets/icons/loric/hindu.webp": Yl,
+                "/src/assets/icons/loric/knaves.webp": Xl,
+                "/src/assets/icons/loric/pope.webp": Zl,
+                "/src/assets/icons/loric/stormcatcher.webp": Ql,
+                "/src/assets/icons/loric/tor.webp": $l,
+                "/src/assets/icons/loric/ventriloquist.webp": eu,
+                "/src/assets/icons/loric/zenomancer.webp": tu,
+                "/src/assets/icons/snv/artist_e.webp": nu,
+                "/src/assets/icons/snv/artist_g.webp": ru,
+                "/src/assets/icons/snv/barber_e.webp": iu,
+                "/src/assets/icons/snv/barber_g.webp": au,
+                "/src/assets/icons/snv/barista.webp": ou,
+                "/src/assets/icons/snv/barista_e.webp": su,
+                "/src/assets/icons/snv/barista_g.webp": cu,
+                "/src/assets/icons/snv/bonecollector.webp": lu,
+                "/src/assets/icons/snv/bonecollector_e.webp": uu,
+                "/src/assets/icons/snv/bonecollector_g.webp": du,
+                "/src/assets/icons/snv/butcher.webp": fu,
+                "/src/assets/icons/snv/butcher_e.webp": pu,
+                "/src/assets/icons/snv/butcher_g.webp": mu,
+                "/src/assets/icons/snv/cerenovus_e.webp": hu,
+                "/src/assets/icons/snv/cerenovus_g.webp": gu,
+                "/src/assets/icons/snv/clockmaker_e.webp": _u,
+                "/src/assets/icons/snv/clockmaker_g.webp": vu,
+                "/src/assets/icons/snv/deviant.webp": yu,
+                "/src/assets/icons/snv/deviant_e.webp": bu,
+                "/src/assets/icons/snv/deviant_g.webp": xu,
+                "/src/assets/icons/snv/dreamer_e.webp": Su,
+                "/src/assets/icons/snv/dreamer_g.webp": Cu,
+                "/src/assets/icons/snv/eviltwin_e.webp": wu,
+                "/src/assets/icons/snv/eviltwin_g.webp": Tu,
+                "/src/assets/icons/snv/fanggu_e.webp": Eu,
+                "/src/assets/icons/snv/fanggu_g.webp": Du,
+                "/src/assets/icons/snv/flowergirl_e.webp": Ou,
+                "/src/assets/icons/snv/flowergirl_g.webp": ku,
+                "/src/assets/icons/snv/harlot.webp": Au,
+                "/src/assets/icons/snv/harlot_e.webp": ju,
+                "/src/assets/icons/snv/harlot_g.webp": Mu,
+                "/src/assets/icons/snv/juggler_e.webp": Nu,
+                "/src/assets/icons/snv/juggler_g.webp": Pu,
+                "/src/assets/icons/snv/klutz_e.webp": Fu,
+                "/src/assets/icons/snv/klutz_g.webp": Iu,
+                "/src/assets/icons/snv/mathematician_e.webp": Lu,
+                "/src/assets/icons/snv/mathematician_g.webp": Ru,
+                "/src/assets/icons/snv/mutant_e.webp": zu,
+                "/src/assets/icons/snv/mutant_g.webp": Bu,
+                "/src/assets/icons/snv/nodashii_e.webp": Vu,
+                "/src/assets/icons/snv/nodashii_g.webp": Hu,
+                "/src/assets/icons/snv/oracle_e.webp": Uu,
+                "/src/assets/icons/snv/oracle_g.webp": Wu,
+                "/src/assets/icons/snv/philosopher_e.webp": Gu,
+                "/src/assets/icons/snv/philosopher_g.webp": Ku,
+                "/src/assets/icons/snv/pithag_e.webp": qu,
+                "/src/assets/icons/snv/pithag_g.webp": Ju,
+                "/src/assets/icons/snv/sage_e.webp": Yu,
+                "/src/assets/icons/snv/sage_g.webp": Xu,
+                "/src/assets/icons/snv/savant_e.webp": Zu,
+                "/src/assets/icons/snv/savant_g.webp": Qu,
+                "/src/assets/icons/snv/seamstress_e.webp": $u,
+                "/src/assets/icons/snv/seamstress_g.webp": ed,
+                "/src/assets/icons/snv/snakecharmer_e.webp": td,
+                "/src/assets/icons/snv/snakecharmer_g.webp": nd,
+                "/src/assets/icons/snv/sweetheart_e.webp": rd,
+                "/src/assets/icons/snv/sweetheart_g.webp": id,
+                "/src/assets/icons/snv/towncrier_e.webp": ad,
+                "/src/assets/icons/snv/towncrier_g.webp": od,
+                "/src/assets/icons/snv/vigormortis_e.webp": sd,
+                "/src/assets/icons/snv/vigormortis_g.webp": cd,
+                "/src/assets/icons/snv/vortox_e.webp": ld,
+                "/src/assets/icons/snv/vortox_g.webp": ud,
+                "/src/assets/icons/snv/witch_e.webp": dd,
+                "/src/assets/icons/snv/witch_g.webp": fd,
+                "/src/assets/icons/tb/baron_e.webp": pd,
+                "/src/assets/icons/tb/baron_g.webp": md,
+                "/src/assets/icons/tb/beggar.webp": hd,
+                "/src/assets/icons/tb/beggar_e.webp": gd,
+                "/src/assets/icons/tb/beggar_g.webp": _d,
+                "/src/assets/icons/tb/bureaucrat.webp": vd,
+                "/src/assets/icons/tb/bureaucrat_e.webp": yd,
+                "/src/assets/icons/tb/bureaucrat_g.webp": bd,
+                "/src/assets/icons/tb/butler_e.webp": xd,
+                "/src/assets/icons/tb/butler_g.webp": Sd,
+                "/src/assets/icons/tb/chef_e.webp": Cd,
+                "/src/assets/icons/tb/chef_g.webp": wd,
+                "/src/assets/icons/tb/drunk_e.webp": Td,
+                "/src/assets/icons/tb/drunk_g.webp": Ed,
+                "/src/assets/icons/tb/empath_e.webp": Dd,
+                "/src/assets/icons/tb/empath_g.webp": Od,
+                "/src/assets/icons/tb/fortuneteller_e.webp": kd,
+                "/src/assets/icons/tb/fortuneteller_g.webp": Ad,
+                "/src/assets/icons/tb/gunslinger.webp": jd,
+                "/src/assets/icons/tb/gunslinger_e.webp": Md,
+                "/src/assets/icons/tb/gunslinger_g.webp": Nd,
+                "/src/assets/icons/tb/imp_e.webp": Pd,
+                "/src/assets/icons/tb/imp_g.webp": Fd,
+                "/src/assets/icons/tb/investigator_e.webp": Id,
+                "/src/assets/icons/tb/investigator_g.webp": Ld,
+                "/src/assets/icons/tb/librarian_e.webp": Rd,
+                "/src/assets/icons/tb/librarian_g.webp": zd,
+                "/src/assets/icons/tb/mayor_e.webp": Bd,
+                "/src/assets/icons/tb/mayor_g.webp": Vd,
+                "/src/assets/icons/tb/monk_e.webp": Hd,
+                "/src/assets/icons/tb/monk_g.webp": Ud,
+                "/src/assets/icons/tb/poisoner_e.webp": Wd,
+                "/src/assets/icons/tb/poisoner_g.webp": Gd,
+                "/src/assets/icons/tb/ravenkeeper_e.webp": Kd,
+                "/src/assets/icons/tb/ravenkeeper_g.webp": qd,
+                "/src/assets/icons/tb/recluse_e.webp": Jd,
+                "/src/assets/icons/tb/recluse_g.webp": Yd,
+                "/src/assets/icons/tb/saint_e.webp": Xd,
+                "/src/assets/icons/tb/saint_g.webp": Zd,
+                "/src/assets/icons/tb/scapegoat.webp": Qd,
+                "/src/assets/icons/tb/scapegoat_e.webp": $d,
+                "/src/assets/icons/tb/scapegoat_g.webp": ef,
+                "/src/assets/icons/tb/scarletwoman_e.webp": tf,
+                "/src/assets/icons/tb/scarletwoman_g.webp": nf,
+                "/src/assets/icons/tb/slayer_e.webp": rf,
+                "/src/assets/icons/tb/slayer_g.webp": af,
+                "/src/assets/icons/tb/soldier_e.webp": of,
+                "/src/assets/icons/tb/soldier_g.webp": sf,
+                "/src/assets/icons/tb/spy_e.webp": cf,
+                "/src/assets/icons/tb/spy_g.webp": lf,
+                "/src/assets/icons/tb/thief.webp": uf,
+                "/src/assets/icons/tb/thief_e.webp": df,
+                "/src/assets/icons/tb/thief_g.webp": ff,
+                "/src/assets/icons/tb/undertaker_e.webp": pf,
+                "/src/assets/icons/tb/undertaker_g.webp": mf,
+                "/src/assets/icons/tb/virgin_e.webp": hf,
+                "/src/assets/icons/tb/virgin_g.webp": gf,
+                "/src/assets/icons/tb/washerwoman_e.webp": _f,
+                "/src/assets/icons/tb/washerwoman_g.webp": vf
             })[`/src/assets/icons/${u}/${r.id}${l}.webp`],import.meta.url).href
         }
         ,
@@ -26279,16 +26435,16 @@ var AF = null
         }
     },
     mutations: {
-        setGrimoireMode: Q(`mode`, `grimoire`),
-        setLoadingState: Q(`loadingState`, `grimoire`),
-        setPlayerDragState: Q(`playerDragState`, `grimoire`),
-        setPlayerSelectCallback: Q(`playerSelectCallback`, `grimoire`),
-        setRightSideTabState: Q(`rightSideTabState`, `grimoire`),
-        setPositions: Q(`positions`),
-        setKeybindings: Q(`keybindings`),
-        setRolesSelected: Q(`rolesSelected`),
-        setWorldcup: Q(`worldcup`),
-        setWorldcupVotes: Q(`worldcupVotes`),
+        setGrimoireMode: $(`mode`, `grimoire`),
+        setLoadingState: $(`loadingState`, `grimoire`),
+        setPlayerDragState: $(`playerDragState`, `grimoire`),
+        setPlayerSelectCallback: $(`playerSelectCallback`, `grimoire`),
+        setRightSideTabState: $(`rightSideTabState`, `grimoire`),
+        setPositions: $(`positions`),
+        setKeybindings: $(`keybindings`),
+        setRolesSelected: $(`rolesSelected`),
+        setWorldcup: $(`worldcup`),
+        setWorldcupVotes: $(`worldcupVotes`),
         setWorldcupVote(e, {match: t, choice: n}) {
             n == null ? e.worldcupVotes.delete(t) : e.worldcupVotes.set(t, n)
         },
@@ -26370,14 +26526,14 @@ var AF = null
             let n = e.definitions.NPC_TEAMS
               , r = [...e.definitions.PLAYER_TEAMS, ...e.definitions.NPC_TEAMS]
               , i = e.npcs.has(`bootlegger`)
-              , a = t.map(e => (e.id = KF(e.id),
-            e)).map(t => e.rolesAvailable.get(t.id) || (i ? Object.assign({}, QF, t, {
+              , a = t.map(e => (e.id = JF(e.id),
+            e)).map(t => e.rolesAvailable.get(t.id) || (i ? Object.assign({}, eI, t, {
                 isCustom: !0
-            }) : {})).map(t => e.rolesAvailable.get(t.id) ? t : (t.imageAlt = qF[t.team] || `custom`,
+            }) : {})).map(t => e.rolesAvailable.get(t.id) ? t : (t.imageAlt = YF[t.team] || `custom`,
             t.firstNight = Math.abs(t.firstNight),
             t.otherNight = Math.abs(t.otherNight),
             t.jinxes && t.jinxes.length && t.jinxes.forEach(e => {
-                e.id = KF(e.id)
+                e.id = JF(e.id)
             }
             ),
             t.special && !Array.isArray(t.special) && delete t.special,
@@ -26395,8 +26551,8 @@ var AF = null
             if (t) {
                 let i = e.rolesSelected.indexOf(t);
                 i > -1 && !n ? (e.rolesSelected.splice(i, 1),
-                r(t, `selection`, `good-duplicate`) && !e.rolesSelected.some(e => r(e, `selection`, `good-duplicate`)) && (e.rolesSelected = e.rolesSelected.filter( (t, n) => n === e.rolesSelected.indexOf(t) || !XF.includes(t.team) || r(t, `selection`, `bag-duplicate`))),
-                r(t, `selection`, `evil-duplicate`) && !e.rolesSelected.some(e => r(e, `selection`, `evil-duplicate`)) && (e.rolesSelected = e.rolesSelected.filter( (t, n) => n === e.rolesSelected.indexOf(t) || !ZF.includes(t.team) || r(t, `selection`, `bag-duplicate`))),
+                r(t, `selection`, `good-duplicate`) && !e.rolesSelected.some(e => r(e, `selection`, `good-duplicate`)) && (e.rolesSelected = e.rolesSelected.filter( (t, n) => n === e.rolesSelected.indexOf(t) || !QF.includes(t.team) || r(t, `selection`, `bag-duplicate`))),
+                r(t, `selection`, `evil-duplicate`) && !e.rolesSelected.some(e => r(e, `selection`, `evil-duplicate`)) && (e.rolesSelected = e.rolesSelected.filter( (t, n) => n === e.rolesSelected.indexOf(t) || !$F.includes(t.team) || r(t, `selection`, `bag-duplicate`))),
                 t === `atheist` && !e.rolesSelected.includes(`atheist`) && (e.rolesSelected = e.rolesSelected.filter(e => !r(e, `selection`, `bag-disabled`)))) : (!r(t, `selection`, `bag-disabled`) || e.rolesSelected.includes(`atheist`)) && e.rolesSelected.push(t)
             } else
                 e.rolesSelected = []
@@ -26433,10 +26589,10 @@ var AF = null
             e.grimoire.theme = t
         }
     },
-    plugins: [VP, sF, TO, LP]
+    plugins: [WP, uF, OO, BP]
 });
 (async () => {
-    let e = ne(ga)
+    let e = ne(_a)
       , t = await cr();
     {
         let n = () => {
@@ -26460,19 +26616,19 @@ var AF = null
             replaysOnErrorSampleRate: 1,
             beforeSend: e => n() ? null : (e.tags || (e.tags = {}),
             e.tags.app = window.__TAURI__ ? `standalone` : `browser`,
-            $.state.session.sessionId && (e.tags.session = $.state.session.sessionId),
+            tI.state.session.sessionId && (e.tags.session = tI.state.session.sessionId),
             e.contexts || (e.contexts = {}),
-            e.contexts.session = Object.assign({}, $.state.session),
+            e.contexts.session = Object.assign({}, tI.state.session),
             delete e.contexts.session.code,
             delete e.contexts.session.meta,
             delete e.contexts.session.raisedHands,
-            e.contexts.user = Object.assign({}, $.state.user),
+            e.contexts.user = Object.assign({}, tI.state.user),
             delete e.contexts.user.levels,
             delete e.contexts.user.downloadUrl,
             e)
         })
     }
-    e.use($).use(J).use(t).component(`font-awesome-icon`, Kn).mount(`#main`)
+    e.use(tI).use(J).use(t).component(`font-awesome-icon`, Kn).mount(`#main`)
 }
 )();
-//# sourceMappingURL=index-BDegvJmP.js.map
+//# sourceMappingURL=index-DvBYk2EC.js.map
