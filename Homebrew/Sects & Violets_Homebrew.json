@@ -92,15 +92,15 @@
             },
             {
                 "id": "drunk",
-                "reason": "The Mathematician might learn if the Drunk's ability yielded false info or failed to work properly."
+                "reason": "The Mathematician learns if the Drunk's ability yielded false info or failed to work properly."
             },
             {
                 "id": "lunatic",
-                "reason": "The Mathematician might learn if the Lunatic attacks a different player than the real Demon attacked."
+                "reason": "The Mathematician learns if the Lunatic attacks a different player than the real Demon attacked."
             },
             {
                 "id": "marionette",
-                "reason": "The Mathematician might learn if the Marionette's ability yielded false info or failed to work properly."
+                "reason": "The Mathematician learns if the Marionette's ability yielded false info or failed to work properly."
             }
         ]
     },

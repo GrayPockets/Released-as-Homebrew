@@ -2,12 +2,12 @@
     try {
         var e = typeof window < `u` ? window : typeof global < `u` ? global : typeof globalThis < `u` ? globalThis : typeof self < `u` ? self : {};
         e.SENTRY_RELEASE = {
-            id: `botc-app@3.56.1`
+            id: `botc-app@3.57.1`
         };
         var t = new e.Error().stack;
         t && (e._sentryDebugIds = e._sentryDebugIds || {},
-        e._sentryDebugIds[t] = `bc3997c4-d442-4ca3-bee3-6933aaa16927`,
-        e._sentryDebugIdIdentifier = `sentry-dbid-bc3997c4-d442-4ca3-bee3-6933aaa16927`)
+        e._sentryDebugIds[t] = `2b1c8d8f-7650-42ff-a807-498b3e6afbb7`,
+        e._sentryDebugIdIdentifier = `sentry-dbid-2b1c8d8f-7650-42ff-a807-498b3e6afbb7`)
     } catch {}
 }
 )();
@@ -305,6 +305,7 @@ Are you sure you want to join this session?`,
         error_password: `Passwords don't match`,
         login: `Login`,
         login_with: `Login with {0}`,
+        social_login: `Or use social login:`,
         password: `Password`,
         password_confirm: `Password Confirmation`,
         password_reset: `Instructions to reset your password have been sent to the associated email address.`,
@@ -318,9 +319,12 @@ Are you sure you want to join this session?`,
             updating_account: `Updating your account...`,
             complete: `Login complete, you can close this window now!`,
             error: `An error happened:`,
-            error_general: `Something unexpected went wrong. Please try again.`,
-            error_grant_expired: `The authentication link has expired, please close this window and try again.`,
-            error_nonce_missing: `Unable to verify authentication request. Please close this window and try again.`,
+            error_code_missing: `The authentication has been cancelled.`,
+            error_already_linked: `This app account is already linked to a different social login.`,
+            error_general: `Something unexpected went wrong.`,
+            error_grant_expired: `The authentication link has expired.`,
+            error_nonce_missing: `Unable to verify authentication request.`,
+            try_again: `Please close this window and try again.`,
             status: `Account is linked to {0}`
         }
     },
@@ -672,4 +676,4 @@ Check back later!`
     version: u
 };
 export {e as common, d as default, t as grimoire, n as modals, r as overlays, i as pages, a as player, o as session, s as storyteller, c as tabs, l as user, u as version};
-//# sourceMappingURL=en-C2lzs4MM.js.map
+//# sourceMappingURL=en-Bj3i-twp.js.map
