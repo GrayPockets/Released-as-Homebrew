@@ -25,7 +25,7 @@
         "firstNight": 16,
         "firstNightReminder": "Skip Minion Info and Demon Info. Wake the Demon. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
         "otherNight": 12,
-        "otherNightReminder": "If the Poppy Grower died today, became drunk, poisoned, or left play tonight, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
+        "otherNightReminder": "If the Poppy Grower died, became drunk, poisoned, or left play today, wake all Minions. Show the *THIS IS THE DEMON* token. Point to the Demon. Put the Minions to sleep. Wake the Demon. Show the *THESE ARE YOUR MINIONS* token. Point to the Minions.",
         "reminders": [
             "Evil Wakes"
         ],
