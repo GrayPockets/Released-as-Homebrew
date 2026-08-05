@@ -1,4 +1,8 @@
 # Changelog
+## 1.14.1
+* Orthodontist character
+* Pumpkin character
+* The Big Barnacle image correction
 ## 1.14.0
 * Online App compatibility 3.57.1
 * Mathematician jinxes update
