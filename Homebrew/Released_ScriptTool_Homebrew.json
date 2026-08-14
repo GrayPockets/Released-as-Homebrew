@@ -10,8 +10,8 @@
         "name": "Steward",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/steward_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/steward_e.webp"
+            "https://script.bloodontheclocktower.com/assets/steward_g-ASO14Teu.webp",
+            "https://script.bloodontheclocktower.com/assets/steward_e-BJUqXXmp.webp"
         ],
         "team": "townsfolk",
         "firstNight": 63,
@@ -28,8 +28,8 @@
         "name": "Knight",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/knight_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/knight_e.webp"
+            "https://script.bloodontheclocktower.com/assets/knight_g-rWciCOvN.webp",
+            "https://script.bloodontheclocktower.com/assets/knight_e-DErJZl0C.webp"
         ],
         "team": "townsfolk",
         "firstNight": 64,
@@ -47,8 +47,8 @@
         "name": "Chef",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/chef_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/chef_e.webp"
+            "https://script.bloodontheclocktower.com/assets/chef_g-C3a3cGeP.webp",
+            "https://script.bloodontheclocktower.com/assets/chef_e-B3RO5GXN.webp"
         ],
         "team": "townsfolk",
         "firstNight": 55,
@@ -62,8 +62,8 @@
         "name": "Noble",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/noble_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/noble_e.webp"
+            "https://script.bloodontheclocktower.com/assets/noble_g-B0vksP8B.webp",
+            "https://script.bloodontheclocktower.com/assets/noble_e-BFJBeujm.webp"
         ],
         "team": "townsfolk",
         "firstNight": 65,
@@ -82,8 +82,8 @@
         "name": "Investigator",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/investigator_e.webp"
+            "https://script.bloodontheclocktower.com/assets/investigator_g-DWSOiA6Q.webp",
+            "https://script.bloodontheclocktower.com/assets/investigator_e-CR-lRqwj.webp"
         ],
         "team": "townsfolk",
         "firstNight": 54,
@@ -101,8 +101,8 @@
         "name": "Washerwoman",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/washerwoman_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/washerwoman_e.webp"
+            "https://script.bloodontheclocktower.com/assets/washerwoman_g-CVnYjPdR.webp",
+            "https://script.bloodontheclocktower.com/assets/washerwoman_e-TC3PgT2N.webp"
         ],
         "team": "townsfolk",
         "firstNight": 52,
@@ -120,8 +120,8 @@
         "name": "Clockmaker",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/clockmaker_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/clockmaker_e.webp"
+            "https://script.bloodontheclocktower.com/assets/clockmaker_g-z-gzmkzc.webp",
+            "https://script.bloodontheclocktower.com/assets/clockmaker_e-De0CuxuO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 60,
@@ -135,8 +135,8 @@
         "name": "Grandmother",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/grandmother_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/grandmother_e.webp"
+            "https://script.bloodontheclocktower.com/assets/grandmother_g-CjEyeFLi.webp",
+            "https://script.bloodontheclocktower.com/assets/grandmother_e-BLCIA5TL.webp"
         ],
         "team": "townsfolk",
         "firstNight": 59,
@@ -156,8 +156,8 @@
         "name": "Librarian",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/librarian_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/librarian_e.webp"
+            "https://script.bloodontheclocktower.com/assets/librarian_g-Bvwb7yEa.webp",
+            "https://script.bloodontheclocktower.com/assets/librarian_e-DNYbXXNX.webp"
         ],
         "team": "townsfolk",
         "firstNight": 53,
@@ -175,8 +175,8 @@
         "name": "Shugenja",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/shugenja_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/shugenja_e.webp"
+            "https://script.bloodontheclocktower.com/assets/shugenja_g-DAlTPOOn.webp",
+            "https://script.bloodontheclocktower.com/assets/shugenja_e-DQCYsHfD.webp"
         ],
         "team": "townsfolk",
         "firstNight": 67,
@@ -204,8 +204,8 @@
         "name": "Pixie",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/pixie_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/pixie_e.webp"
+            "https://script.bloodontheclocktower.com/assets/pixie_g-B1xIo6Bx.webp",
+            "https://script.bloodontheclocktower.com/assets/pixie_e-Dknojw1x.webp"
         ],
         "team": "townsfolk",
         "firstNight": 48,
@@ -223,8 +223,8 @@
         "name": "Bounty Hunter",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/bountyhunter_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/bountyhunter_e.webp"
+            "https://script.bloodontheclocktower.com/assets/bountyhunter_g-BCEfwrWL.webp",
+            "https://script.bloodontheclocktower.com/assets/bountyhunter_e-BhBaVK4W.webp"
         ],
         "team": "townsfolk",
         "firstNight": 69,
@@ -253,8 +253,8 @@
         "name": "Empath",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/empath_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/empath_e.webp"
+            "https://script.bloodontheclocktower.com/assets/empath_g-vVEkU0cf.webp",
+            "https://script.bloodontheclocktower.com/assets/empath_e-CWeYvCJ9.webp"
         ],
         "team": "townsfolk",
         "firstNight": 56,
@@ -270,8 +270,8 @@
         "name": "High Priestess",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/highpriestess_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/highpriestess_e.webp"
+            "https://script.bloodontheclocktower.com/assets/highpriestess_g-D0i0Myk4.webp",
+            "https://script.bloodontheclocktower.com/assets/highpriestess_e-Cl1icXV6.webp"
         ],
         "team": "townsfolk",
         "firstNight": 74,
@@ -287,8 +287,8 @@
         "name": "Sailor",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/sailor_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/sailor_e.webp"
+            "https://script.bloodontheclocktower.com/assets/sailor_g-MdYxQ8zf.webp",
+            "https://script.bloodontheclocktower.com/assets/sailor_e-DfZBdaxk.webp"
         ],
         "team": "townsfolk",
         "firstNight": 26,
@@ -307,8 +307,8 @@
         "name": "Balloonist",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/balloonist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/balloonist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/balloonist_g-Dlfqy_E5.webp",
+            "https://script.bloodontheclocktower.com/assets/balloonist_e-D2ByQ9TA.webp"
         ],
         "team": "townsfolk",
         "firstNight": 66,
@@ -327,8 +327,8 @@
         "name": "General",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/general_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/general_e.webp"
+            "https://script.bloodontheclocktower.com/assets/general_g-BqvScIJc.webp",
+            "https://script.bloodontheclocktower.com/assets/general_e-C4rC0GAq.webp"
         ],
         "team": "townsfolk",
         "firstNight": 75,
@@ -344,8 +344,8 @@
         "name": "Preacher",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/preacher_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/preacher_e.webp"
+            "https://script.bloodontheclocktower.com/assets/preacher_g-CpPb8fQI.webp",
+            "https://script.bloodontheclocktower.com/assets/preacher_e-CjXiLHle.webp"
         ],
         "team": "townsfolk",
         "firstNight": 29,
@@ -366,8 +366,8 @@
         "name": "Chambermaid",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/chambermaid_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/chambermaid_e.webp"
+            "https://script.bloodontheclocktower.com/assets/chambermaid_g-DAtPnmSz.webp",
+            "https://script.bloodontheclocktower.com/assets/chambermaid_e-CdqkTS11.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -383,8 +383,8 @@
         "name": "Village Idiot",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/villageidiot_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/villageidiot_e.webp"
+            "https://script.bloodontheclocktower.com/assets/villageidiot_g-CdZf6FkN.webp",
+            "https://script.bloodontheclocktower.com/assets/villageidiot_e-D6AONnUX.webp"
         ],
         "team": "townsfolk",
         "firstNight": 68,
@@ -409,8 +409,8 @@
         "name": "Snake Charmer",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/snakecharmer_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/snakecharmer_e.webp"
+            "https://script.bloodontheclocktower.com/assets/snakecharmer_g-DYwjThVr.webp",
+            "https://script.bloodontheclocktower.com/assets/snakecharmer_e-D6CrPRGR.webp"
         ],
         "team": "townsfolk",
         "firstNight": 37,
@@ -429,8 +429,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/mathematician_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/mathematician_e.webp"
+            "https://script.bloodontheclocktower.com/assets/mathematician_g-DiYoQRIl.webp",
+            "https://script.bloodontheclocktower.com/assets/mathematician_e-D-VneyvO.webp"
         ],
         "team": "townsfolk",
         "firstNight": 77,
@@ -471,8 +471,8 @@
         "name": "King",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/king_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/king_e.webp"
+            "https://script.bloodontheclocktower.com/assets/king_g-CEMQO7k3.webp",
+            "https://script.bloodontheclocktower.com/assets/king_e-DuQcqpvF.webp"
         ],
         "team": "townsfolk",
         "firstNight": 25,
@@ -488,8 +488,8 @@
         "name": "Dreamer",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/dreamer_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/dreamer_e.webp"
+            "https://script.bloodontheclocktower.com/assets/dreamer_g-CjKsf0eE.webp",
+            "https://script.bloodontheclocktower.com/assets/dreamer_e-9zGefVKW.webp"
         ],
         "team": "townsfolk",
         "firstNight": 61,
@@ -505,8 +505,8 @@
         "name": "Fortune Teller",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/fortuneteller_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/fortuneteller_e.webp"
+            "https://script.bloodontheclocktower.com/assets/fortuneteller_g-lQQzYvkg.webp",
+            "https://script.bloodontheclocktower.com/assets/fortuneteller_e-BWljoXp7.webp"
         ],
         "team": "townsfolk",
         "firstNight": 57,
@@ -525,8 +525,8 @@
         "name": "Cult Leader",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cultleader_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cultleader_e.webp"
+            "https://script.bloodontheclocktower.com/assets/cultleader_g-BYq1_U3R.webp",
+            "https://script.bloodontheclocktower.com/assets/cultleader_e-CXgWMt1A.webp"
         ],
         "team": "townsfolk",
         "firstNight": 71,
@@ -542,8 +542,8 @@
         "name": "Flowergirl",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/flowergirl_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/flowergirl_e.webp"
+            "https://script.bloodontheclocktower.com/assets/flowergirl_g-C3oZV2PZ.webp",
+            "https://script.bloodontheclocktower.com/assets/flowergirl_e-DJcVSLWX.webp"
         ],
         "team": "townsfolk",
         "otherNight": 80,
@@ -561,8 +561,8 @@
         "name": "Town Crier",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/towncrier_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/towncrier_e.webp"
+            "https://script.bloodontheclocktower.com/assets/towncrier_g-D9dERfO2.webp",
+            "https://script.bloodontheclocktower.com/assets/towncrier_e-BzUGp1JT.webp"
         ],
         "team": "townsfolk",
         "otherNight": 81,
@@ -580,8 +580,8 @@
         "name": "Oracle",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/oracle_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/oracle_e.webp"
+            "https://script.bloodontheclocktower.com/assets/oracle_g-HZdhcJUJ.webp",
+            "https://script.bloodontheclocktower.com/assets/oracle_e-BgNZAuGG.webp"
         ],
         "team": "townsfolk",
         "otherNight": 82,
@@ -595,8 +595,8 @@
         "name": "Undertaker",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/undertaker_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/undertaker_e.webp"
+            "https://script.bloodontheclocktower.com/assets/undertaker_g-sXYI7VS3.webp",
+            "https://script.bloodontheclocktower.com/assets/undertaker_e-DVB8aMO4.webp"
         ],
         "team": "townsfolk",
         "otherNight": 78,
@@ -613,8 +613,8 @@
         "name": "Innkeeper",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/innkeeper_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/innkeeper_e.webp"
+            "https://script.bloodontheclocktower.com/assets/innkeeper_g-B_YjhWTM.webp",
+            "https://script.bloodontheclocktower.com/assets/innkeeper_e-dzanyuqI.webp"
         ],
         "team": "townsfolk",
         "otherNight": 19,
@@ -633,8 +633,8 @@
         "name": "Monk",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/monk_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/monk_e.webp"
+            "https://script.bloodontheclocktower.com/assets/monk_g-D4wNFA-b.webp",
+            "https://script.bloodontheclocktower.com/assets/monk_e-OTOQUKVm.webp"
         ],
         "team": "townsfolk",
         "otherNight": 24,
@@ -651,8 +651,8 @@
         "name": "Gambler",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/gambler_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/gambler_e.webp"
+            "https://script.bloodontheclocktower.com/assets/gambler_g-BJg931OP.webp",
+            "https://script.bloodontheclocktower.com/assets/gambler_e-Co0D5NyD.webp"
         ],
         "team": "townsfolk",
         "otherNight": 21,
@@ -669,8 +669,8 @@
         "name": "Acrobat",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/acrobat_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/acrobat_e.webp"
+            "https://script.bloodontheclocktower.com/assets/acrobat_g-ClaB0uN4.webp",
+            "https://script.bloodontheclocktower.com/assets/acrobat_e-BtZarrxs.webp"
         ],
         "team": "townsfolk",
         "otherNight": 22,
@@ -688,8 +688,8 @@
         "name": "Exorcist",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/exorcist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/exorcist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/exorcist_g-CiIkE1hM.webp",
+            "https://script.bloodontheclocktower.com/assets/exorcist_e-DoXc6R_z.webp"
         ],
         "team": "townsfolk",
         "otherNight": 36,
@@ -706,8 +706,8 @@
         "name": "Lycanthrope",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lycanthrope_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lycanthrope_e.webp"
+            "https://script.bloodontheclocktower.com/assets/lycanthrope_g-BGOyDOkb.webp",
+            "https://script.bloodontheclocktower.com/assets/lycanthrope_e-n_edx2Mg.webp"
         ],
         "team": "townsfolk",
         "otherNight": 37,
@@ -725,8 +725,8 @@
         "name": "Gossip",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/gossip_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/gossip_e.webp"
+            "https://script.bloodontheclocktower.com/assets/gossip_g-0mo_0qnq.webp",
+            "https://script.bloodontheclocktower.com/assets/gossip_e-DKOgldGS.webp"
         ],
         "team": "townsfolk",
         "otherNight": 58,
@@ -743,8 +743,8 @@
         "name": "Savant",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/savant_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/savant_e.webp"
+            "https://script.bloodontheclocktower.com/assets/savant_g-n6x1YgAZ.webp",
+            "https://script.bloodontheclocktower.com/assets/savant_e-5neUO4oK.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -756,8 +756,8 @@
         "name": "Alsaahir",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alsaahir_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alsaahir_e.webp"
+            "https://script.bloodontheclocktower.com/assets/alsaahir_g-CpjMnnMq.webp",
+            "https://script.bloodontheclocktower.com/assets/alsaahir_e-DiydqcyG.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -769,8 +769,8 @@
         "name": "Engineer",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/engineer_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/engineer_e.webp"
+            "https://script.bloodontheclocktower.com/assets/engineer_g-N-nhrQAt.webp",
+            "https://script.bloodontheclocktower.com/assets/engineer_e-LUiXESUv.webp"
         ],
         "team": "townsfolk",
         "firstNight": 28,
@@ -789,8 +789,8 @@
         "name": "Nightwatchman",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/nightwatchman_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/nightwatchman_e.webp"
+            "https://script.bloodontheclocktower.com/assets/nightwatchman_g-CaasqmRn.webp",
+            "https://script.bloodontheclocktower.com/assets/nightwatchman_e-DcwB8vOD.webp"
         ],
         "team": "townsfolk",
         "firstNight": 70,
@@ -809,8 +809,8 @@
         "name": "Courtier",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/courtier_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/courtier_e.webp"
+            "https://script.bloodontheclocktower.com/assets/courtier_g-8Fhu5KML.webp",
+            "https://script.bloodontheclocktower.com/assets/courtier_e-DxjU0rGy.webp"
         ],
         "team": "townsfolk",
         "firstNight": 35,
@@ -832,8 +832,8 @@
         "name": "Seamstress",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/seamstress_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/seamstress_e.webp"
+            "https://script.bloodontheclocktower.com/assets/seamstress_g-B4RHsroR.webp",
+            "https://script.bloodontheclocktower.com/assets/seamstress_e-BfBRBNhv.webp"
         ],
         "team": "townsfolk",
         "firstNight": 62,
@@ -852,8 +852,8 @@
         "name": "Philosopher",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/philosopher_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/philosopher_e.webp"
+            "https://script.bloodontheclocktower.com/assets/philosopher_g-DOk3eWqe.webp",
+            "https://script.bloodontheclocktower.com/assets/philosopher_e-sc5zSJy2.webp"
         ],
         "team": "townsfolk",
         "firstNight": 14,
@@ -881,8 +881,8 @@
         "name": "Huntsman",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/huntsman_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/huntsman_e.webp"
+            "https://script.bloodontheclocktower.com/assets/huntsman_g-1Nv97uqA.webp",
+            "https://script.bloodontheclocktower.com/assets/huntsman_e-CN9kkQNR.webp"
         ],
         "team": "townsfolk",
         "firstNight": 49,
@@ -901,8 +901,8 @@
         "name": "Professor",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/professor_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/professor_e.webp"
+            "https://script.bloodontheclocktower.com/assets/professor_g-h2X7rvhv.webp",
+            "https://script.bloodontheclocktower.com/assets/professor_e-BpuIeGol.webp"
         ],
         "team": "townsfolk",
         "otherNight": 65,
@@ -920,8 +920,8 @@
         "name": "Artist",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/artist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/artist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/artist_g-CyRrA7cN.webp",
+            "https://script.bloodontheclocktower.com/assets/artist_e-CpwoIhpV.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -936,8 +936,8 @@
         "name": "Slayer",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/slayer_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/slayer_e.webp"
+            "https://script.bloodontheclocktower.com/assets/slayer_g-BO_75tK_.webp",
+            "https://script.bloodontheclocktower.com/assets/slayer_e-4pQk5kJR.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -952,8 +952,8 @@
         "name": "Fisherman",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/fisherman_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/fisherman_e.webp"
+            "https://script.bloodontheclocktower.com/assets/fisherman_g-D4SVpSql.webp",
+            "https://script.bloodontheclocktower.com/assets/fisherman_e-Da2Y5IG7.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -968,8 +968,8 @@
         "name": "Princess",
         "team": "townsfolk",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/princess_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/princess_e.webp"
+            "https://script.bloodontheclocktower.com/assets/princess_g-BGsIJ79g.webp",
+            "https://script.bloodontheclocktower.com/assets/princess_e-DDQtxFNX.webp"
         ],
         "edition": "carousel",
         "otherNight": 38,
@@ -986,8 +986,8 @@
         "name": "Juggler",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/juggler_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/juggler_e.webp"
+            "https://script.bloodontheclocktower.com/assets/juggler_g-CghN7Lp-.webp",
+            "https://script.bloodontheclocktower.com/assets/juggler_e-BQQDYvGs.webp"
         ],
         "team": "townsfolk",
         "otherNight": 84,
@@ -1008,8 +1008,8 @@
         "name": "Soldier",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/soldier_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/soldier_e.webp"
+            "https://script.bloodontheclocktower.com/assets/soldier_g-Baq_oQFs.webp",
+            "https://script.bloodontheclocktower.com/assets/soldier_e-CvaeglsK.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1021,8 +1021,8 @@
         "name": "Alchemist",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alchemist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alchemist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/alchemist_g-DtcrLn7_.webp",
+            "https://script.bloodontheclocktower.com/assets/alchemist_e-DjjClIsL.webp"
         ],
         "team": "townsfolk",
         "firstNight": 15,
@@ -1079,8 +1079,8 @@
         "name": "Cannibal",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cannibal_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cannibal_e.webp"
+            "https://script.bloodontheclocktower.com/assets/cannibal_g-eP3mwaD2.webp",
+            "https://script.bloodontheclocktower.com/assets/cannibal_e-PuVaqnSr.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1114,8 +1114,8 @@
         "name": "Amnesiac",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/amnesiac_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/amnesiac_e.webp"
+            "https://script.bloodontheclocktower.com/assets/amnesiac_g-1rV8CyUl.webp",
+            "https://script.bloodontheclocktower.com/assets/amnesiac_e-CEaf8TX1.webp"
         ],
         "team": "townsfolk",
         "firstNight": 51,
@@ -1136,8 +1136,8 @@
         "name": "Farmer",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/farmer_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/farmer_e.webp"
+            "https://script.bloodontheclocktower.com/assets/farmer_g-aC9H7ek9.webp",
+            "https://script.bloodontheclocktower.com/assets/farmer_e-BKzmeJOt.webp"
         ],
         "team": "townsfolk",
         "otherNight": 70,
@@ -1151,8 +1151,8 @@
         "name": "Minstrel",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/minstrel_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/minstrel_e.webp"
+            "https://script.bloodontheclocktower.com/assets/minstrel_g-M5EHa7zy.webp",
+            "https://script.bloodontheclocktower.com/assets/minstrel_e-Cv94nSeJ.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1167,8 +1167,8 @@
         "name": "Ravenkeeper",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/ravenkeeper_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/ravenkeeper_e.webp"
+            "https://script.bloodontheclocktower.com/assets/ravenkeeper_g-Bg-yrUxj.webp",
+            "https://script.bloodontheclocktower.com/assets/ravenkeeper_e-Yrx6NFvE.webp"
         ],
         "team": "townsfolk",
         "otherNight": 75,
@@ -1182,8 +1182,8 @@
         "name": "Sage",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/sage_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/sage_e.webp"
+            "https://script.bloodontheclocktower.com/assets/sage_g-BQUVfu9h.webp",
+            "https://script.bloodontheclocktower.com/assets/sage_e-BS8e_Ree.webp"
         ],
         "team": "townsfolk",
         "otherNight": 63,
@@ -1197,8 +1197,8 @@
         "name": "Choirboy",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/choirboy_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/choirboy_e.webp"
+            "https://script.bloodontheclocktower.com/assets/choirboy_g-Dk5L9Lx_.webp",
+            "https://script.bloodontheclocktower.com/assets/choirboy_e-CpElv2uq.webp"
         ],
         "team": "townsfolk",
         "otherNight": 66,
@@ -1212,8 +1212,8 @@
         "name": "Banshee",
         "team": "townsfolk",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/banshee_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/banshee_e.webp"
+            "https://script.bloodontheclocktower.com/assets/banshee_g-DJc6lJye.webp",
+            "https://script.bloodontheclocktower.com/assets/banshee_e-8hOn5kSm.webp"
         ],
         "edition": "carousel",
         "otherNight": 64,
@@ -1237,8 +1237,8 @@
         "name": "Tea Lady",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/tealady_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/tealady_e.webp"
+            "https://script.bloodontheclocktower.com/assets/tealady_g-C6X-kuq2.webp",
+            "https://script.bloodontheclocktower.com/assets/tealady_e-CZT3s07k.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1254,8 +1254,8 @@
         "name": "Mayor",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/mayor_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/mayor_e.webp"
+            "https://script.bloodontheclocktower.com/assets/mayor_g-BQeJ8Z2E.webp",
+            "https://script.bloodontheclocktower.com/assets/mayor_e-Bc2mKeJ3.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1267,8 +1267,8 @@
         "name": "Fool",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/fool_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/fool_e.webp"
+            "https://script.bloodontheclocktower.com/assets/fool_g-C-vzA630.webp",
+            "https://script.bloodontheclocktower.com/assets/fool_e-CdlNFIsk.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1283,8 +1283,8 @@
         "name": "Virgin",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/virgin_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/virgin_e.webp"
+            "https://script.bloodontheclocktower.com/assets/virgin_g-DfRSMLSj.webp",
+            "https://script.bloodontheclocktower.com/assets/virgin_e-BB20SAPv.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1299,8 +1299,8 @@
         "name": "Magician",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/magician_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/magician_e.webp"
+            "https://script.bloodontheclocktower.com/assets/magician_g-DXz3Ajt8.webp",
+            "https://script.bloodontheclocktower.com/assets/magician_e-BMchX9vJ.webp"
         ],
         "team": "townsfolk",
         "firstNight": 18,
@@ -1340,8 +1340,8 @@
         "name": "Poppy Grower",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/poppygrower_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/poppygrower_e.webp"
+            "https://script.bloodontheclocktower.com/assets/poppygrower_g-BeRDzj2D.webp",
+            "https://script.bloodontheclocktower.com/assets/poppygrower_e-BPf4mjjt.webp"
         ],
         "team": "townsfolk",
         "firstNight": 16,
@@ -1360,8 +1360,8 @@
         "name": "Pacifist",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/pacifist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/pacifist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/pacifist_g-DAkM1DME.webp",
+            "https://script.bloodontheclocktower.com/assets/pacifist_e-BDyZFmeQ.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1373,8 +1373,8 @@
         "name": "Atheist",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/atheist_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/atheist_e.webp"
+            "https://script.bloodontheclocktower.com/assets/atheist_g-CQOMSxIU.webp",
+            "https://script.bloodontheclocktower.com/assets/atheist_e-CHiIPNXQ.webp"
         ],
         "team": "townsfolk",
         "setup": true,
@@ -1396,8 +1396,8 @@
         "name": "Hermit",
         "team": "outsider",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hermit_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hermit_e.webp"
+            "https://script.bloodontheclocktower.com/assets/hermit_g-BT8xmstw.webp",
+            "https://script.bloodontheclocktower.com/assets/hermit_e-CXzG3UkT.webp"
         ],
         "edition": "carousel",
         "reminders": [
@@ -1414,8 +1414,8 @@
         "name": "Butler",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/butler_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/butler_e.webp"
+            "https://script.bloodontheclocktower.com/assets/butler_g-Cr36DpeC.webp",
+            "https://script.bloodontheclocktower.com/assets/butler_e-C2ho4G2f.webp"
         ],
         "team": "outsider",
         "firstNight": 58,
@@ -1440,8 +1440,8 @@
         "name": "Goon",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/goon_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/goon_e.webp"
+            "https://script.bloodontheclocktower.com/assets/goon_g-qCN1CxKh.webp",
+            "https://script.bloodontheclocktower.com/assets/goon_e-DmCcVOv-.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1456,8 +1456,8 @@
         "name": "Ogre",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ogre_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ogre_e.webp"
+            "https://script.bloodontheclocktower.com/assets/ogre_g-B3Q_ybOi.webp",
+            "https://script.bloodontheclocktower.com/assets/ogre_e-k2lur_NF.webp"
         ],
         "team": "outsider",
         "firstNight": 73,
@@ -1474,8 +1474,8 @@
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/lunatic_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/lunatic_e.webp"
+            "https://script.bloodontheclocktower.com/assets/lunatic_g-Bz2ai2Da.webp",
+            "https://script.bloodontheclocktower.com/assets/lunatic_e-D53Boxpa.webp"
         ],
         "team": "outsider",
         "firstNight": 22,
@@ -1496,8 +1496,8 @@
         "name": "Drunk",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/drunk_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/drunk_e.webp"
+            "https://script.bloodontheclocktower.com/assets/drunk_g--QNmv0ZY.webp",
+            "https://script.bloodontheclocktower.com/assets/drunk_e-bRjLB9FX.webp"
         ],
         "team": "outsider",
         "remindersGlobal": [
@@ -1522,8 +1522,8 @@
         "name": "Tinker",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/tinker_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/tinker_e.webp"
+            "https://script.bloodontheclocktower.com/assets/tinker_g-CS4VFqeN.webp",
+            "https://script.bloodontheclocktower.com/assets/tinker_e-dpPUDqmq.webp"
         ],
         "team": "outsider",
         "otherNight": 71,
@@ -1540,8 +1540,8 @@
         "name": "Recluse",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/recluse_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/recluse_e.webp"
+            "https://script.bloodontheclocktower.com/assets/recluse_g-DxMFqO0r.webp",
+            "https://script.bloodontheclocktower.com/assets/recluse_e-BUtHsTp3.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1563,8 +1563,8 @@
         "name": "Golem",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/golem_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/golem_e.webp"
+            "https://script.bloodontheclocktower.com/assets/golem_g-HC-xAVh8.webp",
+            "https://script.bloodontheclocktower.com/assets/golem_e-BMGfUhmK.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1579,8 +1579,8 @@
         "name": "Sweetheart",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/sweetheart_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/sweetheart_e.webp"
+            "https://script.bloodontheclocktower.com/assets/sweetheart_g-CmqS74DM.webp",
+            "https://script.bloodontheclocktower.com/assets/sweetheart_e-Bm63hRzw.webp"
         ],
         "team": "outsider",
         "otherNight": 61,
@@ -1597,8 +1597,8 @@
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/plaguedoctor_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/plaguedoctor_e.webp"
+            "https://script.bloodontheclocktower.com/assets/plaguedoctor_g-DUqDeP9l.webp",
+            "https://script.bloodontheclocktower.com/assets/plaguedoctor_e-DdVqxJ_g.webp"
         ],
         "team": "outsider",
         "otherNight": 62,
@@ -1653,8 +1653,8 @@
         "name": "Klutz",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/klutz_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/klutz_e.webp"
+            "https://script.bloodontheclocktower.com/assets/klutz_g-DRcV_Rgl.webp",
+            "https://script.bloodontheclocktower.com/assets/klutz_e-C-CdPEop.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1666,8 +1666,8 @@
         "name": "Moonchild",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/moonchild_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/moonchild_e.webp"
+            "https://script.bloodontheclocktower.com/assets/moonchild_g-DKURQEzF.webp",
+            "https://script.bloodontheclocktower.com/assets/moonchild_e-D-P3dKVK.webp"
         ],
         "team": "outsider",
         "otherNight": 72,
@@ -1684,8 +1684,8 @@
         "name": "Saint",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/saint_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/saint_e.webp"
+            "https://script.bloodontheclocktower.com/assets/saint_g-BU0hab0E.webp",
+            "https://script.bloodontheclocktower.com/assets/saint_e-CnQBC4rO.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1697,8 +1697,8 @@
         "name": "Barber",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/barber_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/barber_e.webp"
+            "https://script.bloodontheclocktower.com/assets/barber_g-CP7mk8b9.webp",
+            "https://script.bloodontheclocktower.com/assets/barber_e-BJbMUslE.webp"
         ],
         "team": "outsider",
         "otherNight": 60,
@@ -1715,8 +1715,8 @@
         "name": "Hatter",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hatter_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/hatter_e.webp"
+            "https://script.bloodontheclocktower.com/assets/hatter_g-16CFZpfo.webp",
+            "https://script.bloodontheclocktower.com/assets/hatter_e-BMVaOuLf.webp"
         ],
         "team": "outsider",
         "otherNight": 59,
@@ -1733,8 +1733,8 @@
         "name": "Mutant",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/mutant_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/mutant_e.webp"
+            "https://script.bloodontheclocktower.com/assets/mutant_g-CUe36x-i.webp",
+            "https://script.bloodontheclocktower.com/assets/mutant_e-COP-pfTP.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1746,8 +1746,8 @@
         "name": "Politician",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/politician_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/politician_e.webp"
+            "https://script.bloodontheclocktower.com/assets/politician_g-CXCSDrvE.webp",
+            "https://script.bloodontheclocktower.com/assets/politician_e-CRiP_Thj.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1759,8 +1759,8 @@
         "name": "Zealot",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/zealot_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/zealot_e.webp"
+            "https://script.bloodontheclocktower.com/assets/zealot_g-D94u8jin.webp",
+            "https://script.bloodontheclocktower.com/assets/zealot_e-DoDEvVGE.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1772,8 +1772,8 @@
         "name": "Damsel",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/damsel_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/damsel_e.webp"
+            "https://script.bloodontheclocktower.com/assets/damsel_g-NwMWC09c.webp",
+            "https://script.bloodontheclocktower.com/assets/damsel_e-fpsIFV1Z.webp"
         ],
         "team": "outsider",
         "firstNight": 50,
@@ -1792,8 +1792,8 @@
         "name": "Snitch",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/snitch_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/snitch_e.webp"
+            "https://script.bloodontheclocktower.com/assets/snitch_g-D_RNpbcY.webp",
+            "https://script.bloodontheclocktower.com/assets/snitch_e-yBlnGiGd.webp"
         ],
         "team": "outsider",
         "firstNight": 21,
@@ -1807,8 +1807,8 @@
         "name": "Heretic",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/heretic_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/heretic_e.webp"
+            "https://script.bloodontheclocktower.com/assets/heretic_g-DKZZAGQ8.webp",
+            "https://script.bloodontheclocktower.com/assets/heretic_e-EZ4S5b8y.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1846,8 +1846,8 @@
         "name": "Puzzlemaster",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/puzzlemaster_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/puzzlemaster_e.webp"
+            "https://script.bloodontheclocktower.com/assets/puzzlemaster_g-C7roEIMq.webp",
+            "https://script.bloodontheclocktower.com/assets/puzzlemaster_e-BeIjkcep.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1863,8 +1863,8 @@
         "name": "Mezepheles",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/mezepheles_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/mezepheles_g.webp"
+            "https://script.bloodontheclocktower.com/assets/mezepheles_e-B7tfHUqC.webp",
+            "https://script.bloodontheclocktower.com/assets/mezepheles_g-DlDB5-jk.webp"
         ],
         "team": "minion",
         "firstNight": 46,
@@ -1884,8 +1884,8 @@
         "name": "Godfather",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/godfather_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/godfather_g.webp"
+            "https://script.bloodontheclocktower.com/assets/godfather_e-CszxqtFl.webp",
+            "https://script.bloodontheclocktower.com/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
         "firstNight": 38,
@@ -1905,8 +1905,8 @@
         "name": "Poisoner",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/poisoner_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/poisoner_g.webp"
+            "https://script.bloodontheclocktower.com/assets/poisoner_e-Usf7TcoY.webp",
+            "https://script.bloodontheclocktower.com/assets/poisoner_g-DHNIHhxZ.webp"
         ],
         "team": "minion",
         "firstNight": 33,
@@ -1925,8 +1925,8 @@
         "name": "Devil's Advocate",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/devilsadvocate_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/devilsadvocate_g.webp"
+            "https://script.bloodontheclocktower.com/assets/devilsadvocate_e-6olcm7Cx.webp",
+            "https://script.bloodontheclocktower.com/assets/devilsadvocate_g-DeyJHzxG.webp"
         ],
         "team": "minion",
         "firstNight": 40,
@@ -1945,8 +1945,8 @@
         "name": "Spy",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/spy_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/spy_g.webp"
+            "https://script.bloodontheclocktower.com/assets/spy_e-DU0tdGGe.webp",
+            "https://script.bloodontheclocktower.com/assets/spy_g-7hnV_AFT.webp"
         ],
         "team": "minion",
         "firstNight": 72,
@@ -1983,8 +1983,8 @@
         "name": "Harpy",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/harpy_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/harpy_g.webp"
+            "https://script.bloodontheclocktower.com/assets/harpy_e-ChKTPCeL.webp",
+            "https://script.bloodontheclocktower.com/assets/harpy_g-Bp6VIdav.webp"
         ],
         "team": "minion",
         "firstNight": 45,
@@ -2004,8 +2004,8 @@
         "name": "Witch",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/witch_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/witch_g.webp"
+            "https://script.bloodontheclocktower.com/assets/witch_e-D4AS1R1Q.webp",
+            "https://script.bloodontheclocktower.com/assets/witch_g-CI6rg-Tb.webp"
         ],
         "team": "minion",
         "firstNight": 42,
@@ -2024,8 +2024,8 @@
         "name": "Cerenovus",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/cerenovus_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/cerenovus_g.webp"
+            "https://script.bloodontheclocktower.com/assets/cerenovus_e-ARmVZpWA.webp",
+            "https://script.bloodontheclocktower.com/assets/cerenovus_g-Dks6rbpA.webp"
         ],
         "team": "minion",
         "firstNight": 43,
@@ -2050,8 +2050,8 @@
         "name": "Fearmonger",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/fearmonger_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/fearmonger_g.webp"
+            "https://script.bloodontheclocktower.com/assets/fearmonger_e-RqyAUnj6.webp",
+            "https://script.bloodontheclocktower.com/assets/fearmonger_g-WdnstOgT.webp"
         ],
         "team": "minion",
         "firstNight": 44,
@@ -2070,8 +2070,8 @@
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/pithag_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/pithag_g.webp"
+            "https://script.bloodontheclocktower.com/assets/pithag_e-C9pUiUjt.webp",
+            "https://script.bloodontheclocktower.com/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
         "otherNight": 29,
@@ -2111,8 +2111,8 @@
         "name": "Psychopath",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/psychopath_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/psychopath_g.webp"
+            "https://script.bloodontheclocktower.com/assets/psychopath_e-CStA2Nbh.webp",
+            "https://script.bloodontheclocktower.com/assets/psychopath_g-YqeVVosZ.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2124,8 +2124,8 @@
         "name": "Assassin",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/assassin_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/assassin_g.webp"
+            "https://script.bloodontheclocktower.com/assets/assassin_e-BDitHnVO.webp",
+            "https://script.bloodontheclocktower.com/assets/assassin_g-D_zJwNaF.webp"
         ],
         "team": "minion",
         "otherNight": 56,
@@ -2143,8 +2143,8 @@
         "name": "Wizard",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/wizard_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/wizard_g.webp"
+            "https://script.bloodontheclocktower.com/assets/wizard_e-CkOtUevi.webp",
+            "https://script.bloodontheclocktower.com/assets/wizard_g-BCLi9Wt3.webp"
         ],
         "team": "minion",
         "firstNight": 36,
@@ -2164,8 +2164,8 @@
         "name": "Widow",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/widow_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/widow_g.webp"
+            "https://script.bloodontheclocktower.com/assets/widow_e-DGFTy37y.webp",
+            "https://script.bloodontheclocktower.com/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
         "firstNight": 34,
@@ -2200,8 +2200,8 @@
         "name": "Xaan",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/xaan_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/xaan_g.webp"
+            "https://script.bloodontheclocktower.com/assets/xaan_e-CkIqEKvE.webp",
+            "https://script.bloodontheclocktower.com/assets/xaan_g-BtfiSj2N.webp"
         ],
         "team": "minion",
         "firstNight": 32,
@@ -2223,8 +2223,8 @@
         "name": "Marionette",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/marionette_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/marionette_g.webp"
+            "https://script.bloodontheclocktower.com/assets/marionette_e-BVmqAITW.webp",
+            "https://script.bloodontheclocktower.com/assets/marionette_g-XJqVphtg.webp"
         ],
         "team": "minion",
         "firstNight": 27,
@@ -2273,8 +2273,8 @@
         "name": "Wraith",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/wraith_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/wraith_g.webp"
+            "https://script.bloodontheclocktower.com/assets/wraith_e-CRfpOd4V.webp",
+            "https://script.bloodontheclocktower.com/assets/wraith_g-DDErJKaT.webp"
         ],
         "team": "minion",
         "firstNight": 6,
@@ -2297,8 +2297,8 @@
         "name": "Summoner",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/summoner_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/summoner_g.webp"
+            "https://script.bloodontheclocktower.com/assets/summoner_e-Ce5RiRwu.webp",
+            "https://script.bloodontheclocktower.com/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
         "firstNight": 23,
@@ -2365,8 +2365,8 @@
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/eviltwin_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/eviltwin_g.webp"
+            "https://script.bloodontheclocktower.com/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://script.bloodontheclocktower.com/assets/eviltwin_g-DVXfIL-n.webp"
         ],
         "team": "minion",
         "firstNight": 41,
@@ -2383,8 +2383,8 @@
         "name": "Goblin",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/goblin_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/goblin_g.webp"
+            "https://script.bloodontheclocktower.com/assets/goblin_e-5zp-L7ts.webp",
+            "https://script.bloodontheclocktower.com/assets/goblin_g-Dm3DHjuy.webp"
         ],
         "team": "minion",
         "reminders": [
@@ -2399,8 +2399,8 @@
         "name": "Boomdandy",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/boomdandy_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/boomdandy_g.webp"
+            "https://script.bloodontheclocktower.com/assets/boomdandy_e-S13eahkU.webp",
+            "https://script.bloodontheclocktower.com/assets/boomdandy_g-DOTwgB8d.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2419,8 +2419,8 @@
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/mastermind_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/mastermind_g.webp"
+            "https://script.bloodontheclocktower.com/assets/mastermind_e-lwTDvV6G.webp",
+            "https://script.bloodontheclocktower.com/assets/mastermind_g-BzBbXNuB.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2438,8 +2438,8 @@
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/scarletwoman_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/scarletwoman_g.webp"
+            "https://script.bloodontheclocktower.com/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://script.bloodontheclocktower.com/assets/scarletwoman_g-CM50XIwn.webp"
         ],
         "team": "minion",
         "otherNight": 33,
@@ -2466,8 +2466,8 @@
         "name": "Vizier",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/vizier_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/vizier_g.webp"
+            "https://script.bloodontheclocktower.com/assets/vizier_e-CR5iBAo1.webp",
+            "https://script.bloodontheclocktower.com/assets/vizier_g-CKNiI-8C.webp"
         ],
         "team": "minion",
         "firstNight": 80,
@@ -2511,8 +2511,8 @@
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/organgrinder_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/organgrinder_g.webp"
+            "https://script.bloodontheclocktower.com/assets/organgrinder_e-EGmGGCZJ.webp",
+            "https://script.bloodontheclocktower.com/assets/organgrinder_g-WFPK_p_x.webp"
         ],
         "team": "minion",
         "firstNight": 39,
@@ -2538,8 +2538,8 @@
         "name": "Boffin",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/boffin_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/boffin_g.webp"
+            "https://script.bloodontheclocktower.com/assets/boffin_e-Bks9yuea.webp",
+            "https://script.bloodontheclocktower.com/assets/boffin_g-lws0h7cM.webp"
         ],
         "team": "minion",
         "firstNight": 13,
@@ -2583,8 +2583,8 @@
         "name": "Baron",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/baron_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/baron_g.webp"
+            "https://script.bloodontheclocktower.com/assets/baron_e-CH4q2C6-.webp",
+            "https://script.bloodontheclocktower.com/assets/baron_g-DSaQcH7D.webp"
         ],
         "team": "minion",
         "setup": true,
@@ -2596,8 +2596,8 @@
         "name": "Yaggababble",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/yaggababble_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/yaggababble_g.webp"
+            "https://script.bloodontheclocktower.com/assets/yaggababble_e-rNTFzBKi.webp",
+            "https://script.bloodontheclocktower.com/assets/yaggababble_g-CPSh-7bE.webp"
         ],
         "team": "demon",
         "firstNight": 17,
@@ -2624,8 +2624,8 @@
         "name": "Pukka",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/pukka_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/pukka_g.webp"
+            "https://script.bloodontheclocktower.com/assets/pukka_e-CmZzVHPM.webp",
+            "https://script.bloodontheclocktower.com/assets/pukka_g-D7il5SFF.webp"
         ],
         "team": "demon",
         "firstNight": 47,
@@ -2646,8 +2646,8 @@
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lilmonsta_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lilmonsta_g.webp"
+            "https://script.bloodontheclocktower.com/assets/lilmonsta_e-cdABFMUI.webp",
+            "https://script.bloodontheclocktower.com/assets/lilmonsta_g-DD3Lbp-C.webp"
         ],
         "team": "demon",
         "firstNight": 30,
@@ -2705,8 +2705,8 @@
         "name": "No Dashii",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/nodashii_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/nodashii_g.webp"
+            "https://script.bloodontheclocktower.com/assets/nodashii_e-Dt8UO6rj.webp",
+            "https://script.bloodontheclocktower.com/assets/nodashii_g-jI2LJQhL.webp"
         ],
         "team": "demon",
         "otherNight": 46,
@@ -2725,8 +2725,8 @@
         "name": "Imp",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/imp_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/imp_g.webp"
+            "https://script.bloodontheclocktower.com/assets/imp_e-DNpveOPY.webp",
+            "https://script.bloodontheclocktower.com/assets/imp_g-D-G7pJEY.webp"
         ],
         "team": "demon",
         "otherNight": 40,
@@ -2743,8 +2743,8 @@
         "name": "Shabaloth",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/shabaloth_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/shabaloth_g.webp"
+            "https://script.bloodontheclocktower.com/assets/shabaloth_e-DsCO_Txn.webp",
+            "https://script.bloodontheclocktower.com/assets/shabaloth_g-BUwNFN-9.webp"
         ],
         "team": "demon",
         "otherNight": 43,
@@ -2763,8 +2763,8 @@
         "name": "Ojo",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ojo_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ojo_g.webp"
+            "https://script.bloodontheclocktower.com/assets/ojo_e-BwP-O6LJ.webp",
+            "https://script.bloodontheclocktower.com/assets/ojo_g-jY2iz8BT.webp"
         ],
         "team": "demon",
         "otherNight": 50,
@@ -2781,8 +2781,8 @@
         "name": "Kazali",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/kazali_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/kazali_g.webp"
+            "https://script.bloodontheclocktower.com/assets/kazali_e-Bhxi3sLd.webp",
+            "https://script.bloodontheclocktower.com/assets/kazali_g-BZsxV8YM.webp"
         ],
         "team": "demon",
         "firstNight": 8,
@@ -2801,8 +2801,8 @@
         "name": "Po",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/po_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/po_g.webp"
+            "https://script.bloodontheclocktower.com/assets/po_e-BkxsM_xT.webp",
+            "https://script.bloodontheclocktower.com/assets/po_g-blqsHHpB.webp"
         ],
         "team": "demon",
         "otherNight": 44,
@@ -2822,8 +2822,8 @@
         "name": "Zombuul",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/zombuul_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/zombuul_g.webp"
+            "https://script.bloodontheclocktower.com/assets/zombuul_e-DzySLzke.webp",
+            "https://script.bloodontheclocktower.com/assets/zombuul_g-B4MTwk5-.webp"
         ],
         "team": "demon",
         "otherNight": 41,
@@ -2841,8 +2841,8 @@
         "name": "Vigormortis",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/vigormortis_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/vigormortis_g.webp"
+            "https://script.bloodontheclocktower.com/assets/vigormortis_e-0VJIslwJ.webp",
+            "https://script.bloodontheclocktower.com/assets/vigormortis_g-DP1UY2Jk.webp"
         ],
         "team": "demon",
         "otherNight": 49,
@@ -2865,8 +2865,8 @@
         "name": "Vortox",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/vortox_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/vortox_g.webp"
+            "https://script.bloodontheclocktower.com/assets/vortox_e-CI-Cd8aG.webp",
+            "https://script.bloodontheclocktower.com/assets/vortox_g-w20-Mdd8.webp"
         ],
         "team": "demon",
         "otherNight": 47,
@@ -2889,8 +2889,8 @@
         "name": "Legion",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/legion_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/legion_g.webp"
+            "https://script.bloodontheclocktower.com/assets/legion_e-DyzBzM4-.webp",
+            "https://script.bloodontheclocktower.com/assets/legion_g-B4S3Jf4H.webp"
         ],
         "team": "demon",
         "otherNight": 39,
@@ -2944,8 +2944,8 @@
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/fanggu_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/fanggu_g.webp"
+            "https://script.bloodontheclocktower.com/assets/fanggu_e-6DavSWxL.webp",
+            "https://script.bloodontheclocktower.com/assets/fanggu_g-Dwai_VtD.webp"
         ],
         "team": "demon",
         "otherNight": 45,
@@ -2963,8 +2963,8 @@
         "name": "Lord of Typhon",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lordoftyphon_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lordoftyphon_g.webp"
+            "https://script.bloodontheclocktower.com/assets/lordoftyphon_e-DbP_44G8.webp",
+            "https://script.bloodontheclocktower.com/assets/lordoftyphon_g-CHKJk_1t.webp"
         ],
         "team": "demon",
         "firstNight": 7,
@@ -2983,8 +2983,8 @@
         "name": "Lleech",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lleech_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/lleech_g.webp"
+            "https://script.bloodontheclocktower.com/assets/lleech_e-DzN_r6Yd.webp",
+            "https://script.bloodontheclocktower.com/assets/lleech_g-CSTCwFJh.webp"
         ],
         "team": "demon",
         "firstNight": 31,
@@ -3014,8 +3014,8 @@
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alhadikhia_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/alhadikhia_g.webp"
+            "https://script.bloodontheclocktower.com/assets/alhadikhia_e-D6XyyVmp.webp",
+            "https://script.bloodontheclocktower.com/assets/alhadikhia_g-BggSDiOq.webp"
         ],
         "team": "demon",
         "otherNight": 51,
@@ -3044,8 +3044,8 @@
         "name": "Riot",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/riot_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/riot_g.webp"
+            "https://script.bloodontheclocktower.com/assets/riot_e-DKD9x_C8.webp",
+            "https://script.bloodontheclocktower.com/assets/riot_g-B3TDQj13.webp"
         ],
         "team": "demon",
         "otherNight": 97,
@@ -3114,8 +3114,8 @@
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/leviathan_e.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/leviathan_g.webp"
+            "https://script.bloodontheclocktower.com/assets/leviathan_e-DvtMvt2q.webp",
+            "https://script.bloodontheclocktower.com/assets/leviathan_g-DnoVSKUH.webp"
         ],
         "team": "demon",
         "firstNight": 79,
@@ -3193,9 +3193,9 @@
         "name": "Thief",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/thief.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/thief_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/thief_e.webp"
+            "https://script.bloodontheclocktower.com/assets/thief-DWMyBS_x.webp",
+            "https://script.bloodontheclocktower.com/assets/thief_g-CPsEnUSQ.webp",
+            "https://script.bloodontheclocktower.com/assets/thief_e-yPbPTo5i.webp"
         ],
         "team": "traveller",
         "firstNight": 12,
@@ -3221,9 +3221,9 @@
         "name": "Bureaucrat",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/bureaucrat.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/bureaucrat_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/bureaucrat_e.webp"
+            "https://script.bloodontheclocktower.com/assets/bureaucrat-C7wkPXRS.webp",
+            "https://script.bloodontheclocktower.com/assets/bureaucrat_g-CyJZqBNe.webp",
+            "https://script.bloodontheclocktower.com/assets/bureaucrat_e-Bmh-G0_a.webp"
         ],
         "team": "traveller",
         "firstNight": 11,
@@ -3249,9 +3249,9 @@
         "name": "Barista",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/barista.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/barista_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/barista_e.webp"
+            "https://script.bloodontheclocktower.com/assets/barista-9RUmOrIt.webp",
+            "https://script.bloodontheclocktower.com/assets/barista_g-IYOwLzUb.webp",
+            "https://script.bloodontheclocktower.com/assets/barista_e-dh62LsHj.webp"
         ],
         "team": "traveller",
         "firstNight": 10,
@@ -3273,9 +3273,9 @@
         "name": "Harlot",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/harlot.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/harlot_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/harlot_e.webp"
+            "https://script.bloodontheclocktower.com/assets/harlot-aJaTZULk.webp",
+            "https://script.bloodontheclocktower.com/assets/harlot_g-DfGUnLek.webp",
+            "https://script.bloodontheclocktower.com/assets/harlot_e-CDyE0Kdh.webp"
         ],
         "team": "traveller",
         "otherNight": 9,
@@ -3293,9 +3293,9 @@
         "name": "Butcher",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/butcher.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/butcher_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/butcher_e.webp"
+            "https://script.bloodontheclocktower.com/assets/butcher-COYeTS3-.webp",
+            "https://script.bloodontheclocktower.com/assets/butcher_g-BqDe54Mz.webp",
+            "https://script.bloodontheclocktower.com/assets/butcher_e-BvZvHE-0.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3307,9 +3307,9 @@
         "name": "Cacklejack",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cacklejack.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cacklejack_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/cacklejack_e.webp"
+            "https://script.bloodontheclocktower.com/assets/cacklejack-DLjP2vpy.webp",
+            "https://script.bloodontheclocktower.com/assets/cacklejack_g-D7trNfLk.webp",
+            "https://script.bloodontheclocktower.com/assets/cacklejack_e-DIhvXgOD.webp"
         ],
         "team": "traveller",
         "otherNight": 5,
@@ -3326,9 +3326,9 @@
         "name": "Gunslinger",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/gunslinger.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/gunslinger_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/gunslinger_e.webp"
+            "https://script.bloodontheclocktower.com/assets/gunslinger-wipgFlby.webp",
+            "https://script.bloodontheclocktower.com/assets/gunslinger_g-CKzyQCHC.webp",
+            "https://script.bloodontheclocktower.com/assets/gunslinger_e-DCPdRPrm.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3340,9 +3340,9 @@
         "name": "Matron",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/matron.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/matron_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/matron_e.webp"
+            "https://script.bloodontheclocktower.com/assets/matron-D4Vegu5w.webp",
+            "https://script.bloodontheclocktower.com/assets/matron_g-faTHHRCk.webp",
+            "https://script.bloodontheclocktower.com/assets/matron_e-i60IfjWL.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3354,9 +3354,9 @@
         "name": "Gangster",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gangster.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gangster_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gangster_e.webp"
+            "https://script.bloodontheclocktower.com/assets/gangster-B_sTmUJn.webp",
+            "https://script.bloodontheclocktower.com/assets/gangster_g-CA0UOV4w.webp",
+            "https://script.bloodontheclocktower.com/assets/gangster_e-DCxm-xho.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3368,9 +3368,9 @@
         "name": "Bone Collector",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/bonecollector.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/bonecollector_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/bonecollector_e.webp"
+            "https://script.bloodontheclocktower.com/assets/bonecollector-CEqnpjbS.webp",
+            "https://script.bloodontheclocktower.com/assets/bonecollector_g-DBlHdEjU.webp",
+            "https://script.bloodontheclocktower.com/assets/bonecollector_e-CIpytarz.webp"
         ],
         "team": "traveller",
         "otherNight": 10,
@@ -3388,9 +3388,9 @@
         "name": "Judge",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/judge.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/judge_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/judge_e.webp"
+            "https://script.bloodontheclocktower.com/assets/judge-Df7wYZLu.webp",
+            "https://script.bloodontheclocktower.com/assets/judge_g-CJbFZ44x.webp",
+            "https://script.bloodontheclocktower.com/assets/judge_e-jGAdrE7z.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3405,9 +3405,9 @@
         "name": "Apprentice",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/apprentice.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/apprentice_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/apprentice_e.webp"
+            "https://script.bloodontheclocktower.com/assets/apprentice-Dq5aGiYi.webp",
+            "https://script.bloodontheclocktower.com/assets/apprentice_g-qVS2q4bN.webp",
+            "https://script.bloodontheclocktower.com/assets/apprentice_e-BEpvFWvS.webp"
         ],
         "team": "traveller",
         "firstNight": 9,
@@ -3431,9 +3431,9 @@
         "name": "Beggar",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/beggar.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/beggar_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/beggar_e.webp"
+            "https://script.bloodontheclocktower.com/assets/beggar-BpoW7fsL.webp",
+            "https://script.bloodontheclocktower.com/assets/beggar_g-Cn5PE4nQ.webp",
+            "https://script.bloodontheclocktower.com/assets/beggar_e-C3_HD_se.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3445,9 +3445,9 @@
         "name": "Deviant",
         "edition": "snv",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/deviant.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/deviant_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/snv/deviant_e.webp"
+            "https://script.bloodontheclocktower.com/assets/deviant-DLaJy91u.webp",
+            "https://script.bloodontheclocktower.com/assets/deviant_g-Bbk8K2ZR.webp",
+            "https://script.bloodontheclocktower.com/assets/deviant_e-D0QU1Y2Y.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3459,9 +3459,9 @@
         "name": "Scapegoat",
         "edition": "tb",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/scapegoat.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/scapegoat_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/tb/scapegoat_e.webp"
+            "https://script.bloodontheclocktower.com/assets/scapegoat-rhlm_MDq.webp",
+            "https://script.bloodontheclocktower.com/assets/scapegoat_g-CrL8fHff.webp",
+            "https://script.bloodontheclocktower.com/assets/scapegoat_e-BFRtmmYo.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3473,9 +3473,9 @@
         "name": "Gnome",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gnome.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gnome_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/gnome_e.webp"
+            "https://script.bloodontheclocktower.com/assets/gnome-BVlHOkWi.webp",
+            "https://script.bloodontheclocktower.com/assets/gnome_g-BpCqTusW.webp",
+            "https://script.bloodontheclocktower.com/assets/gnome_e-DTU6TQnj.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3490,9 +3490,9 @@
         "name": "Bishop",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/bishop.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/bishop_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/bishop_e.webp"
+            "https://script.bloodontheclocktower.com/assets/bishop-LYgE69Ju.webp",
+            "https://script.bloodontheclocktower.com/assets/bishop_g-DdZW0SpA.webp",
+            "https://script.bloodontheclocktower.com/assets/bishop_e-CvwvjoUI.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3508,9 +3508,9 @@
         "name": "Voudon",
         "edition": "bmr",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/voudon.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/voudon_g.webp",
-            "https://script.bloodontheclocktower.com/src/assets/icons/bmr/voudon_e.webp"
+            "https://script.bloodontheclocktower.com/assets/voudon-CNiyV0sS.webp",
+            "https://script.bloodontheclocktower.com/assets/voudon_g-D-tbnf_D.webp",
+            "https://script.bloodontheclocktower.com/assets/voudon_e-D9qWXIyp.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3522,7 +3522,7 @@
         "name": "Zenomancer",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/zenomancer.webp"
+            "https://script.bloodontheclocktower.com/assets/zenomancer-C6zEtMpb.webp"
         ],
         "reminders": [
             "Goal",
@@ -3539,7 +3539,7 @@
         "name": "God of Ug",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/godofug.webp"
+            "https://script.bloodontheclocktower.com/assets/godofug-BXMzwd9N.webp"
         ],
         "team": "loric",
         "reminders": [
@@ -3565,7 +3565,7 @@
         "name": "Ventriloquist",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/ventriloquist.webp"
+            "https://script.bloodontheclocktower.com/assets/ventriloquist-DuObucyt.webp"
         ],
         "reminders": [
             "Mad"
@@ -3580,7 +3580,7 @@
         "name": "Gardener",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/gardener.webp"
+            "https://script.bloodontheclocktower.com/assets/gardener-bN2NyxCQ.webp"
         ],
         "team": "loric",
         "setup": true,
@@ -3599,7 +3599,7 @@
         "name": "Pope",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/pope.webp"
+            "https://script.bloodontheclocktower.com/assets/pope-CXG7C3oM.webp"
         ],
         "team": "loric",
         "setup": true,
@@ -3611,8 +3611,8 @@
                 "type": "selection"
             },
             {
-                "type": "selection",
-                "name": "good-duplicate"
+                "name": "good-duplicate",
+                "type": "selection"
             }
         ]
     },
@@ -3621,7 +3621,7 @@
         "name": "Hindu",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/hindu.webp"
+            "https://script.bloodontheclocktower.com/assets/hindu-B0td_trJ.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3633,7 +3633,7 @@
         "name": "Knaves",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/knaves.webp"
+            "https://script.bloodontheclocktower.com/assets/knaves-BqPUqw36.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3645,7 +3645,7 @@
         "name": "Tor",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/tor.webp"
+            "https://script.bloodontheclocktower.com/assets/tor-DkO8A08D.webp"
         ],
         "team": "loric",
         "firstNight": 19,
@@ -3661,7 +3661,7 @@
         "name": "Bootlegger",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/bootlegger.webp"
+            "https://script.bloodontheclocktower.com/assets/bootlegger-C8RQSLk-.webp"
         ],
         "team": "loric",
         "reminders": [
@@ -3677,7 +3677,7 @@
         "name": "Storm Catcher",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/stormcatcher.webp"
+            "https://script.bloodontheclocktower.com/assets/stormcatcher-BrRaIVgM.webp"
         ],
         "team": "loric",
         "firstNight": 5,
@@ -3694,7 +3694,7 @@
         "name": "Big Wig",
         "edition": "loric",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/loric/bigwig.webp"
+            "https://script.bloodontheclocktower.com/assets/bigwig-BSza_a7D.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3706,7 +3706,7 @@
         "name": "Duchess",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/duchess.webp"
+            "https://script.bloodontheclocktower.com/assets/duchess-CHpS7XMx.webp"
         ],
         "team": "fabled",
         "otherNight": 2,
@@ -3725,7 +3725,7 @@
         "name": "Fibbin",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/fibbin.webp"
+            "https://script.bloodontheclocktower.com/assets/fibbin-MpVC8JVg.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3740,7 +3740,7 @@
         "name": "Fiddler",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/fiddler.webp"
+            "https://script.bloodontheclocktower.com/assets/fiddler-DlAFGPhN.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3759,7 +3759,7 @@
         "name": "Ferryman",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/ferryman.webp"
+            "https://script.bloodontheclocktower.com/assets/ferryman-B8DIdDH1.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3778,7 +3778,7 @@
         "name": "Doomsayer",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/doomsayer.webp"
+            "https://script.bloodontheclocktower.com/assets/doomsayer-tGT5Bk_R.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3790,7 +3790,7 @@
         "name": "Spirit of Ivory",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/spiritofivory.webp"
+            "https://script.bloodontheclocktower.com/assets/spiritofivory-8gBtDAQc.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3805,7 +3805,7 @@
         "name": "Sentinel",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/sentinel.webp"
+            "https://script.bloodontheclocktower.com/assets/sentinel-BaOVo1PE.webp"
         ],
         "team": "fabled",
         "setup": true,
@@ -3817,7 +3817,7 @@
         "name": "Toymaker",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/toymaker.webp"
+            "https://script.bloodontheclocktower.com/assets/toymaker-DnUyVGxn.webp"
         ],
         "team": "fabled",
         "firstNight": 4,
@@ -3836,7 +3836,7 @@
         "name": "Djinn",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/djinn.webp"
+            "https://script.bloodontheclocktower.com/assets/djinn-SYNTW9dK.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3848,7 +3848,7 @@
         "name": "Buddhist",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/buddhist.webp"
+            "https://script.bloodontheclocktower.com/assets/buddhist-BTncsaTX.webp"
         ],
         "team": "fabled",
         "firstNight": 3,
@@ -3862,7 +3862,7 @@
         "name": "Hell's Librarian",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/hellslibrarian.webp"
+            "https://script.bloodontheclocktower.com/assets/hellslibrarian-DfbmTvS9.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3877,7 +3877,7 @@
         "name": "Angel",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/angel.webp"
+            "https://script.bloodontheclocktower.com/assets/angel-Ayuhu7Hq.webp"
         ],
         "team": "fabled",
         "firstNight": 2,
@@ -3896,7 +3896,7 @@
         "name": "Deus ex Fiasco",
         "edition": "carousel",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/carousel/deusexfiasco.webp"
+            "https://script.bloodontheclocktower.com/assets/deusexfiasco-C-oc4vaU.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3911,7 +3911,7 @@
         "name": "Revolutionary",
         "edition": "fabled",
         "image": [
-            "https://script.bloodontheclocktower.com/src/assets/icons/fabled/revolutionary.webp"
+            "https://script.bloodontheclocktower.com/assets/revolutionary-D1FL8eUK.webp"
         ],
         "team": "fabled",
         "reminders": [
