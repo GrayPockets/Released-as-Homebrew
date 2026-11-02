@@ -1,4 +1,6 @@
 # Changelog
+## 1.15.1
+* Correct Almanac entry for Sects & Violets.
 ## 1.15.0
 * Script tool sourced image urls
 ## 1.14.2
