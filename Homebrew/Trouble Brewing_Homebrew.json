@@ -7,11 +7,11 @@
         "hideTitle": true,
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat_tb","thief_tb","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat_tb","thief_tb","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp_tb","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","apprentice","barista","minioninfo","demoninfo","homebrewtroublebrewingpoisoner","homebrewtroublebrewingspy","homebrewtroublebrewingwasherwoman","homebrewtroublebrewinglibrarian","homebrewtroublebrewinginvestigator","homebrewtroublebrewingchef","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","homebrewtroublebrewingpoisoner","homebrewtroublebrewingmonk","homebrewtroublebrewingspy","homebrewtroublebrewingscarletwoman","homebrewtroublebrewingimp","tor","homebrewtroublebrewingravenkeeper","homebrewtroublebrewingundertaker","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"]
     },
     {
-        "id": "washerwoman_tb",
+        "id": "homebrewtroublebrewingwasherwoman",
         "name": "Washerwoman",
         "edition": "tb",
         "image": [
@@ -30,7 +30,7 @@
         "flavor": "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
     },
     {
-        "id": "librarian_tb",
+        "id": "homebrewtroublebrewinglibrarian",
         "name": "Librarian",
         "edition": "tb",
         "image": [
@@ -49,7 +49,7 @@
         "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
     },
     {
-        "id": "investigator_tb",
+        "id": "homebrewtroublebrewinginvestigator",
         "name": "Investigator",
         "edition": "tb",
         "image": [
@@ -68,7 +68,7 @@
         "flavor": "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
     },
     {
-        "id": "chef_tb",
+        "id": "homebrewtroublebrewingchef",
         "name": "Chef",
         "edition": "tb",
         "image": [
@@ -83,7 +83,7 @@
         "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
     },
     {
-        "id": "empath_tb",
+        "id": "homebrewtroublebrewingempath",
         "name": "Empath",
         "edition": "tb",
         "image": [
@@ -100,7 +100,7 @@
         "flavor": "My skin prickles. Something is not right here. I can feel it."
     },
     {
-        "id": "fortuneteller_tb",
+        "id": "homebrewtroublebrewingfortuneteller",
         "name": "Fortune Teller",
         "edition": "tb",
         "image": [
@@ -120,7 +120,7 @@
         "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
     },
     {
-        "id": "undertaker_tb",
+        "id": "homebrewtroublebrewingundertaker",
         "name": "Undertaker",
         "edition": "tb",
         "image": [
@@ -138,7 +138,7 @@
         "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
     },
     {
-        "id": "monk_tb",
+        "id": "homebrewtroublebrewingmonk",
         "name": "Monk",
         "edition": "tb",
         "image": [
@@ -156,7 +156,7 @@
         "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
     },
     {
-        "id": "ravenkeeper_tb",
+        "id": "homebrewtroublebrewingravenkeeper",
         "name": "Ravenkeeper",
         "edition": "tb",
         "image": [
@@ -171,7 +171,7 @@
         "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
     },
     {
-        "id": "virgin_tb",
+        "id": "homebrewtroublebrewingvirgin",
         "name": "Virgin",
         "edition": "tb",
         "image": [
@@ -187,7 +187,7 @@
         "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
     },
     {
-        "id": "slayer_tb",
+        "id": "homebrewtroublebrewingslayer",
         "name": "Slayer",
         "edition": "tb",
         "image": [
@@ -203,7 +203,7 @@
         "flavor": "Die."
     },
     {
-        "id": "soldier_tb",
+        "id": "homebrewtroublebrewingsoldier",
         "name": "Soldier",
         "edition": "tb",
         "image": [
@@ -216,7 +216,7 @@
         "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
     },
     {
-        "id": "mayor_tb",
+        "id": "homebrewtroublebrewingmayor",
         "name": "Mayor",
         "edition": "tb",
         "image": [
@@ -229,7 +229,7 @@
         "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
     },
     {
-        "id": "butler_tb",
+        "id": "homebrewtroublebrewingbutler",
         "name": "Butler",
         "edition": "tb",
         "image": [
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "id": "drunk_tb",
+        "id": "homebrewtroublebrewingdrunk",
         "name": "Drunk",
         "edition": "tb",
         "image": [
@@ -281,7 +281,7 @@
         ]
     },
     {
-        "id": "recluse_rah",
+        "id": "homebrewrecluse",
         "name": "Recluse",
         "edition": "tb",
         "image": [
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "id": "saint_tb",
+        "id": "homebrewtroublebrewingsaint",
         "name": "Saint",
         "edition": "tb",
         "image": [
@@ -317,7 +317,7 @@
         "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
     },
     {
-        "id": "poisoner_tb",
+        "id": "homebrewtroublebrewingpoisoner",
         "name": "Poisoner",
         "edition": "tb",
         "image": [
@@ -337,7 +337,7 @@
         "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
     },
     {
-        "id": "spy_tb",
+        "id": "homebrewtroublebrewingspy",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -375,7 +375,7 @@
         ]
     },
     {
-        "id": "scarletwoman_tb",
+        "id": "homebrewtroublebrewingscarletwoman",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "id": "baron_tb",
+        "id": "homebrewtroublebrewingbaron",
         "name": "Baron",
         "edition": "tb",
         "image": [
@@ -416,7 +416,7 @@
         "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
     },
     {
-        "id": "imp_tb",
+        "id": "homebrewtroublebrewingimp",
         "name": "Imp",
         "edition": "tb",
         "image": [
@@ -434,7 +434,7 @@
         "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
     },
     {
-        "id": "bureaucrat_tb",
+        "id": "homebrewtroublebrewingbureaucrat",
         "name": "Bureaucrat",
         "edition": "tb",
         "image": [
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "id": "thief_tb",
+        "id": "homebrewtroublebrewingthief",
         "name": "Thief",
         "edition": "tb",
         "image": [
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "id": "gunslinger_tb",
+        "id": "homebrewtroublebrewinggunslinger",
         "name": "Gunslinger",
         "edition": "tb",
         "image": [
@@ -504,7 +504,7 @@
         "flavor": "It's time someone took matters into their own hands. That someone... is me."
     },
     {
-        "id": "scapegoat_tb",
+        "id": "homebrewtroublebrewingscapegoat",
         "name": "Scapegoat",
         "edition": "tb",
         "image": [
@@ -518,7 +518,7 @@
         "flavor": "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
     },
     {
-        "id": "beggar_tb",
+        "id": "homebrewtroublebrewingbeggar",
         "name": "Beggar",
         "edition": "tb",
         "image": [

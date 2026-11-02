@@ -6,7 +6,7 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "yaggababble_gah_20240302",
+        "id": "grognardyaggababble20240302",
         "name": "Yaggababble",
         "edition": "carousel",
         "image": [
@@ -28,7 +28,7 @@
         "flavor": "Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"
     },
     {
-        "id": "lilmonsta_gah_20251103",
+        "id": "grognardlilmonsta20251103",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20250725",
+        "id": "grognardlilmonsta20250725",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20250303",
+        "id": "grognardlilmonsta20250303",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20241102",
+        "id": "grognardlilmonsta20241102",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20240627",
+        "id": "grognardlilmonsta20240627",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20231212",
+        "id": "grognardlilmonsta20231212",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -370,7 +370,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20231201",
+        "id": "grognardlilmonsta20231201",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -421,7 +421,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20230510",
+        "id": "grognardlilmonsta20230510",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "id": "lilmonsta_gah_20230428",
+        "id": "grognardlilmonsta20230428",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
@@ -501,7 +501,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20251103",
+        "id": "grognardkazali20251103",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -543,7 +543,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20241206",
+        "id": "grognardkazali20241206",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -589,7 +589,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20241018",
+        "id": "grognardkazali20241018",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -635,7 +635,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20240627",
+        "id": "grognardkazali20240627",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -677,7 +677,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20240515",
+        "id": "grognardkazali20240515",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -723,7 +723,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20240322",
+        "id": "grognardkazali20240322",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -765,7 +765,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20240125",
+        "id": "grognardkazali20240125",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -807,7 +807,7 @@
         ]
     },
     {
-        "id": "kazali_gah_20240102",
+        "id": "grognardkazali20240102",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
@@ -827,7 +827,7 @@
         "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
     },
     {
-        "id": "vortox_gah_20251118",
+        "id": "grognardvortox20251118",
         "name": "Vortox",
         "edition": "snv",
         "image": [
@@ -851,7 +851,7 @@
         ]
     },
     {
-        "id": "vortox_gah_20240425",
+        "id": "grognardvortox20240425",
         "name": "Vortox",
         "edition": "snv",
         "image": [
@@ -869,7 +869,7 @@
         "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."
     },
     {
-        "id": "legion_gah_20251118",
+        "id": "grognardlegion20251118",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -920,7 +920,7 @@
         ]
     },
     {
-        "id": "legion_gah_20251103",
+        "id": "grognardlegion20251103",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -967,7 +967,7 @@
         ]
     },
     {
-        "id": "legion_gah_20241207",
+        "id": "grognardlegion20241207",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1014,7 +1014,7 @@
         ]
     },
     {
-        "id": "legion_gah_20240725",
+        "id": "grognardlegion20240725",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1057,7 +1057,7 @@
         ]
     },
     {
-        "id": "legion_gah_20240627",
+        "id": "grognardlegion20240627",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1096,7 +1096,7 @@
         ]
     },
     {
-        "id": "legion_gah_20240515",
+        "id": "grognardlegion20240515",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1139,7 +1139,7 @@
         ]
     },
     {
-        "id": "legion_gah_20240322",
+        "id": "grognardlegion20240322",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1178,7 +1178,7 @@
         ]
     },
     {
-        "id": "legion_gah_20231201",
+        "id": "grognardlegion20231201",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1209,7 +1209,7 @@
         ]
     },
     {
-        "id": "legion_gah_20230428",
+        "id": "grognardlegion20230428",
         "name": "Legion",
         "edition": "carousel",
         "image": [
@@ -1234,7 +1234,7 @@
         ]
     },
     {
-        "id": "fanggu_gah_20241206",
+        "id": "grognardfanggu20241206",
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
@@ -1259,7 +1259,7 @@
         ]
     },
     {
-        "id": "fanggu_gah_20230428",
+        "id": "grognardfanggu20230428",
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
@@ -1278,7 +1278,7 @@
         "flavor": "Your walls and your weapons are but smoke in dreams."
     },
     {
-        "id": "lleech_gah_20251103",
+        "id": "grognardlleech20251103",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
@@ -1309,7 +1309,7 @@
         ]
     },
     {
-        "id": "lleech_gah_20241206",
+        "id": "grognardlleech20241206",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
@@ -1343,7 +1343,7 @@
             }
         ]
     },    {
-        "id": "lleech_gah_20240726",
+        "id": "grognardlleech20240726",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
@@ -1374,7 +1374,7 @@
         ]
     },
     {
-        "id": "lleech_gah_20240515",
+        "id": "grognardlleech20240515",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
@@ -1405,7 +1405,7 @@
         ]
     },
     {
-        "id": "lleech_gah_20230428",
+        "id": "grognardlleech20230428",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
@@ -1426,7 +1426,7 @@
         "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."
     },
     {
-        "id": "alhadikhia_gah_20251103",
+        "id": "grognardalhadikhia20251103",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1452,7 +1452,7 @@
         ]
     },
     {
-        "id": "alhadikhia_gah_20250623",
+        "id": "grognardalhadikhia20250623",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1472,7 +1472,7 @@
         "flavor": "Alsukut min dhahab."
     },
     {
-        "id": "alhadikhia_gah_20241206",
+        "id": "grognardalhadikhia20241206",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1498,7 +1498,7 @@
         ]
     },
     {
-        "id": "alhadikhia_gah_20240927",
+        "id": "grognardalhadikhia20240927",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1528,7 +1528,7 @@
         ]
     },
     {
-        "id": "alhadikhia_gah_20240627",
+        "id": "grognardalhadikhia20240627",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1558,7 +1558,7 @@
         ]
     },
     {
-        "id": "alhadikhia_gah_20240515",
+        "id": "grognardalhadikhia20240515",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1584,7 +1584,7 @@
         ]
     },
     {
-        "id": "alhadikhia_gah_20230428",
+        "id": "grognardalhadikhia20230428",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
@@ -1604,7 +1604,7 @@
         "flavor": "Alsukut min dhahab."
     },
     {
-        "id": "riot_gah_20251118",
+        "id": "grognardriot20251118",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -1670,7 +1670,7 @@
         ]
     },
     {
-        "id": "riot_gah_20241206",
+        "id": "grognardriot20241206",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -1810,7 +1810,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240725",
+        "id": "grognardriot20240725",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -1946,7 +1946,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240528",
+        "id": "grognardriot20240528",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2082,7 +2082,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240515",
+        "id": "grognardriot20240515",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2214,7 +2214,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240425",
+        "id": "grognardriot20240425",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2342,7 +2342,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240322",
+        "id": "grognardriot20240322",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2466,7 +2466,7 @@
         ]
     },
     {
-        "id": "riot_gah_20231201",
+        "id": "grognardriot20231201",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2586,7 +2586,7 @@
         ]
     },
     {
-        "id": "riot_gah_20240428",
+        "id": "grognardriot20240428",
         "name": "Riot",
         "edition": "carousel",
         "image": [
@@ -2604,7 +2604,7 @@
         "flavor": "Larga vida a la revolución! Mi revolucion!"
     },
     {
-        "id": "leviathan_gah_20251103",
+        "id": "grognardleviathan20251103",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2683,7 +2683,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20241206",
+        "id": "grognardleviathan20241206",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2750,7 +2750,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20240515",
+        "id": "grognardleviathan20240515",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2817,7 +2817,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20240425",
+        "id": "grognardleviathan20240425",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2880,7 +2880,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20231204",
+        "id": "grognardleviathan20231204",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2939,7 +2939,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20231201",
+        "id": "grognardleviathan20231201",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
@@ -2994,7 +2994,7 @@
         ]
     },
     {
-        "id": "leviathan_gah_20230428",
+        "id": "grognardleviathan20230428",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [

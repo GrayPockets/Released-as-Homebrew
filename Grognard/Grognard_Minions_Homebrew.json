@@ -6,7 +6,7 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "godfather_gah_20241206",
+        "id": "grognardgodfather20241206",
         "name": "Godfather",
         "edition": "bmr",
         "image": [
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "id": "godfather_gah_20240515",
+        "id": "grognardgodfather20240515",
         "name": "Godfather",
         "edition": "bmr",
         "image": [
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "godfather_gah_20230428",
+        "id": "grognardgodfather20230428",
         "name": "Godfather",
         "edition": "bmr",
         "image": [
@@ -81,7 +81,7 @@
         "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
     },
     {
-        "id": "spy_gah_20251118",
+        "id": "grognardspy20251118",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "id": "spy_gah_20250720",
+        "id": "grognardspy20250720",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "spy_gah_20250718",
+        "id": "grognardspy20250718",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "id": "spy_gah_20241206",
+        "id": "grognardspy20241206",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -261,7 +261,7 @@
         ]
     },
     {
-        "id": "spy_gah_20240515",
+        "id": "grognardspy20240515",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "id": "spy_gah_20240515",
+        "id": "grognardspy20240515",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -345,7 +345,7 @@
         ]
     },
     {
-        "id": "spy_gah_20230428",
+        "id": "grognardspy20230428",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -375,7 +375,7 @@
         ]
     },
     {
-        "id": "spy_gah_20230305",
+        "id": "grognardspy20230305",
         "name": "Spy",
         "edition": "tb",
         "image": [
@@ -399,7 +399,7 @@
         ]
     },
     {
-        "id": "harpy_gah_20240627",
+        "id": "grognardharpy20240627",
         "name": "Harpy",
         "edition": "carousel",
         "image": [
@@ -420,7 +420,7 @@
         "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me."
     },
     {
-        "id": "cerenovus_gah_20230428",
+        "id": "grognardcerenovus20230428",
         "name": "Cerenovus",
         "edition": "snv",
         "image": [
@@ -440,7 +440,7 @@
         "flavor": "Reality is merely an opinion. Specifically, my opinion."
     },
     {
-        "id": "fearmonger_gah_20241206",
+        "id": "grognardfearmonger20241206",
         "name": "Fearmonger",
         "edition": "carousel",
         "image": [
@@ -466,7 +466,7 @@
         ]
     },
     {
-        "id": "fearmonger_gah_20240515",
+        "id": "grognardfearmonger20240515",
         "name": "Fearmonger",
         "edition": "carousel",
         "image": [
@@ -486,7 +486,7 @@
         "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
     },
     {
-        "id": "pithag_gah_20241206",
+        "id": "grognardpithag20241206",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -531,7 +531,7 @@
         ]
     },
     {
-        "id": "pithag_gah_20240523",
+        "id": "grognardpithag20240523",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -572,7 +572,7 @@
         ]
     },
     {
-        "id": "pithag_gah_20240515",
+        "id": "grognardpithag20240515",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -609,7 +609,7 @@
         ]
     },
     {
-        "id": "pithag_gah_20240126",
+        "id": "grognardpithag20240126",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -642,7 +642,7 @@
         ]
     },
     {
-        "id": "pithag_gah_20230428",
+        "id": "grognardpithag20230428",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -663,7 +663,7 @@
         ]
     },
     {
-        "id": "pithag_gah_20230305",
+        "id": "grognardpithag20230305",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -678,7 +678,7 @@
         "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."
     },
     {
-        "id": "widow_gah_20251120",
+        "id": "grognardwidow20251120",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -714,7 +714,7 @@
         ]
     },
     {
-        "id": "widow_gah_20251118",
+        "id": "grognardwidow20251118",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -750,7 +750,7 @@
         ]
     },
     {
-        "id": "widow_gah_20250725",
+        "id": "grognardwidow20250725",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -790,7 +790,7 @@
         ]
     },
     {
-        "id": "widow_gah_20250718",
+        "id": "grognardwidow20250718",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -834,7 +834,7 @@
         ]
     },
     {
-        "id": "widow_gah_20250303",
+        "id": "grognardwidow20250303",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -882,7 +882,7 @@
         ]
     },
     {
-        "id": "widow_gah_20241206",
+        "id": "grognardwidow20241206",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -930,7 +930,7 @@
         ]
     },
     {
-        "id": "widow_gah_20240515",
+        "id": "grognardwidow20240515",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -966,7 +966,7 @@
         ]
     },
     {
-        "id": "widow_gah_20230428",
+        "id": "grognardwidow20230428",
         "name": "Widow",
         "edition": "carousel",
         "image": [
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20251120",
+        "id": "grognardmarionette20251120",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1042,7 +1042,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20251118",
+        "id": "grognardmarionette20251118",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1088,7 +1088,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20251103",
+        "id": "grognardmarionette20251103",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1146,7 +1146,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20250704",
+        "id": "grognardmarionette20250704",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1200,7 +1200,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20241206",
+        "id": "grognardmarionette20241206",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1258,7 +1258,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20240829",
+        "id": "grognardmarionette20240829",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1317,7 +1317,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20240515",
+        "id": "grognardmarionette20240515",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1371,7 +1371,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20240125",
+        "id": "grognardmarionette20240125",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1425,7 +1425,7 @@
         ]
     },
     {
-        "id": "marionette_gah_20230428",
+        "id": "grognardmarionette20230428",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
@@ -1453,7 +1453,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20251118",
+        "id": "grognardsummoner20251118",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1529,7 +1529,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20250718",
+        "id": "grognardsummoner20250718",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1609,7 +1609,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20241206",
+        "id": "grognardsummoner20241206",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1693,7 +1693,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20240829",
+        "id": "grognardsummoner20240829",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1773,7 +1773,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20240627",
+        "id": "grognardsummoner20240627",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1849,7 +1849,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20240515",
+        "id": "grognardsummoner20240515",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1889,7 +1889,7 @@
         ]
     },
     {
-        "id": "summoner_gah_20240322",
+        "id": "grognardsummoner20240322",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
@@ -1911,7 +1911,7 @@
         "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"
     },
     {
-        "id": "eviltwin_gah_20241206",
+        "id": "grognardeviltwin20241206",
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
@@ -1935,7 +1935,7 @@
         ]
     },
     {
-        "id": "eviltwin_gah_20240515",
+        "id": "grognardeviltwin20240515",
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
@@ -1953,7 +1953,7 @@
         "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
     },
     {
-        "id": "goblin_gah_20241206",
+        "id": "grognardgoblin20241206",
         "name": "Goblin",
         "edition": "carousel",
         "image": [
@@ -1975,7 +1975,7 @@
         ]
     },
     {
-        "id": "goblin_gah_20240515",
+        "id": "grognardgoblin20240515",
         "name": "Goblin",
         "edition": "carousel",
         "image": [
@@ -1991,7 +1991,7 @@
         "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
     },
     {
-        "id": "boomdandy_gah_20241206",
+        "id": "grognardboomdandy20241206",
         "name": "Boomdandy",
         "edition": "carousel",
         "image": [
@@ -2017,7 +2017,7 @@
         ]
     },
     {
-        "id": "boomdandy_gah_20241102",
+        "id": "grognardboomdandy20241102",
         "name": "Boomdandy",
         "edition": "carousel",
         "image": [
@@ -2043,7 +2043,7 @@
         ]
     },
     {
-        "id": "boomdandy_gah_20240515",
+        "id": "grognardboomdandy20240515",
         "name": "Boomdandy",
         "edition": "carousel",
         "image": [
@@ -2063,7 +2063,7 @@
         "flavor": "Tick... Tick... Tick... TOCK."
     },
     {
-        "id": "mastermind_gah_20251103",
+        "id": "grognardmastermind20251103",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
@@ -2082,7 +2082,7 @@
         ]
     },
     {
-        "id": "mastermind_gah_20240927",
+        "id": "grognardmastermind20240927",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
@@ -2095,7 +2095,7 @@
         "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
     },
     {
-        "id": "mastermind_gah_20240515",
+        "id": "grognardmastermind20240515",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
@@ -2114,7 +2114,7 @@
         ]
     },
     {
-        "id": "mastermind_gah_20230428",
+        "id": "grognardmastermind20230428",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
@@ -2127,7 +2127,7 @@
         "flavor": "The tentacles of that monster are nailed to the doors of the church. Mothers and children are dancing in the street. Excellent. Everything is proceeding exactly as I have planned."
     },
     {
-        "id": "scarletwoman_gah_20251118",
+        "id": "grognardscarletwoman20251118",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -2155,7 +2155,7 @@
         ]
     },
     {
-        "id": "scarletwoman_gah_20241206",
+        "id": "grognardscarletwoman20241206",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -2179,7 +2179,7 @@
         ]
     },
     {
-        "id": "scarletwoman_gah_20240515",
+        "id": "grognardscarletwoman20240515",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -2203,35 +2203,7 @@
         ]
     },
     {
-        "id": "scarletwoman_gah_20231201",
-        "name": "Scarlet Woman",
-        "edition": "tb",
-        "image": [
-            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
-            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
-        ],
-        "team": "minion",
-        "otherNight": 33,
-        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
-        "reminders": [
-            "Is The Demon"
-        ],
-        "setup": false,
-        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
-        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
-        "jinxes": [
-            {
-                "id": "alhadikhia",
-                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
-            },
-            {
-                "id": "lilmonsta",
-                "reason": "If there are five or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
-            }
-        ]
-    },
-    {
-        "id": "scarletwoman_gah_20231201",
+        "id": "grognardscarletwoman20231201",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -2259,7 +2231,35 @@
         ]
     },
     {
-        "id": "scarletwoman_gah_20230329",
+        "id": "grognardscarletwoman20231201",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 33,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "If there are five or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight."
+            }
+        ]
+    },
+    {
+        "id": "grognardscarletwoman20230329",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
@@ -2277,7 +2277,7 @@
         "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master."
     },
     {
-        "id": "vizier_gah_20251118",
+        "id": "grognardvizier20251118",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2322,7 +2322,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20250725",
+        "id": "grognardvizier20250725",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2371,7 +2371,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20241206",
+        "id": "grognardvizier20241206",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2424,7 +2424,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20241110",
+        "id": "grognardvizier20241110",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2473,7 +2473,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20240725",
+        "id": "grognardvizier20240725",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2522,7 +2522,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20240627",
+        "id": "grognardvizier20240627",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2567,7 +2567,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20240524",
+        "id": "grognardvizier20240524",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2612,7 +2612,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20240515",
+        "id": "grognardvizier20240515",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2653,7 +2653,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20240203",
+        "id": "grognardvizier20240203",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2694,7 +2694,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20230510",
+        "id": "grognardvizier20230510",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2739,7 +2739,7 @@
         ]
     },
     {
-        "id": "vizier_gah_20230428",
+        "id": "grognardvizier20230428",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
@@ -2754,7 +2754,7 @@
         "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."
     },
     {
-        "id": "organgrinder_gah_20250124",
+        "id": "grognardorgangrinder20250124",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2781,7 +2781,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20241206",
+        "id": "grognardorgangrinder20241206",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2814,7 +2814,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20241018",
+        "id": "grognardorgangrinder20241018",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2854,7 +2854,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20240627",
+        "id": "grognardorgangrinder20240627",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2894,7 +2894,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20240606",
+        "id": "grognardorgangrinder20240606",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2934,7 +2934,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20240515",
+        "id": "grognardorgangrinder20240515",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -2978,7 +2978,7 @@
         ]
     },
     {
-        "id": "organgrinder_gah_20240329",
+        "id": "grognardorgangrinder20240329",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
@@ -3004,7 +3004,7 @@
         ]
     },
     {
-        "id": "boffin_gah_20251103",
+        "id": "grognardboffin20251103",
         "name": "Boffin",
         "edition": "carousel",
         "image": [
@@ -3045,7 +3045,7 @@
         ]
     },
     {
-        "id": "boffin_gah_20250718",
+        "id": "grognardboffin20250718",
         "name": "Boffin",
         "edition": "carousel",
         "image": [
@@ -3090,7 +3090,7 @@
         ]
     },
     {
-        "id": "boffin_gah_20241206",
+        "id": "grognardboffin20241206",
         "name": "Boffin",
         "edition": "carousel",
         "image": [
@@ -3139,7 +3139,7 @@
         ]
     },
     {
-        "id": "boffin_gah_20240926",
+        "id": "grognardboffin20240926",
         "name": "Boffin",
         "edition": "carousel",
         "image": [
@@ -3154,7 +3154,7 @@
         "flavor": "Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."
     },
     {
-        "id": "baron_gah_20241206",
+        "id": "grognardbaron20241206",
         "name": "Baron",
         "edition": "tb",
         "image": [
@@ -3177,7 +3177,7 @@
         ]
     },
     {
-        "id": "baron_gah_20240515",
+        "id": "grognardbaron20240515",
         "name": "Baron",
         "edition": "tb",
         "image": [
@@ -3196,7 +3196,7 @@
         ]
     },
     {
-        "id": "baron_gah_20230428",
+        "id": "grognardbaron20230428",
         "name": "Baron",
         "edition": "tb",
         "image": [

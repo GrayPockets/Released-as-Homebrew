@@ -6,7 +6,7 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "townsfolk_sah",
+        "id": "homebrewspecialtownsfolk",
         "name": "Townsfolk",
         "edition": "special",
         "image": [
@@ -19,7 +19,7 @@
         "flavor": "I am a good Townfolk."
     },
     {
-        "id": "outsider_sah",
+        "id": "homebrewspecialoutsider",
         "name": "Outsider",
         "edition": "special",
         "image": [
@@ -32,7 +32,7 @@
         "flavor": "I am confirmed by Outsider count."
     },
     {
-        "id": "minion_sah",
+        "id": "homebrewspecialminion",
         "name": "Minion",
         "edition": "special",
         "image": [
@@ -45,7 +45,7 @@
         "flavor": "I am confirmed by Outsider count."
     },
     {
-        "id": "demon_sah",
+        "id": "homebrewspecialdemon",
         "name": "Demon",
         "edition": "special",
         "image": [
@@ -58,7 +58,7 @@
         "flavor": "I am a good Townfolk."
     },
     {
-        "id": "traveller_sah",
+        "id": "homebrewspecialtraveller",
         "name": "Traveller",
         "edition": "special",
         "image": [
@@ -72,7 +72,7 @@
         "flavor": "I am not staying long."
     },
     {
-        "id": "loric_sah",
+        "id": "homebrewspecialloric",
         "name": "Loric",
         "edition": "special",
         "image": [
@@ -84,7 +84,7 @@
         "flavor": "Let's shake things up."
     },
     {
-        "id": "fabled_sah",
+        "id": "homebrewspecialfabled",
         "name": "Fabled",
         "edition": "special",
         "image": [
@@ -96,7 +96,7 @@
         "flavor": "A Fabled is in play."
     },
     {
-        "id": "dusk_sah",
+        "id": "homebrewspecialdusk",
         "name": "Dusk",
         "edition": "special",
         "image": [
@@ -111,7 +111,7 @@
         "ability": "Starts the Night Phase."
     },
     {
-        "id": "minioninfo_sah",
+        "id": "homebrewspecialminioninfo",
         "name": "Minion Info",
         "edition": "special",
         "image": [
@@ -124,7 +124,7 @@
         "ability": "Display Minion information."
     },
     {
-        "id": "demoninfo_sah",
+        "id": "homebrewspecialdemoninfo",
         "name": "Demon Info",
         "edition": "special",
         "image": [
@@ -137,7 +137,7 @@
         "ability": "Display Demon information."
     },
     {
-        "id": "dawn_sah",
+        "id": "homebrewspecialdawn",
         "name": "Dawn",
         "edition": "special",
         "image": [

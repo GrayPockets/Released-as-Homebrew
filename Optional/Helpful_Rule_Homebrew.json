@@ -13,7 +13,7 @@
         ]
     },
     {
-        "id": "gossip_hah",
+        "id": "homebrewhelpfulrulegossip",
         "name": "Gossip*",
         "edition": "bmr",
         "image": [
@@ -31,7 +31,7 @@
         "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
     },
     {
-        "id": "alsaahir_hah",
+        "id": "homebrewhelpfulrulealsaahir",
         "name": "Alsaahir*",
         "edition": "carousel",
         "image": [
@@ -44,7 +44,7 @@
         "flavor": "I am here because of you, and you are here because of me."
     },
     {
-        "id": "juggler_hah",
+        "id": "homebrewhelpfulrulejuggler",
         "name": "Juggler*",
         "edition": "snv",
         "image": [
@@ -66,7 +66,7 @@
         "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
     },
     {
-        "id": "lilmonsta_hah",
+        "id": "homebrewhelpfulrulelilmonsta",
         "name": "Lil' Monsta*",
         "edition": "carousel",
         "image": [
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "id": "godofug_hah",
+        "id": "homebrewhelpfulrulegodofug",
         "name": "God of Ug*",
         "edition": "loric",
         "image": [

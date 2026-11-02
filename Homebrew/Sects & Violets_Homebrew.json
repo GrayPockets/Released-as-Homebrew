@@ -7,11 +7,11 @@
         "hideTitle": true,
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista_snv","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista_snv","bonecollector_snv","harlot_snv","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu_snv","vigormortis_snv","nodashii_snv","vortox_snv","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","homebrewsectsnvioletsbarista","minioninfo","demoninfo","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletseviltwin","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletsclockmaker","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsmathematician","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","homebrewsectsnvioletsbarista","homebrewsectsnvioletsbonecollector","homebrewsectsnvioletsharlot","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletspithag","homebrewsectsnvioletsfanggu","homebrewsectsnvioletsvigormortis","homebrewsectsnvioletsnodashii","homebrewsectsnvioletsvortox","tor","homebrewsectsnvioletsbarber","homebrewsectsnvioletssweetheart","homebrewsectsnvioletssage","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsflowergirl","homebrewsectsnvioletstowncrier","homebrewsectsnvioletsoracle","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsjuggler","homebrewsectsnvioletsmathematician","dawn"]
     },
     {
-        "id": "clockmaker_snv",
+        "id": "homebrewsectsnvioletsclockmaker",
         "name": "Clockmaker",
         "edition": "snv",
         "image": [
@@ -26,7 +26,7 @@
         "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
     },
     {
-        "id": "dreamer_snv",
+        "id": "homebrewsectsnvioletsdreamer",
         "name": "Dreamer",
         "edition": "snv",
         "image": [
@@ -43,7 +43,7 @@
         "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
     },
     {
-        "id": "snakecharmer_snv",
+        "id": "homebrewsectsnvioletssnakecharmer",
         "name": "Snake Charmer",
         "edition": "snv",
         "image": [
@@ -63,7 +63,7 @@
         "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
     },
     {
-        "id": "mathematician_snv",
+        "id": "homebrewsectsnvioletsmathematician",
         "name": "Mathematician",
         "edition": "snv",
         "image": [
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "id": "flowergirl_snv",
+        "id": "homebrewsectsnvioletsflowergirl",
         "name": "Flowergirl",
         "edition": "snv",
         "image": [
@@ -124,7 +124,7 @@
         "flavor": "Yesterday's violets have withered and died, but today my poppies bloom."
     },
     {
-        "id": "towncrier_snv",
+        "id": "homebrewsectsnvioletstowncrier",
         "name": "Town Crier",
         "edition": "snv",
         "image": [
@@ -143,7 +143,7 @@
         "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
     },
     {
-        "id": "oracle_snv",
+        "id": "homebrewsectsnvioletsoracle",
         "name": "Oracle",
         "edition": "snv",
         "image": [
@@ -158,7 +158,7 @@
         "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
     },
     {
-        "id": "savant_snv",
+        "id": "homebrewsectsnvioletssavant",
         "name": "Savant",
         "edition": "snv",
         "image": [
@@ -171,7 +171,7 @@
         "flavor": "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
     },
     {
-        "id": "seamstress_snv",
+        "id": "homebrewsectsnvioletsseamstress",
         "name": "Seamstress",
         "edition": "snv",
         "image": [
@@ -191,7 +191,7 @@
         "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
     },
     {
-        "id": "philosopher_snv",
+        "id": "homebrewsectsnvioletsphilosopher",
         "name": "Philosopher",
         "edition": "snv",
         "image": [
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "id": "artist_snv",
+        "id": "homebrewsectsnvioletsartist",
         "name": "Artist",
         "edition": "snv",
         "image": [
@@ -236,7 +236,7 @@
         "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
     },
     {
-        "id": "juggler_snv",
+        "id": "homebrewsectsnvioletsjuggler",
         "name": "Juggler",
         "edition": "snv",
         "image": [
@@ -258,7 +258,7 @@
         "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
     },
     {
-        "id": "sage_snv",
+        "id": "homebrewsectsnvioletssage",
         "name": "Sage",
         "edition": "snv",
         "image": [
@@ -273,7 +273,7 @@
         "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
     },
     {
-        "id": "mutant_snv",
+        "id": "homebrewsectsnvioletsmutant",
         "name": "Mutant",
         "edition": "snv",
         "image": [
@@ -286,7 +286,7 @@
         "flavor": "I am not a freak! I am a human being! Have mercy!"
     },
     {
-        "id": "sweetheart_snv",
+        "id": "homebrewsectsnvioletssweetheart",
         "name": "Sweetheart",
         "edition": "snv",
         "image": [
@@ -304,7 +304,7 @@
         "flavor": "I will never forget her. Never."
     },
     {
-        "id": "barber_snv",
+        "id": "homebrewsectsnvioletsbarber",
         "name": "Barber",
         "edition": "snv",
         "image": [
@@ -322,7 +322,7 @@
         "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
     },
     {
-        "id": "klutz_snv",
+        "id": "homebrewsectsnvioletsklutz",
         "name": "Klutz",
         "edition": "snv",
         "image": [
@@ -335,7 +335,7 @@
         "flavor": "Oops."
     },
     {
-        "id": "eviltwin_snv",
+        "id": "homebrewsectsnvioletseviltwin",
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
@@ -353,7 +353,7 @@
         "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
     },
     {
-        "id": "witch_snv",
+        "id": "homebrewsectsnvioletswitch",
         "name": "Witch",
         "edition": "snv",
         "image": [
@@ -373,7 +373,7 @@
         "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
     },
     {
-        "id": "cerenovus_snv",
+        "id": "homebrewsectsnvioletscerenovus",
         "name": "Cerenovus",
         "edition": "snv",
         "image": [
@@ -399,7 +399,7 @@
         ]
     },
     {
-        "id": "pithag_snv",
+        "id": "homebrewsectsnvioletspithag",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
@@ -440,7 +440,7 @@
         ]
     },
     {
-        "id": "fanggu_rah",
+        "id": "homebrewfanggu",
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
@@ -459,7 +459,7 @@
         "flavor": "Your walls and your weapons are but smoke in dreams."
     },
     {
-        "id": "vigormortis_snv",
+        "id": "homebrewsectsnvioletsvigormortis",
         "name": "Vigormortis",
         "edition": "snv",
         "image": [
@@ -483,7 +483,7 @@
         "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
     },
     {
-        "id": "nodashii_snv",
+        "id": "homebrewsectsnvioletsnodashii",
         "name": "No Dashii",
         "edition": "snv",
         "image": [
@@ -503,7 +503,7 @@
         "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
     },
     {
-        "id": "vortox_snv",
+        "id": "homebrewsectsnvioletsvortox",
         "name": "Vortox",
         "edition": "snv",
         "image": [
@@ -527,7 +527,7 @@
         ]
     },
     {
-        "id": "barista_snv",
+        "id": "homebrewsectsnvioletsbarista",
         "name": "Barista",
         "edition": "snv",
         "image": [
@@ -551,7 +551,7 @@
         "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
     },
     {
-        "id": "harlot_snv",
+        "id": "homebrewsectsnvioletsharlot",
         "name": "Harlot",
         "edition": "snv",
         "image": [
@@ -571,7 +571,7 @@
         "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
     },
     {
-        "id": "butcher_snv",
+        "id": "homebrewsectsnvioletsbutcher",
         "name": "Butcher",
         "edition": "snv",
         "image": [
@@ -585,7 +585,7 @@
         "flavor": "It tastes like chicken. More please."
     },
     {
-        "id": "bonecollector_snv",
+        "id": "homebrewsectsnvioletsbonecollector",
         "name": "Bone Collector",
         "edition": "snv",
         "image": [
@@ -605,7 +605,7 @@
         "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
     },
     {
-        "id": "deviant_snv",
+        "id": "homebrewsectsnvioletsdeviant",
         "name": "Deviant",
         "edition": "snv",
         "image": [

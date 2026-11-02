@@ -1,5 +1,6 @@
 # Changelog
 ## 1.15.1
+* Replaced underscore notation with alphanumeric for character ids.
 * Correct Groganard Magician date.
 * Correct Almanac entry for Sects & Violets.
 ## 1.15.0

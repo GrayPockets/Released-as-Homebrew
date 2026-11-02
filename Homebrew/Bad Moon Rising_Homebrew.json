@@ -7,11 +7,11 @@
         "hideTitle": true,
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
-        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice_bmr", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka_bmr", "grandmother_bmr", "chambermaid_bmr", "dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul_bmr","pukka_bmr","shabaloth_bmr","po_bmr","assassin_bmr","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "homebrewbadmoonrisingapprentice", "barista", "minioninfo", "homebrewbadmoonrisinglunatic", "demoninfo", "homebrewbadmoonrisingsailor", "homebrewbadmoonrisingcourtier", "homebrewbadmoonrisinggodfather", "homebrewbadmoonrisingdevilsadvocate", "homebrewbadmoonrisingpukka", "homebrewbadmoonrisinggrandmother", "homebrewbadmoonrisingchambermaid", "dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","homebrewbadmoonrisingsailor","homebrewbadmoonrisinginnkeeper","homebrewbadmoonrisingcourtier","homebrewbadmoonrisinggambler","homebrewbadmoonrisingdevilsadvocate","homebrewbadmoonrisinglunatic","homebrewbadmoonrisingexorcist","homebrewbadmoonrisingzombuul","homebrewbadmoonrisingpukka","homebrewbadmoonrisingshabaloth","homebrewbadmoonrisingpo","homebrewbadmoonrisingassassin","homebrewbadmoonrisinggodfather","homebrewbadmoonrisingprofessor","homebrewbadmoonrisinggossip","homebrewbadmoonrisingtinker","homebrewbadmoonrisingmoonchild","homebrewbadmoonrisinggrandmother","tor","homebrewbadmoonrisingchambermaid","dawn"]
     },
     {
-        "id": "grandmother_bmr",
+        "id": "homebrewbadmoonrisinggrandmother",
         "name": "Grandmother",
         "edition": "bmr",
         "image": [
@@ -32,7 +32,7 @@
         "flavor": "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
     },
     {
-        "id": "sailor_bmr",
+        "id": "homebrewbadmoonrisingsailor",
         "name": "Sailor",
         "edition": "bmr",
         "image": [
@@ -52,7 +52,7 @@
         "flavor": "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
     },
     {
-        "id": "chambermaid_bmr",
+        "id": "homebrewbadmoonrisingchambermaid",
         "name": "Chambermaid",
         "edition": "bmr",
         "image": [
@@ -69,7 +69,7 @@
         "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
     },
     {
-        "id": "exorcist_bmr",
+        "id": "homebrewbadmoonrisingexorcist",
         "name": "Exorcist",
         "edition": "bmr",
         "image": [
@@ -87,7 +87,7 @@
         "flavor": "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
     },
     {
-        "id": "innkeeper_bmr",
+        "id": "homebrewbadmoonrisinginnkeeper",
         "name": "Innkeeper",
         "edition": "bmr",
         "image": [
@@ -107,7 +107,7 @@
         "flavor": "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
     },
     {
-        "id": "gambler_bmr",
+        "id": "homebrewbadmoonrisinggambler",
         "name": "Gambler",
         "edition": "bmr",
         "image": [
@@ -125,7 +125,7 @@
         "flavor": "Heads, I win. Tails, you lose."
     },
     {
-        "id": "gossip_bmr",
+        "id": "homebrewbadmoonrisinggossip",
         "name": "Gossip",
         "edition": "bmr",
         "image": [
@@ -143,7 +143,7 @@
         "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
     },
     {
-        "id": "courtier_bmr",
+        "id": "homebrewbadmoonrisingcourtier",
         "name": "Courtier",
         "edition": "bmr",
         "image": [
@@ -166,7 +166,7 @@
         "flavor": "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
     },
     {
-        "id": "professor_bmr",
+        "id": "homebrewbadmoonrisingprofessor",
         "name": "Professor",
         "edition": "bmr",
         "image": [
@@ -185,7 +185,7 @@
         "flavor": "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
     },
     {
-        "id": "minstrel_bmr",
+        "id": "homebrewbadmoonrisingminstrel",
         "name": "Minstrel",
         "edition": "bmr",
         "image": [
@@ -201,7 +201,7 @@
         "flavor": "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
     },
     {
-        "id": "tealady_bmr",
+        "id": "homebrewbadmoonrisingtealady",
         "name": "Tea Lady",
         "edition": "bmr",
         "image": [
@@ -218,7 +218,7 @@
         "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
     },
     {
-        "id": "pacifist_bmr",
+        "id": "homebrewbadmoonrisingpacifist",
         "name": "Pacifist",
         "edition": "bmr",
         "image": [
@@ -231,7 +231,7 @@
         "flavor": "Distrust all in whom the impulse to punish is powerful."
     },
     {
-        "id": "fool_bmr",
+        "id": "homebrewbadmoonrisingfool",
         "name": "Fool",
         "edition": "bmr",
         "image": [
@@ -247,7 +247,7 @@
         "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
     },
     {
-        "id": "tinker_bmr",
+        "id": "homebrewbadmoonrisingtinker",
         "name": "Tinker",
         "edition": "bmr",
         "image": [
@@ -265,7 +265,7 @@
         "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
     },
     {
-        "id": "moonchild_bmr",
+        "id": "homebrewbadmoonrisingmoonchild",
         "name": "Moonchild",
         "edition": "bmr",
         "image": [
@@ -283,7 +283,7 @@
         "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
     },
     {
-        "id": "goon_bmr",
+        "id": "homebrewbadmoonrisinggoon",
         "name": "Goon",
         "edition": "bmr",
         "image": [
@@ -299,7 +299,7 @@
         "flavor": "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
     },
     {
-        "id": "lunatic_bmr",
+        "id": "homebrewbadmoonrisinglunatic",
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
@@ -321,7 +321,7 @@
         "flavor": "I am the night... I think."
     },
     {
-        "id": "godfather_bmr",
+        "id": "homebrewbadmoonrisinggodfather",
         "name": "Godfather",
         "edition": "bmr",
         "image": [
@@ -342,7 +342,7 @@
         "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
     },
     {
-        "id": "devilsadvocate_bmr",
+        "id": "homebrewbadmoonrisingdevilsadvocate",
         "name": "Devil's Advocate",
         "edition": "bmr",
         "image": [
@@ -362,7 +362,7 @@
         "flavor": "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
     },
     {
-        "id": "assassin_bmr",
+        "id": "homebrewbadmoonrisingassassin",
         "name": "Assassin",
         "edition": "bmr",
         "image": [
@@ -381,7 +381,7 @@
         "flavor": "..."
     },
     {
-        "id": "mastermind_bmr",
+        "id": "homebrewbadmoonrisingmastermind",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "id": "zombuul_bmr",
+        "id": "homebrewbadmoonrisingzombuul",
         "name": "Zombuul",
         "edition": "bmr",
         "image": [
@@ -419,7 +419,7 @@
         "flavor": "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
     },
     {
-        "id": "pukka_bmr",
+        "id": "homebrewbadmoonrisingpukka",
         "name": "Pukka",
         "edition": "bmr",
         "image": [
@@ -441,7 +441,7 @@
         "flavor": "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
     },
     {
-        "id": "shabaloth_bmr",
+        "id": "homebrewbadmoonrisingshabaloth",
         "name": "Shabaloth",
         "edition": "bmr",
         "image": [
@@ -461,7 +461,7 @@
         "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
     {
-        "id": "po_bmr",
+        "id": "homebrewbadmoonrisingpo",
         "name": "Po",
         "edition": "bmr",
         "image": [
@@ -482,7 +482,7 @@
         "flavor": "Would you like a flower? I'm so lonely."
     },
     {
-        "id": "apprentice_bmr",
+        "id": "homebrewbadmoonrisingapprentice",
         "name": "Apprentice",
         "edition": "bmr",
         "image": [
@@ -508,7 +508,7 @@
         ]
     },
     {
-        "id": "matron_bmr",
+        "id": "homebrewbadmoonrisingmatron",
         "name": "Matron",
         "edition": "bmr",
         "image": [
@@ -522,7 +522,7 @@
         "flavor": "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
     },
     {
-        "id": "judge_bmr",
+        "id": "homebrewbadmoonrisingjudge",
         "name": "Judge",
         "edition": "bmr",
         "image": [
@@ -539,7 +539,7 @@
         "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
     },
     {
-        "id": "bishop_bmr",
+        "id": "homebrewbadmoonrisingbishop",
         "name": "Bishop",
         "edition": "bmr",
         "image": [
@@ -557,7 +557,7 @@
         "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
     },
     {
-        "id": "voudon_bmr",
+        "id": "homebrewbadmoonrisingvoudon",
         "name": "Voudon",
         "edition": "bmr",
         "image": [

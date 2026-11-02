@@ -6,7 +6,7 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "barista_gah_20230324",
+        "id": "grognardbarista20230324",
         "name": "Barista",
         "edition": "snv",
         "image": [
@@ -30,7 +30,7 @@
         "flavor": "There really is no cause to worry because when you think about it we are all  capable and qualified and smart enough to grab the bull by the horns and sit down and figure this out like the  reasonable adults we are by the way would you like another cup it really is the most amazing beverage they say it is from the east but anyway where were we ah yes going for a jog and really nutting out this demon business which we can do with just a little teensy mental boost and some logical thinking for example Senior Hu here is a regular customer and therefore quite trustworthy and would anyone like another cup?"
     },
     {
-        "id": "gangster_gah_20230422",
+        "id": "grognardgangster20230422",
         "name": "Gangster",
         "edition": "carousel",
         "image": [
@@ -44,7 +44,7 @@
         "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
     },
     {
-        "id": "gardener_gah_20260323",
+        "id": "grognardgardener20260323",
         "name": "Gardener",
         "edition": "loric",
         "image": [
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "id": "gardener_gah_20240725",
+        "id": "grognardgardener20240725",
         "name": "Gardener",
         "edition": "fabled",
         "image": [
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "id": "bootlegger_gah_20251103",
+        "id": "grognardbootlegger20251103",
         "name": "Bootlegger",
         "edition": "fabled",
         "image": [
@@ -98,7 +98,7 @@
         "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
     },
     {
-        "id": "stormcatcher_gah_20251103",
+        "id": "grognardstormcatcher20251103",
         "name": "Storm Catcher",
         "edition": "fabled",
         "image": [

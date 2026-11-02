@@ -14,7 +14,7 @@
         ]
     },
     {
-        "id": "poppygrower_oah",
+        "id": "homebrewoptionalrulepoppygrower",
         "name": "Poppy Grower*",
         "edition": "carousel",
         "image": [
@@ -34,7 +34,7 @@
         "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
     },
     {
-        "id": "ogre_oah",
+        "id": "homebrewoptionalruleogre",
         "name": "Ogre*",
         "edition": "carousel",
         "image": [
@@ -54,7 +54,7 @@
         "flavor": "<grunt><grin></grunt>"
     },
     {
-        "id": "hatter_oah",
+        "id": "homebrewoptionalrulehatter",
         "name": "Hatter*",
         "edition": "carousel",
         "image": [
@@ -72,7 +72,7 @@
         "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
     },
     {
-        "id": "pithag_oah",
+        "id": "homebrewoptionalrulepithag",
         "name": "Pit-Hag*",
         "edition": "snv",
         "image": [
@@ -113,7 +113,7 @@
         ]
     },
     {
-        "id": "wraith_oah",
+        "id": "homebrewoptionalrulewraith",
         "name": "Wraith*",
         "edition": "carousel",
         "image": [
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "id": "hindu_oah",
+        "id": "homebrewoptionalrulehindu",
         "name": "Hindu*",
         "edition": "loric",
         "image": [

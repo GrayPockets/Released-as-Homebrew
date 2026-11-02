@@ -19,9 +19,9 @@ The SAO order of characters is sourced from the Blood on the CLocktower Script T
 
 To use a recreated character, edit a script JSON file and paste in a character from one of the Homebrew JSON files.
 
-:warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a "_rah" tag is appended to each character id.
+:warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a descriptive id is utilized.
 
-:warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
+:warning: Jinxes on these recreated characters use the original ids. The purpose is for each character to be able to be placed on a script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the descriptive id will need to be utilized within the jinx.
 
 ### By Image Source
 * [botc.app](Homebrew/Released_Homebrew.json) :warning:
