@@ -1,5 +1,6 @@
 # Changelog
 ## 1.15.1
+* Correct Groganard Magician date.
 * Correct Almanac entry for Sects & Violets.
 ## 1.15.0
 * Script tool sourced image urls
