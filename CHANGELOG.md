@@ -1,6 +1,7 @@
 # Changelog
-## 1.15.1
-* Ogtional Ogre ability update
+## 1.16.0
+* All Script Tool sourced image urls
+* Optional Ogre ability update
 * Folder refactor
 * Character ids correction
 * Groganard Magician id correction

@@ -1,0 +1,620 @@
+[
+    {
+        "id": "_meta",
+        "name": "Sects & Violets as Homebrew",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
+        "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","homebrewsectsnvioletsbarista","minioninfo","demoninfo","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletseviltwin","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletsclockmaker","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsmathematician","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","homebrewsectsnvioletsbarista","homebrewsectsnvioletsbonecollector","homebrewsectsnvioletsharlot","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletspithag","homebrewsectsnvioletsfanggu","homebrewsectsnvioletsvigormortis","homebrewsectsnvioletsnodashii","homebrewsectsnvioletsvortox","tor","homebrewsectsnvioletsbarber","homebrewsectsnvioletssweetheart","homebrewsectsnvioletssage","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsflowergirl","homebrewsectsnvioletstowncrier","homebrewsectsnvioletsoracle","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsjuggler","homebrewsectsnvioletsmathematician","dawn"]
+    },
+    {
+        "id": "homebrewsectsnvioletsclockmaker",
+        "name": "Clockmaker",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/clockmaker_g-z-gzmkzc.webp",
+            "https://script.bloodontheclocktower.com/assets/clockmaker_e-De0CuxuO.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 60,
+        "firstNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
+        "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
+    },
+    {
+        "id": "homebrewsectsnvioletsdreamer",
+        "name": "Dreamer",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/dreamer_g-CjKsf0eE.webp",
+            "https://script.bloodontheclocktower.com/assets/dreamer_e-9zGefVKW.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 61,
+        "firstNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "otherNight": 79,
+        "otherNightReminder": "The Dreamer points to a player. Show 1 good & 1 evil character token, 1 of which is their character.",
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
+        "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
+    },
+    {
+        "id": "homebrewsectsnvioletssnakecharmer",
+        "name": "Snake Charmer",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/snakecharmer_g-DYwjThVr.webp",
+            "https://script.bloodontheclocktower.com/assets/snakecharmer_e-D6CrPRGR.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 37,
+        "firstNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
+        "otherNight": 23,
+        "otherNightReminder": "The Snake Charmer chooses a player. If they chose the Demon: Show the *YOU ARE* & Demon tokens. Give a thumbs down. Swap the Snake Charmer & Demon tokens. Put the old Snake Charmer to sleep. Wake the old Demon. Show the *YOU ARE* and Snake Charmer tokens & give a thumbs up. :reminder:",
+        "reminders": [
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
+        "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
+    },
+    {
+        "id": "homebrewsectsnvioletsmathematician",
+        "name": "Mathematician",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/mathematician_g-DiYoQRIl.webp",
+            "https://script.bloodontheclocktower.com/assets/mathematician_e-D-VneyvO.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 77,
+        "firstNightReminder": "Give a finger signal.",
+        "otherNight": 96,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal"
+        ],
+        "setup": false,
+        "ability": "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability.",
+        "flavor": "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk.",
+        "jinxes": [
+            {
+                "id": "chambermaid",
+                "reason": "The Chambermaid can detect if the Mathematician will wake tonight."
+            },
+            {
+                "id": "drunk",
+                "reason": "The Mathematician learns if the Drunk's ability yielded false info or failed to work properly."
+            },
+            {
+                "id": "lunatic",
+                "reason": "The Mathematician learns if the Lunatic attacks a different player than the real Demon attacked."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Mathematician learns if the Marionette's ability yielded false info or failed to work properly."
+            }
+        ]
+    },
+    {
+        "id": "homebrewsectsnvioletsflowergirl",
+        "name": "Flowergirl",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/flowergirl_g-C3oZV2PZ.webp",
+            "https://script.bloodontheclocktower.com/assets/flowergirl_e-DJcVSLWX.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 80,
+        "otherNightReminder": "Either nod or shake your head.",
+        "reminders": [
+            "Demon Voted",
+            "Demon Not Voted"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn if a Demon voted today.",
+        "flavor": "Yesterday's violets have withered and died, but today my poppies bloom."
+    },
+    {
+        "id": "homebrewsectsnvioletstowncrier",
+        "name": "Town Crier",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/towncrier_g-D9dERfO2.webp",
+            "https://script.bloodontheclocktower.com/assets/towncrier_e-BzUGp1JT.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 81,
+        "otherNightReminder": "Either nod or shake your head.",
+        "reminders": [
+            "Minions Not Nominated",
+            "Minion Nominated"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn if a Minion nominated today.",
+        "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+    },
+    {
+        "id": "homebrewsectsnvioletsoracle",
+        "name": "Oracle",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/oracle_g-HZdhcJUJ.webp",
+            "https://script.bloodontheclocktower.com/assets/oracle_e-BgNZAuGG.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 82,
+        "otherNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "Each night*, you learn how many dead players are evil.",
+        "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
+    },
+    {
+        "id": "homebrewsectsnvioletssavant",
+        "name": "Savant",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/savant_g-n6x1YgAZ.webp",
+            "https://script.bloodontheclocktower.com/assets/savant_e-5neUO4oK.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
+        "flavor": "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
+    },
+    {
+        "id": "homebrewsectsnvioletsseamstress",
+        "name": "Seamstress",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/seamstress_g-B4RHsroR.webp",
+            "https://script.bloodontheclocktower.com/assets/seamstress_e-BfBRBNhv.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 62,
+        "firstNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "otherNight": 83,
+        "otherNightReminder": "The Seamstress might choose 2 players. Nod or shake your head. :reminder:",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
+        "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
+    },
+    {
+        "id": "homebrewsectsnvioletsphilosopher",
+        "name": "Philosopher",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/philosopher_g-DOk3eWqe.webp",
+            "https://script.bloodontheclocktower.com/assets/philosopher_e-sc5zSJy2.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 14,
+        "firstNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
+        "otherNight": 11,
+        "otherNightReminder": "The Philosopher might choose a character. If necessary, swap their character token. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "remindersGlobal": [
+            "Is The Philosopher"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.",
+        "flavor": "If anything is real, beer is real. Drink, for tomorrow we may die.",
+        "special": [
+            {
+                "type": "reveal",
+                "name": "replace-character"
+            }
+        ]
+    },
+    {
+        "id": "homebrewsectsnvioletsartist",
+        "name": "Artist",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/artist_g-CyRrA7cN.webp",
+            "https://script.bloodontheclocktower.com/assets/artist_e-CpwoIhpV.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
+        "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+    },
+    {
+        "id": "homebrewsectsnvioletsjuggler",
+        "name": "Juggler",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/juggler_g-CghN7Lp-.webp",
+            "https://script.bloodontheclocktower.com/assets/juggler_e-BQQDYvGs.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 84,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+        ],
+        "setup": false,
+        "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
+        "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+    },
+    {
+        "id": "homebrewsectsnvioletssage",
+        "name": "Sage",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/sage_g-BQUVfu9h.webp",
+            "https://script.bloodontheclocktower.com/assets/sage_e-BS8e_Ree.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 63,
+        "otherNightReminder": "If the Demon killed the Sage, wake the Sage and point to 2 players, 1 of which is the Demon.",
+        "setup": false,
+        "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
+        "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
+    },
+    {
+        "id": "homebrewsectsnvioletsmutant",
+        "name": "Mutant",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/mutant_g-CUe36x-i.webp",
+            "https://script.bloodontheclocktower.com/assets/mutant_e-COP-pfTP.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you are “mad” about being an Outsider, you might be executed.",
+        "flavor": "I am not a freak! I am a human being! Have mercy!"
+    },
+    {
+        "id": "homebrewsectsnvioletssweetheart",
+        "name": "Sweetheart",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/sweetheart_g-CmqS74DM.webp",
+            "https://script.bloodontheclocktower.com/assets/sweetheart_e-Bm63hRzw.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 61,
+        "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "When you die, 1 player is drunk from now on.",
+        "flavor": "I will never forget her. Never."
+    },
+    {
+        "id": "homebrewsectsnvioletsbarber",
+        "name": "Barber",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/barber_g-CP7mk8b9.webp",
+            "https://script.bloodontheclocktower.com/assets/barber_e-BJbMUslE.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 60,
+        "otherNightReminder": "If the Barber died today or tonight, show the Demon the *THIS CHARACTER SELECTED YOU* & Barber tokens. If the Demon chose 2 players, wake one at a time. Show the *YOU ARE* token & their new character token.",
+        "reminders": [
+            "Haircuts Tonight"
+        ],
+        "setup": false,
+        "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",
+        "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+    },
+    {
+        "id": "homebrewsectsnvioletsklutz",
+        "name": "Klutz",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/klutz_g-DRcV_Rgl.webp",
+            "https://script.bloodontheclocktower.com/assets/klutz_e-C-CdPEop.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",
+        "flavor": "Oops."
+    },
+    {
+        "id": "homebrewsectsnvioletseviltwin",
+        "name": "Evil Twin",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/eviltwin_e-yPqoVnXw.webp",
+            "https://script.bloodontheclocktower.com/assets/eviltwin_g-DVXfIL-n.webp"
+        ],
+        "team": "minion",
+        "firstNight": 41,
+        "firstNightReminder": "Wake both twins. Allow eye contact. Show the good twin's character token to the Evil Twin & vice versa.",
+        "reminders": [
+            "Twin"
+        ],
+        "setup": false,
+        "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
+        "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
+    },
+    {
+        "id": "homebrewsectsnvioletswitch",
+        "name": "Witch",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/witch_e-D4AS1R1Q.webp",
+            "https://script.bloodontheclocktower.com/assets/witch_g-CI6rg-Tb.webp"
+        ],
+        "team": "minion",
+        "firstNight": 42,
+        "firstNightReminder": "The Witch chooses a player. :reminder:",
+        "otherNight": 27,
+        "otherNightReminder": "The Witch chooses a player. :reminder:",
+        "reminders": [
+            "Cursed"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.",
+        "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
+    },
+    {
+        "id": "homebrewsectsnvioletscerenovus",
+        "name": "Cerenovus",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/cerenovus_e-ARmVZpWA.webp",
+            "https://script.bloodontheclocktower.com/assets/cerenovus_g-Dks6rbpA.webp"
+        ],
+        "team": "minion",
+        "firstNight": 43,
+        "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "otherNight": 28,
+        "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
+        "reminders": [
+            "Mad"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player & a good character: they are “mad” they are this character tomorrow, or might be executed.",
+        "flavor": "Reality is merely an opinion. Specifically, my opinion.",
+        "jinxes": [
+            {
+                "id": "goblin",
+                "reason": "The Cerenovus may choose to make a player mad that they are the Goblin."
+            }
+        ]
+    },
+    {
+        "id": "homebrewsectsnvioletspithag",
+        "name": "Pit-Hag",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/pithag_e-C9pUiUjt.webp",
+            "https://script.bloodontheclocktower.com/assets/pithag_g-BJqrMoq3.webp"
+        ],
+        "team": "minion",
+        "otherNight": 29,
+        "otherNightReminder": "The Pit-Hag chooses a player & a character. If they chose a character that is not in play: Put the Pit-Hag to sleep. Wake the target. Show the *YOU ARE* token & their new character token.",
+        "setup": false,
+        "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
+        "flavor": "Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot.",
+        "jinxes": [
+            {
+                "id": "cultleader",
+                "reason": "If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability."
+            },
+            {
+                "id": "damsel",
+                "reason": "If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is."
+            },
+            {
+                "id": "goon",
+                "reason": "If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability."
+            },
+            {
+                "id": "ogre",
+                "reason": "If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability."
+            },
+            {
+                "id": "politician",
+                "reason": "If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability."
+            },
+            {
+                "id": "villageidiot",
+                "reason": "If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change."
+            }
+        ]
+    },
+    {
+        "id": "homebrewfanggu",
+        "name": "Fang Gu",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/fanggu_e-6DavSWxL.webp",
+            "https://script.bloodontheclocktower.com/assets/fanggu_g-Dwai_VtD.webp"
+        ],
+        "team": "demon",
+        "otherNight": 45,
+        "otherNightReminder": "The Fang Gu chooses a player. :reminder: If they chose an Outsider (once only): Replace the Outsider token with the spare Fang Gu token. Put the Fang Gu to sleep. Wake the target. Show the *YOU ARE* and Fang Gu tokens & give a thumbs-down. :reminder:",
+        "reminders": [
+            "Dead",
+            "Once"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
+        "flavor": "Your walls and your weapons are but smoke in dreams."
+    },
+    {
+        "id": "homebrewsectsnvioletsvigormortis",
+        "name": "Vigormortis",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/vigormortis_e-0VJIslwJ.webp",
+            "https://script.bloodontheclocktower.com/assets/vigormortis_g-DP1UY2Jk.webp"
+        ],
+        "team": "demon",
+        "otherNight": 49,
+        "otherNightReminder": "The Vigormortis chooses a player. :reminder: If that player is a Minion, poison a neighboring Townsfolk. :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Has Ability",
+            "Has Ability",
+            "Has Ability",
+            "Poisoned",
+            "Poisoned",
+            "Poisoned"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]",
+        "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
+    },
+    {
+        "id": "homebrewsectsnvioletsnodashii",
+        "name": "No Dashii",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/nodashii_e-Dt8UO6rj.webp",
+            "https://script.bloodontheclocktower.com/assets/nodashii_g-jI2LJQhL.webp"
+        ],
+        "team": "demon",
+        "otherNight": 46,
+        "otherNightReminder": "The No Dashii chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.",
+        "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+    },
+    {
+        "id": "homebrewsectsnvioletsvortox",
+        "name": "Vortox",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/vortox_e-CI-Cd8aG.webp",
+            "https://script.bloodontheclocktower.com/assets/vortox_g-w20-Mdd8.webp"
+        ],
+        "team": "demon",
+        "otherNight": 47,
+        "otherNightReminder": "The Vortox chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+        "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If the Vortox kills the Banshee, all players learn that the Banshee has died."
+            }
+        ]
+    },
+    {
+        "id": "homebrewsectsnvioletsbarista",
+        "name": "Barista",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/barista-9RUmOrIt.webp",
+            "https://script.bloodontheclocktower.com/assets/barista_g-IYOwLzUb.webp",
+            "https://script.bloodontheclocktower.com/assets/barista_e-dh62LsHj.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 10,
+        "firstNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
+        "otherNight": 6,
+        "otherNightReminder": "Choose a player. Wake them, show the *THIS CHARACTER SELECTED YOU* & Barista tokens, then give a finger signal. :reminder:",
+        "reminders": [
+            "Sober & Healthy",
+            "Acts Twice",
+            "?",
+            "?"
+        ],
+        "setup": false,
+        "ability": "Each night, until dusk, 1) a player becomes sober, healthy & gets true info, or 2) their ability works twice. They learn which.",
+        "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
+    },
+    {
+        "id": "homebrewsectsnvioletsharlot",
+        "name": "Harlot",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/harlot-aJaTZULk.webp",
+            "https://script.bloodontheclocktower.com/assets/harlot_g-DfGUnLek.webp",
+            "https://script.bloodontheclocktower.com/assets/harlot_e-CDyE0Kdh.webp"
+        ],
+        "team": "traveller",
+        "otherNight": 9,
+        "otherNightReminder": "The Harlot chooses a living player. Put the Harlot to sleep. Wake the chosen player, show them the *THIS CHARACTER SELECTED YOU* token, then the Harlot token. If that player nods their head, wake the Harlot and show them the chosen player's character token. Both players might die. :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a living player: if they agree, you learn their character, but you both might die.",
+        "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
+    },
+    {
+        "id": "homebrewsectsnvioletsbutcher",
+        "name": "Butcher",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/butcher-COYeTS3-.webp",
+            "https://script.bloodontheclocktower.com/assets/butcher_g-BqDe54Mz.webp",
+            "https://script.bloodontheclocktower.com/assets/butcher_e-BvZvHE-0.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Each day, after the 1st execution, you may nominate again.",
+        "flavor": "It tastes like chicken. More please."
+    },
+    {
+        "id": "homebrewsectsnvioletsbonecollector",
+        "name": "Bone Collector",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/bonecollector-CEqnpjbS.webp",
+            "https://script.bloodontheclocktower.com/assets/bonecollector_g-DBlHdEjU.webp",
+            "https://script.bloodontheclocktower.com/assets/bonecollector_e-CIpytarz.webp"
+        ],
+        "team": "traveller",
+        "otherNight": 10,
+        "otherNightReminder": "The Bone Collector might choose a dead player. :reminder: If necessary, wake the chosen player to use their ability.",
+        "reminders": [
+            "No Ability",
+            "Has Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night*, choose a dead player: they regain their ability until dusk.",
+        "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
+    },
+    {
+        "id": "homebrewsectsnvioletsdeviant",
+        "name": "Deviant",
+        "edition": "snv",
+        "image": [
+            "https://script.bloodontheclocktower.com/assets/deviant-DLaJy91u.webp",
+            "https://script.bloodontheclocktower.com/assets/deviant_g-Bbk8K2ZR.webp",
+            "https://script.bloodontheclocktower.com/assets/deviant_e-D0QU1Y2Y.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "If you were funny today, you cannot die by exile.",
+        "flavor": "Twas the lady's quip, forsooth."
+    }
+]
