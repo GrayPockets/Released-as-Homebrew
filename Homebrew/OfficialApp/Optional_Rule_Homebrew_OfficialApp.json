@@ -50,7 +50,7 @@
             "Friend"
         ],
         "setup": false,
-        "ability": "On your 1st night, choose a player (not yourself): you always have the same alignment as them (you don't know which) even if drunk or poisoned.",
+        "ability": "On your 1st night, choose a player (not yourself): you are their alignment (you don't know which) even if drunk or poisoned.",
         "flavor": "<grunt><grin></grunt>"
     },
     {

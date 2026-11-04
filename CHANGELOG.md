@@ -1,9 +1,10 @@
 # Changelog
 ## 1.15.1
-* Reorganize Files
-* Replaced underscore notation with alphanumeric for character ids.
-* Correct Groganard Magician date.
-* Correct Almanac entry for Sects & Violets.
+* Ogtional Ogre ability update
+* Folder refactor
+* Character ids correction
+* Groganard Magician id correction
+* Sects & Violets almanac correction
 ## 1.15.0
 * Script tool sourced image urls
 ## 1.14.2
