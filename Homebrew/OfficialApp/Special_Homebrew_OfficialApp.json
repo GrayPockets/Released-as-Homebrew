@@ -10,7 +10,7 @@
         "name": "Townsfolk",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/townsfolk_g-CKaS3yKc.webp",
+            "https://botc.app/assets/townsfolk-CKaS3yKc.webp",
             "https://botc.app/assets/townsfolk_e-CHxn-dgu.webp"
         ],
         "team": "townsfolk",
@@ -23,7 +23,7 @@
         "name": "Outsider",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/outsider_g-BzhBt4on.webp",
+            "https://botc.app/assets/outsider-BzhBt4on.webp",
             "https://botc.app/assets/outsider_e-CgWWsKPC.webp"
         ],
         "team": "outsider",
@@ -36,7 +36,7 @@
         "name": "Minion",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/minion_e-lDFo-tEX.webp",
+            "https://botc.app/assets/minion-lDFo-tEX.webp",
             "https://botc.app/assets/minion_g-Cgm5WnSR.webp"
         ],
         "team": "minion",
@@ -49,7 +49,7 @@
         "name": "Demon",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/demon_e-BE73nmRM.webp",
+            "https://botc.app/assets/demon-BE73nmRM.webp",
             "https://botc.app/assets/demon_g-CSs6ZD66.webp"
         ],
         "team": "demon",
