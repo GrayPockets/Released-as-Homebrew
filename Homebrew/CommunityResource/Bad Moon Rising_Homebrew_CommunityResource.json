@@ -3,9 +3,8 @@
         "id": "_meta",
         "name": "Bad Moon Rising as Homebrew",
         "author": "TPI",
-        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "logo": "https://release.botc.app/resources/editions/bmr/logo.webp",
         "hideTitle": true,
-        "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "homebrewbadmoonrisingapprentice", "barista", "minioninfo", "homebrewbadmoonrisinglunatic", "demoninfo", "homebrewbadmoonrisingsailor", "homebrewbadmoonrisingcourtier", "homebrewbadmoonrisinggodfather", "homebrewbadmoonrisingdevilsadvocate", "homebrewbadmoonrisingpukka", "homebrewbadmoonrisinggrandmother", "homebrewbadmoonrisingchambermaid", "dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","homebrewbadmoonrisingsailor","homebrewbadmoonrisinginnkeeper","homebrewbadmoonrisingcourtier","homebrewbadmoonrisinggambler","homebrewbadmoonrisingdevilsadvocate","homebrewbadmoonrisinglunatic","homebrewbadmoonrisingexorcist","homebrewbadmoonrisingzombuul","homebrewbadmoonrisingpukka","homebrewbadmoonrisingshabaloth","homebrewbadmoonrisingpo","homebrewbadmoonrisingassassin","homebrewbadmoonrisinggodfather","homebrewbadmoonrisingprofessor","homebrewbadmoonrisinggossip","homebrewbadmoonrisingtinker","homebrewbadmoonrisingmoonchild","homebrewbadmoonrisinggrandmother","tor","homebrewbadmoonrisingchambermaid","dawn"]
@@ -15,8 +14,8 @@
         "name": "Grandmother",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/grandmother_g-CjEyeFLi.webp",
-            "https://botc.app/assets/grandmother_e-BLCIA5TL.webp"
+            "https://release.botc.app/resources/characters/bmr/grandmother_g.webp",
+            "https://release.botc.app/resources/characters/bmr/grandmother_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 59,
@@ -36,8 +35,8 @@
         "name": "Sailor",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/sailor_g-MdYxQ8zf.webp",
-            "https://botc.app/assets/sailor_e-DfZBdaxk.webp"
+            "https://release.botc.app/resources/characters/bmr/sailor_g.webp",
+            "https://release.botc.app/resources/characters/bmr/sailor_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 26,
@@ -56,8 +55,8 @@
         "name": "Chambermaid",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/chambermaid_g-DAtPnmSz.webp",
-            "https://botc.app/assets/chambermaid_e-CdqkTS11.webp"
+            "https://release.botc.app/resources/characters/bmr/chambermaid_g.webp",
+            "https://release.botc.app/resources/characters/bmr/chambermaid_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -73,8 +72,8 @@
         "name": "Exorcist",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/exorcist_g-CiIkE1hM.webp",
-            "https://botc.app/assets/exorcist_e-DoXc6R_z.webp"
+            "https://release.botc.app/resources/characters/bmr/exorcist_g.webp",
+            "https://release.botc.app/resources/characters/bmr/exorcist_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 36,
@@ -91,8 +90,8 @@
         "name": "Innkeeper",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/innkeeper_g-B_YjhWTM.webp",
-            "https://botc.app/assets/innkeeper_e-dzanyuqI.webp"
+            "https://release.botc.app/resources/characters/bmr/innkeeper_g.webp",
+            "https://release.botc.app/resources/characters/bmr/innkeeper_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 19,
@@ -111,8 +110,8 @@
         "name": "Gambler",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/gambler_g-BJg931OP.webp",
-            "https://botc.app/assets/gambler_e-Co0D5NyD.webp"
+            "https://release.botc.app/resources/characters/bmr/gambler_g.webp",
+            "https://release.botc.app/resources/characters/bmr/gambler_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 21,
@@ -129,8 +128,8 @@
         "name": "Gossip",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/gossip_g-0mo_0qnq.webp",
-            "https://botc.app/assets/gossip_e-DKOgldGS.webp"
+            "https://release.botc.app/resources/characters/bmr/gossip_g.webp",
+            "https://release.botc.app/resources/characters/bmr/gossip_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 58,
@@ -147,8 +146,8 @@
         "name": "Courtier",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/courtier_g-8Fhu5KML.webp",
-            "https://botc.app/assets/courtier_e-DxjU0rGy.webp"
+            "https://release.botc.app/resources/characters/bmr/courtier_g.webp",
+            "https://release.botc.app/resources/characters/bmr/courtier_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 35,
@@ -170,8 +169,8 @@
         "name": "Professor",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/professor_g-h2X7rvhv.webp",
-            "https://botc.app/assets/professor_e-BpuIeGol.webp"
+            "https://release.botc.app/resources/characters/bmr/professor_g.webp",
+            "https://release.botc.app/resources/characters/bmr/professor_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 65,
@@ -189,8 +188,8 @@
         "name": "Minstrel",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/minstrel_g-M5EHa7zy.webp",
-            "https://botc.app/assets/minstrel_e-Cv94nSeJ.webp"
+            "https://release.botc.app/resources/characters/bmr/minstrel_g.webp",
+            "https://release.botc.app/resources/characters/bmr/minstrel_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -205,8 +204,8 @@
         "name": "Tea Lady",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/tealady_g-C6X-kuq2.webp",
-            "https://botc.app/assets/tealady_e-CZT3s07k.webp"
+            "https://release.botc.app/resources/characters/bmr/tealady_g.webp",
+            "https://release.botc.app/resources/characters/bmr/tealady_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -222,8 +221,8 @@
         "name": "Pacifist",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/pacifist_g-DAkM1DME.webp",
-            "https://botc.app/assets/pacifist_e-BDyZFmeQ.webp"
+            "https://release.botc.app/resources/characters/bmr/pacifist_g.webp",
+            "https://release.botc.app/resources/characters/bmr/pacifist_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -235,8 +234,8 @@
         "name": "Fool",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/fool_g-C-vzA630.webp",
-            "https://botc.app/assets/fool_e-CdlNFIsk.webp"
+            "https://release.botc.app/resources/characters/bmr/fool_g.webp",
+            "https://release.botc.app/resources/characters/bmr/fool_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -251,8 +250,8 @@
         "name": "Tinker",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/tinker_g-CS4VFqeN.webp",
-            "https://botc.app/assets/tinker_e-dpPUDqmq.webp"
+            "https://release.botc.app/resources/characters/bmr/tinker_g.webp",
+            "https://release.botc.app/resources/characters/bmr/tinker_e.webp"
         ],
         "team": "outsider",
         "otherNight": 71,
@@ -269,8 +268,8 @@
         "name": "Moonchild",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/moonchild_g-DKURQEzF.webp",
-            "https://botc.app/assets/moonchild_e-D-P3dKVK.webp"
+            "https://release.botc.app/resources/characters/bmr/moonchild_g.webp",
+            "https://release.botc.app/resources/characters/bmr/moonchild_e-D-P3dKVK.webp"
         ],
         "team": "outsider",
         "otherNight": 72,
@@ -287,8 +286,8 @@
         "name": "Goon",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/goon_g-qCN1CxKh.webp",
-            "https://botc.app/assets/goon_e-DmCcVOv-.webp"
+            "https://release.botc.app/resources/characters/bmr/goon_g.webp",
+            "https://release.botc.app/resources/characters/bmr/goon_e-DmCcVOv-.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -303,8 +302,8 @@
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/lunatic_g-Bz2ai2Da.webp",
-            "https://botc.app/assets/lunatic_e-D53Boxpa.webp"
+            "https://release.botc.app/resources/characters/bmr/lunatic_g.webp",
+            "https://release.botc.app/resources/characters/bmr/lunatic_e.webp"
         ],
         "team": "outsider",
         "firstNight": 22,
@@ -325,8 +324,8 @@
         "name": "Godfather",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/godfather_e-CszxqtFl.webp",
-            "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
+            "https://release.botc.app/resources/characters/bmr/godfather_e.webp",
+            "https://release.botc.app/resources/characters/bmr/godfather_g.webp"
         ],
         "team": "minion",
         "firstNight": 38,
@@ -346,8 +345,8 @@
         "name": "Devil's Advocate",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/devilsadvocate_e-6olcm7Cx.webp",
-            "https://botc.app/assets/devilsadvocate_g-DeyJHzxG.webp"
+            "https://release.botc.app/resources/characters/bmr/devilsadvocate_e.webp",
+            "https://release.botc.app/resources/characters/bmr/devilsadvocate_g.webp"
         ],
         "team": "minion",
         "firstNight": 40,
@@ -366,8 +365,8 @@
         "name": "Assassin",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/assassin_e-BDitHnVO.webp",
-            "https://botc.app/assets/assassin_g-D_zJwNaF.webp"
+            "https://release.botc.app/resources/characters/bmr/assassin_e.webp",
+            "https://release.botc.app/resources/characters/bmr/assassin_g.webp"
         ],
         "team": "minion",
         "otherNight": 56,
@@ -385,8 +384,8 @@
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/mastermind_e-lwTDvV6G.webp",
-            "https://botc.app/assets/mastermind_g-BzBbXNuB.webp"
+            "https://release.botc.app/resources/characters/bmr/mastermind_e.webp",
+            "https://release.botc.app/resources/characters/bmr/mastermind_g.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -404,8 +403,8 @@
         "name": "Zombuul",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/zombuul_e-DzySLzke.webp",
-            "https://botc.app/assets/zombuul_g-B4MTwk5-.webp"
+            "https://release.botc.app/resources/characters/bmr/zombuul_e.webp",
+            "https://release.botc.app/resources/characters/bmr/zombuul_g-B4MTwk5-.webp"
         ],
         "team": "demon",
         "otherNight": 41,
@@ -423,8 +422,8 @@
         "name": "Pukka",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/pukka_e-CmZzVHPM.webp",
-            "https://botc.app/assets/pukka_g-D7il5SFF.webp"
+            "https://release.botc.app/resources/characters/bmr/pukka_e.webp",
+            "https://release.botc.app/resources/characters/bmr/pukka_g.webp"
         ],
         "team": "demon",
         "firstNight": 47,
@@ -445,8 +444,8 @@
         "name": "Shabaloth",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/shabaloth_e-DsCO_Txn.webp",
-            "https://botc.app/assets/shabaloth_g-BUwNFN-9.webp"
+            "https://release.botc.app/resources/characters/bmr/shabaloth_e.webp",
+            "https://release.botc.app/resources/characters/bmr/shabaloth_g-BUwNFN-9.webp"
         ],
         "team": "demon",
         "otherNight": 43,
@@ -465,8 +464,8 @@
         "name": "Po",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/po_e-BkxsM_xT.webp",
-            "https://botc.app/assets/po_g-blqsHHpB.webp"
+            "https://release.botc.app/resources/characters/bmr/po_e.webp",
+            "https://release.botc.app/resources/characters/bmr/po_g.webp"
         ],
         "team": "demon",
         "otherNight": 44,
@@ -486,9 +485,9 @@
         "name": "Apprentice",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/apprentice-Dq5aGiYi.webp",
-            "https://botc.app/assets/apprentice_g-qVS2q4bN.webp",
-            "https://botc.app/assets/apprentice_e-BEpvFWvS.webp"
+            "https://release.botc.app/resources/characters/bmr/apprentice.webp",
+            "https://release.botc.app/resources/characters/bmr/apprentice_g.webp",
+            "https://release.botc.app/resources/characters/bmr/apprentice_e.webp"
         ],
         "team": "traveller",
         "firstNight": 9,
@@ -512,9 +511,9 @@
         "name": "Matron",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/matron-D4Vegu5w.webp",
-            "https://botc.app/assets/matron_g-faTHHRCk.webp",
-            "https://botc.app/assets/matron_e-i60IfjWL.webp"
+            "https://release.botc.app/resources/characters/bmr/matron.webp",
+            "https://release.botc.app/resources/characters/bmr/matron_g.webp",
+            "https://release.botc.app/resources/characters/bmr/matron_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -526,9 +525,9 @@
         "name": "Judge",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/judge-Df7wYZLu.webp",
-            "https://botc.app/assets/judge_g-CJbFZ44x.webp",
-            "https://botc.app/assets/judge_e-jGAdrE7z.webp"
+            "https://release.botc.app/resources/characters/bmr/judge.webp",
+            "https://release.botc.app/resources/characters/bmr/judge_g.webp",
+            "https://release.botc.app/resources/characters/bmr/judge_e.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -543,9 +542,9 @@
         "name": "Bishop",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/bishop-LYgE69Ju.webp",
-            "https://botc.app/assets/bishop_g-DdZW0SpA.webp",
-            "https://botc.app/assets/bishop_e-CvwvjoUI.webp"
+            "https://release.botc.app/resources/characters/bmr/bishop.webp",
+            "https://release.botc.app/resources/characters/bmr/bishop_g.webp",
+            "https://release.botc.app/resources/characters/bmr/bishop_e.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -561,9 +560,9 @@
         "name": "Voudon",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/voudon-CNiyV0sS.webp",
-            "https://botc.app/assets/voudon_g-D-tbnf_D.webp",
-            "https://botc.app/assets/voudon_e-D9qWXIyp.webp"
+            "https://release.botc.app/resources/characters/bmr/voudon.webp",
+            "https://release.botc.app/resources/characters/bmr/voudon_g.webp",
+            "https://release.botc.app/resources/characters/bmr/voudon_e.webp"
         ],
         "team": "traveller",
         "setup": false,

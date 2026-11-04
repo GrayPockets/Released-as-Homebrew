@@ -3,9 +3,8 @@
         "id": "_meta",
         "name": "Sects & Violets as Homebrew",
         "author": "TPI",
-        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "logo": "https://release.botc.app/resources/editions/snv/logo.webp",
         "hideTitle": true,
-        "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","homebrewsectsnvioletsbarista","minioninfo","demoninfo","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletseviltwin","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletsclockmaker","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsmathematician","dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","homebrewsectsnvioletsbarista","homebrewsectsnvioletsbonecollector","homebrewsectsnvioletsharlot","homebrewsectsnvioletsphilosopher","homebrewsectsnvioletssnakecharmer","homebrewsectsnvioletswitch","homebrewsectsnvioletscerenovus","homebrewsectsnvioletspithag","homebrewsectsnvioletsfanggu","homebrewsectsnvioletsvigormortis","homebrewsectsnvioletsnodashii","homebrewsectsnvioletsvortox","tor","homebrewsectsnvioletsbarber","homebrewsectsnvioletssweetheart","homebrewsectsnvioletssage","homebrewsectsnvioletsdreamer","homebrewsectsnvioletsflowergirl","homebrewsectsnvioletstowncrier","homebrewsectsnvioletsoracle","homebrewsectsnvioletsseamstress","homebrewsectsnvioletsjuggler","homebrewsectsnvioletsmathematician","dawn"]
@@ -15,8 +14,8 @@
         "name": "Clockmaker",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/clockmaker_g-z-gzmkzc.webp",
-            "https://botc.app/assets/clockmaker_e-De0CuxuO.webp"
+            "https://release.botc.app/resources/characters/snv/clockmaker_g.webp",
+            "https://release.botc.app/resources/characters/snv/clockmaker_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 60,
@@ -30,8 +29,8 @@
         "name": "Dreamer",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/dreamer_g-CjKsf0eE.webp",
-            "https://botc.app/assets/dreamer_e-9zGefVKW.webp"
+            "https://release.botc.app/resources/characters/snv/dreamer_g.webp",
+            "https://release.botc.app/resources/characters/snv/dreamer_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 61,
@@ -47,8 +46,8 @@
         "name": "Snake Charmer",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/snakecharmer_g-DYwjThVr.webp",
-            "https://botc.app/assets/snakecharmer_e-D6CrPRGR.webp"
+            "https://release.botc.app/resources/characters/snv/snakecharmer_g.webp",
+            "https://release.botc.app/resources/characters/snv/snakecharmer_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 37,
@@ -67,8 +66,8 @@
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mathematician_g-DiYoQRIl.webp",
-            "https://botc.app/assets/mathematician_e-D-VneyvO.webp"
+            "https://release.botc.app/resources/characters/snv/mathematician_g.webp",
+            "https://release.botc.app/resources/characters/snv/mathematician_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 77,
@@ -109,8 +108,8 @@
         "name": "Flowergirl",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/flowergirl_g-C3oZV2PZ.webp",
-            "https://botc.app/assets/flowergirl_e-DJcVSLWX.webp"
+            "https://release.botc.app/resources/characters/snv/flowergirl_g.webp",
+            "https://release.botc.app/resources/characters/snv/flowergirl_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 80,
@@ -128,8 +127,8 @@
         "name": "Town Crier",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/towncrier_g-D9dERfO2.webp",
-            "https://botc.app/assets/towncrier_e-BzUGp1JT.webp"
+            "https://release.botc.app/resources/characters/snv/towncrier_g.webp",
+            "https://release.botc.app/resources/characters/snv/towncrier_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 81,
@@ -147,8 +146,8 @@
         "name": "Oracle",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/oracle_g-HZdhcJUJ.webp",
-            "https://botc.app/assets/oracle_e-BgNZAuGG.webp"
+            "https://release.botc.app/resources/characters/snv/oracle_g.webp",
+            "https://release.botc.app/resources/characters/snv/oracle_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 82,
@@ -162,8 +161,8 @@
         "name": "Savant",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/savant_g-n6x1YgAZ.webp",
-            "https://botc.app/assets/savant_e-5neUO4oK.webp"
+            "https://release.botc.app/resources/characters/snv/savant_g.webp",
+            "https://release.botc.app/resources/characters/snv/savant_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -175,8 +174,8 @@
         "name": "Seamstress",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/seamstress_g-B4RHsroR.webp",
-            "https://botc.app/assets/seamstress_e-BfBRBNhv.webp"
+            "https://release.botc.app/resources/characters/snv/seamstress_g.webp",
+            "https://release.botc.app/resources/characters/snv/seamstress_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 62,
@@ -195,8 +194,8 @@
         "name": "Philosopher",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/philosopher_g-DOk3eWqe.webp",
-            "https://botc.app/assets/philosopher_e-sc5zSJy2.webp"
+            "https://release.botc.app/resources/characters/snv/philosopher_g.webp",
+            "https://release.botc.app/resources/characters/snv/philosopher_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 14,
@@ -224,8 +223,8 @@
         "name": "Artist",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/artist_g-CyRrA7cN.webp",
-            "https://botc.app/assets/artist_e-CpwoIhpV.webp"
+            "https://release.botc.app/resources/characters/snv/artist_g.webp",
+            "https://release.botc.app/resources/characters/snv/artist_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -240,8 +239,8 @@
         "name": "Juggler",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/juggler_g-CghN7Lp-.webp",
-            "https://botc.app/assets/juggler_e-BQQDYvGs.webp"
+            "https://release.botc.app/resources/characters/snv/juggler_g.webp",
+            "https://release.botc.app/resources/characters/snv/juggler_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 84,
@@ -262,8 +261,8 @@
         "name": "Sage",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/sage_g-BQUVfu9h.webp",
-            "https://botc.app/assets/sage_e-BS8e_Ree.webp"
+            "https://release.botc.app/resources/characters/snv/sage_g.webp",
+            "https://release.botc.app/resources/characters/snv/sage_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 63,
@@ -277,8 +276,8 @@
         "name": "Mutant",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/mutant_g-CUe36x-i.webp",
-            "https://botc.app/assets/mutant_e-COP-pfTP.webp"
+            "https://release.botc.app/resources/characters/snv/mutant_g.webp",
+            "https://release.botc.app/resources/characters/snv/mutant_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -290,8 +289,8 @@
         "name": "Sweetheart",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/sweetheart_g-CmqS74DM.webp",
-            "https://botc.app/assets/sweetheart_e-Bm63hRzw.webp"
+            "https://release.botc.app/resources/characters/snv/sweetheart_g.webp",
+            "https://release.botc.app/resources/characters/snv/sweetheart_e.webp"
         ],
         "team": "outsider",
         "otherNight": 61,
@@ -308,8 +307,8 @@
         "name": "Barber",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/barber_g-CP7mk8b9.webp",
-            "https://botc.app/assets/barber_e-BJbMUslE.webp"
+            "https://release.botc.app/resources/characters/snv/barber_g.webp",
+            "https://release.botc.app/resources/characters/snv/barber_e.webp"
         ],
         "team": "outsider",
         "otherNight": 60,
@@ -326,8 +325,8 @@
         "name": "Klutz",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/klutz_g-DRcV_Rgl.webp",
-            "https://botc.app/assets/klutz_e-C-CdPEop.webp"
+            "https://release.botc.app/resources/characters/snv/klutz_g.webp",
+            "https://release.botc.app/resources/characters/snv/klutz_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -339,8 +338,8 @@
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/eviltwin_e-yPqoVnXw.webp",
-            "https://botc.app/assets/eviltwin_g-DVXfIL-n.webp"
+            "https://release.botc.app/resources/characters/snv/eviltwin_e.webp",
+            "https://release.botc.app/resources/characters/snv/eviltwin_g.webp"
         ],
         "team": "minion",
         "firstNight": 41,
@@ -357,8 +356,8 @@
         "name": "Witch",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/witch_e-D4AS1R1Q.webp",
-            "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
+            "https://release.botc.app/resources/characters/snv/witch_e.webp",
+            "https://release.botc.app/resources/characters/snv/witch_g.webp"
         ],
         "team": "minion",
         "firstNight": 42,
@@ -377,8 +376,8 @@
         "name": "Cerenovus",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/cerenovus_e-ARmVZpWA.webp",
-            "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
+            "https://release.botc.app/resources/characters/snv/cerenovus_e.webp",
+            "https://release.botc.app/resources/characters/snv/cerenovus_g.webp"
         ],
         "team": "minion",
         "firstNight": 43,
@@ -403,8 +402,8 @@
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
-            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+            "https://release.botc.app/resources/characters/snv/pithag_e.webp",
+            "https://release.botc.app/resources/characters/snv/pithag_g.webp"
         ],
         "team": "minion",
         "otherNight": 29,
@@ -444,8 +443,8 @@
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/fanggu_e-6DavSWxL.webp",
-            "https://botc.app/assets/fanggu_g-Dwai_VtD.webp"
+            "https://release.botc.app/resources/characters/snv/fanggu_e.webp",
+            "https://release.botc.app/resources/characters/snv/fanggu_g.webp"
         ],
         "team": "demon",
         "otherNight": 45,
@@ -463,8 +462,8 @@
         "name": "Vigormortis",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/vigormortis_e-0VJIslwJ.webp",
-            "https://botc.app/assets/vigormortis_g-DP1UY2Jk.webp"
+            "https://release.botc.app/resources/characters/snv/vigormortis_e.webp",
+            "https://release.botc.app/resources/characters/snv/vigormortis_g.webp"
         ],
         "team": "demon",
         "otherNight": 49,
@@ -487,8 +486,8 @@
         "name": "No Dashii",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/nodashii_e-Dt8UO6rj.webp",
-            "https://botc.app/assets/nodashii_g-jI2LJQhL.webp"
+            "https://release.botc.app/resources/characters/snv/nodashii_e.webp",
+            "https://release.botc.app/resources/characters/snv/nodashii_g.webp"
         ],
         "team": "demon",
         "otherNight": 46,
@@ -507,8 +506,8 @@
         "name": "Vortox",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/vortox_e-CI-Cd8aG.webp",
-            "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
+            "https://release.botc.app/resources/characters/snv/vortox_e.webp",
+            "https://release.botc.app/resources/characters/snv/vortox_g.webp"
         ],
         "team": "demon",
         "otherNight": 47,
@@ -532,8 +531,8 @@
         "edition": "snv",
         "image": [
             "https://botc.app/assets/barista-9RUmOrIt.webp",
-            "https://botc.app/assets/barista_g-IYOwLzUb.webp",
-            "https://botc.app/assets/barista_e-dh62LsHj.webp"
+            "https://release.botc.app/resources/characters/snv/barista_g.webp",
+            "https://release.botc.app/resources/characters/snv/barista_e.webp"
         ],
         "team": "traveller",
         "firstNight": 10,
@@ -556,8 +555,8 @@
         "edition": "snv",
         "image": [
             "https://botc.app/assets/harlot-aJaTZULk.webp",
-            "https://botc.app/assets/harlot_g-DfGUnLek.webp",
-            "https://botc.app/assets/harlot_e-CDyE0Kdh.webp"
+            "https://release.botc.app/resources/characters/snv/harlot_g.webp",
+            "https://release.botc.app/resources/characters/snv/harlot_e.webp"
         ],
         "team": "traveller",
         "otherNight": 9,
@@ -576,8 +575,8 @@
         "edition": "snv",
         "image": [
             "https://botc.app/assets/butcher-COYeTS3-.webp",
-            "https://botc.app/assets/butcher_g-BqDe54Mz.webp",
-            "https://botc.app/assets/butcher_e-BvZvHE-0.webp"
+            "https://release.botc.app/resources/characters/snv/butcher_g.webp",
+            "https://release.botc.app/resources/characters/snv/butcher_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -590,8 +589,8 @@
         "edition": "snv",
         "image": [
             "https://botc.app/assets/bonecollector-CEqnpjbS.webp",
-            "https://botc.app/assets/bonecollector_g-DBlHdEjU.webp",
-            "https://botc.app/assets/bonecollector_e-CIpytarz.webp"
+            "https://release.botc.app/resources/characters/snv/bonecollector_g.webp",
+            "https://release.botc.app/resources/characters/snv/bonecollector_e.webp"
         ],
         "team": "traveller",
         "otherNight": 10,
@@ -610,8 +609,8 @@
         "edition": "snv",
         "image": [
             "https://botc.app/assets/deviant-DLaJy91u.webp",
-            "https://botc.app/assets/deviant_g-Bbk8K2ZR.webp",
-            "https://botc.app/assets/deviant_e-D0QU1Y2Y.webp"
+            "https://release.botc.app/resources/characters/snv/deviant_g.webp",
+            "https://release.botc.app/resources/characters/snv/deviant_e.webp"
         ],
         "team": "traveller",
         "setup": false,

@@ -17,8 +17,8 @@
         "name": "Gossip*",
         "edition": "bmr",
         "image": [
-            "https://botc.app/assets/gossip_g-0mo_0qnq.webp",
-            "https://botc.app/assets/gossip_e-DKOgldGS.webp"
+            "https://release.botc.app/resources/characters/bmr/gossip_g.webp",
+            "https://release.botc.app/resources/characters/bmr/gossip_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 58,
@@ -35,8 +35,8 @@
         "name": "Alsaahir*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/alsaahir_g-CpjMnnMq.webp",
-            "https://botc.app/assets/alsaahir_e-DiydqcyG.webp"
+            "https://release.botc.app/resources/characters/carousel/alsaahir_g.webp",
+            "https://release.botc.app/resources/characters/carousel/alsaahir_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -48,8 +48,8 @@
         "name": "Juggler*",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/juggler_g-CghN7Lp-.webp",
-            "https://botc.app/assets/juggler_e-BQQDYvGs.webp"
+            "https://release.botc.app/resources/characters/snv/juggler_g.webp",
+            "https://release.botc.app/resources/characters/snv/juggler_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 84,
@@ -70,8 +70,8 @@
         "name": "Lil' Monsta*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
-            "https://botc.app/assets/lilmonsta_g-DD3Lbp-C.webp"
+            "https://release.botc.app/resources/characters/carousel/lilmonsta_e.webp",
+            "https://release.botc.app/resources/characters/carousel/lilmonsta_g.webp"
         ],
         "team": "demon",
         "firstNight": 30,
@@ -129,7 +129,7 @@
         "name": "God of Ug*",
         "edition": "loric",
         "image": [
-            "https://botc.app/assets/godofug-BXMzwd9N.webp"
+            "https://release.botc.app/resources/characters/loric/godofug.webp"
         ],
         "team": "loric",
         "reminders": [

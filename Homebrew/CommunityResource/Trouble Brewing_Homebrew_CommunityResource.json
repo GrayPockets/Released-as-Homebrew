@@ -3,9 +3,8 @@
         "id": "_meta",
         "name": "Trouble Brewing as Homebrew",
         "author": "TPI",
-        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "logo": "https://release.botc.app/resources/editions/tb/logo.webp",
         "hideTitle": true,
-        "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","apprentice","barista","minioninfo","demoninfo","homebrewtroublebrewingpoisoner","homebrewtroublebrewingspy","homebrewtroublebrewingwasherwoman","homebrewtroublebrewinglibrarian","homebrewtroublebrewinginvestigator","homebrewtroublebrewingchef","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"],
         "otherNight": ["dusk","duchess","toymaker","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","homebrewtroublebrewingpoisoner","homebrewtroublebrewingmonk","homebrewtroublebrewingspy","homebrewtroublebrewingscarletwoman","homebrewtroublebrewingimp","tor","homebrewtroublebrewingravenkeeper","homebrewtroublebrewingundertaker","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"]
@@ -15,8 +14,8 @@
         "name": "Washerwoman",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/washerwoman_g-CVnYjPdR.webp",
-            "https://botc.app/assets/washerwoman_e-TC3PgT2N.webp"
+            "https://release.botc.app/resources/characters/tb/washerwoman_g.webp",
+            "https://release.botc.app/resources/characters/tb/washerwoman_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 52,
@@ -34,8 +33,8 @@
         "name": "Librarian",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/librarian_g-Bvwb7yEa.webp",
-            "https://botc.app/assets/librarian_e-DNYbXXNX.webp"
+            "https://release.botc.app/resources/characters/tb/librarian_g.webp",
+            "https://release.botc.app/resources/characters/tb/librarian_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 53,
@@ -53,8 +52,8 @@
         "name": "Investigator",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/investigator_g-DWSOiA6Q.webp",
-            "https://botc.app/assets/investigator_e-CR-lRqwj.webp"
+            "https://release.botc.app/resources/characters/tb/investigator_g.webp",
+            "https://release.botc.app/resources/characters/tb/investigator_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 54,
@@ -72,8 +71,8 @@
         "name": "Chef",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/chef_g-C3a3cGeP.webp",
-            "https://botc.app/assets/chef_e-B3RO5GXN.webp"
+            "https://release.botc.app/resources/characters/tb/chef_g.webp",
+            "https://release.botc.app/resources/characters/tb/chef_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 55,
@@ -87,8 +86,8 @@
         "name": "Empath",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/empath_g-vVEkU0cf.webp",
-            "https://botc.app/assets/empath_e-CWeYvCJ9.webp"
+            "https://release.botc.app/resources/characters/tb/empath_g.webp",
+            "https://release.botc.app/resources/characters/tb/empath_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 56,
@@ -104,8 +103,8 @@
         "name": "Fortune Teller",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/fortuneteller_g-lQQzYvkg.webp",
-            "https://botc.app/assets/fortuneteller_e-BWljoXp7.webp"
+            "https://release.botc.app/resources/characters/tb/fortuneteller_g.webp",
+            "https://release.botc.app/resources/characters/tb/fortuneteller_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 57,
@@ -124,8 +123,8 @@
         "name": "Undertaker",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/undertaker_g-sXYI7VS3.webp",
-            "https://botc.app/assets/undertaker_e-DVB8aMO4.webp"
+            "https://release.botc.app/resources/characters/tb/undertaker_g.webp",
+            "https://release.botc.app/resources/characters/tb/undertaker_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 78,
@@ -142,8 +141,8 @@
         "name": "Monk",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/monk_g-D4wNFA-b.webp",
-            "https://botc.app/assets/monk_e-OTOQUKVm.webp"
+            "https://release.botc.app/resources/characters/tb/monk_g.webp",
+            "https://release.botc.app/resources/characters/tb/monk_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 24,
@@ -160,8 +159,8 @@
         "name": "Ravenkeeper",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/ravenkeeper_g-Bg-yrUxj.webp",
-            "https://botc.app/assets/ravenkeeper_e-Yrx6NFvE.webp"
+            "https://release.botc.app/resources/characters/tb/ravenkeeper_g.webp",
+            "https://release.botc.app/resources/characters/tb/ravenkeeper_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 75,
@@ -175,8 +174,8 @@
         "name": "Virgin",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/virgin_g-DfRSMLSj.webp",
-            "https://botc.app/assets/virgin_e-BB20SAPv.webp"
+            "https://release.botc.app/resources/characters/tb/virgin_g.webp",
+            "https://release.botc.app/resources/characters/tb/virgin_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -191,8 +190,8 @@
         "name": "Slayer",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/slayer_g-BO_75tK_.webp",
-            "https://botc.app/assets/slayer_e-4pQk5kJR.webp"
+            "https://release.botc.app/resources/characters/tb/slayer_g.webp",
+            "https://release.botc.app/resources/characters/tb/slayer_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -207,8 +206,8 @@
         "name": "Soldier",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/soldier_g-Baq_oQFs.webp",
-            "https://botc.app/assets/soldier_e-CvaeglsK.webp"
+            "https://release.botc.app/resources/characters/tb/soldier_g.webp",
+            "https://release.botc.app/resources/characters/tb/soldier_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -220,8 +219,8 @@
         "name": "Mayor",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/mayor_g-BQeJ8Z2E.webp",
-            "https://botc.app/assets/mayor_e-Bc2mKeJ3.webp"
+            "https://release.botc.app/resources/characters/tb/mayor_g.webp",
+            "https://release.botc.app/resources/characters/tb/mayor_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -233,8 +232,8 @@
         "name": "Butler",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
-            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+            "https://release.botc.app/resources/characters/tb/butler_g.webp",
+            "https://release.botc.app/resources/characters/tb/butler_e.webp"
         ],
         "team": "outsider",
         "firstNight": 58,
@@ -259,8 +258,8 @@
         "name": "Drunk",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/drunk_g--QNmv0ZY.webp",
-            "https://botc.app/assets/drunk_e-bRjLB9FX.webp"
+            "https://release.botc.app/resources/characters/tb/drunk_g.webp",
+            "https://release.botc.app/resources/characters/tb/drunk_e.webp"
         ],
         "team": "outsider",
         "remindersGlobal": [
@@ -285,8 +284,8 @@
         "name": "Recluse",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/recluse_g-DxMFqO0r.webp",
-            "https://botc.app/assets/recluse_e-BUtHsTp3.webp"
+            "https://release.botc.app/resources/characters/tb/recluse_g.webp",
+            "https://release.botc.app/resources/characters/tb/recluse_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -308,8 +307,8 @@
         "name": "Saint",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/saint_g-BU0hab0E.webp",
-            "https://botc.app/assets/saint_e-CnQBC4rO.webp"
+            "https://release.botc.app/resources/characters/tb/saint_g.webp",
+            "https://release.botc.app/resources/characters/tb/saint_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -321,8 +320,8 @@
         "name": "Poisoner",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/poisoner_e-Usf7TcoY.webp",
-            "https://botc.app/assets/poisoner_g-DHNIHhxZ.webp"
+            "https://release.botc.app/resources/characters/tb/poisoner_e.webp",
+            "https://release.botc.app/resources/characters/tb/poisoner_g.webp"
         ],
         "team": "minion",
         "firstNight": 33,
@@ -341,8 +340,8 @@
         "name": "Spy",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
-            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+            "https://release.botc.app/resources/characters/tb/spy_e.webp",
+            "https://release.botc.app/resources/characters/tb/spy_g.webp"
         ],
         "team": "minion",
         "firstNight": 72,
@@ -379,8 +378,8 @@
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
-            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+            "https://release.botc.app/resources/characters/tb/scarletwoman_e.webp",
+            "https://release.botc.app/resources/characters/tb/scarletwoman_g.webp"
         ],
         "team": "minion",
         "otherNight": 33,
@@ -407,8 +406,8 @@
         "name": "Baron",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
-            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+            "https://release.botc.app/resources/characters/tb/baron_e.webp",
+            "https://release.botc.app/resources/characters/tb/baron_g.webp"
         ],
         "team": "minion",
         "setup": true,
@@ -420,8 +419,8 @@
         "name": "Imp",
         "edition": "tb",
         "image": [
-            "https://botc.app/assets/imp_e-DNpveOPY.webp",
-            "https://botc.app/assets/imp_g-D-G7pJEY.webp"
+            "https://release.botc.app/resources/characters/tb/imp_e.webp",
+            "https://release.botc.app/resources/characters/tb/imp_g.webp"
         ],
         "team": "demon",
         "otherNight": 40,
@@ -439,8 +438,8 @@
         "edition": "tb",
         "image": [
             "https://botc.app/assets/bureaucrat-C7wkPXRS.webp",
-            "https://botc.app/assets/bureaucrat_g-CyJZqBNe.webp",
-            "https://botc.app/assets/bureaucrat_e-Bmh-G0_a.webp"
+            "https://release.botc.app/resources/characters/tb/bureaucrat_g.webp",
+            "https://release.botc.app/resources/characters/tb/bureaucrat_e.webp"
         ],
         "team": "traveller",
         "firstNight": 11,
@@ -467,8 +466,8 @@
         "edition": "tb",
         "image": [
             "https://botc.app/assets/thief-DWMyBS_x.webp",
-            "https://botc.app/assets/thief_g-CPsEnUSQ.webp",
-            "https://botc.app/assets/thief_e-yPbPTo5i.webp"
+            "https://release.botc.app/resources/characters/tb/thief_g.webp",
+            "https://release.botc.app/resources/characters/tb/thief_e.webp"
         ],
         "team": "traveller",
         "firstNight": 12,
@@ -495,8 +494,8 @@
         "edition": "tb",
         "image": [
             "https://botc.app/assets/gunslinger-wipgFlby.webp",
-            "https://botc.app/assets/gunslinger_g-CKzyQCHC.webp",
-            "https://botc.app/assets/gunslinger_e-DCPdRPrm.webp"
+            "https://release.botc.app/resources/characters/tb/gunslinger_g.webp",
+            "https://release.botc.app/resources/characters/tb/gunslinger_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -509,8 +508,8 @@
         "edition": "tb",
         "image": [
             "https://botc.app/assets/scapegoat-rhlm_MDq.webp",
-            "https://botc.app/assets/scapegoat_g-CrL8fHff.webp",
-            "https://botc.app/assets/scapegoat_e-BFRtmmYo.webp"
+            "https://release.botc.app/resources/characters/tb/scapegoat_g.webp",
+            "https://release.botc.app/resources/characters/tb/scapegoat_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -523,8 +522,8 @@
         "edition": "tb",
         "image": [
             "https://botc.app/assets/beggar-BpoW7fsL.webp",
-            "https://botc.app/assets/beggar_g-Cn5PE4nQ.webp",
-            "https://botc.app/assets/beggar_e-C3_HD_se.webp"
+            "https://release.botc.app/resources/characters/tb/beggar_g.webp",
+            "https://release.botc.app/resources/characters/tb/beggar_e.webp"
         ],
         "team": "traveller",
         "setup": false,
