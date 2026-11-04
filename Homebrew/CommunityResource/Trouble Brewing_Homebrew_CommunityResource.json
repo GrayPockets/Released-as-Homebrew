@@ -1,0 +1,534 @@
+[
+    {
+        "id": "_meta",
+        "name": "Trouble Brewing as Homebrew",
+        "author": "TPI",
+        "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "hideTitle": true,
+        "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
+        "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","apprentice","barista","minioninfo","demoninfo","homebrewtroublebrewingpoisoner","homebrewtroublebrewingspy","homebrewtroublebrewingwasherwoman","homebrewtroublebrewinglibrarian","homebrewtroublebrewinginvestigator","homebrewtroublebrewingchef","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","homebrewtroublebrewingbureaucrat","homebrewtroublebrewingthief","homebrewtroublebrewingpoisoner","homebrewtroublebrewingmonk","homebrewtroublebrewingspy","homebrewtroublebrewingscarletwoman","homebrewtroublebrewingimp","tor","homebrewtroublebrewingravenkeeper","homebrewtroublebrewingundertaker","homebrewtroublebrewingempath","homebrewtroublebrewingfortuneteller","homebrewtroublebrewingbutler","dawn"]
+    },
+    {
+        "id": "homebrewtroublebrewingwasherwoman",
+        "name": "Washerwoman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/washerwoman_g-CVnYjPdR.webp",
+            "https://botc.app/assets/washerwoman_e-TC3PgT2N.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 52,
+        "firstNightReminder": "Show the Townsfolk character token. Point to both the *TOWNSFOLK* and *WRONG* players.",
+        "reminders": [
+            "Townsfolk",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Townsfolk.",
+        "flavor": "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
+    },
+    {
+        "id": "homebrewtroublebrewinglibrarian",
+        "name": "Librarian",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/librarian_g-Bvwb7yEa.webp",
+            "https://botc.app/assets/librarian_e-DNYbXXNX.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 53,
+        "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players.",
+        "reminders": [
+            "Outsider",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
+        "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+    },
+    {
+        "id": "homebrewtroublebrewinginvestigator",
+        "name": "Investigator",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/investigator_g-DWSOiA6Q.webp",
+            "https://botc.app/assets/investigator_e-CR-lRqwj.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 54,
+        "firstNightReminder": "Show the Minion character token. Point to both the *MINION* and *WRONG* players.",
+        "reminders": [
+            "Minion",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Minion.",
+        "flavor": "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+    },
+    {
+        "id": "homebrewtroublebrewingchef",
+        "name": "Chef",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/chef_g-C3a3cGeP.webp",
+            "https://botc.app/assets/chef_e-B3RO5GXN.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 55,
+        "firstNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "You start knowing how many pairs of evil players there are.",
+        "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+    },
+    {
+        "id": "homebrewtroublebrewingempath",
+        "name": "Empath",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/empath_g-vVEkU0cf.webp",
+            "https://botc.app/assets/empath_e-CWeYvCJ9.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 56,
+        "firstNightReminder": "Give a finger signal.",
+        "otherNight": 76,
+        "otherNightReminder": "Give a finger signal.",
+        "setup": false,
+        "ability": "Each night, you learn how many of your 2 alive neighbors are evil.",
+        "flavor": "My skin prickles. Something is not right here. I can feel it."
+    },
+    {
+        "id": "homebrewtroublebrewingfortuneteller",
+        "name": "Fortune Teller",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/fortuneteller_g-lQQzYvkg.webp",
+            "https://botc.app/assets/fortuneteller_e-BWljoXp7.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 57,
+        "firstNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "otherNight": 77,
+        "otherNightReminder": "The Fortune Teller chooses 2 players. Nod if either is the Demon (or the *RED HERRING*).",
+        "reminders": [
+            "Red Herring"
+        ],
+        "setup": false,
+        "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
+        "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
+    },
+    {
+        "id": "homebrewtroublebrewingundertaker",
+        "name": "Undertaker",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/undertaker_g-sXYI7VS3.webp",
+            "https://botc.app/assets/undertaker_e-DVB8aMO4.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 78,
+        "otherNightReminder": "If a player was executed today, show their character token.",
+        "reminders": [
+            "Died Today"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn which character died by execution today.",
+        "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
+    },
+    {
+        "id": "homebrewtroublebrewingmonk",
+        "name": "Monk",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/monk_g-D4wNFA-b.webp",
+            "https://botc.app/assets/monk_e-OTOQUKVm.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 24,
+        "otherNightReminder": "The Monk chooses a player. :reminder:",
+        "reminders": [
+            "Safe"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+        "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
+    },
+    {
+        "id": "homebrewtroublebrewingravenkeeper",
+        "name": "Ravenkeeper",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/ravenkeeper_g-Bg-yrUxj.webp",
+            "https://botc.app/assets/ravenkeeper_e-Yrx6NFvE.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 75,
+        "otherNightReminder": "If the Ravenkeeper died tonight, the Ravenkeeper chooses a player. Show that player's character token.",
+        "setup": false,
+        "ability": "If you die at night, you are woken to choose a player: you learn their character.",
+        "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+    },
+    {
+        "id": "homebrewtroublebrewingvirgin",
+        "name": "Virgin",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/virgin_g-DfRSMLSj.webp",
+            "https://botc.app/assets/virgin_e-BB20SAPv.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
+        "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
+    },
+    {
+        "id": "homebrewtroublebrewingslayer",
+        "name": "Slayer",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/slayer_g-BO_75tK_.webp",
+            "https://botc.app/assets/slayer_e-4pQk5kJR.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, during the day, publicly choose a player: if they are the Demon, they die.",
+        "flavor": "Die."
+    },
+    {
+        "id": "homebrewtroublebrewingsoldier",
+        "name": "Soldier",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/soldier_g-Baq_oQFs.webp",
+            "https://botc.app/assets/soldier_e-CvaeglsK.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "You are safe from the Demon.",
+        "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+    },
+    {
+        "id": "homebrewtroublebrewingmayor",
+        "name": "Mayor",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/mayor_g-BQeJ8Z2E.webp",
+            "https://botc.app/assets/mayor_e-Bc2mKeJ3.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+        "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
+    },
+    {
+        "id": "homebrewtroublebrewingbutler",
+        "name": "Butler",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/butler_g-Cr36DpeC.webp",
+            "https://botc.app/assets/butler_e-C2ho4G2f.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 58,
+        "firstNightReminder": "The Butler chooses a player. :reminder:",
+        "otherNight": 91,
+        "otherNightReminder": "The Butler chooses a player. :reminder:",
+        "reminders": [
+            "Master"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+        "flavor": "Yes, sir... No, sir... Certainly, sir.",
+        "jinxes": [
+            {
+                "id": "organgrinder",
+                "reason": "If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too."
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewingdrunk",
+        "name": "Drunk",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/drunk_g--QNmv0ZY.webp",
+            "https://botc.app/assets/drunk_e-bRjLB9FX.webp"
+        ],
+        "team": "outsider",
+        "remindersGlobal": [
+            "Is The Drunk"
+        ],
+        "setup": true,
+        "ability": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.",
+        "flavor": "I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer.",
+        "special": [
+            {
+                "type": "selection",
+                "name": "bag-disabled"
+            },
+            {
+                "type": "reveal",
+                "name": "replace-character"
+            }
+        ]
+    },
+    {
+        "id": "homebrewrecluse",
+        "name": "Recluse",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/recluse_g-DxMFqO0r.webp",
+            "https://botc.app/assets/recluse_e-BUtHsTp3.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "You might register as evil & as a Minion or Demon, even if dead.",
+        "flavor": "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!",
+        "jinxes": [
+            {
+                "id": "ogre",
+                "reason": "If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil."
+            },
+            {
+                "id": "sage",
+                "reason": "The Recluse might register as the Demon to the Sage."
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewingsaint",
+        "name": "Saint",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/saint_g-BU0hab0E.webp",
+            "https://botc.app/assets/saint_e-CnQBC4rO.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you die by execution, your team loses.",
+        "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+    },
+    {
+        "id": "homebrewtroublebrewingpoisoner",
+        "name": "Poisoner",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/poisoner_e-Usf7TcoY.webp",
+            "https://botc.app/assets/poisoner_g-DHNIHhxZ.webp"
+        ],
+        "team": "minion",
+        "firstNight": 33,
+        "firstNightReminder": "The Poisoner chooses a player. :reminder:",
+        "otherNight": 17,
+        "otherNightReminder": "The Poisoner chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+        "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+    },
+    {
+        "id": "homebrewtroublebrewingspy",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 72,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 92,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower has their ability, the Spy does not see the Grimoire."
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewingscarletwoman",
+        "name": "Scarlet Woman",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scarletwoman_e-BP5Fv_Ne.webp",
+            "https://botc.app/assets/scarletwoman_g-CM50XIwn.webp"
+        ],
+        "team": "minion",
+        "otherNight": 33,
+        "otherNightReminder": "If the Scarlet Woman became the Demon today, show them the *YOU ARE* token, then the Demon token.",
+        "reminders": [
+            "Is The Demon"
+        ],
+        "setup": false,
+        "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
+        "flavor": "You have shown me the secrets of the Council of the Purple Flame. We have lain together in fire and in lust and in beastly commune, and I am forever your servant. But tonight, my dear, I am your master.",
+        "jinxes": [
+            {
+                "id": "alhadikhia",
+                "reason": "If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again."
+            },
+            {
+                "id": "fanggu",
+                "reason": "If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman remains the Scarlet Woman."
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewingbaron",
+        "name": "Baron",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
+            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+        ],
+        "team": "minion",
+        "setup": true,
+        "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+        "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+    },
+    {
+        "id": "homebrewtroublebrewingimp",
+        "name": "Imp",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/imp_e-DNpveOPY.webp",
+            "https://botc.app/assets/imp_g-D-G7pJEY.webp"
+        ],
+        "team": "demon",
+        "otherNight": 40,
+        "otherNightReminder": "The Imp chooses a player. :reminder: If the Imp chose themselves: Replace 1 alive Minion token with a spare Imp token. Put the old Imp to sleep. Wake the new Imp. Show the *YOU ARE* token, then show the Imp token.",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
+        "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+    },
+    {
+        "id": "homebrewtroublebrewingbureaucrat",
+        "name": "Bureaucrat",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/bureaucrat-C7wkPXRS.webp",
+            "https://botc.app/assets/bureaucrat_g-CyJZqBNe.webp",
+            "https://botc.app/assets/bureaucrat_e-Bmh-G0_a.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 11,
+        "firstNightReminder": "The Bureaucrat chooses a player. :reminder:",
+        "otherNight": 7,
+        "otherNightReminder": "The Bureaucrat chooses a player. :reminder:",
+        "reminders": [
+            "3 Votes"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow.",
+        "flavor": "Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves...",
+        "special": [
+            {
+                "name": "multiplier",
+                "type": "vote",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewingthief",
+        "name": "Thief",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/thief-DWMyBS_x.webp",
+            "https://botc.app/assets/thief_g-CPsEnUSQ.webp",
+            "https://botc.app/assets/thief_e-yPbPTo5i.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 12,
+        "firstNightReminder": "The Thief chooses a player. :reminder:",
+        "otherNight": 8,
+        "otherNightReminder": "The Thief chooses a player. :reminder:",
+        "reminders": [
+            "Negative Vote"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player (not yourself): their vote counts negatively tomorrow.",
+        "flavor": "I ain't done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far.",
+        "special": [
+            {
+                "name": "multiplier",
+                "type": "vote",
+                "value": -1
+            }
+        ]
+    },
+    {
+        "id": "homebrewtroublebrewinggunslinger",
+        "name": "Gunslinger",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/gunslinger-wipgFlby.webp",
+            "https://botc.app/assets/gunslinger_g-CKzyQCHC.webp",
+            "https://botc.app/assets/gunslinger_e-DCPdRPrm.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die.",
+        "flavor": "It's time someone took matters into their own hands. That someone... is me."
+    },
+    {
+        "id": "homebrewtroublebrewingscapegoat",
+        "name": "Scapegoat",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scapegoat-rhlm_MDq.webp",
+            "https://botc.app/assets/scapegoat_g-CrL8fHff.webp",
+            "https://botc.app/assets/scapegoat_e-BFRtmmYo.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "If a player of your alignment is executed, you might be executed instead.",
+        "flavor": "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+    },
+    {
+        "id": "homebrewtroublebrewingbeggar",
+        "name": "Beggar",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/beggar-BpoW7fsL.webp",
+            "https://botc.app/assets/beggar_g-Cn5PE4nQ.webp",
+            "https://botc.app/assets/beggar_e-C3_HD_se.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "You must use a vote token to vote. If a dead player gives you theirs, you learn their alignment. You are sober & healthy.",
+        "flavor": "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
+    }
+]
