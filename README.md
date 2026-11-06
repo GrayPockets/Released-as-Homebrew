@@ -15,9 +15,9 @@ These resources serve as a reference for script builders to learn from examples 
 ## Released as Homebrew
 To use a recreated character, edit a script JSON file and paste in a character from one of the homebrew JSON files.
 
-:warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a descriptive id is utilized.
+> [!IMPORTANT] Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a descriptive id is utilized.
 
-:warning: Jinxes on these recreated characters use the original ids. The purpose is for each character to be able to be placed on a script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the descriptive id will need to be utilized within the jinx.
+> [!IMPORTANT] Jinxes on these recreated characters use the original ids. The purpose is for each character to be able to be placed on a script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the descriptive id will need to be utilized within the jinx.
 
 ### JSONs
 * Released: All homebrew released characters.
@@ -28,10 +28,13 @@ To use a recreated character, edit a script JSON file and paste in a character f
   * Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Loric.
 
 ### By Image Source
-* [botc.app](Homebrew/OfficialApp) :warning:
+* :speech_balloon: [release.botc.app](Homebrew/CommunityResource)
+* :warning: [botc.app](Homebrew/OfficialApp)
 * [script.bloodontheclocktower.com](Homebrew/ScriptTool)
-* [release.botc.app](Homebrew/CommunityResource)
 * [github.com/ThePandemoniumInstitute/botc-release](Homebrew/GitHub)
+
+> [!IMPORTANT]
+> TPI prefers the community to use Community Resource image urls.
 
 > [!WARNING]
 > Images from botc.app do not display when using the **Export PDF** or **Export PNG** functions of the [Script Tool](https://script.bloodontheclocktower.com/).
@@ -50,13 +53,13 @@ These are older versions of characters for grognards. The dates of Grognard char
 Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric.
 
 > [!NOTE]
-> Sourced from the Blood on the Clocktower Official App and Wiki.
+> Old character abilities are sourced from the Blood on the Clocktower Official App and Wiki.
 
 ## Night Order Reference
 The official night order of released characters is useful to add a homebrew character without needing a manually specify night order.
 
 > [!WARNING]
-> The night order of released scripts do not use the official night order.
+> The night order of released scripts have custom night orders; they were created before the official night order and have reasons for their choices.
 
 > [!NOTE]
 > Sourced from the Blood on the Clocktower Script Tool.
