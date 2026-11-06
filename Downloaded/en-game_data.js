@@ -2,7 +2,7 @@
     try {
         var e = typeof window < `u` ? window : typeof global < `u` ? global : typeof globalThis < `u` ? globalThis : typeof self < `u` ? self : {};
         e.SENTRY_RELEASE = {
-            id: `botc-app@3.57.1`
+            id: `botc-app@3.58.0`
         };
         var t = new e.Error().stack;
         t && (e._sentryDebugIds = e._sentryDebugIds || {},
@@ -130,4 +130,4 @@ Trouble Brewing is a relatively straightforward Demon hunt, but evil has a numbe
     roles: r
 };
 export {i as default, e as editions, t as jinxes, n as reminders, r as roles};
-//# sourceMappingURL=en-C7EMsAC-.js.map
+//# sourceMappingURL=en-xcpng-7V.js.map
