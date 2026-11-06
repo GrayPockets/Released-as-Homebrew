@@ -1,11 +1,14 @@
 # Changelog
 ## 1.16.0
-* All Script Tool sourced image urls
+* Online App compatibility 3.58.0
+* All JSONs have all image url sources
+* Generic character image url correction
+* Character ids update
 * Optional Ogre ability update
-* Folder refactor
-* Character ids correction
-* Groganard Magician id correction
+* Groganard Magician date correction
 * Sects & Violets almanac correction
+* Folder refactor
+* Documentation update
 ## 1.15.0
 * Script tool sourced image urls
 ## 1.14.2
