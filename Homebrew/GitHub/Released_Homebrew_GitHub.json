@@ -6,12 +6,12 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "steward_rah",
+        "id": "homebrewsteward",
         "name": "Steward",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/steward_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/steward_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/steward_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/steward_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 63,
@@ -24,12 +24,12 @@
         "flavor": "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
     },
     {
-        "id": "knight_rah",
+        "id": "homebrewknight",
         "name": "Knight",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/knight_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/knight_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/knight_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/knight_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 64,
@@ -43,12 +43,12 @@
         "flavor": "When a man lies, he murders some part of the world."
     },
     {
-        "id": "chef_rah",
+        "id": "homebrewchef",
         "name": "Chef",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/chef_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/chef_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/chef_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/chef_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 55,
@@ -58,12 +58,12 @@
         "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
     },
     {
-        "id": "noble_rah",
+        "id": "homebrewnoble",
         "name": "Noble",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/noble_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/noble_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/noble_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/noble_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 65,
@@ -78,12 +78,12 @@
         "flavor": "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
     },
     {
-        "id": "investigator_rah",
+        "id": "homebrewinvestigator",
         "name": "Investigator",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/investigator_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/investigator_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/investigator_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/investigator_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 54,
@@ -97,12 +97,12 @@
         "flavor": "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
     },
     {
-        "id": "washerwoman_rah",
+        "id": "homebrewwasherwoman",
         "name": "Washerwoman",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/washerwoman_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/washerwoman_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/washerwoman_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/washerwoman_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 52,
@@ -116,12 +116,12 @@
         "flavor": "Bloodstains on a dinner jacket? No, this is cooking sherry. How careless."
     },
     {
-        "id": "clockmaker_rah",
+        "id": "homebrewclockmaker",
         "name": "Clockmaker",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/clockmaker_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/clockmaker_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/clockmaker_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/clockmaker_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 60,
@@ -131,12 +131,12 @@
         "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
     },
     {
-        "id": "grandmother_rah",
+        "id": "homebrewgrandmother",
         "name": "Grandmother",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/grandmother_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/grandmother_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/grandmother_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/grandmother_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 59,
@@ -152,12 +152,12 @@
         "flavor": "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
     },
     {
-        "id": "librarian_rah",
+        "id": "homebrewlibrarian",
         "name": "Librarian",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/librarian_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/librarian_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/librarian_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/librarian_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 53,
@@ -171,12 +171,12 @@
         "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
     },
     {
-        "id": "shugenja_rah",
+        "id": "homebrewshugenja",
         "name": "Shugenja",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/shugenja_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/shugenja_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/shugenja_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/shugenja_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 67,
@@ -200,12 +200,12 @@
         ]
     },
     {
-        "id": "pixie_rah",
+        "id": "homebrewpixie",
         "name": "Pixie",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/pixie_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/pixie_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/pixie_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/pixie_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 48,
@@ -219,12 +219,12 @@
         "flavor": "Round and round the garden, go. Little girls run to and fro. Little boys climb up the tree. Which of these should Pixie be? Ladies smile and go to town. Lords with axe chop forest down. What’s yours is mine. What’s mine, divine. Silly little Pixie, me."
     },
     {
-        "id": "bountyhunter_rah",
+        "id": "homebrewbountyhunter",
         "name": "Bounty Hunter",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/bountyhunter_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/bountyhunter_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/bountyhunter_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/bountyhunter_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 69,
@@ -249,12 +249,12 @@
         ]
     },
     {
-        "id": "empath_rah",
+        "id": "homebrewempath",
         "name": "Empath",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/empath_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/empath_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/empath_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/empath_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 56,
@@ -266,12 +266,12 @@
         "flavor": "My skin prickles. Something is not right here. I can feel it."
     },
     {
-        "id": "highpriestess_rah",
+        "id": "homebrewhighpriestess",
         "name": "High Priestess",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/highpriestess_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/highpriestess_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/highpriestess_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/highpriestess_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 74,
@@ -283,12 +283,12 @@
         "flavor": "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
     },
     {
-        "id": "sailor_rah",
+        "id": "homebrewsailor",
         "name": "Sailor",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/sailor_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/sailor_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/sailor_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/sailor_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 26,
@@ -303,12 +303,12 @@
         "flavor": "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
     },
     {
-        "id": "balloonist_rah",
+        "id": "homebrewballoonist",
         "name": "Balloonist",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/balloonist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/balloonist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/balloonist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/balloonist_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 66,
@@ -323,12 +323,12 @@
         "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
     },
     {
-        "id": "general_rah",
+        "id": "homebrewgeneral",
         "name": "General",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/general_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/general_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/general_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/general_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 75,
@@ -340,12 +340,12 @@
         "flavor": "I don’t have time for quotes."
     },
     {
-        "id": "preacher_rah",
+        "id": "homebrewpreacher",
         "name": "Preacher",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/preacher_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/preacher_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/preacher_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/preacher_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 29,
@@ -362,12 +362,12 @@
         "flavor": "It is better to be rich and healthy than poor and sick."
     },
     {
-        "id": "chambermaid_rah",
+        "id": "homebrewchambermaid",
         "name": "Chambermaid",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/chambermaid_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/chambermaid_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/chambermaid_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/chambermaid_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 76,
@@ -379,12 +379,12 @@
         "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
     },
     {
-        "id": "villageidiot_rah",
+        "id": "homebrewvillageidiot",
         "name": "Village Idiot",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/villageidiot_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/villageidiot_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/villageidiot_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/villageidiot_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 68,
@@ -405,12 +405,12 @@
         ]
     },
     {
-        "id": "snakecharmer_rah",
+        "id": "homebrewsnakecharmer",
         "name": "Snake Charmer",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/snakecharmer_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/snakecharmer_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/snakecharmer_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/snakecharmer_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 37,
@@ -425,12 +425,12 @@
         "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
     },
     {
-        "id": "mathematician_rah",
+        "id": "homebrewmathematician",
         "name": "Mathematician",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/mathematician_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/mathematician_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/mathematician_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/mathematician_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 77,
@@ -467,12 +467,12 @@
         ]
     },
     {
-        "id": "king_rah",
+        "id": "homebrewking",
         "name": "King",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/king_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/king_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/king_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/king_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 25,
@@ -484,12 +484,12 @@
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
     },
     {
-        "id": "dreamer_rah",
+        "id": "homebrewdreamer",
         "name": "Dreamer",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/dreamer_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/dreamer_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/dreamer_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/dreamer_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 61,
@@ -501,12 +501,12 @@
         "flavor": "I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."
     },
     {
-        "id": "fortuneteller_rah",
+        "id": "homebrewfortuneteller",
         "name": "Fortune Teller",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/fortuneteller_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/fortuneteller_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/fortuneteller_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/fortuneteller_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 57,
@@ -521,12 +521,12 @@
         "flavor": "I sense great evil in your soul! But... that could just be your perfume. I am allergic to Elderberry."
     },
     {
-        "id": "cultleader_rah",
+        "id": "homebrewcultleader",
         "name": "Cult Leader",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cultleader_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cultleader_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cultleader_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cultleader_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 71,
@@ -538,12 +538,12 @@
         "flavor": "Thinking themselves wise, they became fools."
     },
     {
-        "id": "flowergirl_rah",
+        "id": "homebrewflowergirl",
         "name": "Flowergirl",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/flowergirl_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/flowergirl_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/flowergirl_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/flowergirl_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 80,
@@ -557,12 +557,12 @@
         "flavor": "Yesterday's violets have withered and died, but today my poppies bloom."
     },
     {
-        "id": "towncrier_rah",
+        "id": "homebrewtowncrier",
         "name": "Town Crier",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/towncrier_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/towncrier_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/towncrier_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/towncrier_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 81,
@@ -576,12 +576,12 @@
         "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
     },
     {
-        "id": "oracle_rah",
+        "id": "homebreworacle",
         "name": "Oracle",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/oracle_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/oracle_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/oracle_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/oracle_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 82,
@@ -591,12 +591,12 @@
         "flavor": "Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."
     },
     {
-        "id": "undertaker_rah",
+        "id": "homebrewundertaker",
         "name": "Undertaker",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/undertaker_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/undertaker_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/undertaker_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/undertaker_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 78,
@@ -609,12 +609,12 @@
         "flavor": "Hmmm....what have we here? The left boot is worn down to the heel, with flint shavings under the tongue. This is the garb of a Military man."
     },
     {
-        "id": "innkeeper_rah",
+        "id": "homebrewinnkeeper",
         "name": "Innkeeper",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/innkeeper_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/innkeeper_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/innkeeper_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/innkeeper_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 19,
@@ -629,12 +629,12 @@
         "flavor": "Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."
     },
     {
-        "id": "monk_rah",
+        "id": "homebrewmonk",
         "name": "Monk",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/monk_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/monk_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/monk_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/monk_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 24,
@@ -647,12 +647,12 @@
         "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
     },
     {
-        "id": "gambler_rah",
+        "id": "homebrewgambler",
         "name": "Gambler",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/gambler_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/gambler_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/gambler_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/gambler_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 21,
@@ -665,12 +665,12 @@
         "flavor": "Heads, I win. Tails, you lose."
     },
     {
-        "id": "acrobat_rah",
+        "id": "homebrewacrobat",
         "name": "Acrobat",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/acrobat_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/acrobat_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/acrobat_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/acrobat_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 22,
@@ -684,12 +684,12 @@
         "flavor": "Ladies and gentlemen, hold fast to your hats, for I shall defy the very laws of gravity and dance upon the air, a marvel of agility and daring, all for your delight and wonder!"
     },
     {
-        "id": "exorcist_rah",
+        "id": "homebrewexorcist",
         "name": "Exorcist",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/exorcist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/exorcist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/exorcist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/exorcist_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 36,
@@ -702,12 +702,12 @@
         "flavor": "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
     },
     {
-        "id": "lycanthrope_rah",
+        "id": "homebrewlycanthrope",
         "name": "Lycanthrope",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lycanthrope_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lycanthrope_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lycanthrope_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lycanthrope_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 37,
@@ -721,12 +721,12 @@
         "flavor": "Beneath the thin veneer of civilisation lies a howling madness."
     },
     {
-        "id": "gossip_rah",
+        "id": "homebrewgossip",
         "name": "Gossip",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/gossip_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/gossip_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/gossip_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/gossip_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 58,
@@ -739,12 +739,12 @@
         "flavor": "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."
     },
     {
-        "id": "savant_rah",
+        "id": "homebrewsavant",
         "name": "Savant",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/savant_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/savant_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/savant_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/savant_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -752,12 +752,12 @@
         "flavor": "Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."
     },
     {
-        "id": "alsaahir_rah",
+        "id": "homebrewalsaahir",
         "name": "Alsaahir",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alsaahir_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alsaahir_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alsaahir_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alsaahir_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -765,12 +765,12 @@
         "flavor": "I am here because of you, and you are here because of me."
     },
     {
-        "id": "engineer_rah",
+        "id": "homebrewengineer",
         "name": "Engineer",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/engineer_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/engineer_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/engineer_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/engineer_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 28,
@@ -785,12 +785,12 @@
         "flavor": "If it bends, great. If it breaks, well, it probably needed fixing anyway."
     },
     {
-        "id": "nightwatchman_rah",
+        "id": "homebrewnightwatchman",
         "name": "Nightwatchman",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/nightwatchman_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/nightwatchman_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/nightwatchman_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/nightwatchman_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 70,
@@ -805,12 +805,12 @@
         "flavor": "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
     },
     {
-        "id": "courtier_rah",
+        "id": "homebrewcourtier",
         "name": "Courtier",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/courtier_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/courtier_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/courtier_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/courtier_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 35,
@@ -828,12 +828,12 @@
         "flavor": "I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."
     },
     {
-        "id": "seamstress_rah",
+        "id": "homebrewseamstress",
         "name": "Seamstress",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/seamstress_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/seamstress_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/seamstress_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/seamstress_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 62,
@@ -848,12 +848,12 @@
         "flavor": "Did you hear that stranger in the cashmere coat put the word on our young Belle? And she said yes? Well, that's nothing compared to what Harry and that juggler got up to at the fair! The things I could say if I was a tattletale... my, yes."
     },
     {
-        "id": "philosopher_rah",
+        "id": "homebrewphilosopher",
         "name": "Philosopher",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/philosopher_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/philosopher_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/philosopher_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/philosopher_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 14,
@@ -877,12 +877,12 @@
         ]
     },
     {
-        "id": "huntsman_rah",
+        "id": "homebrewhuntsman",
         "name": "Huntsman",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/huntsman_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/huntsman_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/huntsman_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/huntsman_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 49,
@@ -897,12 +897,12 @@
         "flavor": "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
     },
     {
-        "id": "professor_rah",
+        "id": "homebrewprofessor",
         "name": "Professor",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/professor_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/professor_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/professor_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/professor_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 65,
@@ -916,12 +916,12 @@
         "flavor": "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
     },
     {
-        "id": "artist_rah",
+        "id": "homebrewartist",
         "name": "Artist",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/artist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/artist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/artist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/artist_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -932,12 +932,12 @@
         "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
     },
     {
-        "id": "slayer_rah",
+        "id": "homebrewslayer",
         "name": "Slayer",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/slayer_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/slayer_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/slayer_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/slayer_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -948,12 +948,12 @@
         "flavor": "Die."
     },
     {
-        "id": "fisherman_rah",
+        "id": "homebrewfisherman",
         "name": "Fisherman",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/fisherman_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/fisherman_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/fisherman_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/fisherman_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -964,12 +964,12 @@
         "flavor": "This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."
     },
     {
-        "id": "princess_rah",
+        "id": "homebrewprincess",
         "name": "Princess",
         "team": "townsfolk",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/princess_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/princess_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/princess_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/princess_e.webp"
         ],
         "edition": "carousel",
         "otherNight": 38,
@@ -982,12 +982,12 @@
         "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
     },
     {
-        "id": "juggler_rah",
+        "id": "homebrewjuggler",
         "name": "Juggler",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/juggler_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/juggler_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/juggler_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/juggler_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 84,
@@ -1004,12 +1004,12 @@
         "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
     },
     {
-        "id": "soldier_rah",
+        "id": "homebrewsoldier",
         "name": "Soldier",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/soldier_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/soldier_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/soldier_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/soldier_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1017,12 +1017,12 @@
         "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
     },
     {
-        "id": "alchemist_rah",
+        "id": "homebrewalchemist",
         "name": "Alchemist",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alchemist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alchemist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alchemist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alchemist_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 15,
@@ -1075,12 +1075,12 @@
         ]
     },
     {
-        "id": "cannibal_rah",
+        "id": "homebrewcannibal",
         "name": "Cannibal",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cannibal_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cannibal_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cannibal_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cannibal_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1110,12 +1110,12 @@
         ]
     },
     {
-        "id": "amnesiac_rah",
+        "id": "homebrewamnesiac",
         "name": "Amnesiac",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/amnesiac_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/amnesiac_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/amnesiac_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/amnesiac_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 51,
@@ -1132,12 +1132,12 @@
         "flavor": "Wait. What. Who? Oh, ok. Wait. What?"
     },
     {
-        "id": "farmer_rah",
+        "id": "homebrewfarmer",
         "name": "Farmer",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/farmer_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/farmer_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/farmer_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/farmer_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 70,
@@ -1147,12 +1147,12 @@
         "flavor": "Even the high and mighty need food on the table. Without us, the city starves."
     },
     {
-        "id": "minstrel_rah",
+        "id": "homebrewminstrel",
         "name": "Minstrel",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/minstrel_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/minstrel_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/minstrel_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/minstrel_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1163,12 +1163,12 @@
         "flavor": "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
     },
     {
-        "id": "ravenkeeper_rah",
+        "id": "homebrewravenkeeper",
         "name": "Ravenkeeper",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/ravenkeeper_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/ravenkeeper_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/ravenkeeper_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/ravenkeeper_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 75,
@@ -1178,12 +1178,12 @@
         "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
     },
     {
-        "id": "sage_rah",
+        "id": "homebrewsage",
         "name": "Sage",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/sage_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/sage_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/sage_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/sage_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 63,
@@ -1193,12 +1193,12 @@
         "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
     },
     {
-        "id": "choirboy_rah",
+        "id": "homebrewchoirboy",
         "name": "Choirboy",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/choirboy_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/choirboy_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/choirboy_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/choirboy_e.webp"
         ],
         "team": "townsfolk",
         "otherNight": 66,
@@ -1208,12 +1208,12 @@
         "flavor": "I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."
     },
     {
-        "id": "banshee_rah",
+        "id": "homebrewbanshee",
         "name": "Banshee",
         "team": "townsfolk",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/banshee_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/banshee_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/banshee_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/banshee_e.webp"
         ],
         "edition": "carousel",
         "otherNight": 64,
@@ -1233,12 +1233,12 @@
         ]
     },
     {
-        "id": "tealady_rah",
+        "id": "homebrewtealady",
         "name": "Tea Lady",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/tealady_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/tealady_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/tealady_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/tealady_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1250,12 +1250,12 @@
         "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
     },
     {
-        "id": "mayor_rah",
+        "id": "homebrewmayor",
         "name": "Mayor",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/mayor_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/mayor_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/mayor_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/mayor_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1263,12 +1263,12 @@
         "flavor": "We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."
     },
     {
-        "id": "fool_rah",
+        "id": "homebrewfool",
         "name": "Fool",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/fool_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/fool_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/fool_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/fool_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1279,12 +1279,12 @@
         "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
     },
     {
-        "id": "virgin_rah",
+        "id": "homebrewvirgin",
         "name": "Virgin",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/virgin_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/virgin_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/virgin_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/virgin_e.webp"
         ],
         "team": "townsfolk",
         "reminders": [
@@ -1295,12 +1295,12 @@
         "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
     },
     {
-        "id": "magician_rah",
+        "id": "homebrewmagician",
         "name": "Magician",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/magician_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/magician_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/magician_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/magician_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 18,
@@ -1336,12 +1336,12 @@
         ]
     },
     {
-        "id": "poppygrower_rah",
+        "id": "homebrewpoppygrower",
         "name": "Poppy Grower",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/poppygrower_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/poppygrower_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/poppygrower_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/poppygrower_e.webp"
         ],
         "team": "townsfolk",
         "firstNight": 16,
@@ -1356,12 +1356,12 @@
         "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
     },
     {
-        "id": "pacifist_rah",
+        "id": "homebrewpacifist",
         "name": "Pacifist",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/pacifist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/pacifist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/pacifist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/pacifist_e.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -1369,12 +1369,12 @@
         "flavor": "Distrust all in whom the impulse to punish is powerful."
     },
     {
-        "id": "atheist_rah",
+        "id": "homebrewatheist",
         "name": "Atheist",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/atheist_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/atheist_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/atheist_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/atheist_e.webp"
         ],
         "team": "townsfolk",
         "setup": true,
@@ -1392,12 +1392,12 @@
         ]
     },
     {
-        "id": "hermit_rah",
+        "id": "homebrewhermit",
         "name": "Hermit",
         "team": "outsider",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/hermit_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/hermit_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/hermit_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/hermit_e.webp"
         ],
         "edition": "carousel",
         "reminders": [
@@ -1410,12 +1410,12 @@
         "flavor": "In the lost and forgotten places of the earth, the soul’s light beckons."
     },
     {
-        "id": "butler_rah",
+        "id": "homebrewbutler",
         "name": "Butler",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/butler_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/butler_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/butler_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/butler_e.webp"
         ],
         "team": "outsider",
         "firstNight": 58,
@@ -1436,12 +1436,12 @@
         ]
     },
     {
-        "id": "goon_rah",
+        "id": "homebrewgoon",
         "name": "Goon",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/goon_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/goon_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/goon_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/goon_e.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1452,12 +1452,12 @@
         "flavor": "Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"
     },
     {
-        "id": "ogre_rah",
+        "id": "homebrewogre",
         "name": "Ogre",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/ogre_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/ogre_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/ogre_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/ogre_e.webp"
         ],
         "team": "outsider",
         "firstNight": 73,
@@ -1470,12 +1470,12 @@
         "flavor": "<grunt><grin></grunt>"
     },
     {
-        "id": "lunatic_rah",
+        "id": "homebrewlunatic",
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/lunatic_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/lunatic_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/lunatic_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/lunatic_e.webp"
         ],
         "team": "outsider",
         "firstNight": 22,
@@ -1492,12 +1492,12 @@
         "flavor": "I am the night... I think."
     },
     {
-        "id": "drunk_rah",
+        "id": "homebrewdrunk",
         "name": "Drunk",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/drunk_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/drunk_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/drunk_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/drunk_e.webp"
         ],
         "team": "outsider",
         "remindersGlobal": [
@@ -1518,12 +1518,12 @@
         ]
     },
     {
-        "id": "tinker_rah",
+        "id": "homebrewtinker",
         "name": "Tinker",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/tinker_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/tinker_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/tinker_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/tinker_e.webp"
         ],
         "team": "outsider",
         "otherNight": 71,
@@ -1536,12 +1536,12 @@
         "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
     },
     {
-        "id": "recluse_rah",
+        "id": "homebrewrecluse",
         "name": "Recluse",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/recluse_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/recluse_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/recluse_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/recluse_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1559,12 +1559,12 @@
         ]
     },
     {
-        "id": "golem_rah",
+        "id": "homebrewgolem",
         "name": "Golem",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/golem_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/golem_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/golem_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/golem_e.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1575,12 +1575,12 @@
         "flavor": "Golem help? Golem smash! Golem help."
     },
     {
-        "id": "sweetheart_rah",
+        "id": "homebrewsweetheart",
         "name": "Sweetheart",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/sweetheart_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/sweetheart_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/sweetheart_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/sweetheart_e.webp"
         ],
         "team": "outsider",
         "otherNight": 61,
@@ -1593,12 +1593,12 @@
         "flavor": "I will never forget her. Never."
     },
     {
-        "id": "plaguedoctor_rah",
+        "id": "homebrewplaguedoctor",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/plaguedoctor_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/plaguedoctor_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/plaguedoctor_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/plaguedoctor_e.webp"
         ],
         "team": "outsider",
         "otherNight": 62,
@@ -1649,12 +1649,12 @@
         ]
     },
     {
-        "id": "klutz_rah",
+        "id": "homebrewklutz",
         "name": "Klutz",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/klutz_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/klutz_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/klutz_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/klutz_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1662,12 +1662,12 @@
         "flavor": "Oops."
     },
     {
-        "id": "moonchild_rah",
+        "id": "homebrewmoonchild",
         "name": "Moonchild",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/moonchild_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/moonchild_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/moonchild_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/moonchild_e.webp"
         ],
         "team": "outsider",
         "otherNight": 72,
@@ -1680,12 +1680,12 @@
         "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
     },
     {
-        "id": "saint_rah",
+        "id": "homebrewsaint",
         "name": "Saint",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/saint_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/saint_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/saint_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/saint_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1693,12 +1693,12 @@
         "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
     },
     {
-        "id": "barber_rah",
+        "id": "homebrewbarber",
         "name": "Barber",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/barber_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/barber_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/barber_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/barber_e.webp"
         ],
         "team": "outsider",
         "otherNight": 60,
@@ -1711,12 +1711,12 @@
         "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
     },
     {
-        "id": "hatter_rah",
+        "id": "homebrewhatter",
         "name": "Hatter",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/hatter_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/hatter_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/hatter_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/hatter_e.webp"
         ],
         "team": "outsider",
         "otherNight": 59,
@@ -1729,12 +1729,12 @@
         "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
     },
     {
-        "id": "mutant_rah",
+        "id": "homebrewmutant",
         "name": "Mutant",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/mutant_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/mutant_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/mutant_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/mutant_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1742,12 +1742,12 @@
         "flavor": "I am not a freak! I am a human being! Have mercy!"
     },
     {
-        "id": "politician_rah",
+        "id": "homebrewpolitician",
         "name": "Politician",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/politician_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/politician_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/politician_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/politician_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1755,12 +1755,12 @@
         "flavor": "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
     },
     {
-        "id": "zealot_rah",
+        "id": "homebrewzealot",
         "name": "Zealot",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/zealot_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/zealot_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/zealot_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/zealot_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1768,12 +1768,12 @@
         "flavor": "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
     },
     {
-        "id": "damsel_rah",
+        "id": "homebrewdamsel",
         "name": "Damsel",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/damsel_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/damsel_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/damsel_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/damsel_e.webp"
         ],
         "team": "outsider",
         "firstNight": 50,
@@ -1788,12 +1788,12 @@
         "flavor": "Don't touch the hair, honey."
     },
     {
-        "id": "snitch_rah",
+        "id": "homebrewsnitch",
         "name": "Snitch",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/snitch_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/snitch_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/snitch_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/snitch_e.webp"
         ],
         "team": "outsider",
         "firstNight": 21,
@@ -1803,12 +1803,12 @@
         "flavor": "It was John."
     },
     {
-        "id": "heretic_rah",
+        "id": "homebrewheretic",
         "name": "Heretic",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/heretic_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/heretic_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/heretic_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/heretic_e.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -1842,12 +1842,12 @@
         ]
     },
     {
-        "id": "puzzlemaster_rah",
+        "id": "homebrewpuzzlemaster",
         "name": "Puzzlemaster",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/puzzlemaster_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/puzzlemaster_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/puzzlemaster_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/puzzlemaster_e.webp"
         ],
         "team": "outsider",
         "reminders": [
@@ -1859,12 +1859,12 @@
         "flavor": "When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse just and should with is and isn’t."
     },
     {
-        "id": "mezepheles_rah",
+        "id": "homebrewmezepheles",
         "name": "Mezepheles",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/mezepheles_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/mezepheles_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/mezepheles_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/mezepheles_g.webp"
         ],
         "team": "minion",
         "firstNight": 46,
@@ -1880,12 +1880,12 @@
         "flavor": "That which issues from the heart alone, will bend the hearts of others to your own."
     },
     {
-        "id": "godfather_rah",
+        "id": "homebrewgodfather",
         "name": "Godfather",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/godfather_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/godfather_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/godfather_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/godfather_g.webp"
         ],
         "team": "minion",
         "firstNight": 38,
@@ -1901,12 +1901,12 @@
         "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
     },
     {
-        "id": "poisoner_rah",
+        "id": "homebrewpoisoner",
         "name": "Poisoner",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/poisoner_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/poisoner_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/poisoner_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/poisoner_g.webp"
         ],
         "team": "minion",
         "firstNight": 33,
@@ -1921,12 +1921,12 @@
         "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
     },
     {
-        "id": "devilsadvocate_rah",
+        "id": "homebrewdevilsadvocate",
         "name": "Devil's Advocate",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/devilsadvocate_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/devilsadvocate_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/devilsadvocate_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/devilsadvocate_g.webp"
         ],
         "team": "minion",
         "firstNight": 40,
@@ -1941,12 +1941,12 @@
         "flavor": "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
     },
     {
-        "id": "spy_rah",
+        "id": "homebrewspy",
         "name": "Spy",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/spy_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/spy_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/spy_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/spy_g.webp"
         ],
         "team": "minion",
         "firstNight": 72,
@@ -1979,12 +1979,12 @@
         ]
     },
     {
-        "id": "harpy_rah",
+        "id": "homebrewharpy",
         "name": "Harpy",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/harpy_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/harpy_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/harpy_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/harpy_g.webp"
         ],
         "team": "minion",
         "firstNight": 45,
@@ -2000,12 +2000,12 @@
         "flavor": "So fair a day I never did see, nor so fowl a presence hanging over me."
     },
     {
-        "id": "witch_rah",
+        "id": "homebrewwitch",
         "name": "Witch",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/witch_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/witch_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/witch_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/witch_g.webp"
         ],
         "team": "minion",
         "firstNight": 42,
@@ -2020,12 +2020,12 @@
         "flavor": "Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."
     },
     {
-        "id": "cerenovus_rah",
+        "id": "homebrewcerenovus",
         "name": "Cerenovus",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/cerenovus_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/cerenovus_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/cerenovus_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/cerenovus_g.webp"
         ],
         "team": "minion",
         "firstNight": 43,
@@ -2046,12 +2046,12 @@
         ]
     },
     {
-        "id": "fearmonger_rah",
+        "id": "homebrewfearmonger",
         "name": "Fearmonger",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/fearmonger_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/fearmonger_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/fearmonger_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/fearmonger_g.webp"
         ],
         "team": "minion",
         "firstNight": 44,
@@ -2066,12 +2066,12 @@
         "flavor": "Beware of gazing long into the Abyss, lest the Abyss also gaze into you."
     },
     {
-        "id": "pithag_rah",
+        "id": "homebrewpithag",
         "name": "Pit-Hag",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/pithag_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/pithag_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/pithag_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/pithag_g.webp"
         ],
         "team": "minion",
         "otherNight": 29,
@@ -2107,12 +2107,12 @@
         ]
     },
     {
-        "id": "psychopath_rah",
+        "id": "homebrewpsychopath",
         "name": "Psychopath",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/psychopath_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/psychopath_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/psychopath_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/psychopath_g.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2120,12 +2120,12 @@
         "flavor": "Surprise!"
     },
     {
-        "id": "assassin_rah",
+        "id": "homebrewassassin",
         "name": "Assassin",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/assassin_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/assassin_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/assassin_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/assassin_g.webp"
         ],
         "team": "minion",
         "otherNight": 56,
@@ -2139,12 +2139,12 @@
         "flavor": "..."
     },
     {
-        "id": "wizard_rah",
+        "id": "homebrewwizard",
         "name": "Wizard",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/wizard_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/wizard_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/wizard_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/wizard_g.webp"
         ],
         "team": "minion",
         "firstNight": 36,
@@ -2160,12 +2160,12 @@
         "flavor": "Every man and every woman is a star. Love is the law, love under will."
     },
     {
-        "id": "widow_rah",
+        "id": "homebrewwidow",
         "name": "Widow",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/widow_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/widow_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/widow_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/widow_g.webp"
         ],
         "team": "minion",
         "firstNight": 34,
@@ -2196,12 +2196,12 @@
         ]
     },
     {
-        "id": "xaan_rah",
+        "id": "homebrewxaan",
         "name": "Xaan",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/xaan_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/xaan_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/xaan_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/xaan_g.webp"
         ],
         "team": "minion",
         "firstNight": 32,
@@ -2219,12 +2219,12 @@
         "flavor": "Down they fall. One by one. By two, by three, by five."
     },
     {
-        "id": "marionette_rah",
+        "id": "homebrewmarionette",
         "name": "Marionette",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/marionette_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/marionette_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/marionette_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/marionette_g.webp"
         ],
         "team": "minion",
         "firstNight": 27,
@@ -2269,12 +2269,12 @@
         ]
     },
     {
-        "id": "wraith_rah",
+        "id": "homebrewwraith",
         "name": "Wraith",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/wraith_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/wraith_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/wraith_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/wraith_g.webp"
         ],
         "team": "minion",
         "firstNight": 6,
@@ -2293,12 +2293,12 @@
         ]
     },
     {
-        "id": "summoner_rah",
+        "id": "homebrewsummoner",
         "name": "Summoner",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/summoner_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/summoner_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/summoner_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/summoner_g.webp"
         ],
         "team": "minion",
         "firstNight": 23,
@@ -2361,12 +2361,12 @@
         ]
     },
     {
-        "id": "eviltwin_rah",
+        "id": "homebreweviltwin",
         "name": "Evil Twin",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/eviltwin_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/eviltwin_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/eviltwin_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/eviltwin_g.webp"
         ],
         "team": "minion",
         "firstNight": 41,
@@ -2379,12 +2379,12 @@
         "flavor": "I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"
     },
     {
-        "id": "goblin_rah",
+        "id": "homebrewgoblin",
         "name": "Goblin",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/goblin_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/goblin_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/goblin_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/goblin_g.webp"
         ],
         "team": "minion",
         "reminders": [
@@ -2395,12 +2395,12 @@
         "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
     },
     {
-        "id": "boomdandy_rah",
+        "id": "homebrewboomdandy",
         "name": "Boomdandy",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/boomdandy_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/boomdandy_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/boomdandy_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/boomdandy_g.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2415,12 +2415,12 @@
         "flavor": "Tick... Tick... Tick... TOCK."
     },
     {
-        "id": "mastermind_rah",
+        "id": "homebrewmastermind",
         "name": "Mastermind",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/mastermind_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/mastermind_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/mastermind_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/mastermind_g.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -2434,12 +2434,12 @@
         ]
     },
     {
-        "id": "scarletwoman_rah",
+        "id": "homebrewscarletwoman",
         "name": "Scarlet Woman",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/scarletwoman_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/scarletwoman_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/scarletwoman_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/scarletwoman_g.webp"
         ],
         "team": "minion",
         "otherNight": 33,
@@ -2462,12 +2462,12 @@
         ]
     },
     {
-        "id": "vizier_rah",
+        "id": "homebrewvizier",
         "name": "Vizier",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/vizier_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/vizier_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/vizier_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/vizier_g.webp"
         ],
         "team": "minion",
         "firstNight": 80,
@@ -2507,12 +2507,12 @@
         ]
     },
     {
-        "id": "organgrinder_rah",
+        "id": "homebreworgangrinder",
         "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/organgrinder_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/organgrinder_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/organgrinder_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/organgrinder_g.webp"
         ],
         "team": "minion",
         "firstNight": 39,
@@ -2534,12 +2534,12 @@
         ]
     },
     {
-        "id": "boffin_rah",
+        "id": "homebrewboffin",
         "name": "Boffin",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/boffin_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/boffin_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/boffin_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/boffin_g.webp"
         ],
         "team": "minion",
         "firstNight": 13,
@@ -2579,12 +2579,12 @@
         ]
     },
     {
-        "id": "baron_rah",
+        "id": "homebrewbaron",
         "name": "Baron",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/baron_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/baron_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/baron_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/baron_g.webp"
         ],
         "team": "minion",
         "setup": true,
@@ -2592,12 +2592,12 @@
         "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
     },
     {
-        "id": "yaggababble_rah",
+        "id": "homebrewyaggababble",
         "name": "Yaggababble",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/yaggababble_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/yaggababble_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/yaggababble_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/yaggababble_g.webp"
         ],
         "team": "demon",
         "firstNight": 17,
@@ -2620,12 +2620,12 @@
         ]
     },
     {
-        "id": "pukka_rah",
+        "id": "homebrewpukka",
         "name": "Pukka",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/pukka_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/pukka_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/pukka_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/pukka_g.webp"
         ],
         "team": "demon",
         "firstNight": 47,
@@ -2642,12 +2642,12 @@
         "flavor": "You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."
     },
     {
-        "id": "lilmonsta_rah",
+        "id": "homebrewlilmonsta",
         "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lilmonsta_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lilmonsta_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lilmonsta_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lilmonsta_g.webp"
         ],
         "team": "demon",
         "firstNight": 30,
@@ -2701,12 +2701,12 @@
         ]
     },
     {
-        "id": "nodashii_rah",
+        "id": "homebrewnodashii",
         "name": "No Dashii",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/nodashii_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/nodashii_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/nodashii_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/nodashii_g.webp"
         ],
         "team": "demon",
         "otherNight": 46,
@@ -2721,12 +2721,12 @@
         "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
     },
     {
-        "id": "imp_rah",
+        "id": "homebrewimp",
         "name": "Imp",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/imp_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/imp_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/imp_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/imp_g.webp"
         ],
         "team": "demon",
         "otherNight": 40,
@@ -2739,12 +2739,12 @@
         "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
     },
     {
-        "id": "shabaloth_rah",
+        "id": "homebrewshabaloth",
         "name": "Shabaloth",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/shabaloth_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/shabaloth_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/shabaloth_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/shabaloth_g.webp"
         ],
         "team": "demon",
         "otherNight": 43,
@@ -2759,12 +2759,12 @@
         "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
     {
-        "id": "ojo_rah",
+        "id": "homebrewojo",
         "name": "Ojo",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/ojo_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/ojo_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/ojo_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/ojo_g.webp"
         ],
         "team": "demon",
         "otherNight": 50,
@@ -2777,12 +2777,12 @@
         "flavor": "Like a bonfire on a moonless night… I see you, mortal."
     },
     {
-        "id": "kazali_rah",
+        "id": "homebrewkazali",
         "name": "Kazali",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/kazali_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/kazali_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/kazali_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/kazali_g.webp"
         ],
         "team": "demon",
         "firstNight": 8,
@@ -2797,12 +2797,12 @@
         "flavor": "Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."
     },
     {
-        "id": "po_rah",
+        "id": "homebrewpo",
         "name": "Po",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/po_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/po_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/po_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/po_g.webp"
         ],
         "team": "demon",
         "otherNight": 44,
@@ -2818,12 +2818,12 @@
         "flavor": "Would you like a flower? I'm so lonely."
     },
     {
-        "id": "zombuul_rah",
+        "id": "homebrewzombuul",
         "name": "Zombuul",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/zombuul_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/zombuul_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/zombuul_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/zombuul_g.webp"
         ],
         "team": "demon",
         "otherNight": 41,
@@ -2837,12 +2837,12 @@
         "flavor": "I do not. Understand. Your ways. Fellow human. Show me. The dirt. Where the holy. Lay. Sleeping. I too. Must sleep. Soon."
     },
     {
-        "id": "vigormortis_rah",
+        "id": "homebrewvigormortis",
         "name": "Vigormortis",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/vigormortis_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/vigormortis_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/vigormortis_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/vigormortis_g.webp"
         ],
         "team": "demon",
         "otherNight": 49,
@@ -2861,12 +2861,12 @@
         "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
     },
     {
-        "id": "vortox_rah",
+        "id": "homebrewvortox",
         "name": "Vortox",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/vortox_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/vortox_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/vortox_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/vortox_g.webp"
         ],
         "team": "demon",
         "otherNight": 47,
@@ -2885,12 +2885,12 @@
         ]
     },
     {
-        "id": "legion_rah",
+        "id": "homebrewlegion",
         "name": "Legion",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/legion_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/legion_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/legion_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/legion_g.webp"
         ],
         "team": "demon",
         "otherNight": 39,
@@ -2940,12 +2940,12 @@
         ]
     },
     {
-        "id": "fanggu_rah",
+        "id": "homebrewfanggu",
         "name": "Fang Gu",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/fanggu_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/fanggu_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/fanggu_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/fanggu_g.webp"
         ],
         "team": "demon",
         "otherNight": 45,
@@ -2959,12 +2959,12 @@
         "flavor": "Your walls and your weapons are but smoke in dreams."
     },
     {
-        "id": "lordoftyphon_rah",
+        "id": "homebrewlordoftyphon",
         "name": "Lord of Typhon",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lordoftyphon_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lordoftyphon_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lordoftyphon_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lordoftyphon_g.webp"
         ],
         "team": "demon",
         "firstNight": 7,
@@ -2979,12 +2979,12 @@
         "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
     },
     {
-        "id": "lleech_rah",
+        "id": "homebrewlleech",
         "name": "Lleech",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lleech_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/lleech_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lleech_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/lleech_g.webp"
         ],
         "team": "demon",
         "firstNight": 31,
@@ -3010,12 +3010,12 @@
         ]
     },
     {
-        "id": "alhadikhia_rah",
+        "id": "homebrewalhadikhia",
         "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alhadikhia_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/alhadikhia_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alhadikhia_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/alhadikhia_g.webp"
         ],
         "team": "demon",
         "otherNight": 51,
@@ -3040,12 +3040,12 @@
         ]
     },
     {
-        "id": "riot_rah",
+        "id": "homebrewriot",
         "name": "Riot",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/riot_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/riot_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/riot_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/riot_g.webp"
         ],
         "team": "demon",
         "otherNight": 97,
@@ -3110,12 +3110,12 @@
         ]
     },
     {
-        "id": "leviathan_rah",
+        "id": "homebrewleviathan",
         "name": "Leviathan",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/leviathan_e.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/leviathan_g.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/leviathan_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/leviathan_g.webp"
         ],
         "team": "demon",
         "firstNight": 79,
@@ -3189,13 +3189,13 @@
         ]
     },
     {
-        "id": "thief_rah",
+        "id": "homebrewthief",
         "name": "Thief",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/thief.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/thief_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/thief_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/thief.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/thief_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/thief_e.webp"
         ],
         "team": "traveller",
         "firstNight": 12,
@@ -3217,13 +3217,13 @@
         ]
     },
     {
-        "id": "bureaucrat_rah",
+        "id": "homebrewbureaucrat",
         "name": "Bureaucrat",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/bureaucrat_e.webp"
         ],
         "team": "traveller",
         "firstNight": 11,
@@ -3245,13 +3245,13 @@
         ]
     },
     {
-        "id": "barista_rah",
+        "id": "homebrewbarista",
         "name": "Barista",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/barista.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/barista_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/barista_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/barista.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/barista_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/barista_e.webp"
         ],
         "team": "traveller",
         "firstNight": 10,
@@ -3269,13 +3269,13 @@
         "flavor": "A cup of coffee with no cream, Monsieur? I’m terribly sorry, but we’re fresh out of cream — how about with no milk?"
     },
     {
-        "id": "harlot_rah",
+        "id": "homebrewharlot",
         "name": "Harlot",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/harlot.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/harlot_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/harlot_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/harlot.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/harlot_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/harlot_e.webp"
         ],
         "team": "traveller",
         "otherNight": 9,
@@ -3289,13 +3289,13 @@
         "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
     },
     {
-        "id": "butcher_rah",
+        "id": "homebrewbutcher",
         "name": "Butcher",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/butcher.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/butcher_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/butcher_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/butcher.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/butcher_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/butcher_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3303,13 +3303,13 @@
         "flavor": "It tastes like chicken. More please."
     },
     {
-        "id": "cacklejack_rah",
+        "id": "homebrewcacklejack",
         "name": "Cacklejack",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/cacklejack_e.webp"
         ],
         "team": "traveller",
         "otherNight": 5,
@@ -3322,13 +3322,13 @@
         "flavor": "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
     },
     {
-        "id": "gunslinger_rah",
+        "id": "homebrewgunslinger",
         "name": "Gunslinger",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/gunslinger_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3336,13 +3336,13 @@
         "flavor": "It's time someone took matters into their own hands. That someone... is me."
     },
     {
-        "id": "matron_rah",
+        "id": "homebrewmatron",
         "name": "Matron",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/matron.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/matron_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/matron_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/matron.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/matron_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/matron_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3350,13 +3350,13 @@
         "flavor": "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
     },
     {
-        "id": "gangster_rah",
+        "id": "homebrewgangster",
         "name": "Gangster",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gangster_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3364,13 +3364,13 @@
         "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
     },
     {
-        "id": "bonecollector_rah",
+        "id": "homebrewbonecollector",
         "name": "Bone Collector",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/bonecollector_e.webp"
         ],
         "team": "traveller",
         "otherNight": 10,
@@ -3384,13 +3384,13 @@
         "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
     },
     {
-        "id": "judge_rah",
+        "id": "homebrewjudge",
         "name": "Judge",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/judge.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/judge_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/judge_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/judge.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/judge_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/judge_e.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3401,13 +3401,13 @@
         "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
     },
     {
-        "id": "apprentice_rah",
+        "id": "homebrewapprentice",
         "name": "Apprentice",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/apprentice_e.webp"
         ],
         "team": "traveller",
         "firstNight": 9,
@@ -3427,13 +3427,13 @@
         ]
     },
     {
-        "id": "beggar_rah",
+        "id": "homebrewbeggar",
         "name": "Beggar",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/beggar.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/beggar_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/beggar_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/beggar.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/beggar_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/beggar_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3441,13 +3441,13 @@
         "flavor": "Alms for the poor, good Sir? Spare a coin, Madam? Thank you. God bless! You're a right kind soul and no mistake! I'll have some swanky nosh tonight, I will!"
     },
     {
-        "id": "deviant_rah",
+        "id": "homebrewdeviant",
         "name": "Deviant",
         "edition": "snv",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/deviant.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/deviant_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/snv/deviant_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/deviant.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/deviant_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/snv/deviant_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3455,13 +3455,13 @@
         "flavor": "Twas the lady's quip, forsooth."
     },
     {
-        "id": "scapegoat_rah",
+        "id": "homebrewscapegoat",
         "name": "Scapegoat",
         "edition": "tb",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/tb/scapegoat_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3469,13 +3469,13 @@
         "flavor": "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
     },
     {
-        "id": "gnome_rah",
+        "id": "homebrewgnome",
         "name": "Gnome",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/gnome_e.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3486,13 +3486,13 @@
         "flavor": "Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o’ the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyse, no greater than is scene, not inherdt. Ha-urrumph."
     },
     {
-        "id": "bishop_rah",
+        "id": "homebrewbishop",
         "name": "Bishop",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/bishop_e.webp"
         ],
         "team": "traveller",
         "reminders": [
@@ -3504,13 +3504,13 @@
         "flavor": "In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."
     },
     {
-        "id": "voudon_rah",
+        "id": "homebrewvoudon",
         "name": "Voudon",
         "edition": "bmr",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon_g.webp",
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon_e.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/bmr/voudon_e.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -3518,11 +3518,11 @@
         "flavor": "Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."
     },
     {
-        "id": "zenomancer_rah",
+        "id": "homebrewzenomancer",
         "name": "Zenomancer",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/zenomancer.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/zenomancer.webp"
         ],
         "reminders": [
             "Goal",
@@ -3535,11 +3535,11 @@
         "flavor": "The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."
     },
     {
-        "id": "godofug_rah",
+        "id": "homebrewgodofug",
         "name": "God of Ug",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/godofug.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/godofug.webp"
         ],
         "team": "loric",
         "reminders": [
@@ -3561,11 +3561,11 @@
         ]
     },
     {
-        "id": "ventriloquist_rah",
+        "id": "homebrewventriloquist",
         "name": "Ventriloquist",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/ventriloquist.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/ventriloquist.webp"
         ],
         "reminders": [
             "Mad"
@@ -3576,11 +3576,11 @@
         "flavor": "Well, folks, gather ‘round! This here’s my pal Charlie, and he’s got a mouth on him that’d make a mule blush. But don’t worry folks, I do all the talkin’... or do I?"
     },
     {
-        "id": "gardener_rah",
+        "id": "homebrewgardener",
         "name": "Gardener",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/gardener.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/gardener.webp"
         ],
         "team": "loric",
         "setup": true,
@@ -3595,11 +3595,11 @@
         ]
     },
     {
-        "id": "hindu_rah",
+        "id": "homebrewhindu",
         "name": "Hindu",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/hindu.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/hindu.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3607,11 +3607,11 @@
         "flavor": "चत्वारो मृत्युमध्ये पतन्ति, चत्वारो यात्री पुनरुद्गताः। चत्वारो धर्मे स्थितचित्तवृत्तेः, चत्वार एषां न पुनः क्षयः॥"
     },
     {
-        "id": "pope_rah",
+        "id": "homebrewpope",
         "name": "Pope",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/pope.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/pope.webp"
         ],
         "team": "loric",
         "setup": true,
@@ -3629,11 +3629,11 @@
         ]
     },
     {
-        "id": "knaves_rah",
+        "id": "homebrewknaves",
         "name": "Knaves",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/knaves.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/knaves.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3641,11 +3641,11 @@
         "flavor": "Every wall is a door. Every meal is a feast."
     },
     {
-        "id": "tor_rah",
+        "id": "homebrewtor",
         "name": "Tor",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/tor.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/tor.webp"
         ],
         "team": "loric",
         "firstNight": 19,
@@ -3657,11 +3657,11 @@
         "flavor": "With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars, on the hilltop where heaven meets earth."
     },
     {
-        "id": "bootlegger_rah",
+        "id": "homebrewbootlegger",
         "name": "Bootlegger",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/bootlegger.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/bootlegger.webp"
         ],
         "team": "loric",
         "reminders": [
@@ -3673,11 +3673,11 @@
         "flavor": "When I was born, I was named ‘Homebrewy McHomebrewface’, like my father before me. A respectable name, for a dignified age."
     },
     {
-        "id": "stormcatcher_rah",
+        "id": "homebrewstormcatcher",
         "name": "Storm Catcher",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/stormcatcher.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/stormcatcher.webp"
         ],
         "team": "loric",
         "firstNight": 5,
@@ -3690,11 +3690,11 @@
         "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
     },
     {
-        "id": "bigwig_rah",
+        "id": "homebrewbigwig",
         "name": "Big Wig",
         "edition": "loric",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/loric/bigwig.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/loric/bigwig.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -3702,11 +3702,11 @@
         "flavor": "Vanity asks ‘Is it popular?’ Cowardice asks ‘Is it safe?’ Conscience asks ‘Is it right?’ Who among us will ask: ‘Is it true?’"
     },
     {
-        "id": "duchess_rah",
+        "id": "homebrewduchess",
         "name": "Duchess",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/duchess.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/duchess.webp"
         ],
         "team": "fabled",
         "otherNight": 2,
@@ -3721,11 +3721,11 @@
         "flavor": "We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."
     },
     {
-        "id": "fibbin_rah",
+        "id": "homebrewfibbin",
         "name": "Fibbin",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/fibbin.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/fibbin.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3736,11 +3736,11 @@
         "flavor": "Tee-hee-hee. Tee. Hee. Hee."
     },
     {
-        "id": "fiddler_rah",
+        "id": "homebrewfiddler",
         "name": "Fiddler",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/fiddler.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/fiddler.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3755,11 +3755,11 @@
         ]
     },
     {
-        "id": "ferryman_rah",
+        "id": "homebrewferryman",
         "name": "Ferryman",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/ferryman.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/ferryman.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3774,11 +3774,11 @@
         ]
     },
     {
-        "id": "doomsayer_rah",
+        "id": "homebrewdoomsayer",
         "name": "Doomsayer",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/doomsayer.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/doomsayer.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3786,11 +3786,11 @@
         "flavor": "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
     },
     {
-        "id": "spiritofivory_rah",
+        "id": "homebrewspiritofivory",
         "name": "Spirit of Ivory",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/spiritofivory.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/spiritofivory.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3801,11 +3801,11 @@
         "flavor": "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
     },
     {
-        "id": "sentinel_rah",
+        "id": "homebrewsentinel",
         "name": "Sentinel",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/sentinel.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/sentinel.webp"
         ],
         "team": "fabled",
         "setup": true,
@@ -3813,11 +3813,11 @@
         "flavor": "Name, please. Papers, please. Weapons, please."
     },
     {
-        "id": "toymaker_rah",
+        "id": "homebrewtoymaker",
         "name": "Toymaker",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/toymaker.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/toymaker.webp"
         ],
         "team": "fabled",
         "firstNight": 4,
@@ -3832,11 +3832,11 @@
         "flavor": "It buzzes! It walks down stairs! It keeps you warm at night! It tastes like sugar! The kiddies love it! Introducing... the brand new... Warm'o-buzzy-wuzzy-walk'a'bot-thingy-contraption! Fun for all ages!"
     },
     {
-        "id": "djinn_rah",
+        "id": "homebrewdjinn",
         "name": "Djinn",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/djinn.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/djinn.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -3844,11 +3844,11 @@
         "flavor": "نحن لسنا هنا. انت لست حقيقي. كل شيء هو وهم. أسئلتك هي جبل نار في يوم صافٍ."
     },
     {
-        "id": "buddhist_rah",
+        "id": "homebrewbuddhist",
         "name": "Buddhist",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/buddhist.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/buddhist.webp"
         ],
         "team": "fabled",
         "firstNight": 3,
@@ -3858,11 +3858,11 @@
         "flavor": "You throw thorns. Falling in my silence, they become flowers."
     },
     {
-        "id": "hellslibrarian_rah",
+        "id": "homebrewhellslibrarian",
         "name": "Hell's Librarian",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/hellslibrarian.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/hellslibrarian.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3873,11 +3873,11 @@
         "flavor": "Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."
     },
     {
-        "id": "angel_rah",
+        "id": "homebrewangel",
         "name": "Angel",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/angel.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/angel.webp"
         ],
         "team": "fabled",
         "firstNight": 2,
@@ -3892,11 +3892,11 @@
         "flavor": "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
     },
     {
-        "id": "deusexfiasco_rah",
+        "id": "homebrewdeusexfiasco",
         "name": "Deus ex Fiasco",
         "edition": "carousel",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/carousel/deusexfiasco.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/carousel/deusexfiasco.webp"
         ],
         "team": "fabled",
         "reminders": [
@@ -3907,11 +3907,11 @@
         "flavor": "It's not a bug, it's a feature. It's not an error, it's a tweak. It's not broken, it's quirky."
     },
     {
-        "id": "revolutionary_rah",
+        "id": "homebrewrevolutionary",
         "name": "Revolutionary",
         "edition": "fabled",
         "image": [
-            "https://raw.githubusercontent.com/thepandemoniuminstitute/botc-release/refs/heads/main/resources/characters/fabled/revolutionary.webp"
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/fabled/revolutionary.webp"
         ],
         "team": "fabled",
         "reminders": [

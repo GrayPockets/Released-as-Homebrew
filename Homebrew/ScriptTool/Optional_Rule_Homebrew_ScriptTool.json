@@ -14,12 +14,12 @@
         ]
     },
     {
-        "id": "poppygrower_oah",
+        "id": "homebrewoptionalrulepoppygrower",
         "name": "Poppy Grower*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/poppygrower_g-BeRDzj2D.webp",
-            "https://botc.app/assets/poppygrower_e-BPf4mjjt.webp"
+            "https://script.bloodontheclocktower.com/assets/poppygrower_g-BeRDzj2D.webp",
+            "https://script.bloodontheclocktower.com/assets/poppygrower_e-BPf4mjjt.webp"
         ],
         "team": "townsfolk",
         "firstNight": 16,
@@ -34,12 +34,12 @@
         "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
     },
     {
-        "id": "ogre_oah",
+        "id": "homebrewoptionalruleogre",
         "name": "Ogre*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/ogre_g-B3Q_ybOi.webp",
-            "https://botc.app/assets/ogre_e-k2lur_NF.webp"
+            "https://script.bloodontheclocktower.com/assets/ogre_g-B3Q_ybOi.webp",
+            "https://script.bloodontheclocktower.com/assets/ogre_e-k2lur_NF.webp"
         ],
         "team": "outsider",
         "firstNight": 73,
@@ -50,16 +50,16 @@
             "Friend"
         ],
         "setup": false,
-        "ability": "On your 1st night, choose a player (not yourself): you always have the same alignment as them (you don't know which) even if drunk or poisoned.",
+        "ability": "On your 1st night, choose a player (not yourself): you are their alignment (you don't know which) even if drunk or poisoned.",
         "flavor": "<grunt><grin></grunt>"
     },
     {
-        "id": "hatter_oah",
+        "id": "homebrewoptionalrulehatter",
         "name": "Hatter*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/hatter_g-16CFZpfo.webp",
-            "https://botc.app/assets/hatter_e-BMVaOuLf.webp"
+            "https://script.bloodontheclocktower.com/assets/hatter_g-16CFZpfo.webp",
+            "https://script.bloodontheclocktower.com/assets/hatter_e-BMVaOuLf.webp"
         ],
         "team": "outsider",
         "otherNight": 59,
@@ -72,12 +72,12 @@
         "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
     },
     {
-        "id": "pithag_oah",
+        "id": "homebrewoptionalrulepithag",
         "name": "Pit-Hag*",
         "edition": "snv",
         "image": [
-            "https://botc.app/assets/pithag_e-C9pUiUjt.webp",
-            "https://botc.app/assets/pithag_g-BJqrMoq3.webp"
+            "https://script.bloodontheclocktower.com/assets/pithag_e-C9pUiUjt.webp",
+            "https://script.bloodontheclocktower.com/assets/pithag_g-BJqrMoq3.webp"
         ],
         "team": "minion",
         "otherNight": 29,
@@ -113,12 +113,12 @@
         ]
     },
     {
-        "id": "wraith_oah",
+        "id": "homebrewoptionalrulewraith",
         "name": "Wraith*",
         "edition": "carousel",
         "image": [
-            "https://botc.app/assets/wraith_e-CRfpOd4V.webp",
-            "https://botc.app/assets/wraith_g-DDErJKaT.webp"
+            "https://script.bloodontheclocktower.com/assets/wraith_e-CRfpOd4V.webp",
+            "https://script.bloodontheclocktower.com/assets/wraith_g-DDErJKaT.webp"
         ],
         "team": "minion",
         "reminders": [
@@ -141,11 +141,11 @@
         ]
     },
     {
-        "id": "hindu_oah",
+        "id": "homebrewoptionalrulehindu",
         "name": "Hindu*",
         "edition": "loric",
         "image": [
-            "https://botc.app/assets/hindu-B0td_trJ.webp"
+            "https://script.bloodontheclocktower.com/assets/hindu-B0td_trJ.webp"
         ],
         "team": "loric",
         "setup": false,

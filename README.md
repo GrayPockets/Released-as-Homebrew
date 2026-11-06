@@ -1,56 +1,70 @@
 # Released as Homebrew
+Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
 
 ![Community Created Content](Display/ccc-sleeve.png)
 
-![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.57.1-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.58.0-8A2BE2)
 
 ## Description
-Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
-
-This is a reference for homebrew script builders to learn from examples in order to make their own characters. In some instances, it can be useful to make changes to released characters such as adding homebrew jinxes, allowing duplicates tokens, putting in extra reminder tokens, or other changes that might match a Bootlegger rule.
-
-The SAO order of characters is sourced from the Blood on the CLocktower Script Tool.
+These resources serve as a reference for script builders to learn from examples in order to make their own homebrew characters. This reference can be useful to modify released characters in order to add homebrew jinxes, allow duplicates tokens, add additional reminder tokens, or automate a a Bootlegger rule.
 
 ### Other Homebrew Resources
 * [BOTC Repository](https://github.com/ThePandemoniumInstitute/botc-release)
 * [Community Resources](https://release.botc.app/resources/)
 
-## Released as Homebrew JSON
+## Released as Homebrew
+To use a recreated character, edit a script JSON file and paste in a character from one of the homebrew JSON files.
 
-To use a recreated character, edit a script JSON file and paste in a character from one of the Homebrew JSON files.
+> [!IMPORTANT] Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a descriptive id is utilized.
 
-:warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a "_rah" tag is appended to each character id.
+> [!IMPORTANT] Jinxes on these recreated characters use the original ids. The purpose is for each character to be able to be placed on a script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the descriptive id will need to be utilized within the jinx.
 
-:warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
+### JSONs
+* Released: All homebrew released characters.
+* Trouble Brewing, Bad Moon Rising, Sects & Violets: Quick reference to base script characters.
+* Optional Rules: Characters recreated with optional rules.
+* Special: Generic characters and night order entry
+* Secret: April Fools.
+  * Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Loric.
 
 ### By Image Source
-* [botc.app](Homebrew/Released_Homebrew.json) :warning:
-* [script.bloodontheclocktower.com](Homebrew/Released_ScriptTool_Homebrew)
-* [release.botc.app](Homebrew/Released_Resources_Homebrew)
-* [github.com/ThePandemoniumInstitute/botc-release](Homebrew/Released_Source_Homebrew)
+* :speech_balloon: [release.botc.app](Homebrew/CommunityResource)
+* :warning: [botc.app](Homebrew/OfficialApp)
+* [script.bloodontheclocktower.com](Homebrew/ScriptTool)
+* [github.com/ThePandemoniumInstitute/botc-release](Homebrew/GitHub)
+
+> [!IMPORTANT]
+> TPI prefers the community to use Community Resource image urls.
 
 > [!WARNING]
-> Images from botc.app do not display when using the **Export PNG** function of the [Script Tool](https://script.bloodontheclocktower.com/).
+> Images from botc.app do not display when using the **Export PDF** or **Export PNG** functions of the [Script Tool](https://script.bloodontheclocktower.com/).
 
-### [Optional Rules Baked In](Optional)
-
-### [Original Character JSON](Original/Released.json)
-Original full character list and released scripts are included for reference.
+## Additional References
 
 ### [Downloaded App Files](Downloaded)
-Files downloaded directly from the online app are included for reference. 
+Files downloaded directly from the online app. 
+
+### [Original JSONs](Original)
+Original full character list and released scripts.
 
 ### [Grognard Character JSONs](Grognard)
-These are older versions of characters included for grognards. The dates of Grognard versions are tagged on the date they were replaced and only sourced from the Blood on the Clocktower Wiki. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric along with them.
+These are older versions of characters for grognards. The dates of Grognard character versions are tagged on the date they were replaced.
 
-### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
-These characters have been announced but not released. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Loric along with them.
+Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Loric.
 
-### [Special Character JSON](Homebrew/Special_Homebrew.json)
-These characters cannot be modeled properly due to app code restrictions or automatic duplication.
+> [!NOTE]
+> Old character abilities are sourced from the Blood on the Clocktower Official App and Wiki.
 
 ## Night Order Reference
-The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference. You can also find Night Order Reference as PDF with both numerical and alphabetical listings [here](Night%20Order.pdf).
+The official night order of released characters is useful to add a homebrew character without needing a manually specify night order.
+
+> [!WARNING]
+> The night order of released scripts have custom night orders; they were created before the official night order and have reasons for their choices.
+
+> [!NOTE]
+> Sourced from the Blood on the Clocktower Script Tool.
+
+ [Night Order Reference as PDF](Night%20Order.pdf).
 
 ### First Night Order
 * 1 - $${\color{black}Dusk}$$

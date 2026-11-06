@@ -1,0 +1,98 @@
+[
+    {
+        "id": "_meta",
+        "name": "Special as Homebrew",
+        "author": "GrayPockets",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "homebrewspecialtownsfolk",
+        "name": "Townsfolk",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/townsfolk_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/townsfolk_e.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "You are a Townsfolk.",
+        "flavor": "I am a good Townfolk."
+    },
+    {
+        "id": "homebrewspecialoutsider",
+        "name": "Outsider",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/outsider_g.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/outsider_e.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "You are an Outsider.",
+        "flavor": "I am confirmed by Outsider count."
+    },
+    {
+        "id": "homebrewspecialminion",
+        "name": "Minion",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/minion_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/minion_g.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "You are an Minion.",
+        "flavor": "I am confirmed by Outsider count."
+    },
+    {
+        "id": "homebrewspecialdemon",
+        "name": "Demon",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/demon_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/demon_g.webp"
+        ],
+        "team": "demon",
+        "setup": false,
+        "ability": "You are the Demon.",
+        "flavor": "I am a good Townfolk."
+    },
+    {
+        "id": "homebrewspecialtraveller",
+        "name": "Traveller",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/traveller.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/traveller_e.webp",
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/traveller_g.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "You are a Traveller.",
+        "flavor": "I am not staying long."
+    },
+    {
+        "id": "homebrewspecialloric",
+        "name": "Loric",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/loric.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "The game is changed in a creative way.",
+        "flavor": "Let's shake things up."
+    },
+    {
+        "id": "homebrewspecialfabled",
+        "name": "Fabled",
+        "edition": "special",
+        "image": [
+            "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/refs/heads/main/resources/characters/generic/fabled.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "The Storyteller has a tool to make the game smooth.",
+        "flavor": "A Fabled is in play."
+    }
+]

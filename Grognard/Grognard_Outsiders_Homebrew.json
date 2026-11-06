@@ -6,7 +6,7 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "butler_gah_20241206",
+        "id": "grognardbutler20241206",
         "name": "Butler",
         "edition": "tb",
         "image": [
@@ -26,7 +26,7 @@
         "flavor": "Yes, sir... No, sir... Certainly, sir."
     },
     {
-        "id": "butler_gah_20240725",
+        "id": "grognardbutler20240725",
         "name": "Butler",
         "edition": "tb",
         "image": [
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "id": "butler_gah_20240515",
+        "id": "grognardbutler20240515",
         "name": "Butler",
         "edition": "tb",
         "image": [
@@ -72,7 +72,7 @@
         "flavor": "Yes, sir... No, sir... Certainly, sir."
     },
     {
-        "id": "ogre_gah_20251118",
+        "id": "grognardogre20251118",
         "name": "Ogre",
         "edition": "carousel",
         "image": [
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "id": "ogre_gah_20240523",
+        "id": "grognardogre20240523",
         "name": "Ogre",
         "edition": "carousel",
         "image": [
@@ -114,7 +114,7 @@
         "flavor": "<grunt><grin></grunt>"
     },
     {
-        "id": "lunatic_gah_20241206",
+        "id": "grognardlunatic20241206",
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "id": "lunatic_gah_20240428",
+        "id": "grognardlunatic20240428",
         "name": "Lunatic",
         "edition": "bmr",
         "image": [
@@ -164,7 +164,7 @@
         "flavor": "I am the night... I think."
     },
     {
-        "id": "recluse_gah_20251118",
+        "id": "grognardrecluse20251118",
         "name": "Recluse",
         "edition": "tb",
         "image": [
@@ -177,7 +177,7 @@
         "flavor": "Garn git ya darn grub ya mitts ofma lorn yasee. Grr. Natsy pikkins yonder southwise ye begittin afta ya! Git! Me harvy no so widda licks and demmons no be fightin' hadsup ne'er ma kin. Git, assay!"
     },
     {
-        "id": "plaguedoctor_gah_20251118",
+        "id": "grognardplaguedoctor20251118",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah_20250709",
+        "id": "grognardplaguedoctor20250709",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah_20241206",
+        "id": "grognardplaguedoctor20241206",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -303,7 +303,7 @@
         "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
     },
     {
-        "id": "plaguedoctor_gah_20241110",
+        "id": "grognardplaguedoctor20241110",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -321,7 +321,7 @@
         "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
     },
     {
-        "id": "plaguedoctor_gah_20240627",
+        "id": "grognardplaguedoctor20240627",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -339,7 +339,7 @@
         "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
     },
     {
-        "id": "plaguedoctor_gah_20240515",
+        "id": "grognardplaguedoctor20240515",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah_20240125",
+        "id": "grognardplaguedoctor20240125",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -443,7 +443,7 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah_20230829",
+        "id": "grognardplaguedoctor20230829",
         "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
@@ -461,7 +461,7 @@
         "flavor": "Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."
     },
     {
-        "id": "acrobat_gah_20241018",
+        "id": "grognardacrobat20241018",
         "name": "Acrobat",
         "edition": "carousel",
         "image": [
@@ -479,7 +479,7 @@
         "flavor": "Ladies and gentlemen, hold fast to your hats, for I shall defy the very laws of gravity and dance upon the air, a marvel of agility and daring, all for your delight and wonder!"
     },
     {
-        "id": "damsel_gah_20241110",
+        "id": "grognarddamsel20241110",
         "name": "Damsel",
         "edition": "carousel",
         "image": [
@@ -499,7 +499,7 @@
         "flavor": "Don't touch the hair, honey."
     },
     {
-        "id": "snitch_gah_20241110",
+        "id": "grognardsnitch20241110",
         "name": "Snitch",
         "edition": "carousel",
         "image": [
@@ -514,7 +514,7 @@
         "flavor": "It was John."
     },
     {
-        "id": "heretic_gah_20251103",
+        "id": "grognardheretic20251103",
         "name": "Heretic",
         "edition": "carousel",
         "image": [
@@ -557,7 +557,7 @@
         ]
     },
     {
-        "id": "heretic_gah_20241206",
+        "id": "grognardheretic20241206",
         "name": "Heretic",
         "edition": "carousel",
         "image": [

@@ -5,4 +5,4 @@
 * rolldown_runtime.js
 * sentry.js
 * vendor.js
-* vue.js
+* vue-core.js

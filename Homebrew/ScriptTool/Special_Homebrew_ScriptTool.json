@@ -6,12 +6,11 @@
         "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
     },
     {
-        "id": "townsfolk_sah",
+        "id": "homebrewspecialtownsfolk",
         "name": "Townsfolk",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/townsfolk_g-CKaS3yKc.webp",
-            "https://botc.app/assets/townsfolk_e-CHxn-dgu.webp"
+            "https://script.bloodontheclocktower.com/assets/townsfolk-ORkWRs1C.webp"
         ],
         "team": "townsfolk",
         "setup": false,
@@ -19,12 +18,11 @@
         "flavor": "I am a good Townfolk."
     },
     {
-        "id": "outsider_sah",
+        "id": "homebrewspecialoutsider",
         "name": "Outsider",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/outsider_g-BzhBt4on.webp",
-            "https://botc.app/assets/outsider_e-CgWWsKPC.webp"
+            "https://script.bloodontheclocktower.com/assets/outsider-C1dt9eBb.webp"
         ],
         "team": "outsider",
         "setup": false,
@@ -32,12 +30,11 @@
         "flavor": "I am confirmed by Outsider count."
     },
     {
-        "id": "minion_sah",
+        "id": "homebrewspecialminion",
         "name": "Minion",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/minion_e-lDFo-tEX.webp",
-            "https://botc.app/assets/minion_g-Cgm5WnSR.webp"
+            "https://script.bloodontheclocktower.com/assets/minion-Dofpy1Vv.webp"
         ],
         "team": "minion",
         "setup": false,
@@ -45,12 +42,11 @@
         "flavor": "I am confirmed by Outsider count."
     },
     {
-        "id": "demon_sah",
+        "id": "homebrewspecialdemon",
         "name": "Demon",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/demon_e-BE73nmRM.webp",
-            "https://botc.app/assets/demon_g-CSs6ZD66.webp"
+            "https://script.bloodontheclocktower.com/assets/demon-D1QVNMGU.webp"
         ],
         "team": "demon",
         "setup": false,
@@ -58,13 +54,11 @@
         "flavor": "I am a good Townfolk."
     },
     {
-        "id": "traveller_sah",
+        "id": "homebrewspecialtraveller",
         "name": "Traveller",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/traveller-CmR1gFU-.webp",
-            "https://botc.app/assets/traveller_e-ezMTv16C.webp",
-            "https://botc.app/assets/traveller_g-BNxDoGo0.webp"
+            "https://script.bloodontheclocktower.com/assets/traveller-ZEH7q3Il.webp"
         ],
         "team": "traveller",
         "setup": false,
@@ -72,11 +66,11 @@
         "flavor": "I am not staying long."
     },
     {
-        "id": "loric_sah",
+        "id": "homebrewspecialloric",
         "name": "Loric",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/loric-DAp9AMZR.webp"
+            "https://script.bloodontheclocktower.com/assets/loric-DAp9AMZR.webp"
         ],
         "team": "loric",
         "setup": false,
@@ -84,11 +78,11 @@
         "flavor": "Let's shake things up."
     },
     {
-        "id": "fabled_sah",
+        "id": "homebrewspecialfabled",
         "name": "Fabled",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/fabled-WyWuPk8w.webp"
+            "https://script.bloodontheclocktower.com/assets/fabled-DjjQxdhc.webp"
         ],
         "team": "fabled",
         "setup": false,
@@ -96,11 +90,11 @@
         "flavor": "A Fabled is in play."
     },
     {
-        "id": "dusk_sah",
+        "id": "homebrewspecialdusk",
         "name": "Dusk",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/dusk-CLdDXnQC.webp"
+            "https://script.bloodontheclocktower.com/assets/dusk-CLdDXnQC.webp"
         ],
         "team": "fabled",
         "firstNight": 1,
@@ -111,11 +105,11 @@
         "ability": "Starts the Night Phase."
     },
     {
-        "id": "minioninfo_sah",
+        "id": "homebrewspecialminioninfo",
         "name": "Minion Info",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/minion-info-5qfuy8Qq.webp"
+            "https://script.bloodontheclocktower.com/assets/minioninfo-5qfuy8Qq.webp"
         ],
         "team": "fabled",
         "firstNight": 20,
@@ -124,11 +118,11 @@
         "ability": "Display Minion information."
     },
     {
-        "id": "demoninfo_sah",
+        "id": "homebrewspecialdemoninfo",
         "name": "Demon Info",
         "edition": "special",
         "image": [
-            "https://botc.app/assets/demon-info-B8oHUaMT.webp"
+            "https://script.bloodontheclocktower.com/assets/demoninfo-B8oHUaMT.webp"
         ],
         "team": "fabled",
         "firstNight": 24,
@@ -137,7 +131,7 @@
         "ability": "Display Demon information."
     },
     {
-        "id": "dawn_sah",
+        "id": "homebrewspecialdawn",
         "name": "Dawn",
         "edition": "special",
         "image": [
